@@ -34,7 +34,7 @@ const faqs = [
   },
   {
     q: "Are the prices real and bookable?",
-    a: "Yes. The planner prices from contracted seasonal rate cards, and a travel expert confirms live availability before you pay. Flights are searched across 400+ airlines and 6,00,000+ hotels at booking time. The quote you approve is the amount you pay: taxes, transfers, tips and visa fees included.",
+    a: "Yes. The planner uses contracted seasonal rate cards, with a travel expert confirming live availability before you pay. Flights are searched across 300+ airlines and hotels across 600,000+ properties at booking time. Your approved quote is the amount you pay, with taxes, transfers, tips, and visa fees included. Activities and transfers are intelligently optimized around your route, timings, and location, while the itinerary can be customized to suit your preferences. You also get expert-checked planning and support if your plans change.",
   },
   {
     q: "What does 99.7% visa approval actually mean?",
@@ -50,7 +50,7 @@ const faqs = [
   },
   {
     q: "Is Zuumm free to use?",
-    a: "Building and viewing your trip plan is completely free, with no sign-up needed. You only pay when you book, and signup exists so your plans are saved, never as a gate in front of a price.",
+    a: "Yes, it's completely free to use. Signing up lets you save and revisit your trips, personalize recommendations, keep your travel history, bookmark favourites, and pick up where you left off. Your profile also helps ZUUMM make your travel experience more relevant over time.",
   },
 ];
 
