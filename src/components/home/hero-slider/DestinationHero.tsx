@@ -293,7 +293,7 @@ export default function DestinationHero() {
                 onClick={() => track("hero_plan_cta", { destination: active.slug })}
                 className="grad-bg inline-flex min-h-11 items-center gap-2 rounded-full px-7 py-3.5 text-[0.95rem] font-bold text-white shadow-[0_18px_50px_-18px_rgba(255,59,92,0.6)] transition-transform hover:scale-[1.04] active:scale-[0.98]"
               >
-                Build this trip
+                Build my trip
                 <ArrowRight size={17} />
               </a>
               <a
