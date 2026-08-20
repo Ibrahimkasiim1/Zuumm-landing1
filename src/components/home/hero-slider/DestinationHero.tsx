@@ -256,7 +256,13 @@ export default function DestinationHero() {
                   transition={
                     reduce ? { duration: 0 } : { duration: 0.62, ease: EASE, delay: 0.08 }
                   }
-                  className="whitespace-nowrap font-display text-[clamp(3rem,5.6vw,5.4rem)] font-extrabold uppercase leading-[0.95] tracking-tight text-white [text-shadow:0_2px_32px_rgba(13,10,21,0.7)]"
+                  className={`whitespace-nowrap font-display font-extrabold uppercase leading-[0.95] tracking-tight text-white [text-shadow:0_2px_32px_rgba(13,10,21,0.7)] ${
+                    /* long names (SINGAPORE, MAURITIUS) step down a size
+                       so they never run under the deck */
+                    active.city.length > 8
+                      ? "text-[clamp(2.6rem,4.6vw,4.5rem)]"
+                      : "text-[clamp(3rem,5.6vw,5.4rem)]"
+                  }`}
                 >
                   {active.city}
                 </motion.h1>
