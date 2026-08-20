@@ -146,7 +146,7 @@ export const HERO_DESTINATIONS: HeroDestination[] = [
   {
     slug: "sri-lanka",
     name: "Sri Lanka",
-    city: "Ella",
+    city: "Sri Lanka",
     country: "Sri Lanka",
     cardLabel: "Nine Arches Bridge, Ella",
     blurb:
