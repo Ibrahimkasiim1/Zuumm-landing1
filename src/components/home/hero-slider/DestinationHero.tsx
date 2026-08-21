@@ -240,7 +240,7 @@ export default function DestinationHero() {
               per slide and the deck jumps. */}
           <div aria-live="polite" className="relative z-[1] min-w-0">
             {/* the promise sentence: fixed frame, rolling middle */}
-            <p className="font-display text-lg font-medium text-white/95 [text-shadow:0_1px_16px_rgba(13,10,21,0.7)] md:text-xl">
+            <p className="font-display text-base font-medium text-white/95 [text-shadow:0_1px_16px_rgba(13,10,21,0.7)] md:text-xl">
               Your dream vacation to
             </p>
 
@@ -260,8 +260,8 @@ export default function DestinationHero() {
                     /* long names (SINGAPORE, MAURITIUS) step down a size
                        so they never run under the deck */
                     active.city.length > 8
-                      ? "text-[clamp(2.6rem,4.6vw,4.5rem)]"
-                      : "text-[clamp(3rem,5.6vw,5.4rem)]"
+                      ? "text-[clamp(2.2rem,4.6vw,4.5rem)]"
+                      : "text-[clamp(2.5rem,5.6vw,5.4rem)]"
                   }`}
                 >
                   {active.city}
@@ -269,7 +269,7 @@ export default function DestinationHero() {
               </AnimatePresence>
             </div>
 
-            <p className="font-display text-lg font-medium text-white/95 [text-shadow:0_1px_16px_rgba(13,10,21,0.7)] md:text-xl">
+            <p className="font-display text-base font-medium text-white/95 [text-shadow:0_1px_16px_rgba(13,10,21,0.7)] md:text-xl">
               — planned, priced and booked.
             </p>
 
