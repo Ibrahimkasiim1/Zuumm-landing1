@@ -470,7 +470,7 @@ export default function WhyPillars() {
           <Tile
             span="lg:col-span-5"
             tag="vetting"
-            wash="bg-[linear-gradient(135deg,#ffffff_55%,#ffedf0_140%)]"
+            wash="bg-[linear-gradient(135deg,#f2eff8_55%,#ffe4e9_140%)]"
             watermark="DPS"
             title="Only handpicked, rated hotels & activities."
             line="Every stay and experience is vetted and rated before the engine can price it — the rest never make the list."
@@ -480,7 +480,7 @@ export default function WhyPillars() {
           <Tile
             span="lg:col-span-5"
             tag="quote"
-            wash="bg-[linear-gradient(135deg,#ffffff_55%,rgba(15,163,107,0.1)_140%)]"
+            wash="bg-[linear-gradient(135deg,#f2eff8_55%,rgba(15,163,107,0.14)_140%)]"
             title="One price. Zero surprises."
             line="The only ones to show the full split — flights, hotels, activities, transfers, visa, taxes — itemised before you pay."
           >
