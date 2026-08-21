@@ -7,22 +7,20 @@ import { ArrowRight, Search } from "@/components/Icons";
 import { wizardHref } from "@/lib/planner/openPlanner";
 import { track } from "@/lib/analytics";
 
-/* Section: "Where next?" — the open-ended door under the hero.
+/* The closing section — the page's last ask, and its biggest.
 
-   One giant centered question, a one-line promise of what the platform
-   does with the answer, and a search-style pill that takes the dream trip
-   described in the visitor's own words (handed to /chat?q=, the AI
-   planner). Below it, a quiet second door into the guided trip wizard.
-   Loose clusters of rounded photo tiles float on either side — reusing
-   the hero's destination photography, desktop only. */
+   By the time a visitor reaches this band they've watched the systems run:
+   promises demoed, real trips confirmed, prices itemised. The finale hands
+   them the microphone. One warm, open stage (the floating photo mosaics —
+   the wider world Zuumm plans for), the closer's peak-end headline, and the
+   brief input as the primary act: describe the trip in your own words, see
+   it priced. The two guided doors sit beneath as equal-weight alternatives,
+   and the honesty footnote signs the page off.
 
-/* The side mosaics — the wider world Zuumm plans for, deliberately none of
-   the five destinations the hero already shows. Sources are 1200×1600 so
-   the tiles stay crisp on retina; lg+ only.
-
-   Positions are inline styles (not arbitrary Tailwind classes) so they can
-   never be dropped by the JIT scan, and each side runs two vertical lanes —
-   an outer and an inner — with tops spaced further apart than any tile is
+   The side mosaics are 1200×1600 sources so the tiles stay crisp on
+   retina; lg+ only. Positions are inline styles (not arbitrary Tailwind
+   classes) so they can never be dropped by the JIT scan, and each side
+   runs two vertical lanes with tops spaced further apart than any tile is
    tall, so tiles cannot overlap at any section height. */
 const TILES: { style: React.CSSProperties; size: string; src: string }[] = [
   /* left, outer lane */
@@ -51,9 +49,16 @@ export default function BriefBand() {
 
   return (
     <section
-      className="relative overflow-hidden py-20 md:py-28"
-      aria-label="Search any destination"
+      className="relative overflow-hidden py-24 md:py-32"
+      aria-label="Plan your next trip"
     >
+      {/* the send-off warmth: the closer card's sunset washes, now the
+          whole stage's atmosphere */}
+      <div
+        aria-hidden
+        className="pointer-events-none absolute inset-0 bg-[radial-gradient(42%_55%_at_12%_18%,rgba(255,174,26,0.14),transparent_70%),radial-gradient(40%_55%_at_88%_78%,rgba(255,59,92,0.1),transparent_70%)]"
+      />
+
       {/* floating photo tiles — full-strength photography, no wash over it */}
       <div aria-hidden className="pointer-events-none absolute inset-0 hidden lg:block">
         {TILES.map((t) => (
@@ -76,50 +81,62 @@ export default function BriefBand() {
 
       <div className="container-x relative">
         <Reveal>
-          <div className="mx-auto max-w-2xl text-center">
-            <h2 className="display text-5xl text-ink md:text-[4.2rem]">
-              Describe your trip.
+          <div className="mx-auto max-w-3xl text-center">
+            <h2 className="display text-4xl text-ink md:text-[3.6rem]">
+              Your next trip is a few answers away.
             </h2>
-            <p className="mx-auto mt-4 max-w-xl text-lg text-ink-2">
-              See it priced in seconds — anywhere in the world, in your own
-              words, ready to book.
+            <p className="mx-auto mt-5 max-w-2xl text-lg leading-relaxed text-ink-2">
+              Describe it in your own words and see it priced in seconds —
+              from real rates, watched by real humans from pickup to
+              touchdown.
             </p>
 
-            <form onSubmit={submit} className="mt-8">
+            <form onSubmit={submit} className="mx-auto mt-9 max-w-2xl">
               <label htmlFor="brief-band-input" className="sr-only">
-                Search a destination or describe your trip
+                Describe your trip
               </label>
-              <div className="flex items-center gap-3 rounded-full border border-line bg-white py-2 pl-5 pr-2 shadow-[0_18px_60px_-24px_rgba(22,18,31,0.18)] transition-shadow focus-within:ring-2 focus-within:ring-coral/35">
-                <Search size={18} className="shrink-0 text-ink-3" />
+              <div className="flex items-center gap-3 rounded-full border border-line bg-white py-2.5 pl-6 pr-2.5 shadow-[0_24px_70px_-28px_rgba(22,18,31,0.25)] transition-shadow focus-within:ring-2 focus-within:ring-coral/35">
+                <Search size={20} className="shrink-0 text-ink-3" />
                 <input
                   id="brief-band-input"
                   type="text"
                   value={brief}
                   onChange={(e) => setBrief(e.target.value)}
                   placeholder="Bali, 6 nights, couple, under ₹50k/person…"
-                  className="min-w-0 flex-1 bg-transparent text-[0.95rem] text-ink outline-none placeholder:text-ink-3"
+                  className="min-w-0 flex-1 bg-transparent text-base text-ink outline-none placeholder:text-ink-3 md:text-[1.05rem]"
                 />
                 <button
                   type="submit"
-                  className="flex h-10 shrink-0 items-center gap-1.5 rounded-full bg-coral px-5 text-[0.9rem] font-bold text-white shadow-[0_10px_28px_-12px_rgba(255,59,92,0.6)] transition-transform hover:scale-[1.04] active:scale-[0.96]"
+                  className="flex h-12 shrink-0 items-center gap-2 rounded-full bg-coral px-6 text-[0.98rem] font-bold text-white shadow-[0_14px_40px_-14px_rgba(255,59,92,0.6)] transition-transform hover:scale-[1.04] active:scale-[0.96]"
                 >
                   See it priced
-                  <ArrowRight size={15} />
+                  <ArrowRight size={16} />
                 </button>
               </div>
             </form>
 
-            {/* the hands-on door, for people who'd rather answer questions */}
-            <div className="mt-6">
+            {/* the two guided doors, equal weight under the open mic */}
+            <div className="mt-7 flex flex-wrap items-center justify-center gap-3">
               <a
                 href={wizardHref()}
                 onClick={() => track("brief_band_wizard")}
-                className="inline-flex min-h-11 items-center gap-2 rounded-full border border-line bg-white px-6 py-3 text-[0.92rem] font-semibold text-ink-2 transition-all hover:border-ink-3 hover:text-ink"
+                className="inline-flex items-center gap-2 rounded-full bg-ink px-8 py-4 text-[1.02rem] font-bold text-white shadow-[0_18px_44px_-18px_rgba(22,18,31,0.55)] transition-transform hover:scale-[1.03] active:scale-[0.98]"
               >
-                Answer 3 quick questions instead
-                <ArrowRight size={15} />
+                Plan it myself
+                <ArrowRight size={17} />
+              </a>
+              <a
+                href="#"
+                onClick={() => track("brief_band_ai")}
+                className="inline-flex items-center gap-2 rounded-full border border-line bg-white px-8 py-4 text-[1.02rem] font-bold text-ink-2 transition-all hover:scale-[1.03] hover:border-ink-3 hover:text-ink active:scale-[0.98]"
+              >
+                Plan it with AI
               </a>
             </div>
+
+            <p className="mt-5 font-mono text-[0.68rem] uppercase tracking-[0.16em] text-ink-3">
+              Free to plan · no sign-up · priced from real rates
+            </p>
           </div>
         </Reveal>
       </div>

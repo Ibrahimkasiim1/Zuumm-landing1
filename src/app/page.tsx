@@ -8,7 +8,6 @@ import TrendingSearches from "@/components/home/TrendingSearches";
 import DoorsBand from "@/components/DoorsBand";
 import FAQ from "@/components/FAQ";
 import { Reveal } from "@/components/Reveal";
-import { ArrowRight } from "@/components/Icons";
 
 export const metadata: Metadata = {
   title: "Zuumm: Your trip, built to spec. Planned, priced and tracked.",
@@ -23,9 +22,9 @@ export const metadata: Metadata = {
    filled in. Everything after it is the machinery working on white paper.
    Section order tells that story:
 
-     hero (pick a place) → the numbers → where next (search anywhere)
-     → why (four promises, each demoed) → proof (travelled & loved)
-     → demand (trending searches) → other doors → FAQ → close.            */
+     hero (pick a place) → the numbers → why (four promises, each
+     demoed) → proof (travelled & loved) → demand (trending searches)
+     → other doors → FAQ → close (describe it, or take a guided door).  */
 
 const faqs = [
   {
@@ -79,22 +78,19 @@ export default function Home() {
       {/* 02 · proof strip: the numbers Zuumm runs on, right off the hero */}
       <MetricsBand />
 
-      {/* 03 · the second door: describe the trip in one line instead */}
-      <BriefBand />
-
-      {/* 04 · why: four promises, each demonstrated */}
+      {/* 03 · why: four promises, each demonstrated */}
       <WhyPillars />
 
-      {/* 05 · proof: real trips confirmed this week */}
+      {/* 04 · proof: real trips confirmed this week */}
       <RecentlyBooked />
 
-      {/* 06 · demand: what India is searching */}
+      {/* 05 · demand: what India is searching */}
       <TrendingSearches />
 
-      {/* 07 · other doors: visas solo, partners, corporate */}
+      {/* 06 · other doors: visas solo, partners, corporate */}
       <DoorsBand />
 
-      {/* 08 · FAQ — the white sheet is a paper object on the deck */}
+      {/* 07 · FAQ — the white sheet is a paper object on the deck */}
       <section className="container-x pb-24 pt-8" id="faq">
         <Reveal>
           <h2 className="display text-center text-3xl text-ink md:text-[2.5rem]">
@@ -106,48 +102,9 @@ export default function Home() {
         </div>
       </section>
 
-      {/* 09 · close */}
-      <section className="container-x pb-24">
-        <Reveal>
-          {/* the closer sits on the same paper as the rest of the page:
-              a white card with a soft sunset wash, coral only on the CTA */}
-          <div className="relative overflow-hidden rounded-[2.5rem] border border-line bg-white px-8 py-16 text-center shadow-[0_28px_80px_-48px_rgba(22,18,31,0.3)] md:py-20">
-            <div
-              aria-hidden
-              className="pointer-events-none absolute -left-28 -top-28 h-96 w-96 rounded-full bg-sun/15 blur-3xl"
-            />
-            <div
-              aria-hidden
-              className="pointer-events-none absolute -bottom-32 -right-28 h-96 w-96 rounded-full bg-coral/10 blur-3xl"
-            />
-            <div className="relative">
-              <h2 className="display mx-auto max-w-2xl text-3xl text-ink md:text-[2.8rem]">
-                Your next trip is a few answers away.
-              </h2>
-              <p className="mx-auto mt-4 max-w-xl text-lg text-ink-2">
-                Free to plan, priced from real rates, watched by real humans
-                from pickup to touchdown.
-              </p>
-              {/* both doors into the planner: hands-on, or AI-led */}
-              <div className="mt-8 flex flex-wrap items-center justify-center gap-3">
-                <a
-                  href="#"
-                  className="inline-flex items-center gap-2 rounded-full bg-coral px-8 py-4 text-lg font-bold text-white shadow-[0_18px_50px_-18px_rgba(255,59,92,0.6)] transition-transform hover:scale-[1.04] active:scale-[0.98]"
-                >
-                  Plan it myself
-                  <ArrowRight size={18} />
-                </a>
-                <a
-                  href="#"
-                  className="inline-flex items-center gap-2 rounded-full border border-line bg-white px-8 py-4 text-lg font-bold text-ink-2 transition-all hover:scale-[1.04] hover:border-ink-3 hover:text-ink active:scale-[0.98]"
-                >
-                  Plan it with AI
-                </a>
-              </div>
-            </div>
-          </div>
-        </Reveal>
-      </section>
+      {/* 08 · close: the last ask — describe it in your own words, or
+          take a guided door. BriefBand is the merged finale. */}
+      <BriefBand />
     </div>
   );
 }
