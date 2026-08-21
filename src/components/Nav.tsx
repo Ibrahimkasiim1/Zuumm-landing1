@@ -124,7 +124,7 @@ export default function Nav() {
               href={wizardHref()}
               className="inline-flex items-center gap-1.5 rounded-full bg-coral px-5 py-2.5 text-[0.9rem] font-bold text-white shadow-[0_14px_40px_-18px_rgba(255,59,92,0.55)] transition-transform duration-200 ease-out hover:scale-[1.04] active:scale-[0.97]"
             >
-              Start planning
+              Plan my trip
             </a>
           </div>
 
@@ -184,7 +184,7 @@ export default function Nav() {
                 href={wizardHref()}
                 className="mt-4 block rounded-full bg-coral px-5 py-3 text-center font-bold text-white shadow-[0_14px_40px_-18px_rgba(255,59,92,0.55)]"
               >
-                Start planning
+                Plan my trip
               </a>
               <div className="flex items-center gap-3 pt-3">
                 <a

@@ -134,14 +134,14 @@ export default function Home() {
                   href="#"
                   className="inline-flex items-center gap-2 rounded-full bg-coral px-8 py-4 text-lg font-bold text-white shadow-[0_18px_50px_-18px_rgba(255,59,92,0.6)] transition-transform hover:scale-[1.04] active:scale-[0.98]"
                 >
-                  Build it myself
+                  Plan it myself
                   <ArrowRight size={18} />
                 </a>
                 <a
                   href="#"
                   className="inline-flex items-center gap-2 rounded-full border border-line bg-white px-8 py-4 text-lg font-bold text-ink-2 transition-all hover:scale-[1.04] hover:border-ink-3 hover:text-ink active:scale-[0.98]"
                 >
-                  Let AI plan it
+                  Plan it with AI
                 </a>
               </div>
             </div>

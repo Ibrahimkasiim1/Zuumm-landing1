@@ -515,9 +515,9 @@ export default function WhyPillars() {
             <a
               href={wizardHref()}
               onClick={() => track("home_why_cta")}
-              className="inline-flex items-center gap-2.5 rounded-full bg-ink px-9 py-4 text-[1.05rem] font-bold text-white shadow-[0_22px_54px_-20px_rgba(22,18,31,0.5)] transition-transform duration-200 ease-out hover:scale-[1.03] active:scale-[0.98]"
+              className="inline-flex items-center gap-2.5 rounded-full bg-coral px-9 py-4 text-[1.05rem] font-bold text-white shadow-[0_18px_50px_-18px_rgba(255,59,92,0.6)] transition-transform duration-200 ease-out hover:scale-[1.03] active:scale-[0.98]"
             >
-              Build my trip
+              Plan my trip
               <ArrowRight size={18} />
             </a>
             <p className="mt-2.5 text-[0.78rem] text-ink-3">

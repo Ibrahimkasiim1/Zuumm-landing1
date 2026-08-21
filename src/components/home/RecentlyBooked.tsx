@@ -451,7 +451,7 @@ export default function RecentlyBooked() {
               href="#"
               className="inline-flex items-center gap-1 font-bold text-coral-deep underline-offset-4 transition-colors hover:text-coral hover:underline"
             >
-              build my trip
+              plan my trip
               <ArrowRight size={14} />
             </a>
           </p>

@@ -78,11 +78,11 @@ export default function BriefBand() {
         <Reveal>
           <div className="mx-auto max-w-2xl text-center">
             <h2 className="display text-5xl text-ink md:text-[4.2rem]">
-              Where next?
+              Describe your trip.
             </h2>
             <p className="mx-auto mt-4 max-w-xl text-lg text-ink-2">
-              Describe your dream trip and watch us build it — planned,
-              priced and ready to book.
+              See it priced in seconds — anywhere in the world, in your own
+              words, ready to book.
             </p>
 
             <form onSubmit={submit} className="mt-8">
@@ -96,15 +96,15 @@ export default function BriefBand() {
                   type="text"
                   value={brief}
                   onChange={(e) => setBrief(e.target.value)}
-                  placeholder="Describe your dream trip…"
+                  placeholder="Bali, 6 nights, couple, under ₹50k/person…"
                   className="min-w-0 flex-1 bg-transparent text-[0.95rem] text-ink outline-none placeholder:text-ink-3"
                 />
                 <button
                   type="submit"
-                  aria-label="Plan it"
-                  className="flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-coral text-white shadow-[0_10px_28px_-12px_rgba(255,59,92,0.6)] transition-transform hover:scale-[1.06] active:scale-[0.96]"
+                  className="flex h-10 shrink-0 items-center gap-1.5 rounded-full bg-coral px-5 text-[0.9rem] font-bold text-white shadow-[0_10px_28px_-12px_rgba(255,59,92,0.6)] transition-transform hover:scale-[1.04] active:scale-[0.96]"
                 >
-                  <ArrowRight size={17} />
+                  See it priced
+                  <ArrowRight size={15} />
                 </button>
               </div>
             </form>
@@ -116,7 +116,7 @@ export default function BriefBand() {
                 onClick={() => track("brief_band_wizard")}
                 className="inline-flex min-h-11 items-center gap-2 rounded-full border border-line bg-white px-6 py-3 text-[0.92rem] font-semibold text-ink-2 transition-all hover:border-ink-3 hover:text-ink"
               >
-                Use our trip planner instead
+                Answer 3 quick questions instead
                 <ArrowRight size={15} />
               </a>
             </div>

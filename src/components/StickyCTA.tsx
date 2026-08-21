@@ -37,7 +37,7 @@ export default function StickyCTA() {
               href="#"
               className="grad-bg flex-1 rounded-xl py-3 text-center text-[0.95rem] font-semibold text-white"
             >
-              Build my trip
+              Plan my trip
             </Link>
             <a
               href="#"
