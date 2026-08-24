@@ -37,7 +37,7 @@ const faqs = [
   },
   {
     q: "What does 99.7% visa approval actually mean?",
-    a: "We built our visa system in-house. It pre-validates your documents against each country's current rules, flags errors before anything is submitted, and tracks the decision in real time. That pre-validation step is why 99.7% of applications we file get approved, across 73 countries.",
+    a: "We built our visa system in-house. It pre-validates your documents against each country's current rules, flags errors before anything is submitted, and tracks the decision in real time. That pre-validation step is why 99.7% of applications we file get approved, across 130+ countries.",
   },
   {
     q: "Who is tracking my trip while I travel?",

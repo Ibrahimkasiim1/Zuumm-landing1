@@ -23,8 +23,8 @@ import { HERO_DESTINATIONS } from "@/lib/destinations";
    unavailable the parent never hears onReady and the DOM stack stays. */
 
 const DESTS = HERO_DESTINATIONS;
-const TRANS_DUR = 1100; // ms, background displacement crossfade
-const KB_DUR = 7000; // ms, Ken Burns 1 → 1.05 drift
+const TRANS_DUR = 850; // ms, background displacement crossfade
+const KB_DUR = 5200; // ms, Ken Burns 1 → 1.05 drift (one slide dwell)
 const EASE = cubicBezier(0.21, 0.6, 0.35, 1); // the house curve
 
 const VERT = `

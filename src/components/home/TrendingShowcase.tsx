@@ -1,7 +1,8 @@
 "use client";
 
-import { useState } from "react";
-import { AnimatePresence, motion, useReducedMotion } from "framer-motion";
+import { useEffect, useRef, useState } from "react";
+import { AnimatePresence, motion, useInView } from "framer-motion";
+import { useReducedMotionSafe } from "@/lib/useReducedMotionSafe";
 import CountUp from "@/components/CountUp";
 import { ArrowRight, ChevronLeft, ChevronRight } from "@/components/Icons";
 
@@ -9,7 +10,14 @@ import { ArrowRight, ChevronLeft, ChevronRight } from "@/components/Icons";
    queued as numbered cards beside it. The arrows walk the queue — the next
    destination slides up into the big frame, the leaderboard rank travels
    with each card. Client-side selection only; counts are computed on the
-   server and passed down. */
+   server and passed down.
+
+   It also walks itself: once the panel is on screen the queue advances
+   every DWELL_MS, and the dwell bar beside the counter shows the clock
+   running so the movement reads as deliberate. It holds while the pointer
+   is on the panel, while a keyboard traveller is inside it, when the tab
+   is hidden, and whenever the panel scrolls away. Reduced motion doesn't
+   stop the walk — it drops the scale, so slides crossfade in place. */
 
 export type TrendCard = {
   rank: number;
@@ -22,10 +30,10 @@ export type TrendCard = {
   photo: string;
   alt: string;
   href: string;
-  live?: boolean;
 };
 
 const EASE = [0.21, 0.6, 0.35, 1] as const;
+const DWELL_MS = 5000;
 
 export default function TrendingShowcase({
   trends,
@@ -34,8 +42,13 @@ export default function TrendingShowcase({
   trends: TrendCard[];
   budgets: { label: string; brief: string }[];
 }) {
-  const reduce = useReducedMotion();
+  const reduce = useReducedMotionSafe();
   const [index, setIndex] = useState(0);
+  const ref = useRef<HTMLDivElement>(null);
+  /* not `once`: the walk should stop again when the panel scrolls away */
+  const inView = useInView(ref, { margin: "-15% 0px" });
+  const [held, setHeld] = useState(false);
+  const [tabHidden, setTabHidden] = useState(false);
 
   const featured = trends[index];
   const queue = Array.from(
@@ -46,8 +59,40 @@ export default function TrendingShowcase({
   const step = (dir: 1 | -1) =>
     setIndex((i) => (i + dir + trends.length) % trends.length);
 
+  const autoplay = inView && !held && !tabHidden;
+
+  /* depending on `index` restarts the clock after a manual pick */
+  useEffect(() => {
+    if (!autoplay) return;
+    const t = setTimeout(
+      () => setIndex((i) => (i + 1) % trends.length),
+      DWELL_MS
+    );
+    return () => clearTimeout(t);
+  }, [autoplay, index, trends.length]);
+
+  useEffect(() => {
+    const onVis = () => setTabHidden(document.hidden);
+    document.addEventListener("visibilitychange", onVis);
+    return () => document.removeEventListener("visibilitychange", onVis);
+  }, []);
+
   return (
-    <div className="grain relative overflow-hidden rounded-[2.5rem] border border-white/10 bg-ink p-6 text-white shadow-[0_40px_120px_-40px_rgba(22,18,31,0.55)] md:p-10 lg:p-12">
+    <div
+      ref={ref}
+      onMouseEnter={() => setHeld(true)}
+      onMouseLeave={() => setHeld(false)}
+      onFocusCapture={(e) => {
+        /* a keyboard traveller parks it; a tap or click must not, or it
+           would never resume on a phone */
+        const t = e.target as HTMLElement;
+        if (typeof t.matches === "function" && t.matches(":focus-visible")) {
+          setHeld(true);
+        }
+      }}
+      onBlurCapture={() => setHeld(false)}
+      className="grain relative overflow-hidden rounded-[2.5rem] border border-white/10 bg-ink p-6 text-white shadow-[0_40px_120px_-40px_rgba(22,18,31,0.55)] md:p-10 lg:p-12"
+    >
       {/* band atmosphere */}
       <div
         aria-hidden
@@ -66,10 +111,10 @@ export default function TrendingShowcase({
               key={featured.destination}
               href={featured.href}
               aria-label={`Plan a ${featured.destination} trip`}
-              initial={reduce ? false : { opacity: 0, scale: 1.04 }}
+              initial={reduce ? { opacity: 0 } : { opacity: 0, scale: 1.04 }}
               animate={{ opacity: 1, scale: 1 }}
-              exit={reduce ? undefined : { opacity: 0 }}
-              transition={{ duration: 0.5, ease: EASE }}
+              exit={{ opacity: 0 }}
+              transition={{ duration: reduce ? 0.4 : 0.5, ease: EASE }}
               className="group absolute inset-0 block focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-violet"
             >
               {/* eslint-disable-next-line @next/next/no-img-element -- static asset */}
@@ -90,12 +135,6 @@ export default function TrendingShowcase({
               <span className="absolute left-5 top-5 font-mono text-[0.8rem] font-bold tracking-[0.16em] text-white/85">
                 0{featured.rank}
               </span>
-              {featured.live && (
-                <span className="absolute right-5 top-5 rounded-full bg-mint px-3 py-1 text-[0.64rem] font-bold uppercase tracking-wide text-white">
-                  Fully priced
-                </span>
-              )}
-
               <div className="absolute inset-x-0 bottom-0 p-5 md:p-7">
                 <p className="display text-[2.1rem] leading-none md:text-[2.6rem]">
                   {featured.destination}
@@ -153,8 +192,23 @@ export default function TrendingShowcase({
             >
               <ChevronRight size={18} />
             </button>
-            <span className="ml-1 font-mono text-[0.68rem] uppercase tracking-widest text-white/50">
+            <span className="ml-1 flex items-center gap-3 font-mono text-[0.68rem] uppercase tracking-widest text-white/50">
               0{featured.rank} / 0{trends.length}
+              {/* the dwell clock, so the walk reads as deliberate */}
+              <span
+                aria-hidden
+                className="relative h-[3px] w-10 overflow-hidden rounded bg-white/15"
+              >
+                {autoplay && (
+                  <motion.span
+                    key={index}
+                    initial={{ scaleX: 0 }}
+                    animate={{ scaleX: 1 }}
+                    transition={{ duration: DWELL_MS / 1000, ease: "linear" }}
+                    className="absolute inset-0 origin-left bg-coral"
+                  />
+                )}
+              </span>
             </span>
           </div>
 
@@ -165,11 +219,15 @@ export default function TrendingShowcase({
                 <motion.button
                   key={t.destination}
                   type="button"
-                  layout={!reduce}
-                  initial={reduce ? false : { opacity: 0, x: 28 }}
+                  layout
+                  initial={reduce ? { opacity: 0 } : { opacity: 0, x: 28 }}
                   animate={{ opacity: 1, x: 0 }}
-                  exit={reduce ? undefined : { opacity: 0, scale: 0.94 }}
-                  transition={{ duration: 0.4, ease: EASE }}
+                  exit={reduce ? { opacity: 0 } : { opacity: 0, scale: 0.94 }}
+                  transition={
+                    reduce
+                      ? { duration: 0.35, ease: EASE, layout: { duration: 0 } }
+                      : { duration: 0.4, ease: EASE }
+                  }
                   onClick={() => setIndex(trends.indexOf(t))}
                   aria-label={`Show ${t.destination}`}
                   className="group relative h-36 overflow-hidden rounded-2xl text-left md:h-44 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-violet"

@@ -61,7 +61,7 @@ const TRIPS: Trip[] = [
       "Lantern boat ride in Hoi An",
       "Mekong Delta day out",
     ],
-    href: "#",
+    href: wizardHref({ crew: "family", to: "Vietnam", nights: 8, fresh: true }),
     hue: "from-teal/50",
     photo: "/travel/booked/vietnam.jpg",
     photoAlt: "Limestone karsts and cruise boats on Ha Long Bay",
@@ -121,7 +121,7 @@ const TRIPS: Trip[] = [
       "Atlantis Aquaventure",
       "Sky Views Edge Walk",
     ],
-    href: "#",
+    href: wizardHref({ crew: "friends", to: "Dubai", nights: 4, fresh: true }),
     hue: "from-sun/45",
     photo: "/travel/booked/dubai.jpg",
     photoAlt: "Dubai skyline and the Burj Khalifa at sunset",
@@ -174,7 +174,7 @@ const TRIPS: Trip[] = [
       "Hawker trail, Lau Pa Sat",
       "Infinity pool sunrise",
     ],
-    href: "#",
+    href: wizardHref({ crew: "couple", to: "Singapore", nights: 4, fresh: true }),
     hue: "from-violet/45",
     photo: "/travel/booked/singapore.jpg",
     photoAlt: "Marina Bay Sands and the ArtScience Museum from above at dusk",
@@ -197,7 +197,7 @@ const TRIPS: Trip[] = [
       "Sunset dolphin cruise",
       "Sandbank picnic",
     ],
-    href: "#",
+    href: wizardHref({ crew: "couple", to: "Maldives", nights: 4, fresh: true }),
     hue: "from-teal/50",
     photo: "/travel/booked/maldives.jpg",
     photoAlt: "Overwater villas winding across a Maldives lagoon",
@@ -220,7 +220,7 @@ const TRIPS: Trip[] = [
       "Kathakali evening show",
       "Periyar spice gardens",
     ],
-    href: "#",
+    href: wizardHref({ crew: "family", to: "Kerala", nights: 4, fresh: true }),
     hue: "from-mint/45",
     photo: "/travel/booked/kerala.jpg",
     photoAlt: "A houseboat drifting the Alleppey backwaters, Kerala",
@@ -252,14 +252,20 @@ function TicketCard({ trip }: { trip: Trip }) {
         className="absolute inset-x-0 bottom-0 h-[68%] bg-gradient-to-t from-ink/90 via-ink/45 to-transparent"
       />
 
-      {/* ---- frosted chips: who travelled ---- */}
-      <span className="absolute left-4 top-4 flex items-center gap-1.5 rounded-full border border-white/30 bg-white/20 px-3 py-1.5 text-[0.74rem] font-semibold text-white backdrop-blur-lg">
-        <Users size={13} />
-        {trip.crew}
-      </span>
-      <span className="absolute right-4 top-4 rounded-full border border-white/30 bg-white/20 px-3.5 py-1.5 font-display text-[0.85rem] font-bold text-white backdrop-blur-lg">
-        {trip.party}
-      </span>
+      {/* ---- who travelled. The party name is the pass's name tag: solid
+              white on the photograph, sized to be read across the rail at a
+              glance, with the crew size a quiet frosted chip beside it. One
+              flex row rather than two absolute corners, so the two can never
+              land on top of each other on a narrow card. ---- */}
+      <div className="absolute inset-x-4 top-4 flex flex-wrap items-start justify-between gap-2">
+        <span className="flex items-center gap-1.5 rounded-full border border-white/30 bg-white/20 px-3 py-1.5 text-[0.74rem] font-semibold text-white backdrop-blur-lg">
+          <Users size={13} />
+          {trip.crew}
+        </span>
+        <span className="rounded-full bg-white px-4 py-2 font-display text-[1.02rem] font-extrabold leading-none tracking-tight text-ink shadow-[0_12px_32px_-14px_rgba(13,10,21,0.75)]">
+          {trip.party}
+        </span>
+      </div>
 
       {/* ---- the trip's story, on the scrim ---- */}
       <div className="relative flex flex-col gap-2 p-5 pb-5 md:p-6">

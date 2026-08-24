@@ -24,7 +24,7 @@ const GATES: {
     icon: Passport,
     gate: "V-01",
     title: "Need just the visa?",
-    body: "The engine behind our 99.7% approval rate works solo: documents pre-validated, errors flagged before submission, the decision tracked live. 73 countries.",
+    body: "The engine behind our 99.7% approval rate works solo: documents pre-validated, errors flagged before submission, the decision tracked live. 130+ countries.",
     cta: "Request visa",
     base: "bg-[linear-gradient(160deg,rgba(255,59,92,0.32),rgba(255,59,92,0.08))]",
     glow: "bg-coral/40",

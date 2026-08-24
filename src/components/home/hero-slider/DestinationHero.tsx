@@ -30,8 +30,17 @@ import HeroCanvas from "./HeroCanvas";
    static frame is what makes the roll read. The title names the CITY; the
    ghost watermark under it names the COUNTRY.
 
-   Autoplay: 6s per slide, rolling continuously like the reference; it
-   rests only for keyboard focus, a hidden tab, or reduced motion.
+   Autoplay: DWELL_MS per slide, rolling continuously on every device. It
+   rests only for keyboard focus (a11y) and a hidden tab. Reduced motion
+   does NOT stop the reel — the hero is the page's headline and has to keep
+   moving through it; what it drops is the movement, so every layer
+   crossfades in place instead of sliding, and the WebGL Ken Burns drift
+   stays off.
+
+   Layout: the two-column stage (copy left, queued deck right) only exists
+   from `lg` up, where the deck column is genuinely wide enough for it.
+   Below that everything stacks and the deck becomes a swipe rail, so the
+   cards can never come to rest on top of the title or the CTAs.
 
    HeroCanvas paints the background in WebGL (displacement crossfade + Ken
    Burns) once its textures are up; the DOM image stack is the fallback. */
@@ -39,48 +48,59 @@ import HeroCanvas from "./HeroCanvas";
 const DESTS = HERO_DESTINATIONS;
 const COUNT = DESTS.length;
 const EASE = [0.21, 0.6, 0.35, 1] as const;
-const BG_DUR = 0.9;
-const DWELL_MS = 6000;
+const BG_DUR = 0.7;
+const DWELL_MS = 4200;
 
 const pad = (n: number) => String(n + 1).padStart(2, "0");
 
 /* the card's inset from the page edge, shared by the bottom chrome row so
    arrows and counter line up with the card they belong to */
-const INSET = "mx-4 md:mx-20 lg:mx-24";
+const INSET = "mx-4 md:mx-10 lg:mx-24";
 
-/* deck slot sizing: front card largest, receding right */
-const SLOT_WIDTHS = [
-  "w-[clamp(200px,21vw,290px)]",
-  "w-[clamp(170px,17.5vw,240px)]",
-  "w-[clamp(145px,14.5vw,200px)]",
-];
-const SLOT_OFFSETS = ["md:mt-0", "md:mt-10", "md:mt-20"];
+/* Deck slot sizing. The row is exactly as wide as its grid column plus the
+   card's own right padding, and the cards flex-grow to fill it — so the
+   queue always ends flush with the card's right edge and can never reach
+   back across the copy, at any viewport. Three cards once the column can hold
+   them near full size (~1800px up), two below that. */
+const SLOT_GROW: Record<number, number[]> = {
+  2: [5.5, 4.5],
+  3: [3.95, 3.35, 2.7],
+};
+const SLOT_MAX = ["max-w-[300px]", "max-w-[252px]", "max-w-[212px]"];
+const SLOT_OFFSETS = ["lg:mt-0", "lg:mt-10", "lg:mt-20"];
 
 export default function DestinationHero() {
   const reduce = useReducedMotionSafe();
   const [index, setIndex] = useState(0);
-  const [focused, setFocused] = useState(false);
+  /* keyboard focus inside the reel — the only interaction that parks it */
+  const [keyFocus, setKeyFocus] = useState(false);
   const [hidden, setHidden] = useState(false);
   /* WebGL took over the background: drop the DOM image stack */
   const [glReady, setGlReady] = useState(false);
+  /* three queued cards only where the column can hold them */
+  const [slots, setSlots] = useState(2);
   /* swallow the click a drag release would otherwise fire on a card */
   const dragging = useRef(false);
 
   const active = DESTS[index];
-  /* the deck queues the three upcoming destinations, in order */
-  const upcoming = [1, 2, 3].map((step) => (index + step) % COUNT);
+  /* the deck queues the upcoming destinations, in order */
+  const upcoming = Array.from({ length: slots }, (_, k) => (index + k + 1) % COUNT);
+  const mobileUpcoming = [1, 2, 3].map((step) => (index + step) % COUNT);
+
+  /* reduced motion crossfades every layer in place rather than sliding it */
+  const xf = reduce;
 
   const goTo = useCallback((i: number, via: string) => {
     setIndex(((i % COUNT) + COUNT) % COUNT);
     track("hero_slide_change", { via });
   }, []);
 
-  /* like the reference, the reel keeps rolling under the pointer; it only
-     rests for keyboard focus (a11y), a hidden tab, or reduced motion.
-     Mouse clicks blur their button on release so focus never lingers. */
-  const autoplay = !reduce && !focused && !hidden;
+  /* the reel keeps rolling under the pointer and under reduced motion; it
+     only rests for keyboard focus (a11y) or a hidden tab. Mouse clicks blur
+     their button on release so focus never lingers. */
+  const autoplay = !keyFocus && !hidden;
 
-  /* 6s dwell; depending on `index` restarts the clock after manual nav */
+  /* dwell per slide; depending on `index` restarts the clock after manual nav */
   useEffect(() => {
     if (!autoplay) return;
     const t = setTimeout(() => goTo(index + 1, "auto"), DWELL_MS);
@@ -91,6 +111,14 @@ export default function DestinationHero() {
     const onVis = () => setHidden(document.hidden);
     document.addEventListener("visibilitychange", onVis);
     return () => document.removeEventListener("visibilitychange", onVis);
+  }, []);
+
+  useEffect(() => {
+    const mq = window.matchMedia("(min-width: 1800px)");
+    const apply = () => setSlots(mq.matches ? 3 : 2);
+    apply();
+    mq.addEventListener("change", apply);
+    return () => mq.removeEventListener("change", apply);
   }, []);
 
   const onKeyDown = (e: React.KeyboardEvent) => {
@@ -120,20 +148,27 @@ export default function DestinationHero() {
       aria-roledescription="carousel"
       aria-label="Featured destinations"
       onKeyDown={onKeyDown}
-      onFocusCapture={() => setFocused(true)}
-      onBlurCapture={() => setFocused(false)}
+      onFocusCapture={(e) => {
+        /* only a keyboard traveller parks the reel — a tap or a click puts
+           focus on a button too, and that must not stop it on mobile */
+        const t = e.target as HTMLElement;
+        if (typeof t.matches === "function" && t.matches(":focus-visible")) {
+          setKeyFocus(true);
+        }
+      }}
+      onBlurCapture={() => setKeyFocus(false)}
       onMouseUpCapture={(e) => {
         /* release pointer-driven focus so autoplay resumes after clicks */
         const t = e.target as HTMLElement;
         t.closest("button")?.blur();
       }}
-      className="relative flex flex-col bg-paper pb-5 pt-24 md:h-svh md:min-h-[760px] md:pt-28"
+      className="relative flex flex-col bg-paper pb-5 pt-24 lg:h-svh lg:min-h-[760px] lg:pt-28"
     >
       {/* ---- progress rail: outside the card, in the left gutter, inked
               for the paper ground. The badge springs between fixed cells. */}
       <div
         aria-hidden
-        className="absolute inset-y-0 left-1 z-20 hidden w-16 flex-col items-center md:flex lg:left-4"
+        className="absolute inset-y-0 left-1 z-20 hidden w-16 flex-col items-center lg:flex lg:left-4"
       >
         <div className="mt-32 flex flex-1 flex-col items-center">
           <div className="w-px flex-1 bg-ink/20" />
@@ -147,7 +182,7 @@ export default function DestinationHero() {
                   <motion.span
                     layoutId="hero-rail-badge"
                     transition={
-                      reduce
+                      xf
                         ? { duration: 0 }
                         : { type: "spring", stiffness: 500, damping: 35 }
                     }
@@ -157,7 +192,7 @@ export default function DestinationHero() {
                 {i === index ? (
                   <motion.span
                     key={`n-${i}`}
-                    initial={reduce ? false : { opacity: 0 }}
+                    initial={{ opacity: 0 }}
                     animate={{ opacity: 1 }}
                     className="relative font-mono text-xs font-semibold text-white"
                   >
@@ -192,8 +227,11 @@ export default function DestinationHero() {
                 key={d.slug}
                 className="absolute inset-0"
                 initial={false}
-                animate={{ opacity: i === index ? 1 : 0, scale: i === index ? 1 : 1.06 }}
-                transition={reduce ? { duration: 0 } : { duration: BG_DUR, ease: EASE }}
+                animate={{
+                  opacity: i === index ? 1 : 0,
+                  scale: xf || i === index ? 1 : 1.06,
+                }}
+                transition={{ duration: xf ? 0.45 : BG_DUR, ease: EASE }}
               >
                 <Image
                   src={d.heroImage}
@@ -217,7 +255,7 @@ export default function DestinationHero() {
         {/* ---- ghost echo: the country, peeking from the bottom edge ---- */}
         <div
           aria-hidden
-          className="pointer-events-none absolute -bottom-5 left-8 hidden select-none md:block"
+          className="pointer-events-none absolute -bottom-5 left-8 hidden select-none lg:block"
         >
           <AnimatePresence mode="popLayout" initial={false}>
             <motion.span
@@ -225,7 +263,7 @@ export default function DestinationHero() {
               initial={{ opacity: 0 }}
               animate={{ opacity: 1 }}
               exit={{ opacity: 0 }}
-              transition={reduce ? { duration: 0 } : { duration: 0.6, ease: EASE, delay: 0.3 }}
+              transition={{ duration: xf ? 0.4 : 0.6, ease: EASE, delay: xf ? 0 : 0.3 }}
               className="inline-block font-display text-[7rem] font-extrabold uppercase leading-none tracking-tight text-white/[0.07]"
             >
               {active.country}
@@ -234,7 +272,7 @@ export default function DestinationHero() {
         </div>
 
         {/* ---- content ---- */}
-        <div className="relative z-10 h-full px-6 pb-14 pt-12 md:grid md:grid-cols-[1.05fr_0.95fr] md:items-center md:gap-8 md:px-12 md:py-10 lg:px-16">
+        <div className="relative z-10 h-full px-6 pb-14 pt-12 md:px-10 lg:grid lg:grid-cols-[1.05fr_0.95fr] lg:items-center lg:gap-8 lg:px-16 lg:py-10">
           {/* left: the destination, spoken large. min-w-0 keeps the fr split
               stable — otherwise the title's min-content resizes the columns
               per slide and the deck jumps. */}
@@ -250,18 +288,20 @@ export default function DestinationHero() {
               <AnimatePresence mode="popLayout" initial={false}>
                 <motion.h1
                   key={active.slug}
-                  initial={reduce ? false : { y: "115%" }}
-                  animate={{ y: 0 }}
-                  exit={{ y: "-115%" }}
-                  transition={
-                    reduce ? { duration: 0 } : { duration: 0.62, ease: EASE, delay: 0.08 }
-                  }
+                  initial={xf ? { opacity: 0 } : { y: "115%" }}
+                  animate={xf ? { opacity: 1 } : { y: 0 }}
+                  exit={xf ? { opacity: 0 } : { y: "-115%" }}
+                  transition={{
+                    duration: xf ? 0.4 : 0.5,
+                    ease: EASE,
+                    delay: xf ? 0 : 0.06,
+                  }}
                   className={`whitespace-nowrap font-display font-extrabold uppercase leading-[0.95] tracking-tight text-white [text-shadow:0_2px_32px_rgba(13,10,21,0.7)] ${
                     /* long names (SINGAPORE, MAURITIUS) step down a size
                        so they never run under the deck */
-                    active.city.length > 8
-                      ? "text-[clamp(2.2rem,4.6vw,4.5rem)]"
-                      : "text-[clamp(2.5rem,5.6vw,5.4rem)]"
+                    active.city.length > 7
+                      ? "text-[clamp(2.1rem,4.4vw,4.2rem)]"
+                      : "text-[clamp(2.5rem,5.2vw,5rem)]"
                   }`}
                 >
                   {active.city}
@@ -278,12 +318,14 @@ export default function DestinationHero() {
               <AnimatePresence mode="popLayout" initial={false}>
                 <motion.div
                   key={active.slug}
-                  initial={reduce ? false : { opacity: 0, y: 22 }}
+                  initial={xf ? { opacity: 0 } : { opacity: 0, y: 22 }}
                   animate={{ opacity: 1, y: 0 }}
-                  exit={{ opacity: 0, y: -22 }}
-                  transition={
-                    reduce ? { duration: 0 } : { duration: 0.55, ease: EASE, delay: 0.16 }
-                  }
+                  exit={xf ? { opacity: 0 } : { opacity: 0, y: -22 }}
+                  transition={{
+                    duration: xf ? 0.4 : 0.45,
+                    ease: EASE,
+                    delay: xf ? 0 : 0.12,
+                  }}
                 >
                   <p className="max-w-sm text-sm leading-relaxed text-white/90 [text-shadow:0_1px_16px_rgba(13,10,21,0.7)] md:text-[0.95rem]">
                     {active.blurb}
@@ -312,18 +354,21 @@ export default function DestinationHero() {
             </div>
           </div>
 
-          {/* right: the deck — a queue of what's next (desktop). Slots are
-              fixed; cards spring between them as the queue advances, the
-              front card fades toward the background it becomes, and the
-              new arrival slides in from the card's right edge. Draggable. */}
-          <div className="relative z-[2] hidden min-w-0 md:block">
+          {/* right: the deck — a queue of what's next (lg and up). The row
+              spans its own column plus the card's right padding and the
+              cards flex to fill it, so the queue ends flush with the card's
+              edge and never crosses back over the copy. Slots are fixed;
+              cards spring between them as the queue advances, the front card
+              fades toward the background it becomes, and the new arrival
+              slides in from the card's right edge. Draggable. */}
+          <div className="relative z-[2] hidden min-w-0 lg:block">
             <motion.div
               drag={reduce ? false : "x"}
               dragConstraints={{ left: 0, right: 0 }}
               dragElastic={0.08}
               onDragStart={() => (dragging.current = true)}
               onDragEnd={(_, info) => onDragEnd(info.offset.x)}
-              className="flex translate-x-6 cursor-grab items-start justify-end gap-5 active:cursor-grabbing lg:translate-x-16"
+              className="flex w-[calc(100%_+_4rem)] cursor-grab items-start justify-end gap-5 active:cursor-grabbing"
             >
               <AnimatePresence mode="popLayout" initial={false}>
                 {upcoming.map((destIdx, slot) => {
@@ -332,23 +377,24 @@ export default function DestinationHero() {
                     <motion.div
                       key={d.slug}
                       layout
-                      initial={reduce ? false : { opacity: 0, x: 120 }}
+                      initial={xf ? { opacity: 0 } : { opacity: 0, x: 120 }}
                       animate={{ opacity: 1, x: 0 }}
                       exit={
-                        reduce
-                          ? { opacity: 0, transition: { duration: 0 } }
+                        xf
+                          ? { opacity: 0 }
                           : { opacity: 0, x: -48, scale: 1.12 }
                       }
                       transition={
-                        reduce
-                          ? { duration: 0 }
+                        xf
+                          ? { duration: 0.4, ease: EASE, layout: { duration: 0 } }
                           : {
                               layout: { type: "spring", stiffness: 260, damping: 30 },
-                              duration: 0.5,
+                              duration: 0.45,
                               ease: EASE,
                             }
                       }
-                      className={`${SLOT_WIDTHS[slot]} ${SLOT_OFFSETS[slot]} shrink-0`}
+                      style={{ flex: `${SLOT_GROW[slots][slot]} 1 0%` }}
+                      className={`${SLOT_MAX[slot]} ${SLOT_OFFSETS[slot]} min-w-0`}
                     >
                       <p className="mb-2.5 flex items-center justify-between gap-2 font-mono text-[0.6rem] font-semibold uppercase tracking-[0.14em] text-white [text-shadow:0_1px_10px_rgba(13,10,21,0.85)]">
                         <span className="truncate">{d.cardLabel}</span>
@@ -374,7 +420,7 @@ export default function DestinationHero() {
                               src={d.cardImage}
                               alt={d.cardLabel}
                               fill
-                              sizes="(min-width: 768px) 22vw, 45vw"
+                              sizes="(min-width: 1024px) 22vw, 45vw"
                               loading="eager"
                               draggable={false}
                               className="object-cover transition-transform duration-500 group-hover:scale-[1.05] motion-reduce:transition-none"
@@ -389,25 +435,21 @@ export default function DestinationHero() {
             </motion.div>
           </div>
 
-          {/* right: the deck, as a swipeable rail (mobile) */}
-          <div className="no-scrollbar -mx-6 mt-10 flex snap-x snap-mandatory gap-4 overflow-x-auto px-6 md:hidden">
+          {/* right: the deck, as a swipeable rail (below lg) */}
+          <div className="no-scrollbar -mx-6 mt-10 flex snap-x snap-mandatory gap-4 overflow-x-auto scroll-pl-6 px-6 md:-mx-10 md:scroll-pl-10 md:px-10 lg:hidden">
             <AnimatePresence mode="popLayout" initial={false}>
-              {upcoming.map((destIdx) => {
+              {mobileUpcoming.map((destIdx) => {
                 const d = DESTS[destIdx];
                 return (
                   <motion.button
                     key={d.slug}
                     layout
-                    initial={reduce ? false : { opacity: 0, x: 80 }}
+                    initial={xf ? { opacity: 0 } : { opacity: 0, x: 80 }}
                     animate={{ opacity: 1, x: 0 }}
-                    exit={
-                      reduce
-                        ? { opacity: 0, transition: { duration: 0 } }
-                        : { opacity: 0, x: -32 }
-                    }
+                    exit={xf ? { opacity: 0 } : { opacity: 0, x: -32 }}
                     transition={
-                      reduce
-                        ? { duration: 0 }
+                      xf
+                        ? { duration: 0.4, ease: EASE, layout: { duration: 0 } }
                         : {
                             layout: { type: "spring", stiffness: 260, damping: 30 },
                             duration: 0.4,
@@ -417,7 +459,7 @@ export default function DestinationHero() {
                     type="button"
                     onClick={() => cardClick(destIdx)}
                     aria-label={`Show ${d.city}`}
-                    className="w-36 shrink-0 snap-start text-left"
+                    className="w-36 shrink-0 snap-start text-left sm:w-44 md:w-52"
                   >
                     <span className="relative block rounded-[18px] border border-white/20 bg-white/10 p-1.5 backdrop-blur-md">
                       <span className="relative block aspect-[32/43] overflow-hidden rounded-[13px]">
@@ -459,7 +501,8 @@ export default function DestinationHero() {
   );
 }
 
-/* single-value odometer roll, used by the counters */
+/* single-value odometer roll, used by the counters. Under reduced motion it
+   crossfades in place rather than rolling. */
 function RollText({ value, vertical = false }: { value: string; vertical?: boolean }) {
   const reduce = useReducedMotionSafe();
   return (
@@ -469,10 +512,10 @@ function RollText({ value, vertical = false }: { value: string; vertical?: boole
       <AnimatePresence mode="popLayout" initial={false}>
         <motion.span
           key={value}
-          initial={reduce ? false : { y: "100%" }}
-          animate={{ y: 0 }}
-          exit={{ y: "-100%" }}
-          transition={reduce ? { duration: 0 } : { duration: 0.45, ease: EASE }}
+          initial={reduce ? { opacity: 0 } : { y: "100%" }}
+          animate={reduce ? { opacity: 1 } : { y: 0 }}
+          exit={reduce ? { opacity: 0 } : { y: "-100%" }}
+          transition={{ duration: reduce ? 0.3 : 0.4, ease: EASE }}
           className="inline-block"
         >
           {value}

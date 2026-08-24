@@ -80,7 +80,7 @@ function Tile({
         )}
         <p
           className={`relative font-mono text-[0.62rem] font-semibold uppercase tracking-[0.16em] ${
-            dark ? "text-white/50" : "text-ink-3"
+            dark ? "text-white/50" : "text-ink-2"
           }`}
         >
           {tag}
@@ -470,7 +470,7 @@ export default function WhyPillars() {
           <Tile
             span="lg:col-span-5"
             tag="vetting"
-            wash="bg-[linear-gradient(135deg,#f2eff8_55%,#ffe4e9_140%)]"
+            wash="bg-[linear-gradient(135deg,#d6d2e0_50%,#f0c9d4_140%)]"
             watermark="DPS"
             title="Only handpicked, rated hotels & activities."
             line="Every stay and experience is vetted and rated before the engine can price it — the rest never make the list."
@@ -480,7 +480,7 @@ export default function WhyPillars() {
           <Tile
             span="lg:col-span-5"
             tag="quote"
-            wash="bg-[linear-gradient(135deg,#f2eff8_55%,rgba(15,163,107,0.14)_140%)]"
+            wash="bg-[linear-gradient(135deg,#d6d2e0_50%,rgba(15,163,107,0.22)_140%)]"
             title="One price. Zero surprises."
             line="The only ones to show the full split — flights, hotels, activities, transfers, visa, taxes — itemised before you pay."
           >
@@ -521,7 +521,7 @@ export default function WhyPillars() {
               <ArrowRight size={18} />
             </a>
             <p className="mt-2.5 text-[0.78rem] text-ink-3">
-              Free to plan · no sign-up · priced from real rates
+              Free to plan · priced from real rates
             </p>
           </div>
         </Reveal>

@@ -6,10 +6,9 @@ import { wizardHref } from "@/lib/planner/openPlanner";
    destination enlarged, the rest queued as numbered cards, arrows walking
    the queue. Each card carries the decision data Indian planners ask for
    first (best season, typical budget) plus this week's search volume.
-   Destinations on the deterministic engine (Bali, Thailand) carry a
-   "fully priced" badge and deep-link the wizard; the rest open the AI
-   planner. The budget-first chips ("where can ₹30k take me?") prefill the
-   one-line brief, mirroring how price-sensitive travellers actually start.
+   Every card deep-links the wizard with the destination pre-answered. The
+   budget-first chips ("where can ₹30k take me?") prefill the one-line
+   brief, mirroring how price-sensitive travellers actually start.
 
    Search counts drift week to week: each destination has a base volume and
    the shown figure is jittered ±10% by a PRNG seeded on the ISO week, so
@@ -60,7 +59,7 @@ const TRENDS: Trend[] = [
     vibe: "Luxury and family",
     photo: "/travel/dubai.jpg",
     alt: "Dubai skyline at sunset",
-    href: "#",
+    href: wizardHref({ to: "Dubai", fresh: true }),
   },
   {
     rank: 2,
@@ -72,7 +71,6 @@ const TRENDS: Trend[] = [
     photo: "/travel/bali.jpg",
     alt: "Ulun Danu temple, Bali",
     href: wizardHref({ to: "Bali", fresh: true }),
-    live: true,
   },
   {
     rank: 3,
@@ -83,7 +81,7 @@ const TRENDS: Trend[] = [
     vibe: "Culture and nature",
     photo: "/travel/vietnam.jpg",
     alt: "Ha Long Bay, Vietnam",
-    href: "#",
+    href: wizardHref({ to: "Vietnam", fresh: true }),
   },
   {
     rank: 4,
@@ -95,7 +93,6 @@ const TRENDS: Trend[] = [
     photo: "/travel/thailand.jpg",
     alt: "Longtail boats on Railay beach, Thailand",
     href: wizardHref({ to: "Thailand", fresh: true }),
-    live: true,
   },
 ];
 
