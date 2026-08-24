@@ -10,7 +10,7 @@
    there today, and quietly dropping that page's nav and footer isn't this
    change's call to make. */
 
-export const CHROMELESS_ROUTES = ["/get-started", "/plan"] as const;
+export const CHROMELESS_ROUTES = ["/get-started", "/plan", "/form"] as const;
 
 export function isChromeless(pathname: string | null | undefined): boolean {
   if (!pathname) return false;
