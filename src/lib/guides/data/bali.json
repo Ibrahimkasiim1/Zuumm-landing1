@@ -1,0 +1,120 @@
+{
+  "slug": "bali",
+  "name": "Bali",
+  "displayName": "Bali, Indonesia",
+  "country": "Indonesia",
+  "region": "southeast-asia",
+  "flag": "🇮🇩",
+  "tagline": "Temple mornings, jungle pools, beach-club sunsets.",
+  "overview": "Bali compresses more moods into one island than most countries manage across a continent. A single week can open with a misty sunrise on a volcano rim, wander through Ubud's rice terraces and monkey-filled forests by lunchtime, and close with fire dances above the Uluwatu cliffs as surfers trace the break below. The island runs on ceremony — incense and frangipani offerings appear on every doorstep by 8am — yet it also hosts Southeast Asia's liveliest beach clubs, its most photographed swings and some of the world's best-value spas. Distances are short but roads are slow, which is why smart itineraries split the stay between two bases instead of day-tripping everything from one. For Indian travellers it is the easiest big-ticket trip there is: visa stamped on arrival, flight times in single digits, and a rupiah that makes five-star living feel misplaced on a four-star budget.",
+  "heroAlt": "Pura Ulun Danu Bratan temple on the lake at dawn, Bali",
+  "heroImage": {
+    "query": "ulun danu bratan temple bali lake",
+    "alt": "Pura Ulun Danu Bratan temple standing over Lake Bratan at dawn",
+    "candidates": ["https://images.unsplash.com/photo-1537996194471-e657df975ab4"]
+  },
+  "quickFacts": {
+    "capital": "Denpasar",
+    "currency": { "code": "IDR", "name": "Indonesian rupiah", "inr": "₹1 ≈ Rp 190" },
+    "languages": ["Indonesian", "Balinese", "English in tourist areas"],
+    "timezone": "GMT+8 · 2½ hrs ahead of IST",
+    "flightFromIndia": "7–10 hrs from metros, usually one stop via KL or Singapore",
+    "plug": "Type C/F · 230V — Indian plugs need a cheap adapter",
+    "sim": "Telkomsel eSIM or airport SIM from about ₹400 for 25GB"
+  },
+  "visa": {
+    "type": "voa",
+    "headline": "Visa on arrival · 30 days",
+    "body": "Indian passport holders get a visa on arrival, extendable once for another 30 days. Carry a passport valid six months beyond arrival and a return or onward ticket; the e-VOA can also be bought online before flying to skip the counter queue.",
+    "cost": "IDR 500,000 (≈₹2,600)",
+    "processing": "At the airport, usually under 20 minutes"
+  },
+  "weather": {
+    "summary": "Tropical and warm year-round with two seasons rather than four: dry roughly April to October, wet November to March. Rain arrives as loud afternoon bursts, not all-day washouts, and the hills around Ubud run a few degrees cooler than the coast.",
+    "bestTime": "April – October",
+    "seasons": [
+      { "label": "Dry season", "months": "Apr – Oct", "temp": "27–31°C", "notes": "Sunny days, calm seas, every waterfall and volcano trek open — the island at its best.", "tone": "high" },
+      { "label": "Shoulder", "months": "Mar & Nov", "temp": "27–30°C", "notes": "A little humidity and the odd shower in exchange for thinner crowds and softer hotel rates.", "tone": "shoulder" },
+      { "label": "Wet season", "months": "Dec – Feb", "temp": "26–29°C", "notes": "Green and dramatic, with afternoon downpours. Fine for spa-and-café trips; less so for boat days.", "tone": "low" }
+    ]
+  },
+  "booking": {
+    "high": "May – Sep, plus the Christmas–New Year fortnight",
+    "low": "Late Jan – Mar",
+    "note": "July–August and New Year book out months ahead and price accordingly. April and September deliver dry-season weather at shoulder-season rates — the sweet spot."
+  },
+  "idealDuration": {
+    "nights": "6 – 8",
+    "note": "Six nights covers two bases without rushing — typically a beach hub plus Ubud. Add two more for Nusa Penida or the Gilis."
+  },
+  "budget": {
+    "perDay": [
+      { "tier": "Smart", "inr": "₹4,500 – 7,000" },
+      { "tier": "Comfort", "inr": "₹8,000 – 14,000" },
+      { "tier": "Luxe", "inr": "₹20,000+" }
+    ],
+    "note": "Per person per day with mid-range stays, scooter or driver, and one paid activity. Villas with private pools start around ₹6,000 a night in shoulder season."
+  },
+  "safety": {
+    "score": 4,
+    "headline": "Relaxed and tourist-hardened; petty theft and traffic are the real risks",
+    "tips": [
+      "Ride a scooter only if you already ride at home — and always with a helmet; rental insurance rarely covers you without one.",
+      "Drink bottled or filtered water and go easy on ice from street stalls.",
+      "Use the Blue Bird app or hotel drivers; unmetered airport touts overcharge heavily.",
+      "Keep phones off the road-side hand — snatch thefts from moving scooters happen in Canggu and Kuta.",
+      "Respect temple rules: sarong and sash, shoulders covered, and never climb structures for photos.",
+      "Check Mount Agung and marine conditions in wet season before booking boat days."
+    ]
+  },
+  "goodToKnow": [
+    "Tipping isn't expected but 5–10% is warmly received; most restaurant bills already add service and 11% tax.",
+    "Cards work in hotels and bigger restaurants; warungs, drivers and temple entries are cash — carry small IDR notes.",
+    "Nyepi, the Balinese day of silence in March, shuts the whole island including the airport for 24 hours — plan around it.",
+    "A private driver for a full day costs ₹2,500–3,500 and beats ride-hailing for multi-stop days.",
+    "Morning is everything: the famous spots are serene at 7am and shoulder-to-shoulder by 11.",
+    "Dress modestly away from the beach; swimwear is for pools and sand, not temples or villages.",
+    "Bargain gently in art markets — start near half and settle around 60–70% of the first price.",
+    "GoJek and Grab are cheap for short hops but banned from picking up in some villa areas; hotels will call you one anyway."
+  ],
+  "cities": [
+    { "id": "ubud", "name": "Ubud", "blurb": "The island's green heart: rice terraces, yoga shalas, craft markets and the best restaurants per square mile in Indonesia.", "image": { "query": "ubud rice terrace bali", "alt": "Tegallalang rice terraces near Ubud" } },
+    { "id": "seminyak", "name": "Seminyak", "blurb": "Polished beach living — designer boutiques, sunset beach clubs and a long grey-sand beach that glows gold at dusk.", "image": { "query": "seminyak beach sunset bali", "alt": "Sunset umbrellas on Seminyak beach" } },
+    { "id": "canggu", "name": "Canggu", "blurb": "Surf town turned digital-nomad capital: black-sand breaks, smoothie bowls and a nightlife that outgrew its village roads.", "image": { "query": "canggu beach surf bali", "alt": "Surfers walking Batu Bolong beach, Canggu" } },
+    { "id": "uluwatu", "name": "Uluwatu", "blurb": "Clifftop Bali — limestone headlands, hidden beach coves, world-class surf and the island's most dramatic temple sunset.", "image": { "query": "uluwatu cliff temple bali", "alt": "Uluwatu temple on its clifftop at golden hour" } },
+    { "id": "nusa-penida", "name": "Nusa Penida", "blurb": "A 40-minute boat ride to another world: the Kelingking dinosaur cliff, manta rays and viewpoints that made the island famous.", "image": { "query": "kelingking beach nusa penida", "alt": "Kelingking cliff and beach, Nusa Penida" } },
+    { "id": "sanur", "name": "Sanur", "blurb": "Bali's gentlest coast — calm sunrise water, a long promenade and the ferry gateway to the Nusa islands.", "image": { "query": "sanur beach boats bali sunrise", "alt": "Traditional jukung boats on Sanur beach at sunrise" } }
+  ],
+  "highlights": [
+    { "id": "uluwatu-kecak", "rank": 1, "name": "Kecak fire dance at Uluwatu", "category": "Culture", "blurb": "Seventy chanting performers, a clifftop amphitheatre and a sunset sea 70 metres below — Bali's single most electric hour.", "detail": "The kecak is performed daily at sunset in the amphitheatre beside Pura Luhur Uluwatu, the sea temple perched on Bali's southwestern cliffs. There is no orchestra: the entire score is the interlocking chant of dozens of bare-chested performers, telling the Ramayana as the sky turns orange behind them and ends in a ring of fire. Arrive an hour early for the upper rows on the ocean side, keep sunglasses handy for the glare, and watch your hat — the resident macaques are professional thieves. Pair it with the temple walk beforehand and a seafood dinner on Jimbaran beach after.", "image": { "query": "kecak dance uluwatu temple", "alt": "Kecak dancers in the clifftop amphitheatre at Uluwatu" } },
+    { "id": "mount-batur", "rank": 2, "name": "Mount Batur sunrise trek", "category": "Adventure", "blurb": "A pre-dawn scramble up an active volcano for sunrise above a caldera lake — steam vents cook your breakfast eggs.", "detail": "The climb starts around 3.30am from Toya Bungkah and takes roughly two hours at a steady pace — a well-worn path of volcanic sand and rock steps, headlamps bobbing in a line above the dark caldera. At 1,717 metres the summit looks east over Lake Batur to Mount Agung, with Lombok's Rinjani floating beyond on clear mornings. Guides boil eggs in the volcanic steam while the sky performs. It is genuinely cold at the top, so bring a layer; trekking shoes beat sneakers on the loose descent. Book the trek with hotel pickup — the combination of dark roads and early hours is not scooter territory.", "image": { "query": "mount batur sunrise bali", "alt": "Sunrise over the crater lake from Mount Batur's summit" } },
+    { "id": "tegallalang", "rank": 3, "name": "Tegallalang rice terraces", "category": "Nature", "blurb": "Bali's most sculpted valley of stepped green — walk the ridge paths early, before the swings and crowds wake up.", "detail": "Ten minutes north of Ubud, the Tegallalang terraces staircase an entire valley in luminous green, carved and irrigated by the thousand-year-old subak system that UNESCO lists as world heritage. Go at 7–8am: the light is soft, farmers are working the paddies, and the path across the valley floor and up the far ridge is nearly empty. Small donations are collected at ridge gates; the famous jungle swings and photo nests cluster at the southern end if you want the shot. The Sidemen valley and Jatiluwih offer the same beauty with a fraction of the visitors when you have a driver for the day.", "image": { "query": "tegallalang rice terraces bali", "alt": "The stepped rice terraces of Tegallalang in morning light" } },
+    { "id": "nusa-penida-day", "rank": 4, "name": "Nusa Penida island day", "category": "Adventure", "blurb": "Kelingking's dinosaur cliff, the Angel's Billabong rock pool and Crystal Bay snorkelling in one fast-boat day trip.", "detail": "Fast boats leave Sanur from 7am and cross in about 40 minutes. A standard west-coast loop hits Kelingking viewpoint — the T-rex-shaped headland above a 400-step descent to the beach — then Angel's Billabong and Broken Beach, finishing with a swim or snorkel at Crystal Bay. Roads on Penida are steep and rough, so most visitors book the loop as a car-and-driver package with the boat included. Start on the first boat to beat the tour-bus wave to Kelingking, wear real shoes if you attempt the beach descent, and only do so in dry weather — it is not a casual walk.", "image": { "query": "kelingking cliff nusa penida", "alt": "The Kelingking headland curving into turquoise sea" } },
+    { "id": "monkey-forest", "rank": 5, "name": "Ubud Monkey Forest", "category": "Nature", "blurb": "A mossy temple sanctuary where 1,200 long-tailed macaques run the show among banyan roots and carved dragons.", "detail": "The Sacred Monkey Forest Sanctuary is a pocket of old-growth jungle in the middle of Ubud, wrapped around three 14th-century temples whose moss-covered guardians look grown rather than carved. Its macaques are wild but utterly unbothered by people — which is the charm and the caution. Keep sunglasses, water bottles and anything shiny zipped away, don't carry visible food, and let the monkeys initiate any contact. The forest opens at 9am; the first hour is the calmest. Paths continue over a dragon-flanked bridge into a ravine that most visitors miss — the prettiest corner of the site.", "image": { "query": "ubud monkey forest temple", "alt": "A macaque family on mossy temple statues in Ubud's Monkey Forest" } },
+    { "id": "tirta-empul", "rank": 6, "name": "Tirta Empul purification", "category": "Culture", "blurb": "Join a living Hindu ritual — queueing waist-deep to bow under thirty spouts of holy mountain spring water.", "detail": "Tirta Empul has been Bali's holiest water temple for a millennium, built where a spring boils out of the ground near Tampaksiring. Unlike most temples, visitors may respectfully take part: hire a green sarong at the entrance, make a small offering, and join the queue moving through the two purification pools, bowing beneath each carved spout in turn. The final spouts are reserved for funerary rites — watch which ones locals skip and do the same. Mornings before 10am are quiet and contemplative; combine it with Gunung Kawi's valley of rock-cut shrines ten minutes away for the island's best half-day of old Bali.", "image": { "query": "tirta empul temple purification bali", "alt": "Worshippers bathing under the spouts at Tirta Empul" } },
+    { "id": "tanah-lot", "rank": 7, "name": "Tanah Lot at sunset", "category": "Culture", "blurb": "The offshore temple silhouette on every Bali postcard, ringed by surf and lit gold in the last hour of the day.", "detail": "Pura Tanah Lot sits on a wave-carved rock a hundred metres off the coast, reachable on foot only at low tide, when priests bless visitors with holy water at its base. It is the most visited — and most photographed — temple on the island, so play it smart: arrive 90 minutes before sunset, walk the coastal path south to the clifftop terraces near Batu Bolong (a smaller temple arch that frames Tanah Lot perfectly), and settle in as the crowds mass at the main viewpoint. The temple interior is closed to non-worshippers, but the spectacle was always the silhouette anyway.", "image": { "query": "tanah lot temple sunset bali", "alt": "Tanah Lot temple silhouetted against a golden sunset" } },
+    { "id": "sekumpul", "rank": 8, "name": "Sekumpul waterfall", "category": "Nature", "blurb": "Seven ribbons of water pouring 80 metres out of the jungle in Bali's north — the island's grandest falls, earned on foot.", "detail": "Hidden in the hills near Singaraja, two hours north of Ubud, Sekumpul is really a cluster of six or seven falls thundering side by side down a jungle cliff. Reaching the base takes about 45 minutes of village lanes, steep steps and a shin-deep river crossing — local guiding is mandatory and worth it, arranged at the village office with the entry ticket. You will be soaked by spray before you reach the plunge pool, which is the point. Pair it with the serene Buddhist monastery of Brahmavihara-Arama and the hot springs at Banjar to make the north-coast day complete.", "image": { "query": "sekumpul waterfall bali", "alt": "The multiple cascades of Sekumpul waterfall in the jungle" } },
+    { "id": "campuhan", "rank": 9, "name": "Campuhan Ridge walk", "category": "Nature", "blurb": "Ubud's golden-hour stroll — a paved ridge path between two river valleys, all swaying alang-alang grass and long views.", "detail": "The Campuhan Ridge walk starts behind the Gunung Lebah temple where two rivers meet, then rises onto a grassy spine with valleys falling away on both sides. It is barely two kilometres each way and completely unstrenuous — the appeal is the light. Go at 6.30am for mist in the valleys, or from 5pm when the grass turns amber and half of Ubud jogs, strolls and photographs its way along the crest. Cafés with rice-field views wait at the Karsa Kafe end as a turnaround reward. No tickets, no guides — just the closest thing Ubud has to a communal evening ritual.", "image": { "query": "campuhan ridge walk ubud", "alt": "The grassy spine of the Campuhan Ridge walk at golden hour" } },
+    { "id": "gili-snorkel", "rank": 10, "name": "Snorkelling the Gilis", "category": "Water", "blurb": "Glass-clear water, resident sea turtles and zero motor traffic on three tiny islands a boat ride east of Bali.", "detail": "The three Gili islands — Trawangan, Meno and Air — sit off Lombok, 90 minutes by fast boat from Padang Bai. No cars or motorbikes exist there; transport is bicycle or horse cart, and the reef starts a few fin-kicks off the beach. Green and hawksbill turtles graze the shallows off Gili Meno so reliably that a morning without a sighting is bad luck. Day trips from Bali exist but feel rushed; two nights lets you circle an island on foot, catch a Meno sunset with Bali's volcanoes on the horizon and take the classic snorkel-boat loop between all three reefs.", "image": { "query": "gili islands turtle snorkeling", "alt": "A sea turtle gliding over reef in the clear Gili shallows" } }
+  ],
+  "activities": [
+    { "id": "surf-lesson", "name": "Learn to surf in Kuta", "category": "Water", "blurb": "Mellow sandbar waves, warm water and coaches who get first-timers standing inside an hour.", "image": { "query": "surf lesson kuta beach bali", "alt": "Beginner surfers with boards on Kuta beach" } },
+    { "id": "atv-jungle", "name": "ATV through jungle & rivers", "category": "Adventure", "blurb": "Mud, rice-field tracks, river crossings and a gorilla-face cave tunnel on a quad bike near Ubud.", "image": { "query": "atv quad bike jungle bali", "alt": "Quad bikes splashing through a jungle river track" } },
+    { "id": "beach-club", "name": "Sunset at a beach club", "category": "Nightlife", "blurb": "Day beds, infinity pools and DJs from Potato Head to Finns — Bali's golden hour, bottled.", "image": { "query": "bali beach club sunset pool", "alt": "Infinity pool and sunset crowd at a Bali beach club" } },
+    { "id": "spa-day", "name": "Balinese spa ritual", "category": "Wellness", "blurb": "A two-hour flower-bath-and-massage ritual costs less here than a haircut back home.", "image": { "query": "balinese spa flower bath", "alt": "A frangipani-filled flower bath at a Balinese spa" } },
+    { "id": "cooking-class", "name": "Balinese cooking class", "category": "Food", "blurb": "Market run at dawn, then grind your own bumbu spice paste and cook a six-dish feast in a family compound.", "image": { "query": "balinese cooking class food", "alt": "Hands preparing spices at a Balinese cooking class" } },
+    { "id": "white-water", "name": "Ayung river rafting", "category": "Adventure", "blurb": "Class II–III rapids through a carved jungle gorge — big fun, zero experience needed.", "image": { "query": "ayung river rafting bali", "alt": "A raft crew paddling the Ayung river gorge" } }
+  ],
+  "trips": [
+    { "id": "classic-week", "title": "The classic first-timer week", "nights": 6, "route": [ { "place": "Kuta/Seminyak", "nights": 3 }, { "place": "Ubud", "nights": 3 } ], "summary": "Beaches, Uluwatu's fire dance and a beach-club sunset first; then waterfalls, rice terraces and temple mornings from Ubud. The proven shape of a first Bali trip — nothing missed, nothing rushed.", "priceFrom": "₹47,500", "image": { "query": "bali beach temple travel", "alt": "A Balinese temple gate opening onto green valley" } },
+    { "id": "island-hopper", "title": "Cliffs & islands adventure", "nights": 8, "route": [ { "place": "Uluwatu", "nights": 3 }, { "place": "Nusa Penida", "nights": 2 }, { "place": "Ubud", "nights": 3 } ], "summary": "Surf mornings and cliff temples in Uluwatu, two days living on Nusa Penida after the day-trippers sail home, and a green Ubud finale — the itinerary for second visits and photographers.", "priceFrom": "₹58,000", "image": { "query": "nusa penida cliff ocean", "alt": "Turquoise coves under Nusa Penida's cliffs" } },
+    { "id": "honeymoon", "title": "Slow luxury honeymoon", "nights": 7, "route": [ { "place": "Ubud", "nights": 3 }, { "place": "Seminyak", "nights": 4 } ], "summary": "Private-pool villas both ends, a flower-bath spa ritual, one volcano sunrise for the story, and long unscheduled afternoons — Bali at honeymoon pace, where the villa is the destination.", "priceFrom": "₹72,000", "image": { "query": "bali private pool villa jungle", "alt": "A private infinity pool villa facing the jungle" } }
+  ],
+  "faqs": [
+    { "q": "Do Indians need a visa for Bali?", "a": "A visa on arrival — IDR 500,000, about ₹2,600 — is stamped at the airport for stays up to 30 days and can be extended once. Buying the e-VOA online before flying skips the counter queue." },
+    { "q": "Which part of Bali should I stay in?", "a": "Split the trip: one beach base (Seminyak for polish, Canggu for surf-and-café energy, Uluwatu for cliffs and quiet) plus Ubud for the green interior. Two bases beat day-tripping everything from one." },
+    { "q": "Is Bali good for vegetarians?", "a": "Excellent — Ubud in particular is one of Asia's best plant-based food towns, and Indian restaurants exist in every hub. Ask for dishes without terasi (shrimp paste) when ordering local food." },
+    { "q": "Is the wet season a bad time to go?", "a": "Not necessarily. Rain comes as afternoon bursts and the island turns spectacularly green, with hotel rates at their softest. Skip it only if boat days and long treks are the heart of your plan." },
+    { "q": "How do I get around?", "a": "Hire a private driver (₹2,500–3,500 per day) for sightseeing days, use GoJek or Grab for short hops, and ride a scooter only if you genuinely ride at home. Distances look short but journeys are slow." }
+  ]
+}

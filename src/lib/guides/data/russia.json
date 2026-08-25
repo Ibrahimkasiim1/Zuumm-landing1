@@ -1,0 +1,120 @@
+{
+  "slug": "russia",
+  "name": "Russia",
+  "displayName": "Russia",
+  "country": "Russia",
+  "region": "europe",
+  "flag": "🇷🇺",
+  "tagline": "Gilded domes, midnight metros, imperial winters.",
+  "overview": "Russia deals in scale. Moscow's Red Square feels less like a plaza than a stage set for history — St. Basil's swirling domes on one side, the Kremlin's fortress walls on the other, and a metro underneath whose stations out-decorate most palaces. Six hundred kilometres north, St. Petersburg plays the European counterweight: canals, pastel facades, white nights that keep the sky silver past midnight, and the Hermitage holding three million works inside the tsars' Winter Palace. Indian travellers currently have an unusually smooth door in — the e-visa arrives in days, and Moscow remains well connected by one-stop flights. Winter is the aesthetic the country was designed for: fur hats, steaming metro exits, ballet season in full voice. Summer answers with river cruises and the palace fountains of Peterhof at full pressure. Either way, carry cash-backed cards and patience for formalities; the payoff is one of travel's grandest stages.",
+  "heroAlt": "St. Basil's Cathedral glowing over a snow-dusted Red Square",
+  "heroImage": {
+    "query": "st basils cathedral red square moscow",
+    "alt": "The painted domes of St. Basil's Cathedral on Red Square",
+    "candidates": ["https://images.unsplash.com/photo-1513326738677-b964603b136d"]
+  },
+  "quickFacts": {
+    "capital": "Moscow",
+    "currency": { "code": "RUB", "name": "Russian rouble", "inr": "₽1 ≈ ₹1.05" },
+    "languages": ["Russian", "limited English outside hotels"],
+    "timezone": "Moscow GMT+3 · 2½ hrs behind IST",
+    "flightFromIndia": "≈6–8 hrs from Delhi to Moscow, non-stop or one stop",
+    "plug": "Type C/F · 220V — Indian round-pin plugs mostly fit",
+    "sim": "MTS or Beeline tourist SIM ≈₹800 for 20GB — buy at official stores with your passport; foreign cards don't top up online"
+  },
+  "visa": {
+    "type": "evisa",
+    "headline": "E-visa · 16 days, issued in about 4 days",
+    "body": "Indian passport holders apply online for a unified e-visa — form, photo and passport scan, no consulate visit — valid for stays up to 16 days. Longer trips need the traditional visa with an invitation voucher your hotel or operator supplies. Carry printed confirmations and register your stay through your hotel, which handles it automatically.",
+    "cost": "≈$52 (₹4,500)",
+    "processing": "Usually 4 calendar days"
+  },
+  "weather": {
+    "summary": "A continental climate with the volume turned up: proper snowbound winters from November to March, short glorious summers, and St. Petersburg's famous white nights around the June solstice. Both capitals are built for winter — heated everything — so the cold is scenery more than obstacle if you dress for it.",
+    "bestTime": "May – June & September; December – February for the winter spectacle",
+    "seasons": [
+      { "label": "White-night summer", "months": "May – Aug", "temp": "15–28°C", "notes": "Peterhof's fountains on, river cruises running, and St. Petersburg barely darkening in June — peak season with reason.", "tone": "high" },
+      { "label": "Golden autumn", "months": "Sep – Oct", "temp": "5–15°C", "notes": "Parks turn amber, museum queues shorten, hotel rates soften. The photographer's pick before the grey sets in.", "tone": "shoulder" },
+      { "label": "Deep winter", "months": "Nov – Mar", "temp": "-15 – -2°C", "notes": "Snow-globe Moscow, ballet season, frozen canals — magnificent and cold. November's grey slush start is the only stretch to skip.", "tone": "low" }
+    ]
+  },
+  "booking": {
+    "high": "June – July (white nights), plus New Year week",
+    "low": "November & late January – March",
+    "note": "White-nights St. Petersburg books out months ahead — reserve hotels before flights. February gives the full winter postcard with the best rates; buy Bolshoi and Mariinsky tickets on the official sites weeks early at half the resale price."
+  },
+  "idealDuration": {
+    "nights": "7 – 8",
+    "note": "Three or four nights per capital, linked by the four-hour Sapsan train, fits the e-visa window with a day to spare for Peterhof or Sergiev Posad."
+  },
+  "budget": {
+    "perDay": [
+      { "tier": "Smart", "inr": "₹5,500 – 9,000" },
+      { "tier": "Comfort", "inr": "₹11,000 – 18,000" },
+      { "tier": "Luxe", "inr": "₹30,000+" }
+    ],
+    "note": "Per person per day — the rouble makes Russia cheaper than Western Europe at every tier. Bring Union Pay or cash to convert: Indian Visa/Mastercard cards do not work in Russia, and this single fact shapes trip logistics."
+  },
+  "safety": {
+    "score": 3,
+    "headline": "The capitals are orderly and heavily policed; the practical frictions are financial and bureaucratic",
+    "tips": [
+      "Indian debit and credit cards don't work — carry US dollars or euros in cash to exchange, or a Union Pay card, and budget fully in advance.",
+      "Check MEA travel advisories when booking; geopolitics can shift flight routes and insurance validity.",
+      "Carry your passport (or notarised copy) at all times — document checks are routine and legal.",
+      "Use Yandex Go for taxis; street hails overcharge tourists as sport.",
+      "Photographing anything military, and drone use anywhere, invites real trouble — don't.",
+      "Petty theft is modest but active on the metro and around tourist choke points; standard big-city habits apply."
+    ]
+  },
+  "goodToKnow": [
+    "Google Pay, Indian cards and many Western apps don't function — load Yandex Maps and Yandex Go before arrival and carry cash for everything.",
+    "The Moscow metro is a destination: Komsomolskaya's chandeliers, Mayakovskaya's mosaics — ride line 5's ring with ₹60 tickets for the world's cheapest palace tour.",
+    "Tipping around 10% in restaurants is appreciated, in cash even when paying the bill by other means.",
+    "Both capitals' museums close one day a week (Hermitage: Mondays) — build the museum days first, everything else after.",
+    "Learn the Cyrillic alphabet on the flight; being able to sound out 'ресторан' and metro stations transforms the trip.",
+    "Dress codes at churches are enforced: covered heads for women at Orthodox sites, no shorts inside cathedrals.",
+    "The Sapsan high-speed train beats flying between the capitals — book seats on the official RZD site with your passport number.",
+    "Indian food is plentiful in both cities — a legacy of decades of exchange — and vegetarian options exist but ask about hidden meat stock in soups."
+  ],
+  "cities": [
+    { "id": "moscow", "name": "Moscow", "blurb": "The power capital: Red Square and the Kremlin, Stalin's skyscraper crown, palace metro stations and a skyline that swings between onion domes and glass towers.", "image": { "query": "moscow kremlin river night", "alt": "The Kremlin and Moskva river lit at night" } },
+    { "id": "st-petersburg", "name": "St. Petersburg", "blurb": "Russia's window on Europe — canals, the Hermitage, blood-and-gold churches and white nights when the sun barely bothers to set.", "image": { "query": "church savior spilled blood st petersburg", "alt": "The Church of the Savior on Spilled Blood above its canal" } },
+    { "id": "peterhof", "name": "Peterhof", "blurb": "The tsars' answer to Versailles: 140 gilded fountains cascading to the Baltic, best reached by hydrofoil from the Hermitage embankment.", "image": { "query": "peterhof palace grand cascade fountains", "alt": "The Grand Cascade's gilded fountains at Peterhof" } },
+    { "id": "golden-ring", "name": "The Golden Ring", "blurb": "Suzdal and Sergiev Posad's onion-domed monasteries and wooden izbas — medieval Russia preserved a day trip from Moscow.", "image": { "query": "suzdal golden ring churches", "alt": "Blue-and-gold domes above the meadows of Suzdal" } },
+    { "id": "kazan", "name": "Kazan", "blurb": "Where Europe meets the Tatar world: a white-walled kremlin holding both a cathedral and one of Europe's largest mosques, plus the country's best food scene per rouble.", "image": { "query": "kazan kremlin kul sharif mosque", "alt": "Kul Sharif Mosque inside the Kazan Kremlin" } },
+    { "id": "lake-baikal", "name": "Lake Baikal", "blurb": "The planet's deepest lake — sapphire ice caves in March, shamanic Olkhon Island in summer, and the Trans-Siberian rolling past its southern shore.", "image": { "query": "lake baikal blue ice winter", "alt": "Turquoise ice sheets stacked on frozen Lake Baikal" } }
+  ],
+  "highlights": [
+    { "id": "red-square", "rank": 1, "name": "Red Square & St. Basil's", "category": "Icon", "blurb": "History's parade ground: the swirling cathedral, the Kremlin wall, GUM's lit arcades — go twice, once by day and once at night.", "detail": "Nothing prepares you for how theatrical it is in person. Enter from the north through Resurrection Gate for the full reveal: St. Basil's carnival domes dead ahead, Lenin's mausoleum against the Kremlin wall, GUM's 19th-century galleria glowing along the east side. Interiors are worth splitting across visits — St. Basil's is a maze of tiny painted chapels rather than one grand hall. Come back after dark when floodlights and GUM's fairy lights turn the whole square cinematic; winter adds a skating rink and Christmas market. The mausoleum opens limited mornings, free, with airport-style checks.", "image": { "query": "red square night gum illuminations", "alt": "Red Square at night with GUM's illuminated facade" } },
+    { "id": "hermitage", "rank": 2, "name": "The Hermitage", "category": "Culture", "blurb": "Three million works inside the Winter Palace — Rembrandts, two Leonardos, and staterooms that outshine the art.", "detail": "The world's second-largest museum occupies the tsars' actual palace, which is the trick of it: between the Rembrandt room and the Matisse wing you cross throne rooms, malachite halls and the Jordan Staircase's gold-and-marble avalanche. Book timed tickets online, enter at opening, and walk the state rooms first before the tour wave. The essential circuit — staterooms, Italian masters, the Peacock Clock's automaton — takes three focused hours; the General Staff building across the square holds the Impressionists and is criminally undervisited. Closed Mondays. Wednesday and Friday evening openings are the connoisseur's quiet slot.", "image": { "query": "hermitage winter palace jordan staircase", "alt": "The gilded Jordan Staircase inside the Winter Palace" } },
+    { "id": "moscow-metro", "rank": 3, "name": "Moscow metro palaces", "category": "Culture", "blurb": "Chandeliers, mosaics and bronze at 40 metres underground — the Soviet Union's most beautiful public works, fare ₹60.", "detail": "Stalin ordered 'palaces for the people' and the metro delivered: Komsomolskaya's baroque yellow vaults, Mayakovskaya's steel arches and ceiling mosaics of Soviet skies, Ploshchad Revolyutsii's 76 bronze figures — rub the border guard dog's nose for luck like every Muscovite does. Ride the brown Circle line (line 5) and hop out at each stop; the whole self-tour takes ninety minutes and one flat fare if you never exit the gates. Go after 10:30am or after 8pm to photograph without commuter rivers. The stations are cathedral-quiet, spotless, with trains every 90 seconds — infrastructure as national theatre.", "image": { "query": "komsomolskaya metro station moscow", "alt": "Chandeliers along Komsomolskaya station's yellow vaulted hall" } },
+    { "id": "kremlin", "rank": 4, "name": "Inside the Kremlin", "category": "Culture", "blurb": "Cathedral Square's golden domes, the tsars' coronation church and the Armoury's Fabergé hoard behind the red walls.", "detail": "The fortress on the hill is a compound of working government and 500-year-old cathedrals. General tickets open Cathedral Square: the Assumption Cathedral where tsars were crowned, Archangel Michael's where they're buried, and the broken giants — the 200-tonne Tsar Bell and never-fired Tsar Cannon. The Armoury needs a separate timed ticket and rewards it: coronation gowns, carriages, and ten imperial Fabergé eggs. Book both online days ahead (passport required), allow three hours, and note Thursdays closed. The river-side view of the ensemble from Sofiyskaya embankment at dusk is Moscow's best free photograph.", "image": { "query": "kremlin cathedral square golden domes", "alt": "Golden domes of Cathedral Square inside the Kremlin" } },
+    { "id": "bolshoi", "rank": 5, "name": "A night at the Bolshoi", "category": "Culture", "blurb": "Swan Lake under six tiers of gold and red velvet — Russia's defining art form in its home theatre.", "detail": "Ballet was perfected here, and seeing it in the Bolshoi's historic hall — rebuilt to imperial specification, crowned by a three-tonne chandelier — is a bucket-list evening even for newcomers to dance. Buy only on the official site, where tickets release about three months out and cost a fraction of resale; the Historic Stage is the one you want, and modest side-balcony seats still deliver the spectacle. No jeans-and-sneakers: Muscovites dress, and joining them is part of the pleasure. In St. Petersburg the Mariinsky offers the equally storied alternative. Champagne at the interval buffet is the mandatory ritual.", "image": { "query": "bolshoi theatre interior gold", "alt": "The Bolshoi Theatre's gold-and-red historic auditorium" } },
+    { "id": "spilled-blood", "rank": 6, "name": "Church of the Savior on Spilled Blood", "category": "Icon", "blurb": "7,500 square metres of mosaic inside Russia's most photogenic church, built where a tsar fell.", "detail": "Raised on the exact spot of Alexander II's 1881 assassination, the church out-Basil's St. Basil's: a fever of patterned domes over a Griboyedov canal that exists to reflect them. The surprise is inside — walls and vaults sheathed almost entirely in mosaic, the largest such ensemble in the world, glowing like a jewel box on grey days. Queue-skipping timed tickets are worth it in summer; closed Wednesdays. The canal-side angle from Italianskaya bridge owns the postcard, and winter dusk — domes against violet snow-light — is the photograph you came to Russia for. Nevsky Prospekt is two minutes away for the walk-on crowd.", "image": { "query": "savior spilled blood mosaics interior", "alt": "Mosaic-covered vaults inside the Church on Spilled Blood" } },
+    { "id": "peterhof-fountains", "rank": 7, "name": "Peterhof's Grand Cascade", "category": "Icon", "blurb": "64 fountains and a gilded Samson tearing open a lion's jaws, firing seawards without a single pump.", "detail": "Peter the Great's Baltic Versailles runs entirely on 18th-century gravity: spring water falls 20 metres through the estate to power the Grand Cascade's gold statuary and the 20-metre Samson jet. Fountains operate mid-May to mid-October, with a small ceremony at the 11am daily start — arrive for it via the summer hydrofoil from the Hermitage embankment, thirty minutes across the gulf. The Lower Park's trick fountains ambush children on schedule; the palace interior needs a separate ticket most visitors happily skip for more garden. Off-season the dry cascade still photographs grandly, but this is fundamentally a summer spectacular.", "image": { "query": "peterhof samson fountain grand cascade", "alt": "The gilded Samson fountain firing at Peterhof" } },
+    { "id": "white-nights", "rank": 8, "name": "White nights & the raising bridges", "category": "Scenic", "blurb": "In June the St. Petersburg sky never blackens — and at 1am the Neva's bridges rise for the ships while the city watches.", "detail": "For six weeks around the solstice, twilight simply hands over to dawn, and the city responds by not going to bed: concerts, canal boats at midnight, crowds strolling the embankments in silver light. The nightly theatre is the bridge raising — Palace Bridge splits at 1:10am, framing the Peter and Paul fortress spire between its halves, best seen from a late river cruise or the Strelka point. Mind the practicalities: bridges stay up till dawn and cut the city in two, so sleep on the side of the river your hotel is on. The Scarlet Sails graduation festival in late June is the season's fireworks-and-tall-ship crescendo.", "image": { "query": "palace bridge raised white nights neva", "alt": "Palace Bridge raised over the Neva in white-night twilight" } },
+    { "id": "sergiev-posad", "rank": 9, "name": "Sergiev Posad monastery", "category": "Culture", "blurb": "The Vatican of Russian Orthodoxy — star-spangled blue domes, chanting monks and pilgrim queues, 90 minutes from Moscow.", "detail": "The Trinity Lavra of St. Sergius has anchored Russian faith since 1337, and it functions today at full liturgical strength: black-robed monks, incense drifting out of the Trinity Cathedral where pilgrims queue past the saint's silver shrine, and the Assumption Cathedral's blue star-spangled domes photographing like a fairytale. Reach it by suburban express from Yaroslavsky station — the easiest Golden Ring taste without an overnight. Women should carry a headscarf, and photography inside working churches is restricted; the monastery bakery's fresh pryaniki and the holy-water fountain are the pilgrim rituals everyone joins. Half a day covers it richly.", "image": { "query": "sergiev posad lavra blue domes", "alt": "Star-covered blue domes at Sergiev Posad's monastery" } },
+    { "id": "baikal-ice", "rank": 10, "name": "Lake Baikal's blue ice", "category": "Nature", "blurb": "In March the world's deepest lake freezes into turquoise glass — cracked, bubbled, metre-thick and drivable.", "detail": "Baikal holds a fifth of Earth's fresh water, and from late January to early April it seals under ice so clear that frozen methane bubbles hang in it like ornaments. March is the sweet spot: thick, safe ice, longer days, hovercraft and jeep tours running from Listvyanka and Olkhon Island to grottoes hung with icicles. Getting there is the commitment — a six-hour flight from Moscow to Irkutsk, then ninety minutes by road — which is exactly why it stays magnificent and uncrowded. Go only with local operators who read the ice daily. Summer Baikal offers Olkhon's shamanic capes and swimming for the brave; the ice is the once-in-a-lifetime version.", "image": { "query": "baikal ice bubbles turquoise", "alt": "Methane bubbles frozen into Baikal's clear blue ice" } }
+  ],
+  "activities": [
+    { "id": "canal-cruise", "name": "St. Petersburg canal cruise", "category": "Scenic", "blurb": "The Venice-of-the-North angle: palaces sliding past from low on the water, midnight departures in white-nights season.", "image": { "query": "st petersburg canal boat palaces", "alt": "A cruise boat on a St. Petersburg canal between palaces" } },
+    { "id": "banya", "name": "Traditional Russian banya", "category": "Wellness", "blurb": "Steam, birch-branch venik massage and the plunge pool — Moscow's 19th-century Sanduny baths run the definitive session.", "image": { "query": "russian banya sanduny baths", "alt": "The ornate interior of a historic Russian bathhouse" } },
+    { "id": "vodka-tasting", "name": "Vodka & zakuski tasting", "category": "Food", "blurb": "The national spirit taught properly — chilled, sipped, and always with pickles, black bread and salted fish between.", "image": { "query": "vodka zakuski russian table", "alt": "Vodka glasses with traditional Russian zakuski snacks" } },
+    { "id": "winter-troika", "name": "Winter park skating & troika rides", "category": "Adventure", "blurb": "Gorky Park's giant frozen paths and horse-drawn sleighs in the estates — Moscow's winter played at full volume.", "image": { "query": "gorky park ice skating winter", "alt": "Skaters on Gorky Park's illuminated winter rink" } },
+    { "id": "soviet-tour", "name": "Soviet Moscow tour", "category": "Culture", "blurb": "Bunker-42's Cold War tunnels, VDNKh's space-age pavilions and the Seven Sisters — the USSR as open-air museum.", "image": { "query": "vdnkh moscow soviet pavilion", "alt": "The grand Soviet pavilions and fountain at VDNKh" } },
+    { "id": "trans-siberian", "name": "A Trans-Siberian leg", "category": "Adventure", "blurb": "Ride a slice of the world's greatest railway — Moscow to Kazan overnight, or the full four-day push to Baikal.", "image": { "query": "trans siberian railway train russia", "alt": "The Trans-Siberian train crossing a birch-lined landscape" } }
+  ],
+  "trips": [
+    { "id": "two-capitals", "title": "The two capitals", "nights": 7, "route": [ { "place": "Moscow", "nights": 4 }, { "place": "St. Petersburg", "nights": 3 } ], "summary": "Red Square by night, the Kremlin and metro palaces, a Bolshoi evening — then the Sapsan north for the Hermitage, Spilled Blood and a midnight canal cruise. The definitive first Russia, sized exactly to the 16-day e-visa's comfort zone.", "priceFrom": "₹1,55,000", "image": { "query": "moscow st petersburg landmarks", "alt": "St. Basil's domes rising over Red Square" } },
+    { "id": "white-nights-run", "title": "White nights summer", "nights": 6, "route": [ { "place": "St. Petersburg", "nights": 4 }, { "place": "Moscow", "nights": 2 } ], "summary": "June's silver skies: Peterhof's fountains by hydrofoil, the Hermitage on a late-opening evening, Scarlet Sails energy on the embankments and the 1am bridge raising — with a two-night Moscow coda. Book hotels first; the season sells the city out.", "priceFrom": "₹1,70,000", "image": { "query": "peterhof fountains summer gold", "alt": "Gilded fountains blazing in Peterhof's summer light" } },
+    { "id": "winter-baikal", "title": "Winter spectacle & Baikal ice", "nights": 9, "route": [ { "place": "Moscow", "nights": 3 }, { "place": "Irkutsk/Baikal", "nights": 4 }, { "place": "Moscow", "nights": 2 } ], "summary": "Snow-globe Moscow and a banya initiation, then east to walk Baikal's turquoise March ice — grottoes, hovercrafts, Olkhon Island — returning for a Bolshoi finale. Russia's two greatest winter sights in one ambitious, unforgettable arc.", "priceFrom": "₹2,25,000", "image": { "query": "lake baikal ice cave winter", "alt": "An ice grotto hung with icicles on frozen Baikal" } }
+  ],
+  "faqs": [
+    { "q": "How does the e-visa work for Indians?", "a": "Apply online with a photo and passport scan — no consulate visit, roughly four days' processing, ₹4,500, valid for stays up to 16 days. It covers both capitals and most tourist regions. Longer itineraries need the classic visa with a hotel invitation voucher." },
+    { "q": "Will my cards work in Russia?", "a": "No — Indian Visa and Mastercard cards don't function there. Carry US dollars or euros in cash to exchange (banks and official kiosks only), or a Union Pay card from an Indian bank. Budget the whole trip in advance; this is the single most important practical fact." },
+    { "q": "Is it safe to visit right now?", "a": "Moscow and St. Petersburg remain orderly, heavily policed and far from conflict zones, and tourism operates normally. Check MEA advisories and confirm your travel insurance covers Russia before booking, carry documents at all times, and keep clear of political gatherings and military subjects." },
+    { "q": "Winter or white nights?", "a": "White nights (June) for fountains, cruises and 20-hour light; deep winter (December–February) for the snow-globe aesthetic, ballet season and half the crowds. Avoid November and early spring — grey slush without either payoff." },
+    { "q": "Is language a problem?", "a": "Less than feared. Metro signage is bilingual, Yandex apps handle taxis and translation, and hotel staff speak English. Learning Cyrillic's 33 letters on the flight over — an hour's effort — upgrades the whole trip from decoding to reading." }
+  ]
+}

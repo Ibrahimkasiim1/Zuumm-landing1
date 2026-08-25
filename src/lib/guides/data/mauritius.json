@@ -1,0 +1,450 @@
+{
+  "slug": "mauritius",
+  "name": "Mauritius",
+  "displayName": "Mauritius",
+  "country": "Mauritius",
+  "region": "africa",
+  "flag": "🇲🇺",
+  "tagline": "Turquoise lagoons, rum estates, sega-lit evenings.",
+  "overview": "Mauritius is the rare long-haul island that feels half-familiar the moment you land. Nearly seventy percent of the population traces its roots to India, so dholl puri stalls, temple towers and Bhojpuri phrases sit alongside French patisseries and Creole fishing villages — all ringed by a lagoon so consistently calm that toddlers paddle where the reef breaks a kilometre out. The interior is the surprise: sugarcane in every direction, a crater lake sacred to Shiva, gorges full of endemic birds, and hills that turn seven shades of ochre at Chamarel. Distances are tiny — nothing is more than ninety minutes from anything else — which means one well-placed base can cover the whole island, though two is better. For Indian travellers the sums work: no visa fee, direct flights from Mumbai in about six hours, and resort rates that undercut the Maldives while throwing in mountains, markets and a real country to explore.",
+  "heroAlt": "Le Morne Brabant mountain rising over a turquoise lagoon in southwest Mauritius",
+  "heroImage": {
+    "query": "le morne brabant mauritius lagoon",
+    "alt": "Le Morne Brabant peninsula with its flat-topped mountain and turquoise lagoon"
+  },
+  "quickFacts": {
+    "capital": "Port Louis",
+    "currency": {
+      "code": "MUR",
+      "name": "Mauritian rupee",
+      "inr": "Rs 1 ≈ ₹2.05"
+    },
+    "languages": [
+      "English (official)",
+      "French",
+      "Mauritian Creole",
+      "Hindi/Bhojpuri widely understood"
+    ],
+    "timezone": "GMT+4 · 1½ hrs behind IST",
+    "flightFromIndia": "≈6–6½ hrs non-stop from Mumbai; one-stop from Delhi, Bengaluru and Chennai",
+    "plug": "Type C & G · 230V — carry a G adapter for Indian plugs",
+    "sim": "my.t or Emtel tourist SIM at the airport, about ₹800 for 15–30GB; eSIMs from ₹600"
+  },
+  "visa": {
+    "type": "visa-free",
+    "headline": "Visa-free · 60 days on arrival",
+    "body": "Indian passport holders are stamped in free of charge for up to 60 days as tourists. Carry a passport valid six months beyond your dates, a return ticket, hotel confirmation and proof of funds — immigration does occasionally ask. Extensions up to six months in a year are possible at the Passport and Immigration Office in Port Louis.",
+    "cost": "Free",
+    "processing": "At the immigration counter on arrival, usually 10–20 minutes"
+  },
+  "weather": {
+    "summary": "Mild tropical with reversed southern-hemisphere seasons: warm humid summer November to April, dry breezy winter May to October. The east coast catches the trade winds June to August, the west and north stay sheltered year-round, and cyclone systems can pass through between January and March.",
+    "bestTime": "May – December",
+    "seasons": [
+      {
+        "label": "Spring–early summer",
+        "months": "Sep – Dec",
+        "temp": "22–29°C",
+        "notes": "Warm, dry and calm on every coast — the island at its photogenic best, and priced accordingly from October.",
+        "tone": "high"
+      },
+      {
+        "label": "Winter",
+        "months": "May – Aug",
+        "temp": "17–25°C",
+        "notes": "Cool evenings and a windy east coast, but sunny days, whale sightings off Tamarin and the year's softest hotel rates.",
+        "tone": "shoulder"
+      },
+      {
+        "label": "Late summer",
+        "months": "Jan – Mar",
+        "temp": "25–31°C",
+        "notes": "Hot, humid and cyclone-watch season. Rain comes in bursts and resorts discount, but boat days can get cancelled.",
+        "tone": "low"
+      }
+    ]
+  },
+  "booking": {
+    "high": "Oct – Dec, plus the Christmas–New Year fortnight and Easter week",
+    "low": "Feb – Mar and Jun",
+    "note": "The Christmas fortnight sells out by September and doubles in price. September and early October give you high-season weather before high-season rates kick in — book flights 60–90 days out for the best non-stop fares from Mumbai."
+  },
+  "idealDuration": {
+    "nights": "6 – 8",
+    "note": "Six nights covers one coastal base plus the Chamarel–Black River interior and a catamaran day. Add two more to split between the lively north and the scenic southwest."
+  },
+  "budget": {
+    "perDay": [
+      {
+        "tier": "Smart",
+        "inr": "₹6,000 – 9,000"
+      },
+      {
+        "tier": "Comfort",
+        "inr": "₹10,000 – 18,000"
+      },
+      {
+        "tier": "Luxe",
+        "inr": "₹28,000+"
+      }
+    ],
+    "note": "Per person per day. Guesthouses and self-catering apartments keep the Smart tier honest; the Comfort tier buys a 4-star half-board resort in shoulder season. All-inclusive 5-stars start around ₹22,000 a night for two outside peak."
+  },
+  "safety": {
+    "score": 5,
+    "headline": "One of the safest island destinations for Indian travellers, solo women included",
+    "tips": [
+      "Petty theft is the main risk — don't leave phones and bags unattended on public beaches like Flic-en-Flac and Mont Choisy.",
+      "Swim inside the lagoon; currents beyond the reef break are serious, and some public beaches have no lifeguards.",
+      "If you self-drive, watch for unlit cyclists and dogs on rural roads after dark; driving is on the left, as in India.",
+      "Use fixed-price airport taxi counters or pre-booked transfers — street taxis quote tourist rates and meters are rare.",
+      "During cyclone alerts (Jan–Mar), follow your hotel's class warnings; Class III means stay indoors, and everything closes.",
+      "Mosquitoes are a nuisance rather than a malaria risk — repellent at dusk is enough."
+    ]
+  },
+  "goodToKnow": [
+    "Cards work almost everywhere, but keep about Rs 2,000–3,000 in cash for markets, roadside dholl puri stalls and small taxis.",
+    "There's no Uber — use the Yugo app, hotel taxi desks, or agree fares upfront; a full-day private driver runs about ₹6,000–7,500.",
+    "Indian driving licences are valid, rentals start around ₹2,500 a day, and roads are excellent — self-driving is the cheapest way to see the island.",
+    "Tipping isn't expected; rounding up or 5–10% at restaurants is appreciated, not assumed.",
+    "Vegetarians eat effortlessly — dholl puri, gateaux piments, seven-curry banana-leaf meals and plenty of Indian restaurants in every town.",
+    "Maha Shivaratri (Feb/Mar) sends hundreds of thousands of pilgrims walking to Ganga Talao — roads jam for days, and it's spectacular to witness.",
+    "Shops shut early — most towns wind down by 6pm and much of the island rests on Sunday; plan market visits for weekday mornings.",
+    "The east coast is glorious October to May but wind-blasted June to August — pick the north or west coast for a winter trip."
+  ],
+  "cities": [
+    {
+      "id": "grand-baie",
+      "name": "Grand Baie",
+      "blurb": "The island's liveliest hub in the sheltered north: restaurants, bazaars, nightlife and calm swimming beaches like Mont Choisy, with boat trips to the northern islets leaving from its bay every morning.",
+      "image": {
+        "query": "grand baie mauritius bay boats",
+        "alt": "Boats moored in the turquoise bay at Grand Baie"
+      }
+    },
+    {
+      "id": "flic-en-flac",
+      "name": "Flic-en-Flac",
+      "blurb": "A long casuarina-backed beach on the sunny west coast with the island's best sunsets, easy snorkelling, mid-range hotels and quick access to Tamarin's dolphins and the Chamarel hills.",
+      "image": {
+        "query": "flic en flac beach sunset mauritius",
+        "alt": "Sunset over the long sandy beach at Flic-en-Flac"
+      }
+    },
+    {
+      "id": "le-morne",
+      "name": "Le Morne",
+      "blurb": "The dramatic southwest peninsula beneath the UNESCO-listed mountain — luxury resorts, the island's best kitesurfing lagoon, and honeymoon territory where the sunsets land directly behind the peak.",
+      "image": {
+        "query": "le morne peninsula resorts mauritius",
+        "alt": "Le Morne Brabant mountain towering over the peninsula's beaches"
+      }
+    },
+    {
+      "id": "belle-mare",
+      "name": "Belle Mare",
+      "blurb": "The east coast's postcard stretch: powder-white sand, a vast pale lagoon and a string of five-star resorts. Quiet by design — ideal October to May, breezy in midwinter.",
+      "image": {
+        "query": "belle mare beach mauritius lagoon",
+        "alt": "White sand and shallow turquoise lagoon at Belle Mare"
+      }
+    },
+    {
+      "id": "port-louis",
+      "name": "Port Louis",
+      "blurb": "The compact harbour capital, best as a day trip: the Central Market's food stalls, the UNESCO-listed Aapravasi Ghat, Chinatown, and the Caudan Waterfront. Buzzing on weekday mornings, asleep by evening.",
+      "image": {
+        "query": "port louis caudan waterfront mauritius",
+        "alt": "Caudan Waterfront and harbour in Port Louis with mountains behind"
+      }
+    },
+    {
+      "id": "blue-bay",
+      "name": "Blue Bay & Mahébourg",
+      "blurb": "The unhurried southeast — a marine park with the island's clearest snorkelling, the old Dutch-era town of Mahébourg and its Monday market, ten minutes from the airport and decades from the resort crowds.",
+      "image": {
+        "query": "blue bay marine park mauritius",
+        "alt": "Clear shallow water over coral at Blue Bay Marine Park"
+      }
+    }
+  ],
+  "highlights": [
+    {
+      "id": "le-morne-brabant",
+      "rank": 1,
+      "name": "Le Morne Brabant",
+      "category": "Landmark",
+      "blurb": "The flat-topped UNESCO mountain guarding the southwest corner — a moving monument to escaped slaves, a superb sunrise hike and the backdrop to the island's most photographed lagoon.",
+      "detail": "Book a guided sunrise hike starting around 6am; the lower trail is free and easy, but the final scramble to the 556m summit needs a guide and decent shoes, and the whole round trip takes three to four hours before the heat builds. The famous 'underwater waterfall' illusion beside the peninsula only reads from the air — a 15-minute seaplane or helicopter circuit from ₹14,000 is the one splurge that justifies itself. Combine the morning hike with an afternoon at the public beach on the peninsula's west side, where kitesurfers work the One Eye break and sunset lands straight behind the mountain.",
+      "image": {
+        "query": "le morne brabant summit trail view",
+        "alt": "View over the turquoise lagoon from the Le Morne Brabant hiking trail"
+      }
+    },
+    {
+      "id": "ile-aux-cerfs",
+      "rank": 2,
+      "name": "Île aux Cerfs",
+      "category": "Beach",
+      "blurb": "The east coast's celebrity islet — sandbars, shallow swimming lagoons and watersports, reached by a ten-minute speedboat from Trou d'Eau Douce.",
+      "detail": "Go early: the first boats leave Trou d'Eau Douce around 9am, and by 11 the main beach fills with catamaran day-trippers. Speedboat transfers cost about ₹800–1,200 return, while full-day catamaran packages from ₹3,500 add a barbecue lunch and a stop at the Grande Rivière Sud-Est waterfall, where boats nose right up to the falls. Once ashore, walk ten minutes past the watersports counters to the sandbar on the northern tip for the postcard shallows with a fraction of the crowd. Parasailing and the Bernhard Langer golf course are the add-ons; October to May is the season, as winter trade winds chop the east.",
+      "image": {
+        "query": "ile aux cerfs sandbar mauritius",
+        "alt": "White sandbar and shallow lagoon at Île aux Cerfs"
+      }
+    },
+    {
+      "id": "chamarel-coloured-earth",
+      "rank": 3,
+      "name": "Chamarel Seven Coloured Earth",
+      "category": "Nature",
+      "blurb": "Rolling dunes of naturally striped volcanic earth in seven shades, paired with the 100-metre Chamarel waterfall viewpoint on the same ticket.",
+      "detail": "The geopark ticket, around ₹1,000, covers both the coloured dunes and the Chamarel waterfall lookout — the island's tallest single-drop fall, best photographed before 11am when the sun still lights the gorge. Arrive at opening (8:30am) to beat the tour buses, and don't skip the giant tortoise pen by the dunes. The colours themselves are subtle rather than psychedelic, so manage expectations and enjoy the drive instead: the road up from Case Noyale is a series of switchbacks with lagoon views the whole way. Fold it into a southwest loop with the Rhumerie de Chamarel for lunch and the Black River Gorges viewpoints ten minutes on.",
+      "image": {
+        "query": "seven coloured earth chamarel dunes",
+        "alt": "Striped red and purple volcanic dunes at Chamarel"
+      }
+    },
+    {
+      "id": "ganga-talao",
+      "rank": 4,
+      "name": "Ganga Talao (Grand Bassin)",
+      "category": "Culture",
+      "blurb": "A crater lake sacred to Mauritian Hindus, watched over by a 33-metre Shiva statue and temples where priests bless visitors regardless of faith.",
+      "detail": "Entry is free, and mornings are the time to come — mist often sits on the lake, monkeys patrol the shrine roofs, and the temples are quietly busy with local families rather than tour groups. The 33m Mangal Mahadev statue at the entrance is the tallest Shiva outside India, and water from the lake is considered connected to the Ganga, carried here ritually in 1972. Dress modestly and remove shoes at the temples. Visit during Maha Shivaratri (Feb/Mar) only if you want the spectacle: up to half the island's Hindu population walks here over several days, which is extraordinary to see but locks up the surrounding roads.",
+      "image": {
+        "query": "ganga talao shiva statue mauritius",
+        "alt": "The giant Shiva statue beside the sacred crater lake at Grand Bassin"
+      }
+    },
+    {
+      "id": "black-river-gorges",
+      "rank": 5,
+      "name": "Black River Gorges National Park",
+      "category": "Nature",
+      "blurb": "The island's wild green heart — 60km of trails through native forest, home to echo parakeets, flying foxes and the rescued Mauritius kestrel.",
+      "detail": "Entry is free and two roadside viewpoints — Gorges and Alexandra Falls — deliver the drama with zero effort, so even non-hikers should drive through on the Chamarel loop. For an actual walk, the Parakeet Trail from the Pétrin gate (about three hours down to the Black River visitor centre) runs through the best surviving native forest; arrange a pickup at the bottom or hike out-and-back from the top. Mornings are clearest — cloud sits on the plateau by early afternoon — and weekends bring picnicking local families to the lower park. Carry water and rain layers; the uplands run several degrees cooler than the coast.",
+      "image": {
+        "query": "black river gorges viewpoint mauritius",
+        "alt": "Forested gorge and distant waterfall from the Black River Gorges viewpoint"
+      }
+    },
+    {
+      "id": "port-louis-market",
+      "rank": 6,
+      "name": "Port Louis: Central Market & Aapravasi Ghat",
+      "category": "Culture",
+      "blurb": "The capital in a morning — a Victorian-era market running on dholl puri and alouda, plus the UNESCO immigration depot where half a million Indian workers first stepped ashore.",
+      "detail": "Come on a weekday and be done by lunch — Port Louis empties after office hours and bakes at midday. Start at the Central Market by 9am: eat dholl puri at the upstairs food stalls for about ₹40, drink an alouda, and browse the herb sellers who'll prescribe a tisane for anything. Walk ten minutes to the Aapravasi Ghat, the depot through which indentured labourers from India entered between 1834 and 1920 — for many Indian visitors, an unexpectedly personal half hour. Finish through Chinatown's faded shopfronts to the Caudan Waterfront for the craft market and the umbrella-canopy photo everyone takes.",
+      "image": {
+        "query": "port louis central market stalls",
+        "alt": "Fruit and vegetable stalls inside the Central Market, Port Louis"
+      }
+    },
+    {
+      "id": "pamplemousses-garden",
+      "rank": 7,
+      "name": "Pamplemousses Botanical Garden",
+      "category": "Nature",
+      "blurb": "A 250-year-old botanical garden famous for its pond of giant Amazon water lilies, avenues of palms and spice trees planted by French botanists.",
+      "detail": "Officially the Sir Seewoosagur Ramgoolam Botanical Garden, this is the oldest in the southern hemisphere, and it rewards a guide — hire one at the gate for about ₹600 and the anonymous trees become a tour of nutmeg, camphor, ylang-ylang and the talipot palm that flowers once in decades and dies. The giant water lilies are at their best in the warm months, November to April, with fresh leaves unfurling like trays. Entry is around ₹650 for foreigners; allow ninety minutes, come in the morning shade, and pair it with the north — Grand Baie is twenty minutes away, and the Château de Labourdonnais estate makes a good lunch stop.",
+      "image": {
+        "query": "pamplemousses giant water lilies pond",
+        "alt": "Giant Amazon water lily pads on the pond at Pamplemousses garden"
+      }
+    },
+    {
+      "id": "tamarin-dolphins",
+      "rank": 8,
+      "name": "Dolphins at Tamarin Bay",
+      "category": "Wildlife",
+      "blurb": "Spinner and bottlenose dolphins rest in the bay most mornings — swim alongside them on an early speedboat trip from the west coast.",
+      "detail": "Boats leave Tamarin and Black River between 6 and 7am because the pods rest in the bay after hunting all night and disperse by mid-morning; book the first departure, roughly ₹2,500–3,500 per person for a shared boat. Choose an operator that briefs on distance and doesn't chase — the sight of thirty spinners moving under you is better unforced. Most trips continue to Crystal Rock and the Île aux Bénitiers sandbank for snorkelling and a fruit stop, which turns the morning into a half-day. Seasickness-prone travellers should take a tablet; the swell outside the reef is real. July to September adds a bonus: humpback whales migrate past the same coast.",
+      "image": {
+        "query": "spinner dolphins tamarin bay mauritius",
+        "alt": "Spinner dolphins swimming in clear water off Tamarin Bay"
+      }
+    },
+    {
+      "id": "blue-bay-marine-park",
+      "rank": 9,
+      "name": "Blue Bay Marine Park",
+      "category": "Water",
+      "blurb": "The island's clearest snorkelling — a protected lagoon near the airport with dense coral gardens, including a brain coral estimated at over a thousand years old.",
+      "detail": "Skip the resort-lagoon snorkelling elsewhere and come here: the marine park's coral is the healthiest on the island, and visibility is best before noon. Glass-bottom boats from the public beach charge about ₹700–1,000 for a 90-minute trip with snorkelling time over the coral gardens; confident swimmers can also fin out from the beach's eastern end. Water shoes help on the entry. Being ten minutes from the airport, it slots naturally into your first or last day — pair it with Mahébourg's waterfront and, on Mondays, its excellent street market, or a guided walk on the Île aux Aigrettes nature reserve, where pink pigeons and giant tortoises have been brought back from the brink.",
+      "image": {
+        "query": "blue bay snorkelling coral mauritius",
+        "alt": "Snorkellers over coral gardens in the clear lagoon at Blue Bay"
+      }
+    },
+    {
+      "id": "rhumerie-de-chamarel",
+      "rank": 10,
+      "name": "Rhumerie de Chamarel",
+      "category": "Food & Drink",
+      "blurb": "A working estate distillery in the Chamarel hills — cane-to-cask tours, generous tastings and one of the island's best restaurant lunches.",
+      "detail": "The insider pick on the southwest loop. Tours run through the morning and early afternoon, about ₹1,300 with a guided walk past the crushers and copper stills, ending in a tasting of white, aged and liqueur rums — the coffee and vanilla liqueurs make better gifts than anything at the airport. Book a table at L'Alchimiste, the estate restaurant, for a long Creole-French lunch among the cane fields; it fills up with the 12:30 crowd, so reserve or arrive at noon. Visit during the July-to-December cane harvest to see the distillery actually running. Slot it between the Seven Coloured Earth and the Black River Gorges viewpoints and the whole day sequences itself.",
+      "image": {
+        "query": "rhumerie de chamarel distillery mauritius",
+        "alt": "Copper stills and cane fields at the Rhumerie de Chamarel distillery"
+      }
+    }
+  ],
+  "activities": [
+    {
+      "id": "catamaran-day-cruise",
+      "name": "Catamaran day cruise",
+      "category": "Water",
+      "blurb": "The definitive Mauritius day out — sail to the northern islets or Île aux Cerfs with snorkelling stops, an onboard barbecue and rum that starts flowing after lunch. Shared cruises from about ₹3,500.",
+      "image": {
+        "query": "catamaran sailing mauritius lagoon",
+        "alt": "White catamaran sailing over turquoise water off Mauritius"
+      }
+    },
+    {
+      "id": "casela-nature-park",
+      "name": "Casela Adventure Park",
+      "category": "Wildlife",
+      "blurb": "Safari drives past zebras and ostriches, giant tortoise encounters and a canyon zipline circuit in one west-coast park — the island's easy win for families. Entry from about ₹1,800.",
+      "image": {
+        "query": "casela park zebra safari mauritius",
+        "alt": "Zebras on the open safari plain at Casela park"
+      }
+    },
+    {
+      "id": "quad-biking-south",
+      "name": "Quad biking the wild south",
+      "category": "Adventure",
+      "blurb": "Ride quads or buggies through La Vallée des Couleurs or Frederica reserve — waterfalls, crater views and the untamed south coast where waves hit cliffs with no reef to soften them.",
+      "image": {
+        "query": "quad biking vallee des couleurs",
+        "alt": "Quad bikes on a red-earth trail in the hills of southern Mauritius"
+      }
+    },
+    {
+      "id": "street-food-trail",
+      "name": "Port Louis street food trail",
+      "category": "Food",
+      "blurb": "Eat the island's Indian-Creole soul in a morning — dholl puri, gateaux piments, boulettes in Chinatown and an alouda at the Central Market, guided or self-propelled for a few hundred rupees.",
+      "image": {
+        "query": "dholl puri street food mauritius",
+        "alt": "Dholl puri being folded at a Port Louis street stall"
+      }
+    },
+    {
+      "id": "resort-spa-day",
+      "name": "Spa afternoon by the lagoon",
+      "category": "Wellness",
+      "blurb": "Mauritian resorts do serious spas at gentler prices than the Maldives — book a couples' massage in a sea-facing pavilion from about ₹6,000, best on a windy east-coast winter day.",
+      "image": {
+        "query": "resort spa pavilion mauritius",
+        "alt": "Open-air spa pavilion facing the lagoon at a Mauritius resort"
+      }
+    },
+    {
+      "id": "tea-and-rum-route",
+      "name": "Tea and rum route",
+      "category": "Culture",
+      "blurb": "Follow the Route du Thé from the Bois Chéri tea estate — tastings above a crater lake — to vanilla gardens and colonial houses, finishing with aged rum at a hillside distillery.",
+      "image": {
+        "query": "bois cheri tea plantation mauritius",
+        "alt": "Tea pickers' rows at the Bois Chéri estate with hills behind"
+      }
+    }
+  ],
+  "trips": [
+    {
+      "id": "north-west-sampler",
+      "title": "North & West Sampler",
+      "nights": 5,
+      "route": [
+        {
+          "place": "Grand Baie",
+          "nights": 3
+        },
+        {
+          "place": "Flic-en-Flac",
+          "nights": 2
+        }
+      ],
+      "summary": "The efficient first-timer's run. Grand Baie for catamaran days, Pamplemousses and Port Louis mornings; then shift to the west coast for Tamarin's dolphins at dawn, the Chamarel loop and two proper sunset evenings on Flic-en-Flac beach before the short run back to the airport.",
+      "priceFrom": "₹78,000",
+      "image": {
+        "query": "mont choisy beach grand baie",
+        "alt": "Casuarina-lined curve of Mont Choisy beach near Grand Baie"
+      }
+    },
+    {
+      "id": "southwest-honeymoon",
+      "title": "Southwest Slow Honeymoon",
+      "nights": 7,
+      "route": [
+        {
+          "place": "Flic-en-Flac",
+          "nights": 3
+        },
+        {
+          "place": "Le Morne",
+          "nights": 4
+        }
+      ],
+      "summary": "Built for couples who want scenery over nightlife. Ease in on the west coast with dolphins, spa time and Casela; then four nights under Le Morne for the sunrise hike, the seaplane over the underwater waterfall, long lagoon days and sunsets that drop straight behind the mountain.",
+      "priceFrom": "₹1,25,000",
+      "image": {
+        "query": "le morne beach sunset couple",
+        "alt": "Sunset behind Le Morne Brabant seen from the peninsula beach"
+      }
+    },
+    {
+      "id": "full-island-circuit",
+      "title": "Full Island Circuit",
+      "nights": 9,
+      "route": [
+        {
+          "place": "Grand Baie",
+          "nights": 3
+        },
+        {
+          "place": "Belle Mare",
+          "nights": 3
+        },
+        {
+          "place": "Le Morne",
+          "nights": 3
+        }
+      ],
+      "summary": "Three coasts, one unhurried loop. The lively north for markets, gardens and boat trips; the east for Île aux Cerfs and pure resort-lagoon days at Belle Mare; then the dramatic southwest for Chamarel, Black River Gorges and the Le Morne hike. Best October to May when the east coast is calm.",
+      "priceFrom": "₹1,60,000",
+      "image": {
+        "query": "belle mare lagoon aerial mauritius",
+        "alt": "Aerial view of the pale lagoon and white beach at Belle Mare"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do Indians need a visa for Mauritius?",
+      "a": "No. Indian passport holders are stamped in visa-free for up to 60 days on arrival, at no cost. Carry a passport valid six months beyond travel, a return ticket, hotel proof and evidence of funds — immigration can ask for any of them."
+    },
+    {
+      "q": "Is Mauritius good for vegetarians?",
+      "a": "Excellent — arguably the easiest long-haul destination for Indian vegetarians. Street staples like dholl puri and gateaux piments are vegetarian by default, most resorts run Indian counters, and every town has Indian restaurants. Jain and vegan requests are understood at bigger hotels with notice."
+    },
+    {
+      "q": "Mauritius or Maldives — which is better value?",
+      "a": "Mauritius, for most trips. Comparable beachfront resorts run 30–50% cheaper, there are no seaplane transfer costs, and you get a whole island of mountains, markets and waterfalls to explore rather than a single atoll. Choose the Maldives only if overwater villas and diving are the entire point."
+    },
+    {
+      "q": "When is the best time to visit from India?",
+      "a": "May to December overall. September to December is the sweet spot — warm, dry and calm everywhere. May to August is cheapest and pleasant at 17–25°C, though pack a light jacket and avoid the windy east coast. January to March is hot, humid and carries cyclone risk."
+    },
+    {
+      "q": "How do we get around without Uber?",
+      "a": "Self-drive is the best answer — Indian licences are valid, driving is on the left, and rentals start around ₹2,500 a day. Otherwise use the Yugo taxi app or hire a private driver for about ₹6,000–7,500 a day; drivers double as informal guides. Public buses are cheap but slow."
+    },
+    {
+      "q": "How many days are enough for Mauritius?",
+      "a": "Six to eight nights. Five covers one base plus the essential day trips; seven lets you split between two coasts without rushing. Under four nights isn't worth the six-hour flight — you'd spend a third of the trip in transit and checkout queues."
+    }
+  ]
+}

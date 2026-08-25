@@ -1,0 +1,444 @@
+{
+  "slug": "hong-kong",
+  "name": "Hong Kong",
+  "displayName": "Hong Kong",
+  "country": "Hong Kong SAR, China",
+  "region": "east-asia",
+  "flag": "🇭🇰",
+  "tagline": "Skyline nights, dim sum mornings, jungle trails.",
+  "overview": "Hong Kong is the rare city that rewards both the planner and the wanderer. In one day you can ride a 130-year-old tram past glass towers, eat Michelin-listed dim sum for the price of a thali, take a ferry across one of the world's great harbours for under ₹50, and end on a rooftop watching the skyline switch on. What surprises first-timers is how green it is — three-quarters of the territory is country park, so a beach or a ridge hike is never more than 40 minutes from Central. For Indian travellers the logistics are almost unfairly easy: no visa fee thanks to free online Pre-Arrival Registration, five-to-six-hour non-stop flights from Delhi and Mumbai, English on every sign, and an MTR system that makes the whole city feel like one connected neighbourhood. It is pricier than Southeast Asia, but it packs more into four days than most places manage in ten.",
+  "heroAlt": "Hong Kong skyline and Victoria Harbour seen from Victoria Peak at dusk",
+  "heroImage": {
+    "query": "hong kong skyline victoria peak",
+    "alt": "Victoria Harbour and the Hong Kong Island skyline glowing at dusk from the Peak",
+    "candidates": [
+      "https://images.unsplash.com/photo-1536599018102-9f803c140fc1"
+    ]
+  },
+  "quickFacts": {
+    "capital": "Hong Kong (city-state; Central is the heart)",
+    "currency": {
+      "code": "HKD",
+      "name": "Hong Kong dollar",
+      "inr": "HK$1 ≈ ₹12"
+    },
+    "languages": [
+      "Cantonese",
+      "English",
+      "Mandarin"
+    ],
+    "timezone": "GMT+8 · 2½ hrs ahead of IST",
+    "flightFromIndia": "≈5 hrs non-stop from Delhi, ≈6 hrs from Mumbai; one-stops from other metros",
+    "plug": "Type G (British 3-pin) · 220V — carry an adapter",
+    "sim": "Tourist eSIM or airport SIM from about ₹600 for 10GB; airport counters open till the last flight"
+  },
+  "visa": {
+    "type": "evisa",
+    "headline": "Free online Pre-Arrival Registration · 14 days",
+    "body": "Indian passport holders don't need a visa for visits up to 14 days — but must complete Pre-Arrival Registration (PAR) on the Hong Kong Immigration website before flying. It's free, valid six months for multiple visits, and the details must match your passport exactly. Print the approval slip on plain A4 and carry it with a passport valid six months beyond arrival. Approval is usually instant, but apply at least a few days early in case a manual check kicks in.",
+    "cost": "Free",
+    "processing": "Usually instant online; allow a few days as buffer"
+  },
+  "weather": {
+    "summary": "Subtropical with real seasons: warm and humid most of the year, gloriously crisp from October to December, and hot, sticky and typhoon-prone in high summer. Winter rarely needs more than a light jacket, and rain concentrates in the June–August window.",
+    "bestTime": "October – December",
+    "seasons": [
+      {
+        "label": "Autumn – winter",
+        "months": "Oct – Feb",
+        "temp": "15–26°C",
+        "notes": "Clear skies, low humidity, perfect hiking and harbour-view weather — the city at its best.",
+        "tone": "high"
+      },
+      {
+        "label": "Spring",
+        "months": "Mar – May",
+        "temp": "20–28°C",
+        "notes": "Warm with occasional mist and drizzle; fine for sightseeing and noticeably cheaper than autumn.",
+        "tone": "shoulder"
+      },
+      {
+        "label": "Summer",
+        "months": "Jun – Sep",
+        "temp": "27–33°C",
+        "notes": "Hot, humid and typhoon season. Malls and museums save the afternoons; watch for T8 storm signals.",
+        "tone": "low"
+      }
+    ]
+  },
+  "booking": {
+    "high": "Oct – Dec, Chinese New Year, and China's Golden Week in early October",
+    "low": "Jun – Aug, outside school holidays",
+    "note": "Golden Week and Chinese New Year flood the city with mainland visitors and hotel rates double — avoid both unless you enjoy queues. November delivers the best weather-to-price ratio; book flights about two months out for non-stop fares under ₹30,000 return."
+  },
+  "idealDuration": {
+    "nights": "4 – 5",
+    "note": "Four nights covers the Peak, harbour, markets and a Lantau day without rushing. Add a fifth for Disneyland or a Macau day trip."
+  },
+  "budget": {
+    "perDay": [
+      {
+        "tier": "Smart",
+        "inr": "₹7,000 – 10,000"
+      },
+      {
+        "tier": "Comfort",
+        "inr": "₹13,000 – 20,000"
+      },
+      {
+        "tier": "Luxe",
+        "inr": "₹35,000+"
+      }
+    ],
+    "note": "Per person per day. Hotels are the big cost — compact mid-range rooms run ₹8,000–14,000 a night — while transport and street food stay cheap. Eating where locals eat halves your food bill without halving the quality."
+  },
+  "safety": {
+    "score": 5,
+    "headline": "One of the safest big cities you'll ever walk at midnight",
+    "tips": [
+      "Violent crime is genuinely rare; the main tourist risk is pickpocketing in packed markets like Mong Kok — keep phones zipped.",
+      "In summer, take typhoon signals seriously: T8 shuts transport and attractions, so build a flexible day into monsoon-season plans.",
+      "Ignore touts on Nathan Road offering 'copy watches' and tailor deals — a polite no and keep walking.",
+      "Hiking trails like Dragon's Back are well marked, but carry water and start early in warm months; heatstroke catches out more visitors than anything else.",
+      "Taxis are honest and metered, but many take cash or Octopus only — keep some HK$ handy.",
+      "Standard travel insurance is worth it here purely for medical cover; private healthcare is excellent but expensive."
+    ]
+  },
+  "goodToKnow": [
+    "Buy an Octopus card (or add it to Apple Pay) the moment you land — it pays for MTR, trams, ferries, buses, 7-Elevens and even some cha chaan tengs.",
+    "Tipping isn't expected; restaurants add a 10% service charge and that's the end of it.",
+    "Cards work almost everywhere, but street markets, dai pai dongs and minibuses want cash — carry HK$300–500 in small notes.",
+    "Stand on the right on escalators; Hongkongers move fast and appreciate visitors who keep the left lane clear.",
+    "The Star Ferry crossing costs about HK$5 — treat it as the world's cheapest harbour cruise, not just transport.",
+    "Chinese New Year (Jan–Feb) and Golden Week (early Oct) mean crowds and peak prices, but also parades and fireworks if you plan around them.",
+    "Vegetarians manage fine: look for Buddhist vegetarian restaurants, Indian eateries in Tsim Sha Tsui, and say 'ngo sik jaai' (I eat vegetarian).",
+    "Uber works but is technically grey-zone; the MTR is usually faster anyway, and Google Maps handles routes flawlessly."
+  ],
+  "cities": [
+    {
+      "id": "tsim-sha-tsui",
+      "name": "Tsim Sha Tsui",
+      "blurb": "Kowloon's waterfront hub with the best skyline views in the city, the Avenue of Stars, big museums and a deep bench of Indian restaurants. The most convenient first-timer base.",
+      "image": {
+        "query": "tsim sha tsui waterfront promenade",
+        "alt": "Tsim Sha Tsui promenade facing the Hong Kong Island skyline across the harbour"
+      }
+    },
+    {
+      "id": "central-sheung-wan",
+      "name": "Central & Sheung Wan",
+      "blurb": "The polished heart of Hong Kong Island — Mid-Levels escalators, heritage buildings turned art spaces, temple incense coils and the bars of Lan Kwai Fong all within a walkable square kilometre.",
+      "image": {
+        "query": "central hong kong mid-levels escalator street",
+        "alt": "Steep street scene in Central with trams and towers"
+      }
+    },
+    {
+      "id": "causeway-bay",
+      "name": "Causeway Bay",
+      "blurb": "Retail at full volume: department stores, sneaker streets and food courts, with Victoria Park for morning tai chi. Ideal if shopping anchors your trip and you want late-night energy.",
+      "image": {
+        "query": "causeway bay hong kong shopping street neon",
+        "alt": "Crowded shopping streets and signage in Causeway Bay at night"
+      }
+    },
+    {
+      "id": "mong-kok",
+      "name": "Mong Kok",
+      "blurb": "The densest, most electric slice of Kowloon — Ladies' Market, sneaker and goldfish streets, egg waffles on every corner. Stay here for street food and market bargaining at your doorstep.",
+      "image": {
+        "query": "mong kok neon signs street market",
+        "alt": "Neon-lit market streets packed with shoppers in Mong Kok"
+      }
+    },
+    {
+      "id": "lantau-island",
+      "name": "Lantau Island",
+      "blurb": "Big Buddha, the Ngong Ping cable car, Tai O's stilt houses and Disneyland share one green island near the airport. A night here suits families and anyone flying out early.",
+      "image": {
+        "query": "ngong ping cable car lantau island",
+        "alt": "Cable car crossing green Lantau hills towards the Big Buddha"
+      }
+    },
+    {
+      "id": "sai-kung",
+      "name": "Sai Kung",
+      "blurb": "Hong Kong's seafood-town escape valve — junk boats, quiet beaches and the start of the territory's best coastal hikes. A half-day trip for most, an overnight for hikers.",
+      "image": {
+        "query": "sai kung harbour fishing boats",
+        "alt": "Fishing boats moored in Sai Kung harbour with green hills behind"
+      }
+    }
+  ],
+  "highlights": [
+    {
+      "id": "victoria-peak",
+      "rank": 1,
+      "name": "Victoria Peak",
+      "category": "Iconic view",
+      "blurb": "The classic panorama — the full sweep of skyscrapers, harbour and Kowloon beyond, best absorbed slowly from the Peak's viewing decks and circular walk.",
+      "detail": "Ride the funicular Peak Tram up for the experience, but consider walking or taking bus 15 down to skip the return queue. Time it for about an hour before sunset so you catch daylight, dusk and the lights coming on in one visit. Sky Terrace 428 charges extra; the free Lugard Road loop — a flat 3.5 km circuit — arguably has better angles and far fewer tripods. Buy tram tickets online to skip the worst of the line, and check the weather first: on a hazy day, save the Peak for later in your trip.",
+      "image": {
+        "query": "victoria peak hong kong skyline view",
+        "alt": "Skyscrapers and Victoria Harbour viewed from the Peak at blue hour"
+      }
+    },
+    {
+      "id": "star-ferry-harbour",
+      "rank": 2,
+      "name": "Star Ferry & Victoria Harbour",
+      "category": "Iconic experience",
+      "blurb": "A creaking green-and-white ferry that has crossed the harbour since 1888, delivering the city's best ₹50 experience — skyline on both sides, breeze included.",
+      "detail": "Ride from Tsim Sha Tsui to Central on the upper deck, ideally around 7:45pm so you're mid-harbour when the 8pm Symphony of Lights show starts — lasers and building facades synchronised across the skyline. The show itself is better as a backdrop than a destination, and the ferry deck beats the crowded promenade. Pay with Octopus, sit on the right side heading to Central, and just ride it back again if you're not done. Combine with a walk along the Avenue of Stars and dinner in Tsim Sha Tsui.",
+      "image": {
+        "query": "star ferry victoria harbour hong kong",
+        "alt": "Green and white Star Ferry crossing the harbour with skyline behind"
+      }
+    },
+    {
+      "id": "big-buddha-ngong-ping",
+      "rank": 3,
+      "name": "Big Buddha & Ngong Ping 360",
+      "category": "Culture",
+      "blurb": "A 34-metre bronze Buddha on a Lantau hilltop, reached by a 25-minute cable car gliding over sea, jungle and the airport's runways.",
+      "detail": "Book the Crystal cabin (glass floor) online in advance — walk-up queues at Tung Chung can swallow two hours on weekends. Go on a weekday morning, climb the 268 steps to the Buddha before the tour groups land, then visit Po Lin Monastery's vegetarian kitchen for lunch; the meal ticket is one of Hong Kong's best-value vegetarian spreads. From Ngong Ping village, bus 21 continues to Tai O fishing village in 20 minutes, making this a natural full-day Lantau loop. Skip it in low cloud — the statue disappears entirely.",
+      "image": {
+        "query": "tian tan big buddha lantau",
+        "alt": "The bronze Tian Tan Buddha statue above the steps at Ngong Ping"
+      }
+    },
+    {
+      "id": "hong-kong-disneyland",
+      "rank": 4,
+      "name": "Hong Kong Disneyland",
+      "category": "Family",
+      "blurb": "The most compact and least exhausting Disney park anywhere — one manageable day covers it, anchored by the newer World of Frozen land.",
+      "detail": "Its small size is the selling point for families: you can genuinely finish the headline rides in one day without a military plan. Arrive at rope drop and go straight to World of Frozen, then Mystic Manor — a ride unique to this park and its best. Weekday tickets bought online run cheaper than gate prices; avoid Hong Kong public holidays and Golden Week entirely. The park sits on the Disneyland Resort MTR line about 30 minutes from Tsim Sha Tsui, so a hotel stay inside the resort is a nice-to-have, not a need. Stay for the fireworks if the evening show is running.",
+      "image": {
+        "query": "hong kong disneyland castle",
+        "alt": "Castle of Magical Dreams at Hong Kong Disneyland"
+      }
+    },
+    {
+      "id": "temple-street-markets",
+      "rank": 5,
+      "name": "Temple Street & Mong Kok Markets",
+      "category": "Markets & street food",
+      "blurb": "Kowloon after dark: fortune tellers, sizzling clay-pot rice, fake-watch banter and neon — the Hong Kong of the movies, still very much alive.",
+      "detail": "Start at Temple Street Night Market from about 7pm when the food stalls hit their stride — claypot rice and chilli crab at the open-air dai pai dongs are the point, more than the trinkets. Walk 15 minutes north into Mong Kok for the Ladies' Market, Sneaker Street and Fa Yuen Street's fruit stalls. Bargain cheerfully at market stalls (start at half), but never at food stalls. Carry cash, keep bags zipped in the crush, and finish with an egg waffle from a street window. This is the best free evening in the city.",
+      "image": {
+        "query": "temple street night market kowloon",
+        "alt": "Lit stalls and crowds at Temple Street Night Market"
+      }
+    },
+    {
+      "id": "ocean-park",
+      "rank": 6,
+      "name": "Ocean Park",
+      "category": "Family",
+      "blurb": "Hong Kong's homegrown mega-park — pandas, a giant aquarium and cliff-edge roller coasters strung across a headland with sea views Disney can't match.",
+      "detail": "Locals will tell you Ocean Park beats Disneyland for anyone over ten, and they have a case: the coasters hang over the South China Sea, the Grand Aquarium is world-class, and the cable car between the two halves of the park is an attraction in itself. It's directly on the MTR (Ocean Park station), so no logistics needed. Go on a weekday, do the Summit side first while queues are short, and time the panda house for morning feeding. Budget a full day; combine with dinner in nearby Wong Chuk Hang or a quick look at Repulse Bay beach.",
+      "image": {
+        "query": "ocean park hong kong cable car coast",
+        "alt": "Ocean Park cable car running along the coastal headland"
+      }
+    },
+    {
+      "id": "wong-tai-sin",
+      "rank": 7,
+      "name": "Wong Tai Sin Temple",
+      "category": "Culture",
+      "blurb": "Hong Kong's busiest working temple, where locals shake bamboo fortune sticks under vermilion pillars — spirituality with the volume turned up.",
+      "detail": "This is a living temple, not a museum: come mid-morning to watch worshippers practise kau chim — shaking numbered bamboo sticks until one falls, then having it interpreted at the fortune-teller arcade next door (some soothsayers speak English; agree the price first, around HK$50–100). The Good Wish Garden at the back is a quiet Chinese landscape garden most visitors miss. Entry is free, it's directly above Wong Tai Sin MTR station, and it pairs naturally with the Chi Lin Nunnery and Nan Lian Garden one stop away — together they make Hong Kong's best half-day of traditional architecture.",
+      "image": {
+        "query": "wong tai sin temple hong kong",
+        "alt": "Red pillars and golden roof of Wong Tai Sin Temple with incense smoke"
+      }
+    },
+    {
+      "id": "old-town-central",
+      "rank": 8,
+      "name": "Old Town Central & the Ding Ding Tram",
+      "category": "Heritage walk",
+      "blurb": "Incense coils at Man Mo Temple, antique shops on Hollywood Road, art at PMQ and Tai Kwun — Hong Kong's layered old quarter, all walkable.",
+      "detail": "Ride the Mid-Levels escalator up in the late morning (it runs downhill before 10am), stepping off at Hollywood Road for Man Mo Temple's hanging incense coils — go early for the light shafts through the smoke. Work through Tai Kwun, the beautifully restored colonial police station turned arts hub, and PMQ's designer studios, with coffee stops in the lanes of Sheung Wan. Then board a HK$3 double-decker 'ding ding' tram east and watch a century of the city roll past the top-deck window. Zero tickets needed for any of it; it's the cheapest great day in Hong Kong.",
+      "image": {
+        "query": "man mo temple incense coils hong kong",
+        "alt": "Giant incense coils hanging inside Man Mo Temple"
+      }
+    },
+    {
+      "id": "dragons-back",
+      "rank": 9,
+      "name": "Dragon's Back Hike",
+      "category": "Adventure",
+      "blurb": "A ridge trail with surf-beach views 40 minutes from Central — proof that Hong Kong is a hiking destination wearing a city costume.",
+      "detail": "Take the MTR to Shau Kei Wan, then bus 9 to To Tei Wan; the ridge section is done in under two hours at an easy pace, with the skyline behind you and Shek O's beaches ahead. Finish by descending to Big Wave Bay for a swim and a beachside noodle lunch, then a bus back to the MTR. October to February is prime — summer heat makes the exposed ridge genuinely punishing, so start by 8am if you must go then. Carry water and sunscreen; the trail itself is well signed and busy enough on weekends that you'll never be alone.",
+      "image": {
+        "query": "dragons back trail hong kong ridge",
+        "alt": "Hikers on the Dragon's Back ridge with the coastline below"
+      }
+    },
+    {
+      "id": "tai-o",
+      "rank": 10,
+      "name": "Tai O Fishing Village",
+      "category": "Insider pick",
+      "blurb": "Stilt houses over tidal flats, drying salted fish and pink-dolphin boat rides — a century-old fishing settlement on Lantau's far edge.",
+      "detail": "Tack Tai O onto your Big Buddha day: bus 21 from Ngong Ping takes 20 minutes. Wander the lanes of stilt houses, buy shrimp-paste and egg waffles from ladies who've run the same stalls for decades, and take the short boat ride (about HK$40) through the stilted channels — spotting the endangered pink dolphins is a bonus, not a promise. The Tai O Heritage Hotel, a restored marine police station on the headland, does a good coffee stop with sea views. Weekday afternoons are quiet; on weekends come before noon. It's the least Hong Kong-looking place in Hong Kong, which is exactly why it belongs on the list.",
+      "image": {
+        "query": "tai o stilt houses lantau",
+        "alt": "Wooden stilt houses over the water in Tai O village"
+      }
+    }
+  ],
+  "activities": [
+    {
+      "id": "dim-sum-food-trail",
+      "name": "Dim Sum & Street Food Trail",
+      "category": "Food",
+      "blurb": "Graze from a Michelin-listed char siu bao at Tim Ho Wan to egg tarts, milk tea and claypot rice — guided tours run about ₹4,000, or self-guide with an appetite.",
+      "image": {
+        "query": "dim sum bamboo steamers hong kong",
+        "alt": "Bamboo steamers of dim sum on a restaurant table"
+      }
+    },
+    {
+      "id": "sai-kung-junk-boat",
+      "name": "Sai Kung Junk Boat Day",
+      "category": "Water",
+      "blurb": "Charter a shared junk from Sai Kung pier for a day of island beaches, cliff jumps and seafood lunches — the classic Hong Kong weekend, bookable from about ₹3,500 a head.",
+      "image": {
+        "query": "junk boat sai kung islands",
+        "alt": "Boat cruising past green islands off Sai Kung"
+      }
+    },
+    {
+      "id": "peak-night-photography",
+      "name": "Skyline Night Photography Walk",
+      "category": "Culture",
+      "blurb": "A guided evening circuit of the Peak, the West Kowloon waterfront and neon-lit Mong Kok — learn where the postcard shots actually get taken.",
+      "image": {
+        "query": "hong kong neon street night photography",
+        "alt": "Neon signs reflecting on a wet Kowloon street at night"
+      }
+    },
+    {
+      "id": "coastal-hike-guided",
+      "name": "Guided Coastal Hike",
+      "category": "Adventure",
+      "blurb": "Dragon's Back, the MacLehose Trail's beach stages or Lantau Peak at sunrise — half-day guided hikes with transport handled, ideal in the October–February window.",
+      "image": {
+        "query": "maclehose trail beach sai kung",
+        "alt": "White-sand beach and headlands along a Hong Kong coastal trail"
+      }
+    },
+    {
+      "id": "theme-park-day",
+      "name": "Theme Park Day Pass",
+      "category": "Family",
+      "blurb": "Disneyland or Ocean Park with skip-the-line options — day tickets from about ₹6,500, cheaper booked online on weekdays than at the gate.",
+      "image": {
+        "query": "hong kong disneyland fireworks night",
+        "alt": "Fireworks over the Disneyland castle at night"
+      }
+    },
+    {
+      "id": "rooftop-bar-crawl",
+      "name": "Rooftop Bars & Lan Kwai Fong",
+      "category": "Nightlife",
+      "blurb": "Sunset cocktails at harbour-view rooftops in Central or Tsim Sha Tsui, then downhill into Lan Kwai Fong's bar lanes — budget ₹1,200–1,800 a drink at the view spots.",
+      "image": {
+        "query": "hong kong rooftop bar skyline view",
+        "alt": "Cocktail bar terrace overlooking the lit-up skyline"
+      }
+    }
+  ],
+  "trips": [
+    {
+      "id": "hong-kong-essentials",
+      "title": "Hong Kong Essentials",
+      "nights": 4,
+      "route": [
+        {
+          "place": "Tsim Sha Tsui",
+          "nights": 4
+        }
+      ],
+      "summary": "The greatest-hits loop from one well-placed base: Peak Tram and Central's old town on day one, Big Buddha and Tai O on day two, markets and the Star Ferry light show by night, with a Dragon's Back hike or museum morning to finish.",
+      "priceFrom": "₹75,000",
+      "image": {
+        "query": "hong kong skyline harbour night",
+        "alt": "Hong Kong Island skyline lit up across Victoria Harbour"
+      }
+    },
+    {
+      "id": "family-city-disney",
+      "title": "City + Disneyland Family Trip",
+      "nights": 5,
+      "route": [
+        {
+          "place": "Tsim Sha Tsui",
+          "nights": 3
+        },
+        {
+          "place": "Lantau / Disneyland Resort",
+          "nights": 2
+        }
+      ],
+      "summary": "Three city nights for the Peak, Ocean Park and the harbour show, then shift to Lantau for a full Disneyland day and the Ngong Ping cable car, ending ten minutes from the airport for a painless flight home with tired, happy kids.",
+      "priceFrom": "₹95,000",
+      "image": {
+        "query": "hong kong disneyland castle family",
+        "alt": "Families in front of the Disneyland castle on a clear day"
+      }
+    },
+    {
+      "id": "hong-kong-macau",
+      "title": "Hong Kong + Macau Combo",
+      "nights": 6,
+      "route": [
+        {
+          "place": "Hong Kong",
+          "nights": 4
+        },
+        {
+          "place": "Macau",
+          "nights": 2
+        }
+      ],
+      "summary": "Hong Kong's skyline, markets and Lantau first, then a one-hour ferry or bridge bus to Macau for Portuguese old-town lanes, egg tarts, the Venetian's canals and a casino evening. Indians enter Macau visa-free, so the border is the easy part.",
+      "priceFrom": "₹1,10,000",
+      "image": {
+        "query": "macau ruins of st paul facade",
+        "alt": "The Ruins of St Paul's facade in Macau's old town"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do Indians need a visa for Hong Kong?",
+      "a": "No visa and no fee — but Pre-Arrival Registration (PAR) is mandatory. Fill it on the Hong Kong Immigration Department website before flying, print the approval on A4, and you get stays of up to 14 days, with the PAR valid six months for multiple visits. Approval is usually instant, but do it at least a few days before travel and make sure every detail matches your passport exactly."
+    },
+    {
+      "q": "Is Hong Kong expensive for Indian travellers?",
+      "a": "Hotels are the pinch point — expect ₹8,000–14,000 a night for a compact mid-range room. Everything else is kinder: the MTR and trams cost a fraction of a cab, street food meals run ₹300–500, and many of the best experiences (Star Ferry, temples, hikes, markets) are nearly free. A comfortable trip works out around ₹13,000–20,000 per person per day."
+    },
+    {
+      "q": "Will I find vegetarian and Indian food easily?",
+      "a": "Yes, with a little intent. Tsim Sha Tsui has a large cluster of Indian restaurants, Buddhist vegetarian restaurants like the Po Lin Monastery kitchen serve full meat-free spreads, and most menus in tourist areas are in English. In local Cantonese eateries, ask specifically — fish sauce and lard hide in unexpected places."
+    },
+    {
+      "q": "When is the best time to visit?",
+      "a": "October to December is the sweet spot: clear, dry, 18–26°C, perfect for both hiking and harbour views. March to May is a decent cheaper alternative. Avoid June to September if you can — it's hot, humid and typhoon-prone — and steer around Chinese New Year and early October's Golden Week, when crowds and prices spike."
+    },
+    {
+      "q": "How do I get around the city?",
+      "a": "Get an Octopus card at the airport and the whole city opens up — MTR trains, the HK$3 trams, buses, ferries and even convenience stores all take it. The MTR reaches nearly everything a visitor wants; the Airport Express hits Kowloon in about 22 minutes. Taxis are metered and honest but often cash-only. You'll rarely need anything else."
+    },
+    {
+      "q": "Can I combine Hong Kong with Macau or Shenzhen?",
+      "a": "Macau, easily — Indians get visa-free entry, and it's an hour away by ferry or bus across the sea bridge, so it works as a day trip or a two-night add-on. Shenzhen and mainland China are a different story: they need a separate Chinese visa arranged in advance, so most Indian itineraries stick to the Hong Kong–Macau pairing."
+    }
+  ]
+}

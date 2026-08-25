@@ -1,0 +1,458 @@
+{
+  "slug": "thailand",
+  "name": "Thailand",
+  "displayName": "Thailand",
+  "country": "Thailand",
+  "region": "southeast-asia",
+  "flag": "🇹🇭",
+  "tagline": "Golden temples, limestone bays, midnight street food.",
+  "overview": "Thailand is the trip that made Southeast Asia famous, and it still delivers more per rupee than almost anywhere else. Bangkok alone justifies the fare — glittering royal temples in the morning, rooftop bars and fifty-rupee noodle carts by night — but the country's real trick is variety within a two-hour flight. Head south and the Andaman coast stacks limestone cliffs over water so green it looks lit from below; head north and Chiang Mai swaps beach clubs for mountain monasteries, night markets and slow coffee. Indian travellers have it especially easy: non-stop flights of four to five hours from every metro, visa-free entry, vegetarian food that's genuinely findable, and an infrastructure polished by decades of practice. The crowds are real in peak season, but the country absorbs them with a shrug — there is always another island, another market lane, another wat where the incense drifts and nobody is in a hurry.",
+  "heroAlt": "Longtail boats moored over turquoise water against limestone cliffs in southern Thailand",
+  "heroImage": {
+    "query": "longtail boats krabi turquoise water",
+    "alt": "Traditional longtail boats floating on clear turquoise water off the Krabi coast",
+    "candidates": [
+      "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a"
+    ]
+  },
+  "quickFacts": {
+    "capital": "Bangkok",
+    "currency": {
+      "code": "THB",
+      "name": "Thai baht",
+      "inr": "฿1 ≈ ₹2.90"
+    },
+    "languages": [
+      "Thai",
+      "English in tourist areas"
+    ],
+    "timezone": "GMT+7 · 1½ hrs ahead of IST",
+    "flightFromIndia": "≈4–4½ hrs non-stop to Bangkok from Delhi, Mumbai or Kolkata; Phuket also has directs",
+    "plug": "Type A/B/C · 220V — most Indian two-pin plugs fit without an adapter",
+    "sim": "AIS or True tourist SIM at the airport, about ₹900 for 15GB over 8 days; eSIMs from ₹500"
+  },
+  "visa": {
+    "type": "visa-free",
+    "headline": "Visa-free · currently 60 days",
+    "body": "Indian passport holders enter Thailand visa-free — the stamp is currently 60 days, though Thailand has approved trimming this to 30 days, so check close to travel. Everyone must submit the free Thailand Digital Arrival Card (TDAC) online within 72 hours before landing. Carry a passport valid six months, a return ticket and proof of stay; immigration occasionally asks.",
+    "cost": "Free",
+    "processing": "At the airport — fill the TDAC online before flying"
+  },
+  "weather": {
+    "summary": "Hot and tropical year-round with three broad phases: cool and dry November to February, properly hot March to May, and monsoon June to October. Rain usually means a heavy hour, not a lost day — and the Gulf islands like Samui run on a different clock, staying driest January to August.",
+    "bestTime": "November – March",
+    "seasons": [
+      {
+        "label": "Cool & dry",
+        "months": "Nov – Feb",
+        "temp": "24–32°C",
+        "notes": "Blue skies, calm Andaman seas, bearable Bangkok evenings — peak season for good reason.",
+        "tone": "high"
+      },
+      {
+        "label": "Hot season",
+        "months": "Mar – May",
+        "temp": "30–36°C",
+        "notes": "Fierce afternoon heat, but islands stay swimmable and April brings the Songkran water festival.",
+        "tone": "shoulder"
+      },
+      {
+        "label": "Monsoon",
+        "months": "Jun – Oct",
+        "temp": "27–32°C",
+        "notes": "Green landscapes, half-price hotels, short sharp downpours. Some Andaman boat routes pause; Samui side stays drier.",
+        "tone": "low"
+      }
+    ]
+  },
+  "booking": {
+    "high": "Dec – Feb, plus Christmas–New Year and Diwali week from India",
+    "low": "May – Sep, outside Indian school holidays",
+    "note": "November and early March give you dry-season weather before and after the price spike. If you must travel in monsoon, pick Koh Samui over Phuket — the Gulf side stays far drier."
+  },
+  "idealDuration": {
+    "nights": "6 – 8",
+    "note": "Six nights covers Bangkok plus one beach base comfortably. Stretch to eight if you want Chiang Mai or a second island without living out of a packing cube."
+  },
+  "budget": {
+    "perDay": [
+      {
+        "tier": "Smart",
+        "inr": "₹3,500 – 6,000"
+      },
+      {
+        "tier": "Comfort",
+        "inr": "₹7,000 – 12,000"
+      },
+      {
+        "tier": "Luxe",
+        "inr": "₹18,000+"
+      }
+    ],
+    "note": "Per person per day with mid-range hotels, Grab rides or scooters, and one paid activity. Street food keeps meal costs almost invisible — a full dinner runs ₹150–300."
+  },
+  "safety": {
+    "score": 4,
+    "headline": "Very safe for tourists — the main risks are scooters and small scams",
+    "tips": [
+      "Skip tuk-tuk drivers offering ₹50 'city tours' — they end at gem shops. Use Grab or the metered rate instead.",
+      "Rent a scooter only if you already ride at home; roads are the single biggest tourist hazard, and travel insurance often excludes riding without a valid licence.",
+      "On islands, respect red-flag days — rip currents during monsoon are stronger than they look.",
+      "Never handle or photograph wildlife touts offer on the street; it is illegal and the animals are drugged.",
+      "Keep your passport in the hotel safe and carry a photo of it — random checks accept the copy.",
+      "Lèse-majesté laws are serious: never joke about the Thai royal family, online or off."
+    ]
+  },
+  "goodToKnow": [
+    "Tipping is not expected, but rounding up the bill or leaving ฿20–50 at restaurants is appreciated.",
+    "Carry cash for markets and street food; cards work in malls and hotels, and Thai QR payments now accept Indian UPI at many merchants.",
+    "Grab is the ride-hailing app that works everywhere; in Bangkok the BTS Skytrain beats any car during rush hour.",
+    "Dress code at temples is enforced — covered shoulders and knees, shoes off. Carry a scarf or rent a sarong at the gate.",
+    "Songkran (mid-April) is a nationwide water fight: brilliant fun, but transport books out and phones get soaked.",
+    "Vegetarians: say 'jay' (เจ) for strictly veg food, and look for yellow-flag jay stalls; Indian restaurants are everywhere in tourist zones.",
+    "Buddha images are sacred — no climbing on statues for photos, and don't buy Buddha-head souvenirs to export.",
+    "Alcohol is not sold in shops between 2pm and 5pm, and bars close early on Buddhist holidays."
+  ],
+  "cities": [
+    {
+      "id": "bangkok",
+      "name": "Bangkok",
+      "blurb": "The riverfront capital where gilded temples, Michelin-listed street stalls and rooftop skybars share the same block. Base here two to three nights; the BTS and river boats make it surprisingly navigable.",
+      "image": {
+        "query": "wat arun bangkok chao phraya",
+        "alt": "Wat Arun temple rising above the Chao Phraya river at dusk"
+      }
+    },
+    {
+      "id": "phuket",
+      "name": "Phuket",
+      "blurb": "Thailand's biggest island and easiest beach base, with direct flights from India. Patong is the party strip; Kata and Bang Tao are calmer. Every Andaman day trip launches from here.",
+      "image": {
+        "query": "phuket kata beach aerial",
+        "alt": "Curved sandy bay with turquoise water and green headlands in Phuket"
+      }
+    },
+    {
+      "id": "krabi",
+      "name": "Krabi",
+      "blurb": "The mainland answer to Phuket — quieter, cheaper and closer to the best limestone scenery. Ao Nang is the practical base for boats to Railay, Phi Phi and the Hong islands.",
+      "image": {
+        "query": "railay beach krabi limestone cliffs",
+        "alt": "Longtail boats on Railay beach beneath sheer limestone cliffs"
+      }
+    },
+    {
+      "id": "chiang-mai",
+      "name": "Chiang Mai",
+      "blurb": "The northern old city of 300 temples, cooking schools and night bazaars, ringed by misty mountains. Cooler, slower and roughly half the price of the islands — a different Thailand entirely.",
+      "image": {
+        "query": "chiang mai old city temple",
+        "alt": "Golden chedi and ornate temple roofs in Chiang Mai's old city"
+      }
+    },
+    {
+      "id": "koh-samui",
+      "name": "Koh Samui",
+      "blurb": "The polished Gulf island of palm-lined beaches, luxury resorts and easy ferry hops to Koh Phangan's full-moon parties and Koh Tao's dive schools. Driest when the Andaman side is rained out.",
+      "image": {
+        "query": "koh samui beach palm trees",
+        "alt": "Palm trees leaning over a white-sand beach on Koh Samui"
+      }
+    },
+    {
+      "id": "pattaya",
+      "name": "Pattaya",
+      "blurb": "Two hours from Bangkok by road, so no internal flight needed — which is why first-timers and family groups from India love it. Coral-island boat trips, cabaret shows and a long, lively waterfront.",
+      "image": {
+        "query": "pattaya beach waterfront skyline",
+        "alt": "Pattaya's curved bay and waterfront skyline seen from the viewpoint"
+      }
+    }
+  ],
+  "highlights": [
+    {
+      "id": "grand-palace",
+      "rank": 1,
+      "name": "Grand Palace & Wat Phra Kaew",
+      "category": "Culture",
+      "blurb": "Bangkok's dazzling royal complex, home to the Emerald Buddha — a hundred-plus buildings of gold spires, mirrored mosaic and murals that set the bar for every temple after it.",
+      "detail": "Arrive at the 8:30am opening; by 10 the tour groups make photography impossible and the marble radiates heat. Entry is ฿500 (about ₹1,450) and the dress code is strict — long trousers and covered shoulders, no leggings. Allow two hours, then walk ten minutes to Wat Pho for the 46-metre Reclining Buddha and a traditional massage at its famous school. Finish by crossing the river on the ฿5 ferry to Wat Arun. All three in one morning is the classic Bangkok opener; ignore anyone outside the gates claiming the palace is closed — it's the city's oldest scam.",
+      "image": {
+        "query": "grand palace bangkok wat phra kaew",
+        "alt": "Golden spires and mirrored pavilions of Bangkok's Grand Palace"
+      }
+    },
+    {
+      "id": "phi-phi-islands",
+      "rank": 2,
+      "name": "Phi Phi Islands & Maya Bay",
+      "category": "Islands",
+      "blurb": "The limestone archipelago that launched a thousand screensavers — Maya Bay's enclosed amphitheatre of cliffs, snorkelling at Pileh Lagoon, and monkeys on the beach.",
+      "detail": "Speedboat day trips run from both Phuket and Krabi from about ₹2,500–4,000 with lunch and snorkelling gear, but the smart move is an early-bird tour that reaches Maya Bay before the 10am fleet arrives. Swimming inside Maya Bay itself is banned to protect the recovering reef — you wade at the boardwalk side — and the bay closes annually around August to September, so check dates in monsoon. If you have a night to spare, sleep on Phi Phi Don and catch Maya at 7am with almost nobody there; the viewpoint hike above Tonsai at sunset is the island's other essential.",
+      "image": {
+        "query": "maya bay phi phi limestone cliffs",
+        "alt": "Maya Bay's white sand ringed by sheer limestone cliffs"
+      }
+    },
+    {
+      "id": "wat-arun",
+      "rank": 3,
+      "name": "Wat Arun & the Chao Phraya",
+      "category": "Culture",
+      "blurb": "The porcelain-encrusted Temple of Dawn rising from the river bank — Bangkok's best silhouette, especially from a cross-river ferry at golden hour.",
+      "detail": "Entry is only ฿200 and you can climb partway up the central prang for river views over the old city. The temple actually photographs best from the opposite bank: grab a table at one of the riverside cafés near Tha Tien pier around 5:30pm and watch the spires turn gold, then stay for the lit-up version after dark. Combine it with the Grand Palace and Wat Pho, which sit directly across the water — the shuttle ferry costs ฿5 and takes three minutes. A hop-on river boat pass is also the most pleasant way to move along this whole stretch of Bangkok.",
+      "image": {
+        "query": "wat arun temple sunset bangkok",
+        "alt": "Wat Arun's central spire silhouetted against a sunset sky over the river"
+      }
+    },
+    {
+      "id": "phang-nga-bay",
+      "rank": 4,
+      "name": "Phang Nga Bay & James Bond Island",
+      "category": "Nature",
+      "blurb": "A drowned karst landscape of vertical islets, sea caves and hidden lagoons north of Phuket — famously the backdrop for The Man with the Golden Gun.",
+      "detail": "Book a tour that includes sea-canoeing through the hongs — collapsed cave lagoons you paddle into under low rock ceilings at Koh Panak and Koh Hong; a guide paddles while you lie back and watch the cliffs slide past. Day trips from Phuket run ₹2,800–4,500 depending on boat size; smaller longtail tours feel less industrial than the big speedboats. James Bond Island itself is a twenty-minute photo stop, so treat it as the garnish, not the meal. Afternoon departures catch softer light and thinner crowds, and the bay is sheltered enough to run through most of monsoon season.",
+      "image": {
+        "query": "james bond island phang nga bay",
+        "alt": "The pinnacle rock of James Bond Island standing in emerald water"
+      }
+    },
+    {
+      "id": "railay-beach",
+      "rank": 5,
+      "name": "Railay Beach",
+      "category": "Beaches",
+      "blurb": "A peninsula cut off by cliffs so completely it feels like an island — reached only by longtail boat, with Krabi's best sand and world-class rock climbing.",
+      "detail": "Longtails leave Ao Nang all day (about ₹300 return) and take fifteen minutes. Head straight to Phra Nang Beach at the peninsula's tip — the cave shrine, cliffs and cave-framed sand make it one of Thailand's finest stretches. Beginners can book a half-day climbing intro from around ₹2,500; everyone else can try the muddy scramble to the hidden lagoon viewpoint, best in dry-season shoes. Come at low tide for maximum beach, bring cash as ATMs are scarce, and consider one night in a Railay resort: after the last day-tripper boat leaves at five, the peninsula becomes a different, quieter place.",
+      "image": {
+        "query": "phra nang beach railay cave",
+        "alt": "Phra Nang beach with limestone overhangs and longtail boats at Railay"
+      }
+    },
+    {
+      "id": "bangkok-street-food",
+      "rank": 6,
+      "name": "Yaowarat street food crawl",
+      "category": "Food",
+      "blurb": "Bangkok's Chinatown after dark — neon signs, charcoal woks and some of the best cheap eating on the planet, from mango sticky rice to Michelin-listed noodle stalls.",
+      "detail": "Come hungry after 6pm, Tuesday to Sunday (many stalls close Mondays for street cleaning). Work the main Yaowarat Road strip and its sois: kuay jab pepper-pork noodles, grilled river prawns, dim sum, kanom buang crispy pancakes, and bird's-nest desserts, most at ฿50–150 a plate. Vegetarians do better than expected — look for jay-flag stalls, especially during the October vegetarian festival when the whole district turns meatless. The MRT stops at Wat Mangkon, right in the middle. If you want structure, guided food tours (₹1,800–2,800) queue-jump the famous stalls and explain what you're eating.",
+      "image": {
+        "query": "yaowarat chinatown bangkok night food",
+        "alt": "Neon-lit Yaowarat Road crowded with street food stalls at night"
+      }
+    },
+    {
+      "id": "doi-suthep",
+      "rank": 7,
+      "name": "Wat Phra That Doi Suthep",
+      "category": "Culture",
+      "blurb": "Chiang Mai's mountain temple, a gold chedi glowing above the city at 1,000 metres — reached by 306 naga-flanked steps and rewarded with the north's best view.",
+      "detail": "Shared red songthaew trucks run from Chiang Mai University or the zoo for about ₹120 each way; a private Grab costs more but leaves when you do. Go for sunrise if you can manage the 5am start — monks chanting, mist below, and the terrace nearly empty — or aim for late afternoon and stay for the city lights. Entry is ฿30. The 306-step staircase is part of the experience, though a funicular exists. Combine with Bhubing Palace gardens further up the mountain, or on the way down stop at Wat Pha Lat, a mossy jungle temple most visitors drive straight past.",
+      "image": {
+        "query": "doi suthep temple golden chedi",
+        "alt": "The gilded central chedi of Wat Phra That Doi Suthep gleaming in sunlight"
+      }
+    },
+    {
+      "id": "ayutthaya",
+      "rank": 8,
+      "name": "Ayutthaya ruins",
+      "category": "History",
+      "blurb": "The vast, UNESCO-listed remains of Siam's old capital, ninety minutes from Bangkok — headless Buddhas, crumbling prangs and the famous Buddha head wrapped in banyan roots.",
+      "detail": "Do it as a Bangkok day trip: minivans and trains leave all morning, or join a tour (₹2,000–3,500) that returns by river cruise. Once there, rent a bicycle for ฿50 and loop the central island — Wat Mahathat for the tree-root Buddha head, Wat Phra Si Sanphet's three-chedi skyline, and Wat Chaiwatthanaram across the river for the postcard sunset shot. A ฿220 combined ticket covers the main sites. It gets brutally hot by noon, so start early, carry water, and remember the ruins are sacred ground — no climbing, and don't pose above the Buddha head.",
+      "image": {
+        "query": "wat chaiwatthanaram ayutthaya ruins",
+        "alt": "Ancient prang towers of Wat Chaiwatthanaram in Ayutthaya at dusk"
+      }
+    },
+    {
+      "id": "maeklong-floating-markets",
+      "rank": 9,
+      "name": "Maeklong railway & floating markets",
+      "category": "Markets",
+      "blurb": "Two of Thailand's most photographed markets in one morning — vendors folding their awnings as a train rolls through Maeklong, then paddle-boat commerce at Damnoen Saduak.",
+      "detail": "Both sit about ninety minutes southwest of Bangkok and are almost always combined in one half-day tour from around ₹1,800, timed for one of the handful of daily trains through Maeklong — confirm the train schedule when booking, because the market without the train is just a market. Damnoen Saduak is unabashedly touristy; go in expecting theatre, arrive before 9am for functioning boat traffic, and haggle for anything you buy from a paddling vendor. Prefer something more local? Ask for Amphawa floating market instead, which runs weekend afternoons and evenings and draws more Thais than tourists.",
+      "image": {
+        "query": "damnoen saduak floating market boats",
+        "alt": "Wooden boats piled with fruit crowding a canal at Damnoen Saduak floating market"
+      }
+    },
+    {
+      "id": "pai",
+      "rank": 10,
+      "name": "Pai",
+      "category": "Offbeat",
+      "blurb": "A laid-back mountain valley three hours north of Chiang Mai — canyon sunsets, hot springs, waterfalls and a walking street of live music and cheap eats.",
+      "detail": "The road from Chiang Mai has 762 bends, so take the minivan (about ₹500) rather than a scooter unless you're an experienced rider, and sit near the front if you get carsick. Once there, rent a scooter or hire a driver to loop Pai Canyon for sunset, the Tha Pai hot springs, the bamboo bridge over the rice fields and the white Buddha viewpoint. Nights revolve around the walking street's food stalls and open-mic bars. Two nights is right; in cool season pack a warm layer, because the valley genuinely drops towards single digits after dark. This is the insider add-on for second-time Thailand visitors.",
+      "image": {
+        "query": "pai canyon sunset thailand",
+        "alt": "Narrow ridged walkways of Pai Canyon under an orange sunset sky"
+      }
+    }
+  ],
+  "activities": [
+    {
+      "id": "island-hopping",
+      "name": "Andaman island-hopping by speedboat",
+      "category": "Water",
+      "blurb": "Full-day tours from Phuket or Krabi threading four or five islands — snorkelling stops, hidden lagoons and beach lunches from about ₹2,500 per person.",
+      "image": {
+        "query": "speedboat phi phi islands tour",
+        "alt": "Speedboat anchored off a limestone island with snorkellers in clear water"
+      }
+    },
+    {
+      "id": "thai-cooking-class",
+      "name": "Thai cooking class",
+      "category": "Food",
+      "blurb": "Market tour, then wok stations: green curry from scratch, pad thai, mango sticky rice. Chiang Mai's farm schools are the best-loved, from around ₹1,500 with veg menus standard.",
+      "image": {
+        "query": "thai cooking class wok curry",
+        "alt": "Hands tossing vegetables in a flaming wok at a Thai cooking school"
+      }
+    },
+    {
+      "id": "elephant-sanctuary",
+      "name": "Ethical elephant sanctuary visit",
+      "category": "Wildlife",
+      "blurb": "Feed and walk alongside rescued elephants at no-riding sanctuaries near Chiang Mai or Phuket. Half-day visits from about ₹3,500; book the reputable parks well ahead.",
+      "image": {
+        "query": "elephant sanctuary chiang mai feeding",
+        "alt": "Visitors feeding bananas to elephants at a Chiang Mai sanctuary"
+      }
+    },
+    {
+      "id": "muay-thai-night",
+      "name": "Muay Thai fight night",
+      "category": "Culture",
+      "blurb": "Live bouts with full ceremony — the wai kru dance, live pipes and drums — at Bangkok's Rajadamnern or Lumpinee stadiums. Ringside from about ₹2,500; electric atmosphere either way.",
+      "image": {
+        "query": "muay thai stadium fight bangkok",
+        "alt": "Two Muay Thai fighters mid-bout under stadium lights"
+      }
+    },
+    {
+      "id": "koh-tao-diving",
+      "name": "Learn to dive on Koh Tao",
+      "category": "Adventure",
+      "blurb": "One of the world's cheapest places to get PADI-certified — three-day open water courses around ₹22,000, warm 30-metre visibility and resident turtles.",
+      "image": {
+        "query": "koh tao scuba diving turtle",
+        "alt": "Scuba diver swimming beside a sea turtle in clear blue water off Koh Tao"
+      }
+    },
+    {
+      "id": "thai-massage-spa",
+      "name": "Thai massage & spa day",
+      "category": "Wellness",
+      "blurb": "From ₹400 street-side stretches to full spa rituals — Thai massage is a daily habit here, not a splurge. Wat Pho's massage school in Bangkok is the classic first session.",
+      "image": {
+        "query": "thai massage spa treatment",
+        "alt": "Traditional Thai massage in a calm wooden spa pavilion"
+      }
+    }
+  ],
+  "trips": [
+    {
+      "id": "bangkok-pattaya-classic",
+      "title": "Bangkok & Pattaya Classic",
+      "nights": 5,
+      "route": [
+        {
+          "place": "Bangkok",
+          "nights": 3
+        },
+        {
+          "place": "Pattaya",
+          "nights": 2
+        }
+      ],
+      "summary": "The proven first-timer loop with no internal flights: temples, markets and Chinatown food in Bangkok, then two hours by road to Pattaya for the Coral Island boat trip, cabaret shows and beach time before flying home from Bangkok.",
+      "priceFrom": "₹55,000",
+      "image": {
+        "query": "bangkok skyline chao phraya night",
+        "alt": "Bangkok's riverside skyline lit up at night"
+      }
+    },
+    {
+      "id": "andaman-island-hopper",
+      "title": "Andaman Island Hopper",
+      "nights": 7,
+      "route": [
+        {
+          "place": "Phuket",
+          "nights": 3
+        },
+        {
+          "place": "Phi Phi",
+          "nights": 2
+        },
+        {
+          "place": "Krabi",
+          "nights": 2
+        }
+      ],
+      "summary": "Fly direct into Phuket, day-trip Phang Nga Bay, then ferry to Phi Phi for two slow nights after the day boats leave. End in Krabi with longtails to Railay and the Hong islands — the full limestone-and-turquoise show in one week.",
+      "priceFrom": "₹85,000",
+      "image": {
+        "query": "phi phi island viewpoint bay",
+        "alt": "Twin turquoise bays of Phi Phi Don seen from the island viewpoint",
+        "candidates": [
+          "https://images.unsplash.com/photo-1528181304800-259b08848526"
+        ]
+      }
+    },
+    {
+      "id": "temples-to-beaches",
+      "title": "Temples to Beaches",
+      "nights": 8,
+      "route": [
+        {
+          "place": "Bangkok",
+          "nights": 2
+        },
+        {
+          "place": "Chiang Mai",
+          "nights": 3
+        },
+        {
+          "place": "Phuket",
+          "nights": 3
+        }
+      ],
+      "summary": "Thailand's three faces in one arc: Bangkok's palaces and street food, then north to Chiang Mai for Doi Suthep, a cooking class and an elephant sanctuary, before cheap internal flights drop you on Phuket's sand to finish.",
+      "priceFrom": "₹95,000",
+      "image": {
+        "query": "chiang mai temple monks morning",
+        "alt": "Monks walking past a golden temple in Chiang Mai's morning light"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do Indians need a visa for Thailand?",
+      "a": "No — Indian passport holders currently enter visa-free for up to 60 days, though Thailand has approved reducing this to 30 days, so confirm the stamp length close to your travel date. You must submit the free Thailand Digital Arrival Card online within 72 hours before arrival, and carry a return ticket and hotel bookings in case immigration asks."
+    },
+    {
+      "q": "Is vegetarian food easy to find in Thailand?",
+      "a": "Easier than most expect. Say 'jay' for strictly vegetarian food, look for yellow jay flags at stalls, and lean on dishes like veg pad thai, som tam (ask for no fish sauce) and mango sticky rice. Bangkok, Phuket and Pattaya all have plenty of Indian restaurants, and hotels handle Jain and veg requests routinely."
+    },
+    {
+      "q": "How much does a Thailand trip cost from India?",
+      "a": "Return flights run ₹15,000–25,000 in shoulder season. A comfortable 6-night trip lands around ₹55,000–75,000 per person all-in; budget travellers manage under ₹45,000 and a resort-heavy island holiday crosses ₹1,00,000. On the ground, ₹5,000–8,000 a day covers mid-range hotels, food and one activity."
+    },
+    {
+      "q": "When is the best time to visit Thailand?",
+      "a": "November to March for the whole country — dry, sunny and relatively cool. April and May are hot but workable, especially with Songkran in mid-April. During the June–October monsoon, pick Koh Samui and the Gulf islands, which stay much drier than Phuket and Krabi."
+    },
+    {
+      "q": "How do I get around within Thailand?",
+      "a": "Internal flights are cheap and frequent — Bangkok to Phuket or Chiang Mai costs ₹2,500–5,000 booked ahead. Within cities, use Grab for cars and bikes, the BTS Skytrain in Bangkok, and shared songthaew trucks in Chiang Mai. Islands connect by ferry and speedboat; book monsoon-season crossings a day ahead as schedules can shift with weather."
+    },
+    {
+      "q": "Can I use UPI or Indian cards in Thailand?",
+      "a": "UPI works at a growing number of Thai merchants through QR tie-ups, but treat it as a bonus, not a plan. Carry baht in cash for markets, taxis and street food — ATMs charge about ฿220 per withdrawal, so fewer, larger withdrawals or a zero-forex-markup card is the smart play. Cards are fine in malls, hotels and chain restaurants."
+    }
+  ]
+}

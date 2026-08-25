@@ -1,0 +1,457 @@
+{
+  "slug": "philippines",
+  "name": "Philippines",
+  "displayName": "The Philippines",
+  "country": "Philippines",
+  "region": "southeast-asia",
+  "flag": "🇵🇭",
+  "tagline": "Lagoon mornings, reef afternoons, halo-halo sunsets.",
+  "overview": "Seven thousand six hundred islands sounds like a statistic until you're standing in Bacuit Bay watching limestone towers rise out of water so clear the boats look airborne. The Philippines is Southeast Asia's most spectacular archipelago and, oddly, the one Indian travellers know least — which changed the day it went visa-free for Indian passports. The country runs on island time and genuine warmth: English is everywhere, karaoke is a national sport, and strangers will invite you to lunch before asking your name. The trade-off for all that beauty is logistics — you fly or ferry between islands, so a good itinerary picks two or three bases and commits. Palawan delivers the postcard lagoons, Cebu stacks waterfalls and sardine swarms into single day trips, Boracay does polished beach life, and Siargao gives surfers their own republic. Come between November and May, budget like you would for Bali, and expect friendlier crowds.",
+  "heroAlt": "Limestone karst cliffs and turquoise lagoon in El Nido, Palawan",
+  "heroImage": {
+    "query": "el nido palawan lagoon karst",
+    "alt": "Outrigger boats moored beneath limestone cliffs in a turquoise El Nido lagoon"
+  },
+  "quickFacts": {
+    "capital": "Manila",
+    "currency": {
+      "code": "PHP",
+      "name": "Philippine peso",
+      "inr": "₱1 ≈ ₹1.55"
+    },
+    "languages": [
+      "Filipino (Tagalog)",
+      "English — spoken almost everywhere",
+      "Cebuano in the Visayas"
+    ],
+    "timezone": "GMT+8 · 2½ hrs ahead of IST",
+    "flightFromIndia": "≈7 hrs non-stop Delhi–Manila on Air India; 9–12 hrs one-stop from Mumbai or Bengaluru via Singapore or Bangkok",
+    "plug": "Type A/B/C · 220V — carry a universal adapter for flat-pin sockets",
+    "sim": "Globe or Smart tourist eSIM/SIM at the airport, about ₹500–700 for 20GB and 7–15 days"
+  },
+  "visa": {
+    "type": "visa-free",
+    "headline": "Visa-free · 14 days",
+    "body": "Since June 2025, Indian passport holders enter the Philippines visa-free for up to 14 days for tourism — non-extendible and non-convertible. Carry a passport valid six months beyond your stay, a return or onward ticket, hotel bookings and proof of funds; immigration does ask. Staying longer than 14 days means applying for a sticker visa at the Philippine Embassy before you fly (about ₹3,800, roughly 10 working days), so plan trip length around the free window.",
+    "cost": "Free for stays up to 14 days",
+    "processing": "Stamped at immigration on arrival"
+  },
+  "weather": {
+    "summary": "Tropical year-round with a clear split: dry from roughly November to May, wet and typhoon-prone from June to October. December to February is the sweet spot — sunny, breezy and merely warm — while March to May turns properly hot. Rain in the wet months comes in heavy bursts, but typhoons can cancel ferries and island tours for days at a time.",
+    "bestTime": "November – May",
+    "seasons": [
+      {
+        "label": "Cool dry",
+        "months": "Nov – Feb",
+        "temp": "25–30°C",
+        "notes": "Sunny days, calm seas and the amihan breeze — every lagoon tour and dive boat running. Peak everything.",
+        "tone": "high"
+      },
+      {
+        "label": "Hot dry",
+        "months": "Mar – May",
+        "temp": "28–34°C",
+        "notes": "Fierce sun and Filipino summer-holiday crowds at beaches, but seas stay flat and skies clear. Book early for Holy Week.",
+        "tone": "shoulder"
+      },
+      {
+        "label": "Wet season",
+        "months": "Jun – Oct",
+        "temp": "26–31°C",
+        "notes": "Cheapest rates and green landscapes, but typhoons are a real risk — boat tours get cancelled and flights disrupted.",
+        "tone": "low"
+      }
+    ]
+  },
+  "booking": {
+    "high": "Dec – Feb, plus Holy Week and Chinese New Year",
+    "low": "Jun – Sep",
+    "note": "The Christmas–New Year fortnight and Holy Week (March/April) are when the whole country travels — book Palawan and Boracay two to three months out. November and May give dry-season weather at noticeably softer rates."
+  },
+  "idealDuration": {
+    "nights": "7 – 9",
+    "note": "Seven nights covers two island bases comfortably — say El Nido plus Coron, or Cebu plus Bohol. Nine lets you add Boracay or Siargao without turning the trip into a transit exercise. Keep it inside the 14-day visa-free window."
+  },
+  "budget": {
+    "perDay": [
+      {
+        "tier": "Smart",
+        "inr": "₹4,000 – 6,500"
+      },
+      {
+        "tier": "Comfort",
+        "inr": "₹7,500 – 13,000"
+      },
+      {
+        "tier": "Luxe",
+        "inr": "₹18,000+"
+      }
+    ],
+    "note": "Per person per day with mid-range stays, tricycles or Grab, and one paid tour. Island-hopping day trips run ₹1,500–2,500 with lunch; beachfront resorts on Panglao or Boracay start around ₹5,000 a night off-peak."
+  },
+  "safety": {
+    "score": 4,
+    "headline": "Tourist islands are relaxed and welcoming — plan around weather, not crime",
+    "tips": [
+      "Track typhoon forecasts (PAGASA app or site) in June–October; build a buffer day before international flights in case ferries or tours cancel.",
+      "Use Grab in Manila and Cebu instead of hailing taxis — it is cheap, cashless and removes the meter negotiation entirely.",
+      "Petty theft happens in crowded Manila areas like Divisoria and on jeepneys; keep phones zipped away and carry a day wallet.",
+      "Skip the far southwest — western Mindanao and the Sulu archipelago are off-limits per most government advisories; the tourist islands are nowhere near them.",
+      "On banca boat tours, insist on life jackets and give rough-sea days a miss — operators cancel for good reason.",
+      "Drink bottled or filtered water everywhere, and go easy on street-side ice outside big resorts."
+    ]
+  },
+  "goodToKnow": [
+    "English is an official language — signs, menus and conversations all work, making this the easiest Southeast Asian country to travel independently.",
+    "Cash rules on the islands: ATMs in El Nido and Siargao run dry or charge ₱250 per withdrawal, so carry pesos from Manila or Cebu.",
+    "Tipping is appreciated but modest — 5–10% at restaurants if no service charge, ₱20–50 for porters and guides.",
+    "Domestic flights (Cebu Pacific, Philippine Airlines, AirSwift) are how you cover distance; book early and weigh cabin bags — budget carriers enforce 7kg strictly.",
+    "Beaches charge small environmental and terminal fees — ₱75–400 a time in El Nido, Boracay and Coron; keep small notes handy.",
+    "Holy Week (March/April) and the Christmas season shut offices and jam ferries and flights — brilliant atmosphere, terrible time to wing it.",
+    "Vegetarian food takes planning: Filipino cuisine is pork-and-seafood heavy, but tourist hubs have Indian restaurants and most kitchens will cook veg on request.",
+    "Karaoke invitations are sincere and declining one takes diplomacy — join in, the bar is low and the goodwill is enormous."
+  ],
+  "cities": [
+    {
+      "id": "manila",
+      "name": "Manila",
+      "blurb": "The chaotic, big-hearted gateway — Spanish-era walls at Intramuros, serious food in Binondo's Chinatown, rooftop bars in Makati. One night on either end of the trip is plenty, and worth doing properly.",
+      "image": {
+        "query": "intramuros manila fort santiago",
+        "alt": "Stone gate and colonial walls of Intramuros in Manila"
+      }
+    },
+    {
+      "id": "el-nido",
+      "name": "El Nido, Palawan",
+      "blurb": "The reason most people book the ticket — a scruffy-charming town facing Bacuit Bay's limestone islands and lagoons. Base here three nights for the lettered island-hopping tours and Nacpan Beach.",
+      "image": {
+        "query": "el nido bacuit bay boats",
+        "alt": "Outrigger boats anchored in Bacuit Bay beneath karst cliffs, El Nido"
+      }
+    },
+    {
+      "id": "coron",
+      "name": "Coron, Palawan",
+      "blurb": "El Nido's wilder sibling across the water — Kayangan Lake's absurd clarity, Twin Lagoon, and a fleet of WWII Japanese wrecks that make it one of Asia's great dive bases.",
+      "image": {
+        "query": "kayangan lake coron viewpoint",
+        "alt": "View over Kayangan Lake and karst hills in Coron"
+      }
+    },
+    {
+      "id": "boracay",
+      "name": "Boracay",
+      "blurb": "Four kilometres of genuinely white sand with the country's most polished resort scene. Post-rehabilitation it is cleaner and calmer — paraw sailing at sunset remains one of Asia's best cheap thrills.",
+      "image": {
+        "query": "boracay white beach paraw sailboat",
+        "alt": "Paraw sailboats at sunset off White Beach, Boracay"
+      }
+    },
+    {
+      "id": "cebu-mactan",
+      "name": "Cebu & Mactan",
+      "blurb": "The Visayas hub — direct flights everywhere, resort strips on Mactan island, and day trips to Kawasan Falls canyoneering and the Moalboal sardine run. Great first base for south-Cebu adventures.",
+      "image": {
+        "query": "kawasan falls cebu turquoise",
+        "alt": "Turquoise pool and waterfall at Kawasan Falls, Cebu"
+      }
+    },
+    {
+      "id": "siargao",
+      "name": "Siargao",
+      "blurb": "A teardrop-shaped surf island with palm-lined lanes, tidal pools and the Cloud 9 break. Slower and cooler-headed than Boracay — the base for travellers who measure days in swells and smoothies.",
+      "image": {
+        "query": "siargao cloud 9 boardwalk",
+        "alt": "Wooden boardwalk leading to the Cloud 9 surf break, Siargao"
+      }
+    }
+  ],
+  "highlights": [
+    {
+      "id": "el-nido-island-hopping",
+      "rank": 1,
+      "name": "El Nido island hopping",
+      "category": "Nature",
+      "blurb": "Banca boats thread Bacuit Bay's karst islands — Big Lagoon, Small Lagoon, Secret Beach — on lettered tours that justify the entire flight.",
+      "detail": "The classic tours are lettered A to D; A (Big Lagoon, Secret Lagoon, Shimizu Island) and C (Hidden Beach, Secret Beach, Matinloc Shrine) are the keepers. Big Lagoon now runs on timed entry slots, so book a day ahead in high season and take the earliest departure — by 11am the lagoons hold a flotilla. Private boats cost roughly double a group tour (₹2,000–2,500 with lunch grilled on board) and buy you empty coves. Bring reef-safe sunscreen, aqua shoes and a dry bag; kayak rental inside Big Lagoon is worth the extra ₱300. Combine two tour days with a beach day at Nacpan.",
+      "image": {
+        "query": "big lagoon el nido kayak",
+        "alt": "Kayaks entering the Big Lagoon between limestone walls, El Nido"
+      }
+    },
+    {
+      "id": "coron-lakes-wrecks",
+      "rank": 2,
+      "name": "Kayangan Lake & Coron's wrecks",
+      "category": "Adventure",
+      "blurb": "Climb 300 steps to the Philippines' most photographed viewpoint, swim a lake of glassy blue, then dive WWII Japanese wrecks in the same bay.",
+      "detail": "Coron's super-ultimate tour packs Kayangan Lake, Twin Lagoon and Barracuda Lake into one boat day — go early because Kayangan's viewpoint queue builds fast after 10am. The water is so clear that snorkelling feels like floating in air; Barracuda Lake's warm thermocline layers are a genuinely strange sensation. Divers should add a second day for the Japanese supply fleet sunk in 1944 — Okikawa Maru and Irako sit at recreational depths and rank among Asia's best wreck dives (two-tank trips about ₹6,000). The El Nido–Coron fast ferry takes 3½–4 hours; book ahead in season.",
+      "image": {
+        "query": "twin lagoon coron palawan",
+        "alt": "Swimmers passing between the limestone walls of Twin Lagoon, Coron"
+      }
+    },
+    {
+      "id": "boracay-white-beach",
+      "rank": 3,
+      "name": "White Beach, Boracay",
+      "category": "Beach",
+      "blurb": "Powder-fine sand, calm shallows and a sunset paraw sail — the country's most famous beach earned the reputation and kept it after its cleanup.",
+      "detail": "White Beach runs four kilometres through Stations 1–3: Station 1 has the widest sand and smartest resorts, Station 2 the restaurants and action, Station 3 the budget stays. The single unmissable thing is a paraw sailboat at sunset — about ₱1,500–3,000 for the boat, split between passengers, gliding on outriggers as the sky goes tangerine. Daytime, walk to quieter Puka Shell Beach or kite-surf at Bulabog on the windward side (best December–March). Post-rehabilitation rules mean no drinking or smoking on the sand and fewer vendors — the beach is calmer for it. Fly into Caticlan rather than Kalibo to save two hours.",
+      "image": {
+        "query": "white beach boracay station 1",
+        "alt": "White sand and turquoise shallows along White Beach, Boracay"
+      }
+    },
+    {
+      "id": "chocolate-hills-bohol",
+      "rank": 4,
+      "name": "Chocolate Hills, Bohol",
+      "category": "Nature",
+      "blurb": "More than a thousand near-identical grassy mounds rolling to the horizon — turning cocoa-brown in the dry months — with tarsiers en route.",
+      "detail": "The classic Bohol countryside loop from Panglao or Tagbilaran strings together the Chocolate Hills viewpoint at Carmen, the Philippine tarsier sanctuary at Corella, a Loboc River lunch cruise and the man-made mahogany forest. Do the hills first — morning light is kinder and tour buses arrive from 10am. The tarsiers, palm-sized primates with cartoon eyes, are nocturnal and fragile: visit the Corella sanctuary rather than roadside cages, keep silent and skip the flash. A private car for the day runs about ₹4,000–5,000 split between passengers. Base on Panglao island for Alona Beach and some of the country's easiest reef diving at Balicasag.",
+      "image": {
+        "query": "chocolate hills bohol viewpoint",
+        "alt": "Rows of grassy conical hills stretching to the horizon in Bohol"
+      }
+    },
+    {
+      "id": "kawasan-canyoneering",
+      "rank": 5,
+      "name": "Kawasan Falls canyoneering",
+      "category": "Adventure",
+      "blurb": "Half a day jumping, sliding and swimming down a turquoise canyon in south Cebu, ending beneath the tiered Kawasan Falls.",
+      "detail": "This is the Philippines' best adrenaline-per-rupee experience: helmeted and life-jacketed, you descend the Matutinao river canyon through a series of jumps from one to ten metres — every jump optional, with climb-down routes for the nervous. Operators in Badian or Moalboal charge about ₹2,500–3,500 including gear, guide, and lunch; book a morning slot to beat the conga line of groups that forms by midday. Water shoes are essential, GoPros are rentable, and the final swim into Kawasan's blue main pool is the payoff. Pair it with the Moalboal sardine run for one of Asia's great double-header day trips.",
+      "image": {
+        "query": "canyoneering badian cebu jump",
+        "alt": "A canyoneer leaping into a turquoise pool in the Badian canyon, Cebu"
+      }
+    },
+    {
+      "id": "underground-river",
+      "rank": 6,
+      "name": "Puerto Princesa Underground River",
+      "category": "Nature",
+      "blurb": "A UNESCO-listed river running eight kilometres beneath a limestone mountain — paddled by boat through cathedral caverns of bats and rock formations.",
+      "detail": "One of the New7Wonders of Nature, the subterranean river at Sabang is a 45-minute paddle through a mountain, headlamps picking out cavern ceilings twenty storeys high. Permits are capped daily, so book through your hotel or a Puerto Princesa agency at least a day or two ahead — walk-ins regularly miss out in high season. The tour involves a scenic 1½-hour drive from Puerto Princesa, a short banca ride to the cave mouth, and an audio guide that mercifully replaced the old megaphone commentary. Most travellers do it as a stopover day between landing in Puerto Princesa and taking the van north to El Nido — an efficient way to break up the five-hour drive.",
+      "image": {
+        "query": "puerto princesa underground river cave",
+        "alt": "Paddle boat entering the cave mouth of the Puerto Princesa Underground River"
+      }
+    },
+    {
+      "id": "siargao-cloud-9",
+      "rank": 7,
+      "name": "Siargao & Cloud 9",
+      "category": "Surf",
+      "blurb": "The Philippines' surf capital — a world-class reef break, palm-tunnel roads, and a laid-back island scene that keeps travellers extending flights.",
+      "detail": "Cloud 9 is the famous wave — a hollow reef break with a boardwalk viewing tower where you can watch the lineup with a coconut in hand — but Siargao is really about the whole package. Beginners learn at Jacking Horse on soft-tops (lessons about ₹1,500 an hour with a local instructor), non-surfers do the three-island hop to Naked, Daku and Guyam islands, swim the Magpupungko tidal pools at low tide, and cruise the Maasin river palm bend. Surf season peaks August–November when the Pacific swell arrives; the island stays great year-round. Fly in via Cebu or Manila and rent a scooter — distances are short and the coastal road is the attraction.",
+      "image": {
+        "query": "cloud 9 siargao surf tower",
+        "alt": "Surfers and viewing tower at the Cloud 9 reef break, Siargao"
+      }
+    },
+    {
+      "id": "intramuros-manila",
+      "rank": 8,
+      "name": "Intramuros, Manila",
+      "category": "Culture",
+      "blurb": "Manila's 16th-century walled city — Fort Santiago, San Agustin Church and cobbled streets best explored by bamboo bicycle or kalesa.",
+      "detail": "Most itineraries treat Manila as a transfer, which is why three hours in Intramuros surprises people. The Spanish walled city holds Fort Santiago, where national hero José Rizal spent his final night; San Agustin, a UNESCO-listed baroque church from 1607; and Casa Manila, a recreated colonial mansion. The best way in is a guided bamboo-bike tour (about ₹1,500–2,000) or the theatrical walking tours run by local historians — book the evening slot and the walls glow gold. Finish with halo-halo nearby or jump to Binondo, the world's oldest Chinatown, for a dumpling crawl. Doable between an international arrival and a domestic hop next morning.",
+      "image": {
+        "query": "san agustin church intramuros",
+        "alt": "Facade of San Agustin Church inside Intramuros, Manila"
+      }
+    },
+    {
+      "id": "moalboal-sardine-run",
+      "rank": 9,
+      "name": "Moalboal sardine run",
+      "category": "Wildlife",
+      "blurb": "Millions of sardines swirl in a permanent bait ball metres off Panagsama Beach — snorkelling into it feels like entering a living tornado.",
+      "detail": "Moalboal's sardine shoal is a rare thing: a huge, resident bait ball sitting just off the beach in swimmable depth — no boat, no luck, no season required. Wade off Panagsama Beach, kick fifty metres, and the wall drops away beneath a shimmering column of fish that parts around you. Freedivers get the iconic shots; snorkellers still get the spectacle for the price of mask rental (₹300 or so). Go at first light for glassy water and turtles grazing along the wall. Moalboal town itself is a pleasingly scruffy dive hub with good cafés — most travellers pair a sardine morning with afternoon canyoneering at nearby Badian, or a White Beach sunset.",
+      "image": {
+        "query": "sardine run moalboal freediver",
+        "alt": "A freediver beneath a massive swirling school of sardines at Moalboal"
+      }
+    },
+    {
+      "id": "banaue-batad-terraces",
+      "rank": 10,
+      "name": "Batad rice terraces",
+      "category": "Culture",
+      "blurb": "Two-thousand-year-old amphitheatres of stone-walled rice paddies carved into the Cordillera — the insider's detour for travellers who have done the beaches.",
+      "detail": "The Ifugao rice terraces around Banaue and Batad are UNESCO-listed and stunningly under-visited — an overnight bus (or a flight-plus-drive) north from Manila into cool mountain air. Batad's amphitheatre bowl is the showpiece: hike down into the village, sleep in a simple guesthouse facing the terraces, and walk out to Tappiya waterfall the next morning. Local guides charge modestly and are worth it for the stone-stair routes. The paddies are greenest April–May and October–November, just after planting. This is a two-to-three-night commitment and the polar opposite of island life — which is exactly why the travellers who make it up here rank it with Palawan.",
+      "image": {
+        "query": "batad rice terraces ifugao",
+        "alt": "Stone-walled rice terraces rising in an amphitheatre around Batad village"
+      }
+    }
+  ],
+  "activities": [
+    {
+      "id": "island-hopping-tours",
+      "name": "Banca island-hopping day tours",
+      "category": "Water",
+      "blurb": "The signature Filipino day out — outrigger boat, snorkel stops, a grilled lunch on a sandbar. El Nido, Coron, Honda Bay and Siargao all run daily group and private departures.",
+      "image": {
+        "query": "banca outrigger boat sandbar philippines",
+        "alt": "Outrigger banca boat moored at a white sandbar"
+      }
+    },
+    {
+      "id": "coron-wreck-diving",
+      "name": "Wreck diving in Coron Bay",
+      "category": "Adventure",
+      "blurb": "A WWII Japanese fleet sunk in 1944 sits at recreational depths — fun dives for certified divers, discovery dives for beginners, and Barracuda Lake's thermocline as a bonus.",
+      "image": {
+        "query": "coron shipwreck diving philippines",
+        "alt": "Scuba diver exploring a coral-covered WWII shipwreck in Coron Bay"
+      }
+    },
+    {
+      "id": "kawasan-canyoneering-trip",
+      "name": "Canyoneering at Kawasan, Cebu",
+      "category": "Adventure",
+      "blurb": "Guided half-day descent of the Badian canyon — cliff jumps, natural slides and river swims ending at Kawasan Falls, with gear, guide and lunch included.",
+      "image": {
+        "query": "kawasan falls canyoneering cebu",
+        "alt": "Guided group swimming through a turquoise canyon toward Kawasan Falls"
+      }
+    },
+    {
+      "id": "whale-sharks-donsol",
+      "name": "Whale shark snorkelling, Donsol",
+      "category": "Wildlife",
+      "blurb": "Swim alongside wild whale sharks under a strict interaction code — Donsol's community-run model (Nov–May season) is the ethical choice over hand-fed encounters.",
+      "image": {
+        "query": "whale shark snorkeling philippines",
+        "alt": "Snorkeller swimming near a whale shark in open blue water"
+      }
+    },
+    {
+      "id": "cebu-lechon-food-crawl",
+      "name": "Lechon & street-food crawl, Cebu",
+      "category": "Food",
+      "blurb": "Cebu's crackling-skinned lechon is a national argument-settler — guided crawls add puso hanging rice, sutukil seafood grills and mango desserts for non-pork eaters.",
+      "image": {
+        "query": "cebu lechon roast market",
+        "alt": "Golden roasted lechon being carved at a Cebu eatery"
+      }
+    },
+    {
+      "id": "poblacion-night-out",
+      "name": "Poblacion bar-hop, Makati",
+      "category": "Nightlife",
+      "blurb": "Manila's best night out — a walkable grid of speakeasies, rooftop bars and late-night Filipino kitchens in Poblacion, ideally with a local guide leading the order of operations.",
+      "image": {
+        "query": "poblacion makati bar street night",
+        "alt": "Neon-lit bar street at night in Poblacion, Makati"
+      }
+    }
+  ],
+  "trips": [
+    {
+      "id": "palawan-classic",
+      "title": "Palawan Classic",
+      "nights": 6,
+      "route": [
+        {
+          "place": "El Nido",
+          "nights": 3
+        },
+        {
+          "place": "Coron",
+          "nights": 3
+        }
+      ],
+      "summary": "The postcard trip: fly into El Nido via Manila, spend three days on Bacuit Bay's lagoon tours and Nacpan Beach, then take the fast ferry to Coron for Kayangan Lake, Twin Lagoon and a wreck dive. Pure island time, minimal transit, maximum turquoise.",
+      "priceFrom": "₹95,000",
+      "image": {
+        "query": "el nido lagoon aerial palawan",
+        "alt": "Aerial view of boats in a turquoise lagoon ringed by karst cliffs, Palawan"
+      }
+    },
+    {
+      "id": "cebu-bohol-sampler",
+      "title": "Cebu & Bohol Sampler",
+      "nights": 6,
+      "route": [
+        {
+          "place": "Mactan, Cebu",
+          "nights": 2
+        },
+        {
+          "place": "Moalboal",
+          "nights": 2
+        },
+        {
+          "place": "Panglao, Bohol",
+          "nights": 2
+        }
+      ],
+      "summary": "The adventure-dense option, all reachable from one international gateway: resort downtime on Mactan, the sardine run and Kawasan canyoneering from Moalboal, then a two-hour ferry to Bohol for the Chocolate Hills, tarsiers and Alona Beach. Big variety, short hops, easy logistics.",
+      "priceFrom": "₹80,000",
+      "image": {
+        "query": "alona beach panglao bohol",
+        "alt": "Palm-fringed white sand at Alona Beach, Panglao island"
+      }
+    },
+    {
+      "id": "best-of-the-islands",
+      "title": "Best of the Islands",
+      "nights": 9,
+      "route": [
+        {
+          "place": "Manila",
+          "nights": 1
+        },
+        {
+          "place": "Boracay",
+          "nights": 3
+        },
+        {
+          "place": "El Nido",
+          "nights": 3
+        },
+        {
+          "place": "Coron",
+          "nights": 2
+        }
+      ],
+      "summary": "The full showcase inside the 14-day visa-free window: an Intramuros evening in Manila, three nights of White Beach polish and paraw sunsets on Boracay, then Palawan's wilder half — El Nido's lagoons and Coron's lakes and wrecks. Three distinct moods, two domestic flights, one ferry.",
+      "priceFrom": "₹1,35,000",
+      "image": {
+        "query": "paraw sunset boracay silhouette",
+        "alt": "Silhouetted paraw sailboat against an orange sunset off Boracay"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do Indians need a visa for the Philippines?",
+      "a": "No — since June 2025, Indian passport holders get 14 days visa-free for tourism. It is non-extendible, so plan the trip within two weeks. Carry a passport valid six months beyond your stay, a return ticket, hotel bookings and proof of funds; immigration officers do check. For longer stays, apply for a sticker visa at the Philippine Embassy before flying (about ₹3,800, roughly 10 working days)."
+    },
+    {
+      "q": "How do I get there from India, and how long does it take?",
+      "a": "Air India flies non-stop Delhi–Manila in about 7 hours. From Mumbai, Bengaluru or Chennai, one-stop routings via Singapore, Bangkok or Kuala Lumpur take 9–12 hours door to door. From Manila (or Cebu, which also has good Asian connections), cheap domestic flights on Cebu Pacific or Philippine Airlines reach every island hub in about an hour."
+    },
+    {
+      "q": "Will I find vegetarian food?",
+      "a": "With some planning, yes. Filipino cuisine leans hard on pork and seafood, but English menus make asking easy, tourist hubs like El Nido, Boracay and Siargao have vegetarian cafés and a few Indian restaurants, and dishes like pinakbet (vegetable stew), garlic rice, mango shakes and halo-halo carry you far. Resorts happily cook veg on request — just confirm no fish sauce or bagoong."
+    },
+    {
+      "q": "When is the best time to go?",
+      "a": "November to May is the dry season; December to February is the sweet spot with sunny days and calm seas. March to May is hotter with domestic holiday crowds, especially over Holy Week. June to October is typhoon season — rates drop sharply, but boat tours and ferries can be cancelled at short notice, so it is a gamble for an island-hopping trip."
+    },
+    {
+      "q": "How do I get around between islands?",
+      "a": "Fly for long hops — domestic fares booked early cost ₹2,000–5,000 — and use fast ferries for short ones, like El Nido–Coron (3½–4 hours) or Cebu–Bohol (2 hours). On the islands themselves, tricycles, habal-habal motorbike taxis and rented scooters do the work; Grab operates in Manila and Cebu. Build slack around ferry days in the wet season."
+    },
+    {
+      "q": "Is the Philippines safe, and how much should I budget?",
+      "a": "The tourist islands — Palawan, Cebu, Bohol, Boracay, Siargao — are relaxed and genuinely friendly; the standard advisories concern western Mindanao and Sulu, far from any of them. Normal big-city caution applies in Manila. Budget-wise, plan on ₹4,000–6,500 per person per day travelling smart, ₹7,500–13,000 for mid-range comfort, and an all-in week from India from about ₹80,000 per person including flights."
+    }
+  ]
+}

@@ -1,0 +1,464 @@
+{
+  "slug": "uae",
+  "name": "Dubai & UAE",
+  "displayName": "Dubai & the UAE",
+  "country": "United Arab Emirates",
+  "region": "middle-east",
+  "flag": "🇦🇪",
+  "tagline": "Desert dunes, record-breaking skylines, gold-souk bargains.",
+  "overview": "Dubai gets dismissed as a stopover and that is a mistake — the UAE rewards a proper week. The headline acts are real: the world's tallest tower, a fountain show set to Arabic strings, dune camps an hour from the mall, and Abu Dhabi's white-marble Sheikh Zayed Mosque, which silences even the most jaded traveller. But the country also keeps an older register. Wooden abras still ferry commuters across Dubai Creek for a dirham, the gold and spice souks in Deira still expect you to haggle, and Sharjah's museums and RAK's mountains barely see tour buses. For Indian travellers the logistics are almost unfair — three-hour flights from Mumbai, direct connections from a dozen cities, familiar food on every corner and a time difference of ninety minutes. Come between November and March, split your stay across two emirates, and budget for one properly extravagant evening; this is a place that does spectacle better than anywhere.",
+  "heroAlt": "Dubai skyline with Burj Khalifa rising above the haze at dusk",
+  "heroImage": {
+    "query": "dubai skyline burj khalifa dusk",
+    "alt": "The Burj Khalifa towering over the Downtown Dubai skyline at dusk",
+    "candidates": [
+      "https://images.unsplash.com/photo-1512453979798-5ea266f8880c",
+      "https://images.unsplash.com/photo-1518684079-3c830dcef090"
+    ]
+  },
+  "quickFacts": {
+    "capital": "Abu Dhabi",
+    "currency": {
+      "code": "AED",
+      "name": "UAE dirham",
+      "inr": "AED 1 ≈ ₹26"
+    },
+    "languages": [
+      "Arabic",
+      "English everywhere",
+      "Hindi widely understood"
+    ],
+    "timezone": "GMT+4 · 1½ hrs behind IST",
+    "flightFromIndia": "≈3h non-stop from Mumbai, 3½–4h from Delhi, Bengaluru and Chennai",
+    "plug": "Type G (UK 3-pin) · 230V — Indian plugs need an adapter",
+    "sim": "Tourist eSIM or airport SIM from du/Etisalat, about ₹1,200 for 6–8GB; many hotels and malls have solid free Wi-Fi"
+  },
+  "visa": {
+    "type": "evisa",
+    "headline": "e-Visa before you fly · 30 or 60 days",
+    "body": "Indian passport holders apply online through an airline, hotel or licensed agent — Emirates, Air India and portals like Akbar process it against your ticket. The 30-day single-entry is the standard choice; 60-day and multi-entry versions exist for longer trips. Indians holding a valid US visa or green card can instead take a 14-day visa on arrival. Passport needs six months' validity.",
+    "cost": "≈₹8,500 – 12,000 for the 30-day e-visa",
+    "processing": "Typically 2 – 4 working days; express in 24–48 hrs"
+  },
+  "weather": {
+    "summary": "A desert climate with two real settings: gorgeous and scorching. From November to March the weather is the whole point — sunny 25°C days, cool evenings, everything outdoors. Summer flips to 40°C-plus with heavy humidity on the coast, when life retreats into air-conditioning and hotel prices collapse.",
+    "bestTime": "November – March",
+    "seasons": [
+      {
+        "label": "Winter",
+        "months": "Nov – Mar",
+        "temp": "18–28°C",
+        "notes": "Blue skies, beach weather, desert nights cool enough for a jacket — peak season for good reason.",
+        "tone": "high"
+      },
+      {
+        "label": "Shoulder",
+        "months": "Oct & Apr",
+        "temp": "26–36°C",
+        "notes": "Warm but workable, with mornings and evenings outdoors and pool afternoons. Rates noticeably softer.",
+        "tone": "shoulder"
+      },
+      {
+        "label": "Summer",
+        "months": "May – Sep",
+        "temp": "34–45°C",
+        "notes": "Fierce heat and humidity. Fine for a mall-water-park-and-brunch trip on slashed hotel rates; skip the desert daytime.",
+        "tone": "low"
+      }
+    ]
+  },
+  "booking": {
+    "high": "Dec – Feb, especially Christmas–New Year and the Dubai Shopping Festival weeks",
+    "low": "May – September",
+    "note": "New Year's Eve in Dubai prices like nowhere else — book three months out or avoid the fortnight entirely. November and March deliver near-identical weather at 20–30% less."
+  },
+  "idealDuration": {
+    "nights": "5 – 7",
+    "note": "Five nights covers Dubai plus an Abu Dhabi day trip without rushing. Seven lets you sleep a night in the desert or add Ras Al Khaimah's mountains."
+  },
+  "budget": {
+    "perDay": [
+      {
+        "tier": "Smart",
+        "inr": "₹8,000 – 12,000"
+      },
+      {
+        "tier": "Comfort",
+        "inr": "₹15,000 – 25,000"
+      },
+      {
+        "tier": "Luxe",
+        "inr": "₹40,000+"
+      }
+    ],
+    "note": "Per person per day with a mid-range hotel, Metro plus the odd taxi, and one paid attraction. The big swings are attraction tickets and dining — a Burj Khalifa slot and a fancy dinner can double a day's spend."
+  },
+  "safety": {
+    "score": 5,
+    "headline": "One of the safest countries you can visit — rules matter more than crime",
+    "tips": [
+      "Petty crime is close to non-existent; the real risks are legal, not criminal — public drunkenness, rude gestures and online rants about the country can all get you in genuine trouble.",
+      "Drink only in licensed venues (hotel bars, restaurants); never carry open alcohol or drive after even one drink — the limit is zero.",
+      "Public displays of affection beyond hand-holding are frowned on; save it for the hotel.",
+      "Dress is relaxed in Dubai malls and beaches, but carry a cover-up for mosques, Sharjah and old-town areas.",
+      "Summer heat is the most likely thing to hurt you — hydrate hard and keep midday plans indoors from May to September.",
+      "Use the Careem or Uber apps or metered RTA taxis; unlicensed touts at tourist spots overcharge."
+    ]
+  },
+  "goodToKnow": [
+    "Tipping is appreciated but not demanded — round up taxis, 10% at restaurants if service isn't already added.",
+    "Cards and Apple/Google Pay work everywhere; keep ₹2,000-worth of dirhams in cash for souks, abras and small eateries.",
+    "The Dubai Metro is clean, cheap and driverless — buy a Nol card; note the women-and-children carriage and the AED 100+ fine for eating on board.",
+    "Friday is part of the weekend but no longer a shut-down day; mall and attraction hours barely change.",
+    "During Ramzan, eating and drinking in public daylight hours is restricted in many areas and hours shift — a magical time to visit, but check dates.",
+    "Indian food is everywhere and often outstanding — Karama and Bur Dubai serve better dosa and biryani than most Indian cities' airports ever will.",
+    "Buy attraction tickets online days ahead — Burj Khalifa sunset slots and desert safaris sell out and walk-up rates cost more.",
+    "Alcohol is expensive (₹800+ a pint in hotels); budget accordingly or embrace the excellent mocktail and karak-chai culture."
+  ],
+  "cities": [
+    {
+      "id": "dubai",
+      "name": "Dubai",
+      "blurb": "The main event — Burj Khalifa, beaches, souks and the desert on its doorstep. Base in Downtown for icons, Marina/JBR for beach life, or Bur Dubai for character and value.",
+      "image": {
+        "query": "dubai downtown burj khalifa skyline",
+        "alt": "Downtown Dubai skyline with the Burj Khalifa at golden hour",
+        "candidates": [
+          "https://images.unsplash.com/photo-1512453979798-5ea266f8880c"
+        ]
+      }
+    },
+    {
+      "id": "abu-dhabi",
+      "name": "Abu Dhabi",
+      "blurb": "The calmer, grander capital: Sheikh Zayed Mosque, the Louvre, Yas Island's theme parks and a genuinely beautiful corniche. Worth a night or two, not just a day trip.",
+      "image": {
+        "query": "sheikh zayed grand mosque abu dhabi",
+        "alt": "White marble domes and reflecting pools of Sheikh Zayed Grand Mosque",
+        "candidates": [
+          "https://images.unsplash.com/photo-1526495124232-a04e1849168c"
+        ]
+      }
+    },
+    {
+      "id": "sharjah",
+      "name": "Sharjah",
+      "blurb": "Twenty minutes from Dubai and a different century — heritage districts, the Museum of Islamic Civilization and the Rain Room. Dry emirate, rich culture, tiny prices.",
+      "image": {
+        "query": "sharjah heritage area al noor mosque",
+        "alt": "Traditional coral-stone buildings in Sharjah's restored heritage district"
+      }
+    },
+    {
+      "id": "ras-al-khaimah",
+      "name": "Ras Al Khaimah",
+      "blurb": "The adventure emirate an hour north: Jebel Jais, the UAE's highest peak, with the world's longest zipline, plus quiet beaches and resorts at half of Dubai's rates.",
+      "image": {
+        "query": "jebel jais mountains ras al khaimah",
+        "alt": "Winding road through the rocky Hajar mountains of Jebel Jais"
+      }
+    },
+    {
+      "id": "fujairah",
+      "name": "Fujairah",
+      "blurb": "The east-coast escape on the Gulf of Oman — snorkelling at Snoopy Island, the country's oldest mosque and a rugged coastline that feels nothing like the Gulf side.",
+      "image": {
+        "query": "fujairah snoopy island beach coast",
+        "alt": "Rocky Snoopy Island off the Fujairah coastline with clear water"
+      }
+    },
+    {
+      "id": "al-ain",
+      "name": "Al Ain",
+      "blurb": "The UNESCO-listed garden city on the Oman border: working falaj irrigation in ancient oases, a hilltop drive up Jebel Hafeet and a camel market that isn't staged for anyone.",
+      "image": {
+        "query": "al ain oasis palm groves",
+        "alt": "Shaded palm groves and irrigation channels inside Al Ain Oasis"
+      }
+    }
+  ],
+  "highlights": [
+    {
+      "id": "burj-khalifa",
+      "rank": 1,
+      "name": "Burj Khalifa",
+      "category": "Icon",
+      "blurb": "The world's tallest building at 828m, with observation decks on floors 124–125 and 148 looking down on a city that looks rendered rather than real.",
+      "detail": "Book the sunset slot two or three days ahead — it costs more than daytime but you get the city in daylight, golden hour and full night sparkle in one visit. The standard 124/125 deck is enough for most; the 148th-floor 'Sky' ticket adds a lounge and shorter queues. Enter through Dubai Mall, allow 30 minutes for security and lifts, then time your exit to catch the fountain show from the boardwalk below. Skip it if you'd rather see the tower than see from it — the view of the Burj from Sky Views or a Downtown rooftop is arguably better.",
+      "image": {
+        "query": "burj khalifa tower dubai",
+        "alt": "The Burj Khalifa spearing above surrounding Downtown towers",
+        "candidates": [
+          "https://images.unsplash.com/photo-1518684079-3c830dcef090"
+        ]
+      }
+    },
+    {
+      "id": "desert-safari",
+      "rank": 2,
+      "name": "Desert safari & dune camp",
+      "category": "Adventure",
+      "blurb": "Dune-bashing in a Land Cruiser, camel rides, sandboarding and a barbecue camp under the stars — the one Dubai experience nobody regrets.",
+      "detail": "Quality varies wildly, so pick by operator, not price: Platinum Heritage and Arabian Adventures run conservation-reserve trips with falconry and proper food, while ₹2,500 mass-market safaris pack you into a conga line of jeeps. Evening safaris (3pm–9pm pickup) are the classic; morning runs suit those prone to motion sickness since the bashing is shorter. Skip lunch beforehand — the dunes are genuinely violent fun. In winter the desert drops below 15°C after dark, so carry a layer. An overnight camp with sunrise camel ride is worth the upgrade at least once.",
+      "image": {
+        "query": "dubai desert safari dunes sunset",
+        "alt": "4x4 vehicles crossing rippled red dunes at sunset near Dubai"
+      }
+    },
+    {
+      "id": "sheikh-zayed-mosque",
+      "rank": 3,
+      "name": "Sheikh Zayed Grand Mosque",
+      "category": "Culture",
+      "blurb": "Abu Dhabi's vast white-marble mosque — 82 domes, the world's largest hand-knotted carpet and courtyards that glow at dusk.",
+      "detail": "Free to enter but you must register online for a time slot. Go for the 4:30–5pm window: daylight for the inlaid marble florals, then the courtyard turning blue-gold as the lights come on — the single best photo hour in the UAE. Dress code is strict (arms and legs covered; women cover hair) and enforced at entry; wear your own loose clothing rather than relying on rentals. It sits right on the Dubai–Abu Dhabi highway, so slot it at the start or end of an Abu Dhabi day trip. Fridays are restricted to worshippers until the afternoon.",
+      "image": {
+        "query": "sheikh zayed grand mosque courtyard",
+        "alt": "Marble arcades and reflective pool at Sheikh Zayed Grand Mosque",
+        "candidates": [
+          "https://images.unsplash.com/photo-1526495124232-a04e1849168c"
+        ]
+      }
+    },
+    {
+      "id": "dubai-fountain-mall",
+      "rank": 4,
+      "name": "Dubai Fountain & Dubai Mall",
+      "category": "Icon",
+      "blurb": "The world's biggest mall opens onto a lake where fountains dance 150m high every half hour after dark — free, and genuinely moving.",
+      "detail": "Shows run every 30 minutes from 6pm to 11pm; the 7–8pm ones catch the Burj Khalifa lit behind the water. Best free vantage is the boardwalk between the mall and Souk Al Bahar; for a treat, book a lakeside table at a Souk Al Bahar restaurant or take the ₹150 abra ride on the fountain lake itself. Inside the mall, the aquarium's viewing wall is free from the concourse, and the waterfall sculpture makes a good meeting point in a building where you will absolutely get lost. Give the mall a half day — with the fountain, it pairs naturally with a Burj Khalifa evening.",
+      "image": {
+        "query": "dubai fountain show burj khalifa night",
+        "alt": "Illuminated fountain jets erupting on the lake below the Burj Khalifa"
+      }
+    },
+    {
+      "id": "old-dubai-souks",
+      "rank": 5,
+      "name": "Old Dubai: Creek, abras & souks",
+      "category": "Culture",
+      "blurb": "Cross the Creek on a one-dirham wooden abra between the spice and gold souks, then wander Al Fahidi's wind-tower lanes — Dubai before the towers.",
+      "detail": "Start in Al Fahidi Historical Neighbourhood around 4pm when the heat eases, drop into the Coffee Museum and XVA café, then walk to the Bur Dubai abra station. The crossing costs one dirham, takes five minutes and is the best-value experience in the country. On the Deira side, the Spice Souk's saffron and dried lemons make better gifts than anything in a mall, and the Gold Souk is worth seeing even if you buy nothing — though gold here is priced by weight with low making charges, and Indians routinely do buy. Haggle everywhere, expect to settle around 60% of the first price.",
+      "image": {
+        "query": "dubai creek abra boats deira",
+        "alt": "Wooden abra boats crossing Dubai Creek with old Deira behind"
+      }
+    },
+    {
+      "id": "palm-jumeirah",
+      "rank": 6,
+      "name": "Palm Jumeirah & Atlantis",
+      "category": "Icon",
+      "blurb": "The palm-shaped island you've seen from every plane window, crowned by Atlantis, Aquaventure water park and The View's 240m observation deck.",
+      "detail": "You can't sense the palm shape at ground level, so start at The View at The Palm (52nd floor) or, better, the ₹2,000-odd Palm Monorail day pass for the approach shot. Aquaventure is one of the world's biggest water parks and deserves a full day — buy online, arrive at opening, do the Tower of Poseidon slides before 11am queues. Non-guests can book Atlantis day passes covering the aquarium and beach. For dinner, the Pointe's fountain-facing terraces are cheaper and calmer than the Atlantis restaurants. Combine with an evening at nearby Dubai Marina.",
+      "image": {
+        "query": "palm jumeirah aerial atlantis dubai",
+        "alt": "Aerial view of Palm Jumeirah's fronds with Atlantis at the crescent"
+      }
+    },
+    {
+      "id": "museum-of-the-future",
+      "rank": 7,
+      "name": "Museum of the Future",
+      "category": "Culture",
+      "blurb": "The torus-shaped building wrapped in Arabic calligraphy — part sci-fi theatre, part design museum, and Dubai's most striking piece of architecture.",
+      "detail": "Tickets (about ₹3,300) sell out days ahead in winter, so book online early and take a morning slot before tour groups land. The experience is staged as a journey to 2071 — a space-station lift, a digitally rebuilt Amazon rainforest, a wellness floor — and lands somewhere between museum and theme park; go in expecting spectacle rather than scholarship and you'll love it. Allow two hours. Even without tickets, the exterior justifies a detour: the calligraphy panels are quotes from Sheikh Mohammed, and the best photo is from the Emirates Towers metro footbridge across the road.",
+      "image": {
+        "query": "museum of the future dubai building",
+        "alt": "The oval Museum of the Future covered in illuminated Arabic calligraphy"
+      }
+    },
+    {
+      "id": "louvre-abu-dhabi",
+      "rank": 8,
+      "name": "Louvre Abu Dhabi",
+      "category": "Culture",
+      "blurb": "Jean Nouvel's floating dome scatters a 'rain of light' over galleries that walk you through all of human civilisation in two hours.",
+      "detail": "The building is the first exhibit: a 180m silver dome perforated like palm fronds, sitting on the sea on Saadiyat Island. Tickets are about ₹1,500 and rarely sell out midweek. The curation is the clever part — objects from different faiths and continents displayed side by side by era, so a Gandharan Buddha sits near Roman marble and early Quran folios. Do the galleries in 90 minutes, then linger under the dome at the waterline; late afternoon light through the lattice is the show. Kayaking under the dome can be booked for sunset. Pairs perfectly with the Grand Mosque for a full Abu Dhabi day.",
+      "image": {
+        "query": "louvre abu dhabi dome interior",
+        "alt": "Light filtering through the perforated dome of Louvre Abu Dhabi"
+      }
+    },
+    {
+      "id": "yas-island",
+      "rank": 9,
+      "name": "Yas Island theme parks",
+      "category": "Family",
+      "blurb": "Ferrari World's 240km/h Formula Rossa, Warner Bros. World's indoor lands and Yas Waterworld — Abu Dhabi's answer to Orlando, all air-conditioned.",
+      "detail": "One park per day is the honest pace; multi-park passes save real money if you're staying two-plus nights. Ferrari World suits thrill-seekers (Formula Rossa is the world's fastest coaster — ride it first, queues build by 1pm), Warner Bros. World is the pick for kids and is fully indoors, which makes it the one summer-proof big attraction in the country. SeaWorld Yas is the newest and strongest for animal encounters. Stay on Yas for a night if parks are the trip's centrepiece — hotels there bundle park tickets — otherwise it's a 40-minute drive from Abu Dhabi city, 75 from Dubai.",
+      "image": {
+        "query": "ferrari world yas island abu dhabi",
+        "alt": "The red curved roof of Ferrari World on Yas Island"
+      }
+    },
+    {
+      "id": "jebel-jais",
+      "rank": 10,
+      "name": "Jebel Jais, Ras Al Khaimah",
+      "category": "Adventure",
+      "blurb": "The UAE's highest mountain, an hour beyond the tourist trail — the world's longest zipline, a cliffside toboggan and hairpin roads with Hajar views.",
+      "detail": "The insider pick. Jais Flight sends you 2.8km down the mountain face at up to 150km/h for around ₹8,000 — book ahead, mornings have calmer wind and fewer cancellations. The Jais Sledder toboggan (about ₹1,200) is the family-friendly alternative, and the viewing-deck park at the summit road's end is free. In winter the summit runs 10°C cooler than Dubai and occasionally sees frost, so bring a jacket. Drive up from Dubai in about two hours, do zipline plus lunch at 1484 by Puro — the country's highest restaurant — and you're back for the fountain show by evening.",
+      "image": {
+        "query": "jebel jais zipline hajar mountains",
+        "alt": "Zipline cables stretching over the jagged Hajar mountain ridges of Jebel Jais"
+      }
+    }
+  ],
+  "activities": [
+    {
+      "id": "dune-dinner-safari",
+      "name": "Evening desert safari with BBQ camp",
+      "category": "Adventure",
+      "blurb": "Dune-bashing, sandboarding, camel rides and a starlit barbecue with live tanoura dancing — the classic first-night booking, from about ₹3,500 with hotel pickup.",
+      "image": {
+        "query": "desert camp dinner dubai night",
+        "alt": "Lantern-lit Bedouin-style desert camp under the night sky"
+      }
+    },
+    {
+      "id": "marina-yacht-cruise",
+      "name": "Dubai Marina yacht or dhow cruise",
+      "category": "Water",
+      "blurb": "Two hours on the water past JBR, Bluewaters and the Palm — shared yacht cruises with breakfast start near ₹2,500; traditional dhow dinners run the Marina by night.",
+      "image": {
+        "query": "dubai marina yacht skyline",
+        "alt": "A white yacht cruising past the tower-lined Dubai Marina"
+      }
+    },
+    {
+      "id": "old-dubai-food-walk",
+      "name": "Old Dubai street-food walk",
+      "category": "Food",
+      "blurb": "Guided grazing through Deira and Bur Dubai — Emirati chebab, Iranian kebabs, karak chai and regag bread — the cheapest way to taste the city's real, migrant-built food culture.",
+      "image": {
+        "query": "karak chai cafeteria old dubai",
+        "alt": "Glasses of karak chai at a streetside cafeteria in old Dubai"
+      }
+    },
+    {
+      "id": "skydive-palm",
+      "name": "Skydive over Palm Jumeirah",
+      "category": "Adventure",
+      "blurb": "The world's most famous tandem drop zone: freefall from 13,000ft with the Palm spread beneath you. About ₹55,000, books out weeks ahead in winter.",
+      "image": {
+        "query": "skydive palm jumeirah tandem",
+        "alt": "Tandem skydivers in freefall above the Palm Jumeirah"
+      }
+    },
+    {
+      "id": "aquaventure-day",
+      "name": "Aquaventure water park day",
+      "category": "Water",
+      "blurb": "Trapdoor slides through shark lagoons, a mile-long river and a private beach at Atlantis — the region's best water park, roughly ₹8,500 online in advance.",
+      "image": {
+        "query": "aquaventure atlantis water park slides",
+        "alt": "Water slides winding through Aquaventure park at Atlantis The Palm"
+      }
+    },
+    {
+      "id": "hammam-spa",
+      "name": "Traditional hammam & spa afternoon",
+      "category": "Wellness",
+      "blurb": "Moroccan-style black-soap scrubs and steam in marble hammams — from ₹4,000 at neighbourhood spas to full-day rituals at Talise or the Palace hotels.",
+      "image": {
+        "query": "moroccan hammam spa marble interior",
+        "alt": "A marble hammam chamber lit by pierced lanterns"
+      }
+    }
+  ],
+  "trips": [
+    {
+      "id": "dubai-express",
+      "title": "Dubai Express",
+      "nights": 4,
+      "route": [
+        {
+          "place": "Dubai",
+          "nights": 4
+        }
+      ],
+      "summary": "The greatest-hits sprint: Burj Khalifa and the fountain on night one, a desert safari, Old Dubai's souks and abra crossing, then a Palm Jumeirah and Marina day. Ideal for a first visit, a long weekend from any Indian metro, or bolting onto a Europe layover.",
+      "priceFrom": "₹68,000",
+      "image": {
+        "query": "dubai downtown fountain evening",
+        "alt": "Evening crowds by the Dubai Fountain with Downtown towers behind"
+      }
+    },
+    {
+      "id": "dubai-abu-dhabi-classic",
+      "title": "Dubai & Abu Dhabi Classic",
+      "nights": 6,
+      "route": [
+        {
+          "place": "Dubai",
+          "nights": 4
+        },
+        {
+          "place": "Abu Dhabi",
+          "nights": 2
+        }
+      ],
+      "summary": "Dubai's icons, souks and desert at a humane pace, then down the coast for the Sheikh Zayed Mosque at dusk, the Louvre's rain of light and a Yas Island theme-park day. Two genuinely different cities, one seamless 90-minute drive apart — the best-balanced first UAE trip.",
+      "priceFrom": "₹1,05,000",
+      "image": {
+        "query": "sheikh zayed mosque dusk abu dhabi",
+        "alt": "Sheikh Zayed Grand Mosque glowing blue and gold at dusk",
+        "candidates": [
+          "https://images.unsplash.com/photo-1526495124232-a04e1849168c"
+        ]
+      }
+    },
+    {
+      "id": "grand-emirates-loop",
+      "title": "Grand Emirates Loop",
+      "nights": 8,
+      "route": [
+        {
+          "place": "Dubai",
+          "nights": 4
+        },
+        {
+          "place": "Ras Al Khaimah",
+          "nights": 2
+        },
+        {
+          "place": "Abu Dhabi",
+          "nights": 2
+        }
+      ],
+      "summary": "The full country: Dubai's spectacle, then north to Jebel Jais for the zipline, mountain air and a beach-resort breather at half the price, and finally Abu Dhabi's mosque, Louvre and corniche. A self-drive-friendly loop that swaps mall fatigue for mountains midway — the itinerary repeat visitors wish they'd done first.",
+      "priceFrom": "₹1,45,000",
+      "image": {
+        "query": "hajar mountains road ras al khaimah",
+        "alt": "Empty highway curving through the Hajar mountains near Ras Al Khaimah"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do Indians need a visa for Dubai, and how long does it take?",
+      "a": "Yes — apply for the UAE e-visa before flying, usually through your airline or a licensed agent against your booking. The 30-day tourist visa costs roughly ₹8,500–12,000 and is typically approved in 2–4 working days, with 24–48 hour express options. If you hold a valid US visa or green card, you can instead get a 14-day visa on arrival."
+    },
+    {
+      "q": "When is the best time to visit, and is summer really that bad?",
+      "a": "November to March is the sweet spot — sunny mid-20s days perfect for the desert, beaches and outdoor dining. Summer (May–September) regularly tops 42°C with heavy humidity; it's survivable for a mall, water-park and brunch trip on heavily discounted hotel rates, but skip it if the desert and outdoors are your priority."
+    },
+    {
+      "q": "Is vegetarian and Indian food easy to find?",
+      "a": "Easier than almost anywhere outside India. Dubai has a huge Indian population, so Karama, Bur Dubai and Meena Bazaar are packed with pure-veg South Indian joints, chaat counters and biryani houses, many under ₹300 a meal. Jain and vegan options are common, and every mall food court has multiple Indian outlets."
+    },
+    {
+      "q": "How much does a Dubai trip cost from India?",
+      "a": "A sensible 4-night trip runs about ₹65,000–80,000 per person all-in — return flights (₹18,000–28,000 in shoulder season), a 3–4 star hotel, visa, Metro travel and two or three paid attractions. Add roughly ₹20,000–25,000 per extra city or luxury of choice. Couples sharing rooms and booking flights six weeks out do meaningfully better."
+    },
+    {
+      "q": "How do I get around without a car?",
+      "a": "Very easily in Dubai: the Metro's Red Line links the airport, Downtown, Mall of the Emirates and Marina — get a Nol card and pay about ₹120–180 a ride. Careem and Uber fill the gaps. For Abu Dhabi, intercity buses cost around ₹600 but a day tour or ride-hail (₹5,000–6,000 one way) is more practical; RAK and the east coast genuinely need a car or tour."
+    },
+    {
+      "q": "What are the rules around alcohol and dress?",
+      "a": "More relaxed than the stereotype, with clear lines. Drink only in licensed venues — hotel bars, restaurants, beach clubs — never on the street, and never drive after drinking (zero tolerance). Dress as you like at beaches, malls and hotels in Dubai; carry a scarf and modest layer for mosques, government buildings and Sharjah, which is a dry emirate."
+    }
+  ]
+}

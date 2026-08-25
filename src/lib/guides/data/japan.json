@@ -1,0 +1,480 @@
+{
+  "slug": "japan",
+  "name": "Japan",
+  "displayName": "Japan",
+  "country": "Japan",
+  "region": "east-asia",
+  "flag": "🇯🇵",
+  "tagline": "Bullet trains, temple bells, midnight ramen.",
+  "overview": "Japan runs two clocks at once. One is the future — trains that apologise for leaving 20 seconds early, convenience stores better stocked than most restaurants, cities that glow like circuit boards after dark. The other is deliberately, beautifully old: moss gardens raked at dawn, teahouses where a single bowl takes 40 minutes, ryokan dinners served course by course on lacquer trays. The magic is how little distance sits between them — you can leave Shibuya's crossing after breakfast and be watching carp in a 400-year-old Kyoto garden before lunch, because the Shinkansen collapses the country into two-hour hops. For Indian travellers the maths has quietly turned friendly: a weak yen has made Japan cheaper than Europe for a comparable trip, Air India flies Delhi–Tokyo non-stop, and the eVisa has removed most of the old paperwork. It rewards planning more than any destination in Asia — and repays it more too.",
+  "heroAlt": "Chureito Pagoda with Mount Fuji behind it at sunset",
+  "heroImage": {
+    "query": "chureito pagoda mount fuji",
+    "alt": "The red Chureito Pagoda framed against a snow-capped Mount Fuji",
+    "candidates": [
+      "https://images.unsplash.com/photo-1545569341-9eb8b30979d9"
+    ]
+  },
+  "quickFacts": {
+    "capital": "Tokyo",
+    "currency": {
+      "code": "JPY",
+      "name": "Japanese yen",
+      "inr": "¥100 ≈ ₹60"
+    },
+    "languages": [
+      "Japanese",
+      "English signage in cities, limited spoken English"
+    ],
+    "timezone": "GMT+9 · 3½ hrs ahead of IST",
+    "flightFromIndia": "≈8 hrs non-stop Delhi–Tokyo; 10–13 hrs one-stop from Mumbai or Bengaluru",
+    "plug": "Type A/B · 100V — Indian plugs need an adapter",
+    "sim": "Ubigi or Airalo eSIM from about ₹700 for 10GB; airport SIMs cost more"
+  },
+  "visa": {
+    "type": "evisa",
+    "headline": "eVisa · single entry, up to 90 days",
+    "body": "Indian passport holders need a visa, but the JAPAN eVISA now handles single-entry tourist trips fully online for applicants under the Delhi, Mumbai, Bengaluru and Chennai consulates — no biometrics, no courier, approval arrives as a digital notice you show at boarding. Applicants elsewhere, or anyone needing multiple entry, still apply through VFS for a sticker visa. Keep bank statements showing steady balance and a day-wise itinerary ready; approval rates are high for well-documented files.",
+    "cost": "About ₹500–1,300 in government fees; VFS charges extra for paper filings",
+    "processing": "Typically 5–7 working days; apply 3–4 weeks out in cherry-blossom season"
+  },
+  "weather": {
+    "summary": "Four proper seasons, each with its own itinerary. Spring brings cherry blossoms and autumn brings crimson maples — the two windows the whole world books. Summer is hot, humid and festival-mad; winter is cold, crisp and half the price, with world-class snow up north.",
+    "bestTime": "March – May & October – November",
+    "seasons": [
+      {
+        "label": "Spring & autumn",
+        "months": "Mar – May, Oct – Nov",
+        "temp": "10–22°C",
+        "notes": "Sakura in late March–April, fiery foliage in November. Perfect walking weather and peak demand — book early.",
+        "tone": "high"
+      },
+      {
+        "label": "Summer",
+        "months": "Jun – Sep",
+        "temp": "25–34°C",
+        "notes": "June is rainy, July–August hot and humid but alive with fireworks and festivals. Fine if you plan mornings and air-conditioned afternoons.",
+        "tone": "shoulder"
+      },
+      {
+        "label": "Winter",
+        "months": "Dec – Feb",
+        "temp": "0–10°C",
+        "notes": "Cold, clear and cheap outside New Year. Onsen towns and Hokkaido snow are at their absolute best.",
+        "tone": "low"
+      }
+    ]
+  },
+  "booking": {
+    "high": "Late Mar – mid Apr (sakura), Golden Week (late Apr – early May), Nov foliage, New Year",
+    "low": "Mid Jan – Feb, June, early September",
+    "note": "Cherry-blossom hotels sell out four to six months ahead and double in price. Late May and October deliver near-identical weather at 30–40% less — the smart-money windows."
+  },
+  "idealDuration": {
+    "nights": "7 – 10",
+    "note": "Seven nights covers Tokyo, a Fuji-side stop and Kyoto without rushing. Ten lets you add Osaka and Hiroshima on the same rail spine."
+  },
+  "budget": {
+    "perDay": [
+      {
+        "tier": "Smart",
+        "inr": "₹7,000 – 10,000"
+      },
+      {
+        "tier": "Comfort",
+        "inr": "₹12,000 – 18,000"
+      },
+      {
+        "tier": "Luxe",
+        "inr": "₹30,000+"
+      }
+    ],
+    "note": "Per person per day with business hotels, rail travel and one paid sight. Food is the surprise saver — a superb ramen or set-lunch meal runs ₹500–800. Intercity Shinkansen legs are the big line item, about ₹7,500 Tokyo–Kyoto."
+  },
+  "safety": {
+    "score": 5,
+    "headline": "About as safe as travel gets — plan for nature, not crime",
+    "tips": [
+      "Crime against tourists is rare; lost wallets and phones routinely come back via police boxes (koban).",
+      "Download a disaster-alert app like NERV or Safety Tips — earthquake notifications arrive in English.",
+      "Typhoon season runs August–October; trains announce planned shutdowns a day ahead, so build slack into those weeks.",
+      "Trains stop around midnight and taxis are expensive — check your last connection before a late night out.",
+      "Emergency numbers are 110 (police) and 119 (ambulance/fire); big-city hospitals have English help desks.",
+      "Summer heat is a genuine hazard — carry water and use the ubiquitous vending machines and konbini to cool down."
+    ]
+  },
+  "goodToKnow": [
+    "No tipping, anywhere — it can genuinely confuse or offend. Great service is the default.",
+    "Carry some cash: cards now work in most places, but shrine entries, small ramen shops and rural buses often don't. 7-Eleven ATMs accept Indian cards.",
+    "Load a Suica or ICOCA card into Apple Wallet or buy one at the airport — it taps you through every train, bus and konbini.",
+    "The nationwide JR Pass rarely pays off since its 2023 price hike; buy point-to-point Shinkansen tickets or regional passes instead.",
+    "Avoid Golden Week (late April–early May), Obon (mid-August) and New Year unless you enjoy queues — all of Japan travels then.",
+    "Eating while walking is frowned on, phone calls on trains are taboo, and queues are sacred — follow the platform markings.",
+    "Vegetarians: dashi (fish stock) hides in most broths and sauces. The HappyCow app and shojin-ryori temple cuisine are your allies; Indian restaurants are everywhere in cities.",
+    "Use luggage forwarding (takkyubin, about ₹1,200 a bag) between cities and travel the Shinkansen with just a day-pack."
+  ],
+  "cities": [
+    {
+      "id": "tokyo",
+      "name": "Tokyo",
+      "blurb": "The world's biggest city somehow runs on politeness and punctuality. Base in Shinjuku or Shibuya for neon, food alleys and day trips; every district is effectively its own city.",
+      "image": {
+        "query": "tokyo tower street night",
+        "alt": "A Tokyo street at night with Tokyo Tower glowing at its end",
+        "candidates": [
+          "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf"
+        ]
+      }
+    },
+    {
+      "id": "kyoto",
+      "name": "Kyoto",
+      "blurb": "Japan's old capital holds 1,600 temples, geisha districts and the country's most refined food. Stay near Gion or Kyoto Station and do mornings early — the crowds are real.",
+      "image": {
+        "query": "kyoto gion street traditional",
+        "alt": "A lantern-lit traditional street in Kyoto's Gion district"
+      }
+    },
+    {
+      "id": "osaka",
+      "name": "Osaka",
+      "blurb": "Louder, cheaper and funnier than Tokyo, with Japan's best street food and Universal Studios. Fifteen minutes from Kyoto by train, so many travellers base here and day-trip both.",
+      "image": {
+        "query": "dotonbori osaka neon canal",
+        "alt": "Neon signboards reflected in the Dotonbori canal at night"
+      }
+    },
+    {
+      "id": "hakone",
+      "name": "Hakone",
+      "blurb": "The classic Mount Fuji stopover between Tokyo and Kyoto — ropeways, a volcanic valley, lake cruises and steaming onsen ryokan. One night here is the trip's exhale.",
+      "image": {
+        "query": "hakone lake ashi torii fuji",
+        "alt": "The red torii gate on Lake Ashi with Mount Fuji in the distance"
+      }
+    },
+    {
+      "id": "hiroshima",
+      "name": "Hiroshima",
+      "blurb": "A moving Peace Memorial, a rebuilt city with real warmth, and Miyajima's floating torii a ferry ride away. Ninety minutes from Osaka by Shinkansen — easier than it looks on a map.",
+      "image": {
+        "query": "itsukushima shrine floating torii miyajima",
+        "alt": "Miyajima's vermilion torii gate standing in the sea at high tide"
+      }
+    },
+    {
+      "id": "kanazawa",
+      "name": "Kanazawa",
+      "blurb": "The insider's Kyoto: a preserved samurai quarter, one of Japan's three great gardens and a fabulous seafood market, with a fraction of the crowds. Direct Shinkansen from Tokyo.",
+      "image": {
+        "query": "kenrokuen garden kanazawa",
+        "alt": "Stone lantern and pond in Kenroku-en garden, Kanazawa"
+      }
+    }
+  ],
+  "highlights": [
+    {
+      "id": "fushimi-inari",
+      "rank": 1,
+      "name": "Fushimi Inari Taisha",
+      "category": "Culture",
+      "blurb": "Ten thousand vermilion torii gates tunnelling up a sacred mountain in Kyoto — Japan's most photographed sight, free and open 24 hours.",
+      "detail": "Everyone comes for the first two gate tunnels; almost nobody climbs past the Yotsutsuji viewpoint, which is exactly where the shrine gets good. Arrive before 7.30am or after sunset and you will have long stretches to yourself — midday is shoulder-to-shoulder. The full loop to the summit takes about two hours with stops; wear real shoes, the path is all steps. It sits two stops from Kyoto Station on the JR Nara line, so pair it with a half-day in Nara or with Tofuku-ji temple next door. Entry is free, which makes it the best-value icon in the country.",
+      "image": {
+        "query": "fushimi inari torii gates tunnel",
+        "alt": "A tunnel of closely spaced vermilion torii gates at Fushimi Inari",
+        "candidates": [
+          "https://images.unsplash.com/photo-1528360983277-13d401cdc186"
+        ]
+      }
+    },
+    {
+      "id": "mount-fuji",
+      "rank": 2,
+      "name": "Mount Fuji from Kawaguchiko or Hakone",
+      "category": "Nature",
+      "blurb": "Japan's perfect 3,776m cone, best admired from lakeside Kawaguchiko or the Hakone ropeways rather than climbed.",
+      "detail": "Fuji is shy — it hides behind haze roughly half the year, with winter and early mornings giving the clearest views. Kawaguchiko offers the postcard angles (the Chureito Pagoda shot is a 400-step climb from Shimo-Yoshida station); Hakone trades a slightly more distant view for onsen, the Owakudani volcanic valley and the Lake Ashi pirate-ship cruise. Both work as one-night stops between Tokyo and Kyoto. If you must climb, the official season is early July to early September only, and it is a slog, not a stroll. Check a live Fuji webcam before committing your viewing day.",
+      "image": {
+        "query": "mount fuji lake kawaguchiko reflection",
+        "alt": "Mount Fuji reflected in a still lake at dawn",
+        "candidates": [
+          "https://images.unsplash.com/photo-1490806843957-31f4c9a91c65"
+        ]
+      }
+    },
+    {
+      "id": "shibuya-shinjuku",
+      "rank": 3,
+      "name": "Shibuya Crossing & Shinjuku after dark",
+      "category": "City",
+      "blurb": "The world's busiest pedestrian scramble, then Shinjuku's lantern-lit yokocho alleys — Tokyo's two-act evening, entirely free.",
+      "detail": "Do the crossing twice: once inside the scramble at street level, once from above — Shibuya Sky's open-air deck (book the sunset slot online about ₹1,400, two weeks ahead) is the best city view in Japan. Then take the Yamanote line two stops to Shinjuku for Omoide Yokocho's smoky yakitori lanes and the neon canyon of Kabukicho. Golden Gai's tiny bars seat six to eight people each; check for cover charges on the door before sitting. Trains run till about midnight — plan the last leg home or budget for a pricey taxi.",
+      "image": {
+        "query": "shibuya crossing aerial night",
+        "alt": "Crowds crossing Shibuya's scramble under neon screens at night"
+      }
+    },
+    {
+      "id": "kinkakuji",
+      "rank": 4,
+      "name": "Kinkaku-ji, the Golden Pavilion",
+      "category": "Culture",
+      "blurb": "A Zen temple wrapped in gold leaf, hovering over its mirror pond in northwest Kyoto — brief, beautiful and worth the hype.",
+      "detail": "The visit itself is short — a one-way garden loop of 30–40 minutes past the pavilion's classic reflection angle — so the trick is what you build around it. Come at the 9am opening for still water and thin crowds, then continue to Ryoan-ji's famous rock garden 20 minutes' walk away, and on to Arashiyama's bamboo grove and monkey park for the afternoon: that trio makes a complete west-Kyoto day. Entry is about ₹300, paid in cash for a charming calligraphy-style ticket. It photographs best in low winter sun or against autumn maples.",
+      "image": {
+        "query": "kinkakuji golden pavilion kyoto pond",
+        "alt": "The gold-leafed Kinkaku-ji pavilion reflected in its pond"
+      }
+    },
+    {
+      "id": "shinkansen",
+      "rank": 5,
+      "name": "Riding the Shinkansen",
+      "category": "Experience",
+      "blurb": "The 320 km/h bullet train is a destination in itself — Tokyo to Kyoto in about two and a quarter hours, timed to the minute.",
+      "detail": "Book reserved seats a day or two ahead via the SmartEX app or station machines — Tokyo–Kyoto runs about ¥14,000 (₹8,400) on the fast Nozomi. For the Fuji view, ask for seats E on the right side heading west (window, D-E pair), and buy an ekiben boxed meal on the platform before boarding; eating one at speed past Fuji is a core Japan memory. Oversized suitcases need a pre-booked luggage seat on Tokaido trains — or better, forward bags by takkyubin and travel light. Trains leave exactly on time; be on the platform five minutes early.",
+      "image": {
+        "query": "shinkansen bullet train mount fuji",
+        "alt": "A white Shinkansen streaking past with Mount Fuji behind"
+      }
+    },
+    {
+      "id": "dotonbori",
+      "rank": 6,
+      "name": "Dotonbori street food, Osaka",
+      "category": "Food",
+      "blurb": "Osaka's neon-splashed canal district, where takoyaki, okonomiyaki and kushikatsu are eaten standing up under the Glico running man.",
+      "detail": "Osaka calls itself the nation's kitchen and Dotonbori is its stove. Come hungry at dusk: start with takoyaki (octopus balls, about ₹250 a tray) from a stall with a queue of locals, move to a sit-down okonomiyaki griddle, then finish with kushikatsu skewers in Shinsekai — the double-dipping ban in communal sauce is taken seriously. The Glico sign photo works best from Ebisubashi bridge. Vegetarians can ask for negiyaki or plain cheese okonomiyaki, but confirm no dashi if strict. Pair the evening with an afternoon at Osaka Castle or America-mura's vintage shops.",
+      "image": {
+        "query": "dotonbori glico sign canal night",
+        "alt": "The Glico running-man sign glowing over Dotonbori canal"
+      }
+    },
+    {
+      "id": "nara-deer",
+      "rank": 7,
+      "name": "Nara's deer park & Todai-ji",
+      "category": "Culture",
+      "blurb": "Over a thousand bowing wild deer roam a park around Todai-ji temple, home to a 15-metre bronze Buddha — an easy half-day from Kyoto or Osaka.",
+      "detail": "Forty-five minutes by train from either Kyoto or Osaka, Nara compresses eighth-century Japan into one walkable park. Buy shika senbei crackers (about ₹120) and the deer will bow for them — hold the stack high or they will mug you cheerfully. Todai-ji's Great Buddha Hall, one of the largest wooden buildings on earth, genuinely stops people mid-stride; entry is about ₹360. Continue uphill to Kasuga Taisha's lantern-lined paths, quieter and arguably lovelier. Arrive by 9am to beat the tour buses, and keep paper maps and tickets zipped away — the deer eat those too.",
+      "image": {
+        "query": "nara deer todaiji temple park",
+        "alt": "A wild sika deer standing before Todai-ji temple in Nara"
+      }
+    },
+    {
+      "id": "teamlab",
+      "rank": 8,
+      "name": "teamLab Planets, Tokyo",
+      "category": "Experience",
+      "blurb": "A barefoot, waist-deep-in-water digital art museum in Toyosu — the rare Instagram magnet that is even better in person.",
+      "detail": "You walk through knee-high water as projected koi scatter around your legs, then lie under an infinite orchid garden that lowers to meet you — it sounds gimmicky and is anything but. Book online two to three weeks ahead (about ₹2,300; weekday morning slots are cheapest and quietest) and wear shorts or roll-up trousers; mirrors form many floors, so skirts are a bad idea. Lockers handle shoes and bags. Allow two hours, then walk to Toyosu Market next door for a sushi lunch where Tokyo's tuna auctions happen. It pairs neatly with an Odaiba or Ginza afternoon.",
+      "image": {
+        "query": "teamlab planets tokyo water exhibit",
+        "alt": "Visitors wading through glowing projected water at teamLab Planets"
+      }
+    },
+    {
+      "id": "miyajima-hiroshima",
+      "rank": 9,
+      "name": "Hiroshima & Miyajima's floating torii",
+      "category": "Culture",
+      "blurb": "The Peace Memorial's quiet gut-punch in the morning, Itsukushima Shrine's sea-standing gate by afternoon — Japan's most affecting day pairing.",
+      "detail": "Do them in this order: the Peace Memorial Museum and A-Bomb Dome first (entry about ₹120; allow two unhurried hours — it is heavy and important), then the tram-and-ferry combination to Miyajima island to decompress. Check the tide tables before you go: the great torii floats at high tide and can be walked to at low tide, and both are worth seeing if your timing allows. Stay for sunset when the day-trippers leave and deer wander the lantern-lit shore. Hiroshima's own okonomiyaki — layered with noodles, unlike Osaka's — is the correct dinner. Ninety minutes from Osaka by Shinkansen.",
+      "image": {
+        "query": "itsukushima floating torii sunset",
+        "alt": "Itsukushima Shrine's great torii gate rising from the sea at sunset"
+      }
+    },
+    {
+      "id": "onsen-ryokan",
+      "rank": 10,
+      "name": "A night in an onsen ryokan",
+      "category": "Wellness",
+      "blurb": "One night of tatami rooms, kaiseki dinner and steaming volcanic baths — the insider pick that turns a sightseeing trip into a Japan trip.",
+      "detail": "Book one splurge night mid-itinerary — Hakone and Kinosaki Onsen are the easiest fits, Kinosaki being a willow-lined town where guests stroll between seven public baths in yukata robes. Rates of ₹12,000–25,000 per person look steep until you realise they include a multi-course kaiseki dinner and breakfast that would cost that alone in a city. Bathing etiquette is simple: wash thoroughly at the seated showers first, enter the bath without your towel, and note that some traditional baths still restrict large tattoos — many ryokan offer private kashikiri baths you can reserve if that applies or you prefer privacy.",
+      "image": {
+        "query": "kinosaki onsen town evening yukata",
+        "alt": "Guests in yukata walking a lantern-lit onsen town street at dusk"
+      }
+    }
+  ],
+  "activities": [
+    {
+      "id": "tsukiji-food-tour",
+      "name": "Tsukiji & Toyosu food tour",
+      "category": "Food",
+      "blurb": "Graze Tokyo's outer fish market with a guide — tamagoyaki stalls, knife shops, tuna-auction lore and a proper sushi breakfast. Morning tours run about ₹6,000–9,000 and book out in season.",
+      "image": {
+        "query": "tsukiji outer market food stalls",
+        "alt": "Vendors grilling seafood at Tsukiji outer market stalls"
+      }
+    },
+    {
+      "id": "tea-ceremony-kimono",
+      "name": "Tea ceremony in kimono, Kyoto",
+      "category": "Culture",
+      "blurb": "Dress in kimono, then learn to whisk matcha in a machiya townhouse tearoom. Ninety-minute sessions from about ₹3,500; the kimono rental doubles as your Gion photo-walk outfit.",
+      "image": {
+        "query": "kyoto tea ceremony matcha whisk",
+        "alt": "Hands whisking matcha in a bowl during a Kyoto tea ceremony"
+      }
+    },
+    {
+      "id": "hakuba-skiing",
+      "name": "Skiing Japan's powder",
+      "category": "Adventure",
+      "blurb": "Hakuba and Niseko get some of the lightest snow on the planet from December to March. Day lift passes run about ₹4,500, with English-speaking schools ideal for first-timers.",
+      "image": {
+        "query": "hakuba ski slopes powder snow",
+        "alt": "A skier carving through deep powder on a Hakuba slope"
+      }
+    },
+    {
+      "id": "sumo-morning",
+      "name": "Sumo — tournament or morning practice",
+      "category": "Culture",
+      "blurb": "Catch a grand tournament in Tokyo (January, May, September; tickets from about ₹2,500) or visit a stable's dawn training session in Ryogoku the rest of the year.",
+      "image": {
+        "query": "sumo wrestlers tournament ryogoku",
+        "alt": "Two sumo wrestlers grappling in a tournament ring"
+      }
+    },
+    {
+      "id": "izakaya-nightlife",
+      "name": "Izakaya & Golden Gai bar hop",
+      "category": "Nightlife",
+      "blurb": "A guided crawl through Shinjuku's lantern alleys and six-seat bars, decoding menus and etiquette as you go. Evening tours with food and drinks run about ₹5,500–8,000.",
+      "image": {
+        "query": "golden gai shinjuku bar alley",
+        "alt": "Narrow lantern-lit bar alley in Shinjuku's Golden Gai"
+      }
+    },
+    {
+      "id": "theme-parks",
+      "name": "Tokyo Disney & Universal Studios Japan",
+      "category": "Family",
+      "blurb": "DisneySea is unique to Tokyo and arguably the world's best-designed park; USJ Osaka has Super Nintendo World. Day tickets ₹4,500–6,500 — buy timed entry online well ahead.",
+      "image": {
+        "query": "super nintendo world universal osaka",
+        "alt": "The colourful Super Nintendo World area at Universal Studios Japan"
+      }
+    }
+  ],
+  "trips": [
+    {
+      "id": "golden-route-classic",
+      "title": "The Golden Route",
+      "nights": 7,
+      "route": [
+        {
+          "place": "Tokyo",
+          "nights": 3
+        },
+        {
+          "place": "Hakone",
+          "nights": 1
+        },
+        {
+          "place": "Kyoto",
+          "nights": 3
+        }
+      ],
+      "summary": "The essential first-timer's arc: three Tokyo days of neon, food and teamLab, an onsen ryokan night under Mount Fuji in Hakone, then Kyoto's temples, torii gates and a Nara half-day — all strung along one Shinkansen line, flying home from Osaka.",
+      "priceFrom": "₹1,60,000",
+      "image": {
+        "query": "kyoto yasaka pagoda street",
+        "alt": "Kyoto's Yasaka Pagoda rising above a preserved old street"
+      }
+    },
+    {
+      "id": "honshu-grand-tour",
+      "title": "Honshu Grand Tour",
+      "nights": 10,
+      "route": [
+        {
+          "place": "Tokyo",
+          "nights": 3
+        },
+        {
+          "place": "Hakone",
+          "nights": 1
+        },
+        {
+          "place": "Kyoto",
+          "nights": 3
+        },
+        {
+          "place": "Osaka",
+          "nights": 2
+        },
+        {
+          "place": "Hiroshima",
+          "nights": 1
+        }
+      ],
+      "summary": "The Golden Route stretched to its natural full length: Osaka's street food and Universal Studios after Kyoto, then Hiroshima's Peace Memorial and Miyajima's floating torii as a powerful finale. Ten nights, five bases, one rail line — Japan's greatest hits without a single backtrack.",
+      "priceFrom": "₹2,20,000",
+      "image": {
+        "query": "osaka castle cherry blossoms",
+        "alt": "Osaka Castle framed by cherry blossoms in bloom"
+      }
+    },
+    {
+      "id": "alps-and-old-japan",
+      "title": "Alps & Old Japan",
+      "nights": 9,
+      "route": [
+        {
+          "place": "Tokyo",
+          "nights": 3
+        },
+        {
+          "place": "Takayama",
+          "nights": 2
+        },
+        {
+          "place": "Kanazawa",
+          "nights": 2
+        },
+        {
+          "place": "Kyoto",
+          "nights": 2
+        }
+      ],
+      "summary": "For second-timers or crowd-avoiders: swing through the Japan Alps to Takayama's sake breweries and morning markets, day-trip to thatched Shirakawa-go, then Kanazawa's samurai lanes and Kenroku-en garden before finishing in Kyoto. Same era-hopping magic as the Golden Route, a fraction of the tour buses.",
+      "priceFrom": "₹2,05,000",
+      "image": {
+        "query": "shirakawa-go gassho houses village",
+        "alt": "Steep thatched-roof farmhouses in the village of Shirakawa-go"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do Indians need a visa for Japan, and how hard is it?",
+      "a": "Yes, a visa is required, but it has become straightforward. Single-entry tourist visas are available fully online through the JAPAN eVISA for applicants under the Delhi, Mumbai, Bengaluru and Chennai consulates, with government fees of roughly ₹500–1,300 and approval typically in 5–7 working days. Others apply via VFS for a sticker visa. Solid bank statements and a day-wise itinerary do most of the work; approval rates are high."
+    },
+    {
+      "q": "Is Japan doable for vegetarians?",
+      "a": "Doable with homework. The catch is dashi — fish stock hidden in most soups, sauces and even rice seasonings — so 'no meat' alone is not enough. Lean on Indian restaurants (plentiful in cities), shojin-ryori temple cuisine in Kyoto, dedicated vegan ramen shops found via HappyCow, and konbini staples like onigiri with pickled plum. A translated allergy card showing 'no fish stock' solves most restaurant conversations."
+    },
+    {
+      "q": "How expensive is Japan really for an Indian traveller?",
+      "a": "Less than its reputation, thanks to the weak yen. Budget ₹7,000–10,000 per person per day travelling smart, ₹12,000–18,000 in comfort. Food is remarkable value — outstanding meals for ₹500–800 — while intercity trains and hotels in sakura season are the costs that bite. A well-planned 7-night trip lands around ₹1.6 lakh per person all-in from India."
+    },
+    {
+      "q": "When should I go — and when should I avoid?",
+      "a": "Late March–April for cherry blossoms and November for autumn colour are the showstoppers, but book four to six months out. Late May and October give near-identical weather far cheaper. Avoid Golden Week (late April–early May), Obon (mid-August) and New Year, when domestic travel swamps trains and hotels. Winter is the value pick, especially for onsen and skiing."
+    },
+    {
+      "q": "Is the JR Pass worth buying?",
+      "a": "Usually not any more. Since the 2023 price rise, the 7-day nationwide pass only pays off on unusually train-heavy routes. For the classic Tokyo–Hakone–Kyoto–Osaka arc, individual Shinkansen tickets booked on the SmartEX app cost less. Within cities, a Suica or ICOCA card in your phone wallet handles every train, metro and bus tap."
+    },
+    {
+      "q": "How do I get around without speaking Japanese?",
+      "a": "Comfortably. Station signage, ticket machines and train announcements are bilingual, Google Maps handles Japanese transit with platform-level accuracy, and Google Translate's camera mode decodes menus. Spoken English is limited outside hotels, but patience and pointing go a long way — and the national instinct to help a lost visitor is very real."
+    }
+  ]
+}

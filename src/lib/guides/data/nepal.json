@@ -1,0 +1,455 @@
+{
+  "slug": "nepal",
+  "name": "Nepal",
+  "displayName": "Nepal",
+  "country": "Nepal",
+  "region": "south-asia",
+  "flag": "🇳🇵",
+  "tagline": "Stupa mornings, lakeside cafés, eight-thousander skylines.",
+  "overview": "Nepal is the rare international trip that asks almost nothing of an Indian traveller — no visa, no forex shock, a flight shorter than most domestic hops — and then hands back the biggest mountains on the planet. Kathmandu is dense and medieval in the best way: carved wooden windows, butter lamps, monkeys scrambling over stupas, seven UNESCO-listed monument zones within an hour of each other. Two hundred kilometres west, Pokhara slows everything down to lakeside cafés and the white wall of the Annapurnas floating above the rooftops. In between sit jungle safaris in Chitwan, where rhino sightings are close to routine, and hill towns like Bandipur that have barely changed in a century. The rupee stretches further here than almost anywhere — this is one of the cheapest countries on earth to eat, sleep and trek well — and Hindi works nearly everywhere. Come in October or March, when the peaks stay pin-sharp all day.",
+  "heroAlt": "Boudhanath Stupa with prayer flags against a blue sky, Kathmandu",
+  "heroImage": {
+    "query": "boudhanath stupa kathmandu prayer flags",
+    "alt": "The white dome and painted eyes of Boudhanath Stupa strung with prayer flags",
+    "candidates": [
+      "https://images.unsplash.com/photo-1544735716-392fe2489ffa"
+    ]
+  },
+  "quickFacts": {
+    "capital": "Kathmandu",
+    "currency": {
+      "code": "NPR",
+      "name": "Nepalese rupee",
+      "inr": "₹1 = NPR 1.60 (pegged)"
+    },
+    "languages": [
+      "Nepali",
+      "Hindi widely understood",
+      "English in tourist areas"
+    ],
+    "timezone": "GMT+5:45 · just 15 min ahead of IST",
+    "flightFromIndia": "≈1¾ hrs non-stop from Delhi; directs also from Mumbai and Kolkata",
+    "plug": "Type C/D/M · 230V — Indian plugs fit without an adapter",
+    "sim": "NTC or Ncell tourist SIM at the airport from about ₹350 for 10GB; Indian roaming packs work but cost more"
+  },
+  "visa": {
+    "type": "visa-free",
+    "headline": "No visa for Indians · unlimited stay",
+    "body": "Under the 1950 India–Nepal treaty, Indian citizens need no visa for any length of stay. Fly in with a valid passport; at land borders an original Election Commission voter ID also works. Aadhaar, PAN and driving licences are not accepted as travel documents, so don't rely on them.",
+    "cost": "Free",
+    "processing": "None — walk through immigration with your ID"
+  },
+  "weather": {
+    "summary": "Four proper seasons shaped by altitude more than latitude. The magic windows are autumn and spring, when the air is dry and the Himalaya stays visible all day. Kathmandu and Pokhara sit at pleasant mid-hill temperatures; only the high treks get genuinely cold.",
+    "bestTime": "October – November & March – April",
+    "seasons": [
+      {
+        "label": "Autumn & spring",
+        "months": "Oct – Nov & Mar – Apr",
+        "temp": "12–25°C",
+        "notes": "Crystal mountain views, dry trails, festival energy — Nepal at full strength, and priced like it.",
+        "tone": "high"
+      },
+      {
+        "label": "Winter",
+        "months": "Dec – Feb",
+        "temp": "3–19°C",
+        "notes": "Cold mornings but reliably clear skies at viewpoint towns. Great value if you pack layers; high passes close.",
+        "tone": "shoulder"
+      },
+      {
+        "label": "Monsoon",
+        "months": "Jun – Sep",
+        "temp": "19–28°C",
+        "notes": "Daily rain, leeches on trails and clouded peaks. Fine for a cheap city-and-spa trip; skip the treks and mountain flights.",
+        "tone": "low"
+      }
+    ]
+  },
+  "booking": {
+    "high": "October – November, plus the Mar – Apr trekking window",
+    "low": "June – September monsoon",
+    "note": "Dashain and Tihar (usually Oct–Nov) collide with peak trekking season — Pokhara hotels and Kathmandu–Pokhara flights sell out weeks ahead. Early December keeps the clear skies at 30–40% softer rates."
+  },
+  "idealDuration": {
+    "nights": "5 – 7",
+    "note": "Five nights covers Kathmandu plus Pokhara comfortably. Add two more for a Chitwan safari or a short Annapurna foothill trek."
+  },
+  "budget": {
+    "perDay": [
+      {
+        "tier": "Smart",
+        "inr": "₹2,500 – 4,000"
+      },
+      {
+        "tier": "Comfort",
+        "inr": "₹5,000 – 9,000"
+      },
+      {
+        "tier": "Luxe",
+        "inr": "₹15,000+"
+      }
+    ],
+    "note": "Per person per day with mid-range hotels, intercity travel and one paid activity. A good lakeside room in Pokhara starts near ₹2,500 a night; heritage boutique stays in Kathmandu run ₹6,000–12,000."
+  },
+  "safety": {
+    "score": 4,
+    "headline": "Warm, familiar and low-crime — the real risks are roads and altitude",
+    "tips": [
+      "Fly or take tourist buses between cities; overnight local buses on hill highways are the one thing worth paying to avoid.",
+      "Above 3,000m, climb slowly and build in rest days — altitude sickness ignores fitness levels.",
+      "Trek with a registered guide or agency; solo trekking rules have tightened in recent years.",
+      "Stick to bottled, filtered or boiled water, including for ice and salads.",
+      "Book paragliding, rafting and mountain flights through licensed operators, not street touts."
+    ]
+  },
+  "goodToKnow": [
+    "Indian ₹100 notes are legal tender everywhere; ₹200, ₹500 and ₹2,000 notes are officially not accepted, so carry small denominations or swap to NPR.",
+    "Cards work in bigger hotels but Nepal runs on cash — ATMs charge about NPR 500 per withdrawal, so take out larger sums at once.",
+    "Pathao and inDrive apps handle taxis and bike rides in Kathmandu and Pokhara at honest prices.",
+    "Tip about 10% in restaurants without a service charge; trekking guides expect roughly ₹800–1,000 per day.",
+    "Walk clockwise around stupas and temples, and remove shoes before entering shrines.",
+    "During Dashain (Oct) much of Kathmandu shuts for days while transport jams with homecoming crowds — book ahead or plan around it.",
+    "Domestic mountain flights are weather-dependent; keep a buffer day before your return international flight.",
+    "Vegetarian food is effortless — dal bhat, veg momos and Thakali thalis are the national default, and Jain-friendly kitchens exist in tourist hubs."
+  ],
+  "cities": [
+    {
+      "id": "kathmandu",
+      "name": "Kathmandu",
+      "blurb": "The chaotic, incense-heavy capital where seven UNESCO monument zones, Thamel's trekking shops and some of the subcontinent's best momos crowd into one valley. Base here for two to three nights.",
+      "image": {
+        "query": "kathmandu durbar square temples",
+        "alt": "Tiered pagoda temples and pigeons in Kathmandu Durbar Square"
+      }
+    },
+    {
+      "id": "pokhara",
+      "name": "Pokhara",
+      "blurb": "Nepal's lakeside exhale — rowing boats on Phewa Lake, the Annapurna range filling the northern sky, and a café-lined shore built for slow mornings after adventure-filled dawns.",
+      "image": {
+        "query": "phewa lake pokhara annapurna reflection",
+        "alt": "Colourful wooden boats on Phewa Lake with Himalayan peaks behind"
+      }
+    },
+    {
+      "id": "chitwan",
+      "name": "Chitwan (Sauraha)",
+      "blurb": "Gateway village to Chitwan National Park, where jeep safaris deliver one-horned rhinos with near-certainty and, with luck, a Bengal tiger. Two nights is the sweet spot.",
+      "image": {
+        "query": "one horned rhinoceros chitwan national park",
+        "alt": "A one-horned rhinoceros grazing in Chitwan's grasslands"
+      }
+    },
+    {
+      "id": "nagarkot",
+      "name": "Nagarkot",
+      "blurb": "A ridge-top village 90 minutes from Kathmandu famous for sunrise panoramas stretching, on clear autumn days, from Annapurna to Everest. One night here beats any day trip.",
+      "image": {
+        "query": "nagarkot sunrise himalaya panorama",
+        "alt": "Sunrise lighting a long chain of snow peaks seen from Nagarkot"
+      }
+    },
+    {
+      "id": "lumbini",
+      "name": "Lumbini",
+      "blurb": "The birthplace of the Buddha, marked by the Maya Devi Temple and a garden of monasteries built by nations from Japan to Germany. A serene, flat, Terai-plains pilgrimage stop.",
+      "image": {
+        "query": "maya devi temple lumbini",
+        "alt": "The white Maya Devi Temple and sacred pond at Lumbini"
+      }
+    },
+    {
+      "id": "bandipur",
+      "name": "Bandipur",
+      "blurb": "A preserved Newari trading town strung along a saddle midway between Kathmandu and Pokhara — car-free bazaar, slate roofs, mountain views and almost no tour buses. The insider's overnight.",
+      "image": {
+        "query": "bandipur bazaar street nepal",
+        "alt": "Traditional Newari houses lining Bandipur's pedestrian bazaar"
+      }
+    }
+  ],
+  "highlights": [
+    {
+      "id": "boudhanath-stupa",
+      "rank": 1,
+      "name": "Boudhanath Stupa",
+      "category": "Culture",
+      "blurb": "One of the world's largest stupas, ringed by monasteries and prayer wheels, its painted eyes watching over Kathmandu's Tibetan quarter.",
+      "detail": "Come at dusk, when hundreds of locals circle the dome clockwise as butter lamps flicker on and monks begin evening chants — it is one of Asia's great free spectacles. Entry is about NPR 400 for foreigners but usually free for Indians with ID. Climb to a rooftop café on the kora circle for the classic eye-level view of the spire, then browse the surrounding thangka studios. Pair it with Pashupatinath, ten minutes away, for a single afternoon that covers Nepal's Buddhist and Hindu hearts. Mornings before 8am are quietest for photographs.",
+      "image": {
+        "query": "boudhanath stupa evening butter lamps",
+        "alt": "Devotees circling Boudhanath Stupa at dusk with lamps lit"
+      }
+    },
+    {
+      "id": "everest-mountain-flight",
+      "rank": 2,
+      "name": "Everest Mountain Flight",
+      "category": "Adventure",
+      "blurb": "A one-hour scenic flight from Kathmandu that puts the world's highest mountain outside your window — no trekking boots required.",
+      "detail": "Buddha Air and Yeti Airlines fly the route at dawn, tracing the Himalayan wall east to Everest before turning home; every passenger is guaranteed a window seat and a cockpit visit for the summit moment. Fares run about ₹16,000–19,000 for foreigners, with Indian-passport discounts on some carriers. Book the earliest departure — 6:15 or 6:30am — because haze builds fast and later flights get cancelled more often. October to February offers the sharpest visibility. Keep this for your first Kathmandu morning so a weather cancellation can roll to the next day.",
+      "image": {
+        "query": "mount everest aerial view himalaya",
+        "alt": "Snow-covered Everest massif seen from an aircraft window"
+      }
+    },
+    {
+      "id": "sarangkot-sunrise",
+      "rank": 3,
+      "name": "Sarangkot Sunrise",
+      "category": "Nature",
+      "blurb": "Pokhara's dawn ritual: watch first light turn Machhapuchhre and the Annapurnas pink from a hilltop 25 minutes above the lake.",
+      "detail": "Taxis leave Lakeside around 4:45am in season; agree ₹800–1,000 return or ride the cable car from Sedibagar once it starts running around 6am. The viewpoint charges a small entry fee and fills fast in October–November, so arrive 40 minutes before sunrise for a front-row rail spot. The show is the fishtail peak of Machhapuchhre catching alpenglow while Phewa Lake sits in shadow below. Paragliders launch from the same ridge from about 9:30am, so many travellers watch sunrise, have tea, and fly back down instead of driving.",
+      "image": {
+        "query": "sarangkot sunrise machhapuchhre annapurna",
+        "alt": "Alpenglow on Machhapuchhre and the Annapurna range at dawn from Sarangkot"
+      }
+    },
+    {
+      "id": "pashupatinath",
+      "rank": 4,
+      "name": "Pashupatinath Temple",
+      "category": "Spiritual",
+      "blurb": "Nepal's holiest Shiva temple on the Bagmati river, a living complex of sadhus, ghats and evening aarti that Indian pilgrims have visited for centuries.",
+      "detail": "Indians are allowed into the main sanctum with proof of identity, a privilege other foreigners don't get — dress conservatively and expect airport-style queues on Mondays and during Shivaratri. The evening Bagmati aarti at 6pm mirrors Varanasi's, with fire, drums and chanting across the river; sit on the eastern ghats for the full view. The cremation ghats operate openly, so be discreet with cameras. Combine with Boudhanath and the Guhyeshwari shrine for a half-day circuit, and hire an official guide at the gate to decode the complex's 500-plus shrines.",
+      "image": {
+        "query": "pashupatinath temple bagmati ghats",
+        "alt": "Pagoda roofs and riverside ghats at Pashupatinath Temple"
+      }
+    },
+    {
+      "id": "chitwan-safari",
+      "rank": 5,
+      "name": "Chitwan Jungle Safari",
+      "category": "Wildlife",
+      "blurb": "Jeep and canoe safaris through sal forest and elephant grass where one-horned rhinos are near-guaranteed and tigers a genuine possibility.",
+      "detail": "Base in Sauraha and book a full-day jeep safari (about ₹3,500–5,000 with park fees) rather than the short afternoon loop — deeper zones mean better sightings and fewer vehicles. Rhino counts here have more than doubled since 2000, and dawn drives in March–April, when the grass is freshly cut, give the best visibility. Add a sunrise canoe drift past basking gharial crocodiles and a walk with naturalists for birdlife; the park logs over 500 species. Two nights minimum. Skip elephant-back rides, which most responsible lodges have retired, and choose jeep or foot instead.",
+      "image": {
+        "query": "chitwan jeep safari elephant grass",
+        "alt": "An open safari jeep moving through tall grassland in Chitwan"
+      }
+    },
+    {
+      "id": "swayambhunath",
+      "rank": 6,
+      "name": "Swayambhunath",
+      "category": "Culture",
+      "blurb": "The hilltop 'Monkey Temple' whose gilded stupa has watched the Kathmandu Valley for some 1,500 years — and whose steps deliver the city's best panorama.",
+      "detail": "The classic approach is the 365-step eastern stairway, steep enough to earn the view; a road reaches the back entrance if knees object. Go for sunset, when the valley's rooftops glow and the resident rhesus monkeys turn theatrical — keep snacks zipped away, they are professionals. The complex mixes Buddhist and Hindu shrines in typically Nepali fashion, with the whitewashed dome repainted in lotus-petal arcs after every monsoon. Twenty minutes from Thamel by taxi, it slots neatly before dinner on your first evening as an orientation to the whole valley.",
+      "image": {
+        "query": "swayambhunath stupa kathmandu valley view",
+        "alt": "Golden spire of Swayambhunath overlooking the Kathmandu Valley"
+      }
+    },
+    {
+      "id": "bhaktapur-durbar-square",
+      "rank": 7,
+      "name": "Bhaktapur Durbar Square",
+      "category": "Heritage",
+      "blurb": "The best-preserved of the valley's three royal cities — a car-free maze of pagodas, pottery squares and the five-tiered Nyatapola temple.",
+      "detail": "Bhaktapur charges foreigners a hefty entry fee, but Indian citizens pay a fraction of it with ID — carry your passport or voter card. Give it a half day minimum: beyond the main square lie Taumadhi Square with 30-metre Nyatapola, Dattatraya's peacock windows, and open courtyards where potters still throw clay by hand. Eat juju dhau, the town's legendary 'king curd', from a clay bowl. Come late afternoon after the tour groups leave, or better, sleep one night in a heritage guesthouse and have the squares to yourself at dawn en route to Nagarkot.",
+      "image": {
+        "query": "nyatapola temple bhaktapur square",
+        "alt": "The five-tiered Nyatapola pagoda rising over Bhaktapur's square"
+      }
+    },
+    {
+      "id": "poon-hill-trek",
+      "rank": 8,
+      "name": "Poon Hill Trek",
+      "category": "Trekking",
+      "blurb": "Nepal's most achievable Himalayan trek: four to five days through rhododendron forest and Gurung villages to a 3,210m sunrise over Annapurna and Dhaulagiri.",
+      "detail": "This is the trek for first-timers — stone-stepped trails, teahouses with dal bhat and warm duvets every two hours, and a maximum altitude low enough that sickness is rare. Start from Nayapul or Ulleri (a jeep skips the dullest stretch), overnight in Ghorepani, and climb 45 minutes pre-dawn to the Poon Hill tower for a 360-degree line-up of eight-thousanders. March adds entire hillsides of red rhododendron bloom. Budget roughly ₹15,000–20,000 including guide, permits (TIMS and ACAP) and teahouse costs. Book guides in Pokhara a day or two ahead in peak season.",
+      "image": {
+        "query": "poon hill sunrise dhaulagiri annapurna",
+        "alt": "Trekkers watching sunrise over snow peaks from Poon Hill"
+      }
+    },
+    {
+      "id": "lumbini-gardens",
+      "rank": 9,
+      "name": "Lumbini Sacred Garden",
+      "category": "Spiritual",
+      "blurb": "The Buddha's birthplace, where the Maya Devi Temple, Ashokan pillar and an international zone of monasteries make a moving, unhurried pilgrimage.",
+      "detail": "The site sprawls across a 4x1 km master-planned zone, so hire a bicycle or e-rickshaw at the gate rather than walking in Terai heat. Start at the Maya Devi Temple, which shelters the marker stone of the birth spot and Ashoka's 249 BCE pillar, then ride the canal north past monasteries built by Thailand, Myanmar, Germany and China — each in its national style. The World Peace Pagoda anchors the far end. Visit October–March; summer is punishing here. It pairs naturally with an overland route to or from the Sonauli border crossing from UP.",
+      "image": {
+        "query": "maya devi temple lumbini ashoka pillar",
+        "alt": "Pilgrims at the Maya Devi Temple and sacred pond, Lumbini"
+      }
+    },
+    {
+      "id": "bandipur-old-town",
+      "rank": 10,
+      "name": "Bandipur Old Town",
+      "category": "Heritage",
+      "blurb": "A hilltop Newari bazaar frozen in the 19th century, with slate-paved streets, silk-trading mansions turned guesthouses and Himalayan views from the football ground.",
+      "detail": "Most travellers barrel past on the Kathmandu–Pokhara highway; the ones who turn off at Dumre for the 8km climb get Nepal's loveliest overnight. The bazaar is pedestrian-only, lined with carved-window townhouses now serving espresso and Newari khaja sets. Walk 20 minutes up to Thani Mai temple for sunrise over Manaslu and Himalchuli, visit the enormous Siddha Gufa cave if you like a scramble, and be back for dinner on the street's shared tables. One night breaks the drive perfectly and gives you a Nepal without crowds that most itineraries miss.",
+      "image": {
+        "query": "bandipur newari houses mountain view",
+        "alt": "Slate-roofed Newari houses in Bandipur with hills beyond"
+      }
+    }
+  ],
+  "activities": [
+    {
+      "id": "sarangkot-paragliding",
+      "name": "Paragliding over Phewa Lake",
+      "category": "Adventure",
+      "blurb": "Tandem flights off Sarangkot ridge — 20 to 30 minutes riding thermals with the Annapurnas ahead and the lake glittering below, from about ₹6,500 with hotel pickup.",
+      "image": {
+        "query": "paragliding sarangkot pokhara lake",
+        "alt": "A tandem paraglider soaring above Phewa Lake"
+      }
+    },
+    {
+      "id": "trishuli-rafting",
+      "name": "White-water Rafting on the Trishuli",
+      "category": "Water",
+      "blurb": "Grade 3 rapids conveniently strung along the Kathmandu–Pokhara or Chitwan road, so a half-day paddle slots into a transfer day. Beginner-friendly, from about ₹2,500.",
+      "image": {
+        "query": "trishuli river rafting nepal rapids",
+        "alt": "A raft crew paddling through Trishuli river rapids"
+      }
+    },
+    {
+      "id": "chitwan-jeep-safari",
+      "name": "Chitwan Jeep Safari",
+      "category": "Wildlife",
+      "blurb": "Guided jeep drives into the national park's core for rhino, deer, gharial and — on lucky days — tiger, with naturalists who read the jungle's alarm calls.",
+      "image": {
+        "query": "chitwan national park safari rhino",
+        "alt": "Safari-goers photographing a rhino from a jeep in Chitwan"
+      }
+    },
+    {
+      "id": "kathmandu-heritage-walk",
+      "name": "Kathmandu Old-City Heritage Walk",
+      "category": "Culture",
+      "blurb": "A guided morning through Ason's spice bazaar, hidden bahal courtyards and Durbar Square, ending with the Kumari's window — the living goddess's palace.",
+      "image": {
+        "query": "ason bazaar kathmandu old city",
+        "alt": "Crowded spice and vegetable market in Ason, old Kathmandu"
+      }
+    },
+    {
+      "id": "momo-food-trail",
+      "name": "Momo & Newari Food Trail",
+      "category": "Food",
+      "blurb": "Eat your way from steamed buff and veg momos to Thakali thalis and juju dhau with a local guide — Kathmandu's food scene is far deeper than trekking fuel.",
+      "image": {
+        "query": "nepali momos steamer thakali thali",
+        "alt": "A steamer basket of momos served with tomato achar"
+      }
+    },
+    {
+      "id": "short-himalayan-trek",
+      "name": "Short Teahouse Trek",
+      "category": "Trekking",
+      "blurb": "Two to five day guided walks — Australian Camp, Dhampus or Poon Hill — that deliver big-mountain sunrises with teahouse beds and dal bhat, no camping required.",
+      "image": {
+        "query": "annapurna teahouse trek trail village",
+        "alt": "Trekkers on a stone trail passing a village teahouse in the Annapurna foothills"
+      }
+    }
+  ],
+  "trips": [
+    {
+      "id": "classic-kathmandu-pokhara",
+      "title": "Kathmandu & Pokhara Classic",
+      "nights": 5,
+      "route": [
+        {
+          "place": "Kathmandu",
+          "nights": 2
+        },
+        {
+          "place": "Pokhara",
+          "nights": 3
+        }
+      ],
+      "summary": "The essential first trip: two days of stupas, Durbar squares and momo hunts in Kathmandu, then fly 25 minutes west for Sarangkot sunrise, boating on Phewa Lake and an optional paragliding morning. Short, cheap and dense with payoff — ideal for a long weekend plus two leave days.",
+      "priceFrom": "₹34,000",
+      "image": {
+        "query": "phewa lake boats annapurna pokhara",
+        "alt": "Wooden boats on Phewa Lake with the Annapurna range behind"
+      }
+    },
+    {
+      "id": "himalaya-and-jungle",
+      "title": "Mountains & Jungle",
+      "nights": 7,
+      "route": [
+        {
+          "place": "Kathmandu",
+          "nights": 2
+        },
+        {
+          "place": "Chitwan",
+          "nights": 2
+        },
+        {
+          "place": "Pokhara",
+          "nights": 3
+        }
+      ],
+      "summary": "Nepal's full range in one loop: heritage and street food in the capital, rhino-rich jeep safaris and canoe drifts in Chitwan, then Pokhara's lake, sunrise viewpoints and adventure sports. The drives between stops double as sightseeing along the Trishuli river, with a rafting half-day easy to slot in.",
+      "priceFrom": "₹52,000",
+      "image": {
+        "query": "one horned rhino chitwan grassland",
+        "alt": "A one-horned rhino in tall grass at Chitwan National Park"
+      }
+    },
+    {
+      "id": "everest-views-old-towns",
+      "title": "Everest Views & Old Towns",
+      "nights": 6,
+      "route": [
+        {
+          "place": "Kathmandu",
+          "nights": 2
+        },
+        {
+          "place": "Bhaktapur",
+          "nights": 1
+        },
+        {
+          "place": "Nagarkot",
+          "nights": 1
+        },
+        {
+          "place": "Pokhara",
+          "nights": 2
+        }
+      ],
+      "summary": "For travellers who want mountains without trekking: an Everest scenic flight from Kathmandu, a night inside Bhaktapur's medieval squares, sunrise over the full Himalayan chain from Nagarkot, then two easy lakeside days in Pokhara. Heavy on heritage, light on legwork, and superb in the October–November clear season.",
+      "priceFrom": "₹46,000",
+      "image": {
+        "query": "nagarkot himalaya sunrise viewpoint",
+        "alt": "First light on a chain of Himalayan peaks seen from Nagarkot"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do Indians need a passport or visa for Nepal?",
+      "a": "No visa, ever — Indians can stay indefinitely under the 1950 treaty. For flights, carry your passport; at land borders an original voter ID also works. Aadhaar, PAN and driving licences are not valid travel documents, and children need their own ID or birth certificate."
+    },
+    {
+      "q": "Can I use Indian rupees in Nepal?",
+      "a": "Yes, with a catch: ₹100 and smaller notes are accepted almost everywhere at the fixed 1.60 rate, but ₹200, ₹500 and ₹2,000 notes are officially banned. Carry small INR notes or exchange to NPR on arrival; UPI acceptance is growing in tourist areas but isn't yet reliable."
+    },
+    {
+      "q": "Is vegetarian food easy to find?",
+      "a": "Effortless. Dal bhat — the national platter of rice, lentils, greens and pickles — is naturally vegetarian in most versions, veg momos are everywhere, and Thakali restaurants mark veg thalis clearly. Kathmandu and Pokhara also have pure-veg and Jain-friendly Indian restaurants."
+    },
+    {
+      "q": "When is the best time to go?",
+      "a": "October–November is the gold standard: post-monsoon skies, sharp mountain views and festival season. March–April is nearly as good, with rhododendrons in bloom on the trails. Winter is cold but clear and cheap; the June–September monsoon hides the peaks and is best avoided."
+    },
+    {
+      "q": "How do I get around between cities?",
+      "a": "Fly when you can — Kathmandu–Pokhara is 25 minutes versus 7–9 hours by road for about ₹4,000–6,000. Tourist buses are the comfortable road option at roughly ₹1,000–1,500. Within cities, use the Pathao or inDrive apps rather than negotiating taxi fares at the kerb."
+    }
+  ]
+}

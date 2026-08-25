@@ -1,0 +1,444 @@
+{
+  "slug": "maldives",
+  "name": "Maldives",
+  "displayName": "The Maldives",
+  "country": "Maldives",
+  "region": "south-asia",
+  "flag": "🇲🇻",
+  "tagline": "Seaplane mornings, lagoon afternoons, sandbank dinners.",
+  "overview": "The Maldives is 1,190 islands scattered across 26 atolls, and almost none of it is land — which is exactly the point. The water does things here it does nowhere else within four hours of India: lagoons the colour of glass cleaner, house reefs where turtles graze metres from your villa steps, whale sharks cruising channels you can reach by dhoni before breakfast. The one-island-one-resort formula built its honeymoon reputation, but the guesthouse islands — Maafushi, Dhigurah, Thulusdhoo — quietly opened the same ocean at a fifth of the price, so a week here no longer demands a lakh a night. Distances are measured in speedboat minutes and seaplane hops rather than road hours, and the country runs half an hour behind IST, close enough that jet lag simply does not exist. For Indian travellers it is the shortest long-haul fantasy there is: free visa on arrival, non-stops from four metros, and Sunday-return weekends that actually work.",
+  "heroAlt": "Aerial view of a Maldivian atoll with overwater villas curving into a turquoise lagoon",
+  "heroImage": {
+    "query": "maldives atoll aerial overwater villas",
+    "alt": "Overwater villas arcing across a turquoise Maldivian lagoon seen from a seaplane",
+    "candidates": [
+      "https://images.unsplash.com/photo-1514282401047-d79a71a590e8",
+      "https://images.unsplash.com/photo-1544550581-5f7ceaf7f992"
+    ]
+  },
+  "quickFacts": {
+    "capital": "Malé",
+    "currency": {
+      "code": "MVR",
+      "name": "Maldivian rufiyaa",
+      "inr": "MVR 1 ≈ ₹6.2 · USD works everywhere"
+    },
+    "languages": [
+      "Dhivehi",
+      "English widely spoken"
+    ],
+    "timezone": "GMT+5 · just 30 min behind IST",
+    "flightFromIndia": "≈1½ hrs non-stop from Kochi, 2–3 hrs from Bengaluru and Mumbai, ≈4 hrs from Delhi",
+    "plug": "Type D/G · 230V — most Indian plugs fit, carry a G adapter for resorts",
+    "sim": "Ooredoo or Dhiraagu tourist SIM at the airport, about ₹1,500 for 15–20GB — skip it if your resort's Wi-Fi is all you need"
+  },
+  "visa": {
+    "type": "voa",
+    "headline": "Free visa on arrival · 30 days",
+    "body": "Indian passport holders get a free 30-day visa stamped on arrival at Malé — no fee, no embassy, no photos. The one non-negotiable: file the Imuga Traveller Declaration online within 96 hours before departure (and again before flying home). Carry a return ticket and a confirmed hotel booking; immigration does ask.",
+    "cost": "Free",
+    "processing": "A few minutes at the counter once your Imuga is filed"
+  },
+  "weather": {
+    "summary": "Warm and salty year-round at 27–31°C, with monsoons deciding everything else: the dry northeast monsoon runs roughly December to April, the wetter southwest monsoon May to October. Even wet-season rain tends to arrive in bursts between long sunny spells — the real trade-off is choppier seas and shorter visibility underwater, not washed-out days.",
+    "bestTime": "December – April",
+    "seasons": [
+      {
+        "label": "Dry season",
+        "months": "Dec – Apr",
+        "temp": "27–31°C",
+        "notes": "Flat seas, 30-metre visibility, blue skies daily — peak everything, priced accordingly.",
+        "tone": "high"
+      },
+      {
+        "label": "Shoulder",
+        "months": "Nov & May",
+        "temp": "27–30°C",
+        "notes": "Dry-season weather most days at softer rates; May brings the first surf swells to Thulusdhoo.",
+        "tone": "shoulder"
+      },
+      {
+        "label": "Wet season",
+        "months": "Jun – Oct",
+        "temp": "26–29°C",
+        "notes": "Passing squalls and livelier seas, but 30–50% off villas — and Hanifaru Bay's mantas peak Aug–Nov.",
+        "tone": "low"
+      }
+    ]
+  },
+  "booking": {
+    "high": "Dec – Mar, spiking hard over Christmas–New Year and Valentine's week",
+    "low": "May – Sep, with June and September the softest",
+    "note": "Resorts discount aggressively in the southwest monsoon — the same overwater villa can cost half its February rate in June. If you must travel in peak, book transfers with the room: seaplane seats sell out before villas do."
+  },
+  "idealDuration": {
+    "nights": "4 – 5",
+    "note": "Four nights is the sweet spot for one resort — enough lagoon time without repetition. Doing a guesthouse island plus a resort finale, or chasing whale sharks and mantas, justifies six or seven."
+  },
+  "budget": {
+    "perDay": [
+      {
+        "tier": "Smart",
+        "inr": "₹8,000 – 13,000"
+      },
+      {
+        "tier": "Comfort",
+        "inr": "₹20,000 – 35,000"
+      },
+      {
+        "tier": "Luxe",
+        "inr": "₹60,000+"
+      }
+    ],
+    "note": "Per person per day. Smart means guesthouse islands with excursions; Comfort covers a 4-star resort on half board. Budget for the invisible 22% — 10% service charge plus 8% GST on nearly everything a resort bills, and a US$6-a-night green tax."
+  },
+  "safety": {
+    "score": 5,
+    "headline": "One of the safest destinations Indians fly to — the ocean is the only thing that demands respect",
+    "tips": [
+      "Currents in channels are strong; snorkel with fins, stay inside the house reef, and never swim out alone at dusk.",
+      "Alcohol is legal only on resort islands and liveaboards — carrying any into Malé or a local island, including duty-free, gets confiscated at the airport.",
+      "On inhabited islands, swimwear belongs only on the marked 'bikini beach'; cover shoulders and knees everywhere else.",
+      "Reef cuts infect fast in the tropics — pack reef shoes and antiseptic, and never stand on coral.",
+      "The equatorial sun burns through cloud and water; reapply reef-safe sunscreen after every swim.",
+      "In rough southwest-monsoon weather, choose scheduled speedboats over small dhoni crossings and keep a buffer day before your flight home."
+    ]
+  },
+  "goodToKnow": [
+    "US dollars in small notes are the second currency — resorts bill in USD, and guesthouse islands happily take them; you may never touch a rufiyaa.",
+    "Cards work at resorts (often with a 3–3.5% surcharge) but UPI does not exist here; carry some cash for local islands and tips.",
+    "Tipping is customary: about US$5–10 a day for your villa host or butler, handed over at checkout.",
+    "Seaplanes fly only in daylight — land after about 3:30pm and you may need a night in Malé or Hulhumalé before your resort transfer.",
+    "Friday is the weekly holiday: public ferries thin out and local-island shops shut for prayers around midday.",
+    "During Ramzan, cafés on inhabited islands close by day; resorts are unaffected.",
+    "Prices on menus rarely include the 10% service charge and 8% GST — mentally add a fifth to everything.",
+    "Public ferries cost under ₹100 but run to island time; scheduled speedboats (₹1,500–2,500) are what itineraries are actually built on."
+  ],
+  "cities": [
+    {
+      "id": "male",
+      "name": "Malé",
+      "blurb": "The capital squeezes 200,000 people onto two square kilometres — a jolt of real Maldivian life with its fish market, gold-domed mosque and coral-stone old quarter, best absorbed in a half-day before your transfer.",
+      "image": {
+        "query": "male city maldives aerial",
+        "alt": "Densely packed colourful buildings of Malé city surrounded by turquoise sea"
+      }
+    },
+    {
+      "id": "hulhumale",
+      "name": "Hulhumalé",
+      "blurb": "The reclaimed island next to the airport, all wide streets and a long public beach. Its real job is logistics — a comfortable, affordable first or last night when flight and seaplane timings refuse to cooperate.",
+      "image": {
+        "query": "hulhumale beach maldives",
+        "alt": "Hulhumalé public beach with casuarina trees and calm turquoise water"
+      }
+    },
+    {
+      "id": "maafushi",
+      "name": "Maafushi",
+      "blurb": "The island that democratised the Maldives. Forty-odd guesthouses, a busy bikini beach, and excursion desks selling sandbank trips, snorkelling safaris and resort day-passes — the full lagoon experience at backpacker arithmetic.",
+      "image": {
+        "query": "maafushi island bikini beach",
+        "alt": "White sand tourist beach on Maafushi lined with sun loungers and palms"
+      }
+    },
+    {
+      "id": "thulusdhoo",
+      "name": "Thulusdhoo",
+      "blurb": "A 30-minute speedboat from Malé and home to Cokes, one of Asia's best right-hand surf breaks. Laid-back guesthouses, board-rental shacks and a lagoon that stays interesting even for non-surfers.",
+      "image": {
+        "query": "thulusdhoo cokes surf break",
+        "alt": "Surfer riding a clean turquoise wave at Cokes break off Thulusdhoo"
+      }
+    },
+    {
+      "id": "dhigurah",
+      "name": "Dhigurah",
+      "blurb": "A three-kilometre sliver in South Ari Atoll with one long beach and the country's most reliable whale-shark channel offshore. Quieter and greener than Maafushi, built for divers and snorkellers rather than sunbathers.",
+      "image": {
+        "query": "dhigurah island south ari atoll",
+        "alt": "Long narrow white sandbar beach stretching from Dhigurah island"
+      }
+    },
+    {
+      "id": "ukulhas",
+      "name": "Ukulhas",
+      "blurb": "An award-winningly tidy island in North Ari Atoll — manta and turtle points nearby, a good bikini beach, and a slower, more local rhythm than the Malé-adjacent islands. The insider's pick for a second base.",
+      "image": {
+        "query": "ukulhas island beach maldives",
+        "alt": "Clean white beach and turquoise shallows on Ukulhas island"
+      }
+    }
+  ],
+  "highlights": [
+    {
+      "id": "overwater-villa",
+      "rank": 1,
+      "name": "A night in an overwater villa",
+      "category": "Stay",
+      "blurb": "The image that built the country: a villa on stilts with steps dropping straight into a private stretch of lagoon. Worth doing properly at least once.",
+      "detail": "Book the villa for the back half of your stay — arrive in a beach room, upgrade mid-trip, and the reveal lands harder. Glass floor panels are a gimmick; deck orientation is not: sunset-facing decks cost more and earn it. Check what the villa sits over before paying — a live house reef under your steps beats a bare sandbank by miles. Monsoon months (June, September) cut rates by a third or more, and half-board deals usually beat paying for the famously priced à la carte dinners. Two nights is enough; four gets repetitive without excursions.",
+      "image": {
+        "query": "maldives overwater villa deck",
+        "alt": "Overwater villa deck with steps leading into clear turquoise lagoon"
+      }
+    },
+    {
+      "id": "house-reef-snorkelling",
+      "rank": 2,
+      "name": "Snorkelling the house reefs",
+      "category": "Water",
+      "blurb": "Turtles, eagle rays, reef sharks and clouds of fusiliers, often within fifty metres of your room — no boat, no schedule, just fins and a mask.",
+      "detail": "Not all house reefs are equal, and this should drive your resort choice more than the spa menu. Islands on atoll rims with a steep drop-off — much of Ari and Baa — deliver the drama; lagoon-locked islands need a boat trip for the same show. Go at 7–8am when the water is glassiest and the reef is busiest, and again an hour before sunset for hunting trevally. Bring your own well-fitting mask from India; resort loaners fog. Guesthouse travellers get the same reefs on ₹2,500 three-stop snorkel safaris out of Maafushi, Ukulhas or Dhigurah.",
+      "image": {
+        "query": "maldives coral reef snorkelling turtle",
+        "alt": "Snorkeller swimming above coral with a green sea turtle in clear water"
+      }
+    },
+    {
+      "id": "whale-sharks-ari",
+      "rank": 3,
+      "name": "Whale sharks in South Ari",
+      "category": "Wildlife",
+      "blurb": "The South Ari Marine Protected Area is one of the only places on earth where whale sharks cruise year-round — and you snorkel beside them, no cage, no bait.",
+      "detail": "Base on Dhigurah and the search channel is minutes away; day trips also run from Maafushi (₹5,000–7,000) but spend three hours commuting. Boats scan the outer reef line for a shadow, then drop snorkellers ahead of the animal — listen to your guide, enter quietly, and keep three metres off; the encounter often lasts under two minutes, so have your camera ready before the shout. Mornings beat afternoons for sea state. Sightings run high but are never guaranteed; give yourself two days on the water rather than one, and you will almost certainly connect.",
+      "image": {
+        "query": "whale shark snorkeler maldives",
+        "alt": "Snorkeller swimming alongside a whale shark in blue open water"
+      }
+    },
+    {
+      "id": "hanifaru-mantas",
+      "rank": 4,
+      "name": "Manta season at Hanifaru Bay",
+      "category": "Wildlife",
+      "blurb": "Between June and November, plankton blooms funnel up to a hundred reef mantas into one football-field-sized bay in Baa Atoll — the largest gathering on the planet.",
+      "detail": "This is the great argument for wet-season travel. Hanifaru sits in a UNESCO Biosphere Reserve: snorkelling only, ranger-controlled numbers, roughly 45 minutes in the water per permit — book through a Baa Atoll resort or a Dharavandhoo guesthouse, which get allocations daily. Peak feeding follows the lunar tides, so let the operator pick your day rather than forcing a date. August to October is the statistical sweet spot. The mantas barrel-roll through the plankton with their mouths open, sometimes chained ten in a row; float still at the surface and they pass close enough to count the spots.",
+      "image": {
+        "query": "manta rays hanifaru bay feeding",
+        "alt": "Group of reef manta rays feeding near the surface at Hanifaru Bay"
+      }
+    },
+    {
+      "id": "sandbank-picnic",
+      "rank": 5,
+      "name": "A private sandbank",
+      "category": "Experience",
+      "blurb": "A crescent of white sand alone in open ocean, yours for a morning — the Maldives distilled to its purest geometry.",
+      "detail": "Every atoll has nameless sandbanks that appear at low tide, and every resort and guesthouse sells time on one. The budget version from Maafushi or Ukulhas is a ₹2,000–3,000 stop on an island-hopping trip; the resort version adds a champagne breakfast or grilled-lobster lunch under an umbrella they pitch for you. Go within two hours of low tide when the bank is widest, and insist on a morning slot — by noon the sand is a griddle and the light goes flat. It is the single best photo stop in the country; a drone, where permitted, earns its baggage weight here.",
+      "image": {
+        "query": "maldives sandbank aerial turquoise",
+        "alt": "Small white sandbank surrounded by gradients of turquoise ocean"
+      }
+    },
+    {
+      "id": "seaplane-transfer",
+      "rank": 6,
+      "name": "The seaplane crossing",
+      "category": "Experience",
+      "blurb": "Twenty minutes over ring after ring of coral in impossible blues — the transfer that outranks most destinations' main attractions.",
+      "detail": "If your resort is beyond speedboat range, the seaplane is compulsory and priced like it (US$350–600 return, billed by the resort) — so treat it as an activity, not a tax. Ask for a left-side window on the outbound morning run when the light rakes across the atolls; the pilots fly barefoot, which becomes your first story home. Seaplanes operate daylight-only from a separate terminal, so international arrivals after mid-afternoon mean a night near the airport — plan flights from India accordingly. Speedboat-distance resorts in South Malé Atoll skip the cost; a 15-minute scenic flight from Malé buys the view without the resort bill.",
+      "image": {
+        "query": "seaplane maldives atoll window view",
+        "alt": "View from seaplane window over Maldivian atolls and lagoons"
+      }
+    },
+    {
+      "id": "night-diving-snorkel",
+      "rank": 7,
+      "name": "Diving the channels",
+      "category": "Water",
+      "blurb": "Grey reef sharks stacked in current, napoleon wrasse the size of doors, and some of the clearest water in the Indian Ocean — the Maldives is a serious diving country.",
+      "detail": "The channels between atolls concentrate everything: Maaya Thila and Fish Head in Ari for sharks and stone-still frogfish, Okobe Thila near Malé for an easy first taste. Certified divers should carry cards and logbooks; beginners can do a Discover Scuba dive at almost any resort or a full open-water course cheaper on Maafushi or Dhigurah (about ₹35,000–40,000) than in most of Asia. December to April brings the best visibility on the eastern atolls; the west fires in the wet season. Nurse-shark and manta night dives are the ones people still talk about years later.",
+      "image": {
+        "query": "scuba diving maldives reef sharks",
+        "alt": "Divers watching grey reef sharks patrol a coral channel"
+      }
+    },
+    {
+      "id": "dolphin-cruise",
+      "rank": 8,
+      "name": "Sunset dolphin cruise",
+      "category": "Wildlife",
+      "blurb": "Spinner dolphins commute between atolls at dusk in pods of a hundred, launching full corkscrews off the bow wave as the sky goes orange.",
+      "detail": "Almost guaranteed and genuinely joyful — spinners follow predictable evening routes, so strike rates are high year-round. Resorts run it as a champagne cruise; guesthouse islands sell the identical wildlife for ₹1,500–2,500 on a dhoni. Board by 5pm, sit forward where the pod rides the pressure wave, and keep the phone down for the first pass — the acrobatics happen fast and are better watched than filmed. Pairs perfectly with a night-fishing add-on: hand-lines off the stern after dark, and the crew grills whatever you catch back on the beach.",
+      "image": {
+        "query": "spinner dolphins sunset maldives boat",
+        "alt": "Spinner dolphins leaping beside a boat at sunset in the Maldives"
+      }
+    },
+    {
+      "id": "male-old-town",
+      "rank": 9,
+      "name": "Old Malé in a half-day",
+      "category": "Culture",
+      "blurb": "The 17th-century coral-stone Friday Mosque, a fish market in full cry, and streets where actual Maldivian life happens — the corrective to a week of resort seclusion.",
+      "detail": "Most visitors only see the airport; give the capital three hours and it repays them. Start at the fish market around 8am when the tuna dhonis unload, walk to Hukuru Miskiy — its coral-stone walls carved with Quranic script are a genuine rarity, though entry for non-Muslims needs advance permission, so admire the exterior and the blue-and-white minaret regardless. Add the Grand Friday Mosque's golden dome, Sultan Park and a short-eats café for hedhikaa (savoury snacks) with sweet tea. Dress modestly, carry small rufiyaa notes, and slot it before an afternoon transfer rather than sacrificing resort time.",
+      "image": {
+        "query": "male friday mosque hukuru miskiy",
+        "alt": "Coral stone walls and minaret of the old Friday Mosque in Malé"
+      }
+    },
+    {
+      "id": "bioluminescent-beach",
+      "rank": 10,
+      "name": "The sea of stars",
+      "category": "Experience",
+      "blurb": "On moonless nights, bioluminescent plankton spark blue along certain shorelines — waves that glow when they break and footprints that light up behind you.",
+      "detail": "Vaadhoo made the phenomenon famous, but it is not a place so much as a set of conditions: warm water, a dark new-moon night, and luck with the plankton bloom, most often between June and October. Any dark east-facing beach can fire — ask your guesthouse host or resort marine biologist whether it has glowed recently rather than chasing one island's name. Kill every light, let your eyes adjust for ten minutes, and drag a hand through the wet sand at the waterline. Phones capture almost none of it; this one is for memory, not the feed — a fitting insider's finale.",
+      "image": {
+        "query": "bioluminescent plankton beach night",
+        "alt": "Glowing blue bioluminescent plankton along a dark shoreline at night"
+      }
+    }
+  ],
+  "activities": [
+    {
+      "id": "snorkel-safari",
+      "name": "Three-stop snorkel safari",
+      "category": "Water",
+      "blurb": "A half-day dhoni run hitting a turtle point, a live reef and a shipwreck or shark point — the best ₹2,500 you will spend on a guesthouse island.",
+      "image": {
+        "query": "snorkeling boat trip maldives reef",
+        "alt": "Snorkellers entering turquoise water from a Maldivian dhoni boat"
+      }
+    },
+    {
+      "id": "surf-thulusdhoo",
+      "name": "Surfing at Cokes and Chickens",
+      "category": "Adventure",
+      "blurb": "World-class, uncrowded right and left breaks off Thulusdhoo, firing March to October. Board rental and guiding from island shacks; flat-water SUP for everyone else.",
+      "image": {
+        "query": "cokes surf break thulusdhoo wave",
+        "alt": "Surfer on a glassy turquoise barrel at Cokes break"
+      }
+    },
+    {
+      "id": "overwater-spa",
+      "name": "Overwater spa treatment",
+      "category": "Wellness",
+      "blurb": "Massage rooms with glass floors over the lagoon, reef fish drifting below the table. Book the pre-sunset slot and add the steam ritual.",
+      "image": {
+        "query": "maldives overwater spa glass floor",
+        "alt": "Spa treatment room on stilts with glass floor over lagoon"
+      }
+    },
+    {
+      "id": "sunset-fishing",
+      "name": "Sunset hand-line fishing",
+      "category": "Experience",
+      "blurb": "Fish the Maldivian way — hand-lines off a dhoni at dusk, then your snapper grilled on the beach. Runs from resorts and every guesthouse island alike.",
+      "image": {
+        "query": "traditional dhoni fishing sunset maldives",
+        "alt": "Traditional dhoni boat silhouetted against an orange Maldivian sunset"
+      }
+    },
+    {
+      "id": "resort-day-pass",
+      "name": "Resort day pass",
+      "category": "Experience",
+      "blurb": "Guesthouse travellers can buy a day at a five-star — pool, beach, lunch and sometimes the bar — for ₹8,000–15,000. The smart hybrid itinerary's secret weapon.",
+      "image": {
+        "query": "maldives resort infinity pool beach",
+        "alt": "Infinity pool merging into lagoon at a Maldivian resort"
+      }
+    },
+    {
+      "id": "underwater-dining",
+      "name": "Underwater dining",
+      "category": "Food",
+      "blurb": "A handful of resorts serve lunch five metres under the lagoon behind acrylic domes, rays gliding past the wine list. A splurge, and a story that earns it.",
+      "image": {
+        "query": "ithaa undersea restaurant maldives",
+        "alt": "Diners inside a glass underwater restaurant with fish swimming overhead"
+      }
+    }
+  ],
+  "trips": [
+    {
+      "id": "lagoon-classic",
+      "title": "The Lagoon Classic",
+      "nights": 4,
+      "route": [
+        {
+          "place": "South Malé Atoll resort",
+          "nights": 4
+        }
+      ],
+      "summary": "The honeymoon blueprint, done efficiently: a speedboat-distance resort so no daylight is lost to transfers, two nights in a beach villa and two overwater, a sandbank breakfast, one snorkel safari and a sunset dolphin cruise. Short enough for a long-weekend escape from any Indian metro.",
+      "priceFrom": "₹1,25,000",
+      "image": {
+        "query": "south male atoll resort aerial",
+        "alt": "Resort island with overwater villas in South Malé Atoll"
+      }
+    },
+    {
+      "id": "island-hopper",
+      "title": "Guesthouse Island Hopper",
+      "nights": 5,
+      "route": [
+        {
+          "place": "Maafushi",
+          "nights": 3
+        },
+        {
+          "place": "Fulidhoo",
+          "nights": 2
+        }
+      ],
+      "summary": "The Maldives without the resort bill: three nights on Maafushi for sandbank trips, snorkel safaris and a five-star day pass, then two on tiny Fulidhoo for nurse sharks off the jetty and proper island quiet. Public ferries and speedboats connect the dots for a few hundred rupees.",
+      "priceFrom": "₹58,000",
+      "image": {
+        "query": "maafushi guesthouse island beach",
+        "alt": "Guesthouse-lined beach with excursion boats on Maafushi"
+      }
+    },
+    {
+      "id": "wildlife-week",
+      "title": "Whale Sharks & White Sand",
+      "nights": 7,
+      "route": [
+        {
+          "place": "Dhigurah",
+          "nights": 4
+        },
+        {
+          "place": "Ari Atoll resort",
+          "nights": 3
+        }
+      ],
+      "summary": "For travellers who came for the animals: four nights on Dhigurah with two whale-shark days, channel dives at Maaya Thila and that endless sandbar beach, then a short speedboat to an Ari Atoll resort to finish overwater. The budget-then-splurge structure keeps the total honest.",
+      "priceFrom": "₹1,60,000",
+      "image": {
+        "query": "dhigurah whale shark excursion boat",
+        "alt": "Excursion boat over blue water near Dhigurah with snorkellers"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do Indians need a visa for the Maldives?",
+      "a": "No advance visa — Indian passport holders get a free 30-day visa on arrival. The only paperwork is the Imuga Traveller Declaration, filed online within 96 hours before your flight (and again before returning). Carry a return ticket and confirmed hotel booking; your passport should be valid at least a month beyond arrival."
+    },
+    {
+      "q": "Can the Maldives be done on a budget, or is it only for honeymoons?",
+      "a": "Guesthouse islands changed the maths completely. Base on Maafushi, Ukulhas or Dhigurah and ₹8,000–13,000 a day covers a good room, meals and a daily excursion — whale sharks, sandbanks and reefs included. Flights from Kochi or Bengaluru often drop under ₹18,000 return, so a five-night trip can land around ₹55,000–70,000 all-in."
+    },
+    {
+      "q": "Will I find vegetarian food?",
+      "a": "Yes, more easily than you'd expect. Resorts run international buffets with clear veg sections and most have an Indian chef on the brigade; several cater specifically to Indian weddings and Jain requirements if warned ahead. On guesthouse islands the range narrows to veg fried rice, curries, pasta and roshi with dal — fine for a few days, repetitive beyond that."
+    },
+    {
+      "q": "When should I go?",
+      "a": "December to April for guaranteed sun and glassy seas, at peak prices. May to October brings passing squalls but 30–50% discounts — and it is prime time for Hanifaru Bay's mantas (Aug–Nov) and surf. November and May are the value sweet spots. Whale sharks in South Ari show up year-round."
+    },
+    {
+      "q": "How do I get from the airport to my island?",
+      "a": "Three ways, arranged by your hotel: speedboat (10–60 min, ₹1,500–8,000) for Malé-area atolls, seaplane (US$350–600 return, daylight only) for far resorts, or public ferry for a few hundred rupees if you have time. Land after mid-afternoon and a seaplane resort will need you to overnight near the airport — check timings before booking flights."
+    },
+    {
+      "q": "What are the alcohol rules?",
+      "a": "Alcohol is served freely on resort islands and liveaboards but is illegal everywhere locals live, including Malé and all guesthouse islands — and you cannot bring any in, even duty-free bought mid-journey; it is held at the airport until you leave. Budget travellers wanting a drink take a resort day pass or a floating-bar trip where offered."
+    }
+  ]
+}

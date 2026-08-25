@@ -1,0 +1,489 @@
+{
+  "slug": "sri-lanka",
+  "name": "Sri Lanka",
+  "displayName": "Sri Lanka",
+  "country": "Sri Lanka",
+  "region": "south-asia",
+  "flag": "🇱🇰",
+  "tagline": "Leopards, tea trains, fort towns, surf coves.",
+  "overview": "Sri Lanka fits an entire continent's worth of trip into an island you can drive across in a day. A morning climb up Sigiriya's rock fortress can roll into an afternoon on the world's prettiest slow train, curving through tea gardens toward Ella, and end two days later with leopards in Yala and whales off Mirissa. The scale is the point: heritage cities, misty hill stations, national parks and surf beaches sit two to four hours apart, so one week strings together what would take three almost anywhere else. For Indian travellers the friction is close to zero — the ETA is currently free, Colombo is barely an hour from Chennai, the clocks match IST exactly, and the food logic of rice, curry and strong tea feels instantly familiar while tasting entirely its own. Add post-crisis prices that still undercut Southeast Asia, and it is the highest-value short-haul trip on the map.",
+  "heroAlt": "Sigiriya rock fortress rising above misty green jungle in Sri Lanka's cultural triangle",
+  "heroImage": {
+    "query": "sigiriya rock fortress sri lanka",
+    "alt": "Sigiriya Lion Rock rising out of jungle haze with mountains behind",
+    "candidates": [
+      "https://images.unsplash.com/photo-1588598198321-9735fd52455b"
+    ]
+  },
+  "quickFacts": {
+    "capital": "Colombo (commercial) · Sri Jayawardenepura Kotte (official)",
+    "currency": {
+      "code": "LKR",
+      "name": "Sri Lankan rupee",
+      "inr": "₹1 ≈ Rs 3.4"
+    },
+    "languages": [
+      "Sinhala",
+      "Tamil",
+      "English widely spoken"
+    ],
+    "timezone": "GMT+5:30 — same as IST, no jet lag at all",
+    "flightFromIndia": "≈1¼ hrs non-stop from Chennai, 2¼ from Mumbai, 3½ from Delhi",
+    "plug": "Type D/G · 230V — Indian round-pin plugs fit most sockets; newer hotels use UK-style G",
+    "sim": "Dialog or Mobitel tourist SIM at Colombo airport, about ₹450–600 for 30GB plus calls"
+  },
+  "visa": {
+    "type": "evisa",
+    "headline": "Free ETA · 30 days, extendable",
+    "body": "Indian passport holders need an Electronic Travel Authorisation, and Sri Lanka has waived the fee for Indians — apply free on the official portal at eta.gov.lk before flying. You get 30 days on arrival, extendable in Colombo for long stays. Carry a passport valid six months beyond entry and a return ticket; skip third-party visa sites that charge for what the government gives free.",
+    "cost": "Free (fee waived for Indian passports)",
+    "processing": "Online, typically approved within 24 hours"
+  },
+  "weather": {
+    "summary": "Tropical and warm year-round, but two separate monsoons water opposite coasts at different times — so somewhere on the island is always in season. The west and south (Colombo, Galle, Mirissa) are driest December to March; the east (Trincomalee, Arugam Bay) shines May to September. The hill country around Ella and Nuwara Eliya stays 10–15 degrees cooler than the coast.",
+    "bestTime": "December – March for the classic south-west circuit",
+    "seasons": [
+      {
+        "label": "West & south dry season",
+        "months": "Dec – Mar",
+        "temp": "27–31°C coast, 16–22°C hills",
+        "notes": "Blue-sky beach weather, calm seas for whale watching, and clear hill-country views — peak season for the classic circuit.",
+        "tone": "high"
+      },
+      {
+        "label": "Inter-monsoon",
+        "months": "Apr & Sep – Nov",
+        "temp": "27–32°C",
+        "notes": "Hot with afternoon thunderstorms that pass quickly. Thinner crowds, softer rates, and both coasts are usable with a little luck.",
+        "tone": "shoulder"
+      },
+      {
+        "label": "South-west monsoon",
+        "months": "May – Aug",
+        "temp": "26–30°C",
+        "notes": "Rain and rough seas on the Galle–Mirissa stretch — but the east coast and cultural triangle are at their driest, so the trip just flips sides.",
+        "tone": "low"
+      }
+    ]
+  },
+  "booking": {
+    "high": "Mid-December – March, plus Easter and August holiday weeks",
+    "low": "May – early September on the south-west coast",
+    "note": "Christmas–New Year on the south coast books out by October and doubles in price. February gets you identical weather at saner rates, and the Kandy–Ella train's reserved seats sell out weeks ahead — book those the day plans firm up."
+  },
+  "idealDuration": {
+    "nights": "6 – 9",
+    "note": "Six nights covers the cultural triangle, hill country and one beach without rushing. Nine lets you add a Yala safari and a proper slowdown on the south coast."
+  },
+  "budget": {
+    "perDay": [
+      {
+        "tier": "Smart",
+        "inr": "₹3,500 – 6,000"
+      },
+      {
+        "tier": "Comfort",
+        "inr": "₹7,000 – 12,000"
+      },
+      {
+        "tier": "Luxe",
+        "inr": "₹18,000+"
+      }
+    ],
+    "note": "Per person per day with mid-range stays, a car and driver split two ways, and one paid activity. Boutique colonial-era hotels that would cost five figures elsewhere sit in the ₹8,000–12,000 band here."
+  },
+  "safety": {
+    "score": 4,
+    "headline": "Calm and welcoming — watch the small stuff, not the big",
+    "tips": [
+      "The 2022 crisis is long past; tourism runs normally island-wide. Petty theft and overcharging are the real risks, not unrest.",
+      "Agree tuk-tuk fares before boarding, or use the PickMe app in Colombo, Kandy and Galle for metered rides.",
+      "Politely decline 'gem shop' and 'special temple ceremony' detours from friendly strangers — they end in commission traps.",
+      "Ocean currents are serious on many beaches; swim only where locals and lifeguard flags say it is safe.",
+      "Dress modestly at temples — shoulders and knees covered, shoes and hats off — and never pose with your back to a Buddha statue.",
+      "Stray dogs are everywhere and mostly harmless, but keep distance; carry basic travel insurance that covers a rabies course."
+    ]
+  },
+  "goodToKnow": [
+    "Sri Lanka runs on IST — no time difference means zero jet lag and easy calls home.",
+    "Cards work in cities and hotels, but tuk-tuks, small eateries and entrance tickets often want cash; ATMs are everywhere and BOC/Commercial Bank charge the least.",
+    "Hiring a car with an English-speaking driver for the whole trip costs roughly ₹6,000–8,000 a day and beats self-driving on chaotic roads.",
+    "PickMe is the local Uber — cheaper and more reliable than street-hailing in Colombo and Kandy.",
+    "Tipping is expected in small amounts: Rs 100–200 for porters, about 10% at restaurants if service isn't already added.",
+    "Full-moon Poya days are monthly public holidays — alcohol sales stop and some attractions get crowded with pilgrims; check the calendar before planning big nights.",
+    "Vegetarians eat exceptionally well — rice and curry spreads, dhal, kottu and hoppers are veg-friendly by default; just say 'no Maldive fish' as it hides in sambols.",
+    "The famous blue trains have three classes — reserved 2nd class has opening windows and the best photos; book on the 12Go or official railway site early."
+  ],
+  "cities": [
+    {
+      "id": "colombo",
+      "name": "Colombo",
+      "blurb": "The port capital most people rush through and shouldn't — colonial arcades, the Gangaramaya temple, Galle Face Green at sunset and the island's best restaurant scene. One night bookending the trip is right.",
+      "image": {
+        "query": "colombo galle face green sunset",
+        "alt": "Crowds and kite-flyers on Galle Face Green promenade at sunset with Colombo skyline"
+      }
+    },
+    {
+      "id": "sigiriya-dambulla",
+      "name": "Sigiriya & Dambulla",
+      "blurb": "Base camp for the cultural triangle: the Lion Rock climb, Dambulla's painted cave temples and Minneriya's elephant gatherings, all within a 30-minute radius of jungle-edge lodges and treehouse stays.",
+      "image": {
+        "query": "sigiriya lion rock jungle view",
+        "alt": "Sigiriya rock fortress seen across green jungle canopy",
+        "candidates": [
+          "https://images.unsplash.com/photo-1580889240912-c39ecefd3d95"
+        ]
+      }
+    },
+    {
+      "id": "kandy",
+      "name": "Kandy",
+      "blurb": "The hill capital wrapped around a lake, home to the Temple of the Sacred Tooth Relic and the start of the famous train south. Cooler air, Kandyan dance shows and the Peradeniya botanical gardens.",
+      "image": {
+        "query": "kandy lake temple of tooth",
+        "alt": "Kandy Lake with the Temple of the Tooth complex on its shore"
+      }
+    },
+    {
+      "id": "ella",
+      "name": "Ella",
+      "blurb": "A backpacker village grown into the hill country's favourite base — Nine Arch Bridge, the Little Adam's Peak sunrise, tea-field walks and a main street of cafés that feels like a mountain town on holiday.",
+      "image": {
+        "query": "ella nine arch bridge tea hills",
+        "alt": "Nine Arch Bridge curving through tea-covered hills near Ella",
+        "candidates": [
+          "https://images.unsplash.com/photo-1566296314736-6eaac1ca0cb9"
+        ]
+      }
+    },
+    {
+      "id": "galle",
+      "name": "Galle",
+      "blurb": "A 17th-century Dutch fort town on the south coast — ramparts for sunset walks, boutique hotels in merchant houses, and Unawatuna's swimmable bay ten minutes away. The island's most atmospheric overnight stop.",
+      "image": {
+        "query": "galle fort lighthouse ramparts",
+        "alt": "Galle Fort's white lighthouse and stone ramparts against the sea"
+      }
+    },
+    {
+      "id": "mirissa",
+      "name": "Mirissa & the south beaches",
+      "blurb": "The palm-fringed stretch from Weligama to Tangalle: whale-watching boats, surf schools, coconut-tree viewpoints and beach restaurants grilling the day's catch. Pick one cove and stay put.",
+      "image": {
+        "query": "mirissa beach palm trees sri lanka",
+        "alt": "Curving sandy bay at Mirissa lined with coconut palms"
+      }
+    }
+  ],
+  "highlights": [
+    {
+      "id": "sigiriya-rock",
+      "rank": 1,
+      "name": "Sigiriya Rock Fortress",
+      "category": "Heritage",
+      "blurb": "A 5th-century palace built atop a 200-metre volcanic rock, reached past mirror walls, frescoes and giant lion's paws — Sri Lanka's single most extraordinary sight.",
+      "detail": "Start climbing by 7am, both for soft light and because the 1,200 steps in midday heat are punishing. The summit holds palace foundations and a 360-degree view over jungle to distant Pidurangala — which locals climb instead for the classic photo of Sigiriya itself; doing both in one day (Sigiriya at dawn, Pidurangala at sunset) is the move. Foreign tickets run about $35–36, cash or card at the gate. Combine with Dambulla's cave temples the same day, and watch for wasp warnings on the upper stairs — guides take them seriously.",
+      "image": {
+        "query": "sigiriya rock fortress sunrise",
+        "alt": "Sigiriya Lion Rock in morning haze above the jungle",
+        "candidates": [
+          "https://images.unsplash.com/photo-1588598198321-9735fd52455b"
+        ]
+      }
+    },
+    {
+      "id": "kandy-ella-train",
+      "rank": 2,
+      "name": "Kandy to Ella hill train",
+      "category": "Rail journey",
+      "blurb": "Seven slow hours through tea estates, cloud forest and viaducts on a rattling blue train — routinely called the world's most beautiful rail ride, and priced like a bus ticket.",
+      "detail": "Reserved second class is the sweet spot: opening windows, padded seats, and doorways you can (carefully) lean from for photos. Book two to four weeks ahead online — reserved carriages sell out fast in season, though unreserved tickets always exist if you'll stand. Sit on the right side heading to Ella for the better valley views. If seven hours sounds long, board at Nanu Oya (Nuwara Eliya) instead and do the best four-hour stretch. Buy roasted peanuts and samosas from onboard vendors, and keep your camera ready after Haputale where the line rides the ridgeline.",
+      "image": {
+        "query": "sri lanka blue train nine arch bridge",
+        "alt": "Blue train crossing the stone Nine Arch Bridge amid green hills",
+        "candidates": [
+          "https://images.unsplash.com/photo-1566296314736-6eaac1ca0cb9"
+        ]
+      }
+    },
+    {
+      "id": "galle-fort",
+      "rank": 3,
+      "name": "Galle Fort",
+      "category": "Heritage",
+      "blurb": "A living UNESCO-listed Dutch colonial town inside sea walls — lighthouse, church spires, gem merchants and café courtyards, best absorbed on foot over a lazy half day.",
+      "detail": "Walk the full rampart circuit at golden hour, starting from the lighthouse and ending near Flag Rock where local lads cliff-jump for tips as the sun drops. Inside the walls, Pedlar Street and Church Street hold the boutiques, museums and cafés; the Dutch Reformed Church and the old gate are free to wander. Stay a night inside the fort if the budget allows — it empties beautifully after the day-trippers leave. Galle pairs naturally with Unawatuna or Mirissa as your beach base, and the Colombo–Galle highway makes it just two hours from the airport side of the island.",
+      "image": {
+        "query": "galle fort lighthouse sunset",
+        "alt": "Galle Fort lighthouse above the ramparts at golden hour"
+      }
+    },
+    {
+      "id": "yala-safari",
+      "rank": 4,
+      "name": "Yala leopard safari",
+      "category": "Wildlife",
+      "blurb": "Yala National Park has one of the world's densest leopard populations, plus elephants, sloth bears, crocodiles and peacocks — a genuine big-cat safari four hours from the beach.",
+      "detail": "Book a half-day jeep with a reputable operator rather than the cheapest tout — a good tracker doubles your leopard odds. Dawn drives (5.30am gate) beat afternoons for cats; February to July, when water sources shrink, is prime. A private jeep runs about ₹12,000–15,000 split between passengers, plus park fees. Block 1 has the most sightings and the most jeeps; ask about Block 5 for similar wildlife with fewer vehicles. Stay in Tissamaharama or a park-edge camp the night before, and treat a leopard as a bonus, not a promise — elephants and birdlife alone justify the trip. The park usually closes for several weeks around September.",
+      "image": {
+        "query": "yala national park leopard jeep",
+        "alt": "Leopard resting on a rock in Yala National Park scrubland"
+      }
+    },
+    {
+      "id": "temple-of-tooth",
+      "rank": 5,
+      "name": "Temple of the Sacred Tooth Relic",
+      "category": "Culture",
+      "blurb": "Kandy's lakeside temple guards a tooth of the Buddha and remains the spiritual heart of the island, with drumming-filled pujas three times a day.",
+      "detail": "Time your visit to a puja — 5.30am, 9.30am or 6.30pm — when drummers and horn players accompany the opening of the relic chamber; the evening ceremony is the most atmospheric and the most crowded. Dress with shoulders and knees covered, leave shoes at the counter, and allow 90 minutes including the surrounding royal palace complex and museums. Foreign tickets are modest, and white-clad pilgrim crowds on Poya full-moon days transform the mood entirely. In late July–August the Esala Perahera festival parades tusked elephants and fire dancers through Kandy for ten nights — spectacular, but book rooms months out.",
+      "image": {
+        "query": "temple of tooth kandy puja",
+        "alt": "Golden-roofed Temple of the Tooth beside Kandy Lake"
+      }
+    },
+    {
+      "id": "mirissa-whales",
+      "rank": 6,
+      "name": "Whale watching at Mirissa",
+      "category": "Wildlife",
+      "blurb": "The deep water off Mirissa is one of the most reliable places on earth to see blue whales — the largest animal that has ever lived — on a morning boat run.",
+      "detail": "Season runs November to April, with December–March the most dependable; boats leave the harbour around 6.30–7am and return by early afternoon. Choose an operator that follows distance guidelines rather than one that chases — Raja and the Whales is the name most often recommended for responsible viewing. Expect ₹5,000–8,000 per person including breakfast on board. Seas can roll, so take a motion-sickness tablet the night before even if you think you don't need one. Sperm whales, spinner dolphins and the occasional orca round out the sightings; afterwards, sleep it off on Mirissa beach with a king coconut.",
+      "image": {
+        "query": "blue whale mirissa boat tour",
+        "alt": "Blue whale surfacing near a whale-watching boat off Mirissa"
+      }
+    },
+    {
+      "id": "ella-hikes",
+      "rank": 7,
+      "name": "Nine Arch Bridge & Little Adam's Peak",
+      "category": "Nature",
+      "blurb": "Ella's two essential walks: a colonial-era stone viaduct that trains cross through tea fields, and a 45-minute ridge climb with sunrise views down the Ella Gap.",
+      "detail": "Check the train timetable at your guesthouse and reach Nine Arch Bridge 20 minutes before a crossing — the blue train curving over the arches is the island's most repeated photo for good reason. Early morning has mist and few people; the café terraces above the bridge sell decent coffee while you wait. Little Adam's Peak is a gentle stair-stepped climb, ideal at sunrise before the heat; the ambitious can continue to the Ella Gap viewpoints or tackle the much tougher Ella Rock with a local guide. Both walks are free, and both fit into a single unhurried day with a tea-factory tour between them.",
+      "image": {
+        "query": "nine arch bridge ella train crossing",
+        "alt": "Train crossing Nine Arch Bridge surrounded by jungle and tea",
+        "candidates": [
+          "https://images.unsplash.com/photo-1566296314736-6eaac1ca0cb9"
+        ]
+      }
+    },
+    {
+      "id": "dambulla-caves",
+      "rank": 8,
+      "name": "Dambulla Cave Temple",
+      "category": "Heritage",
+      "blurb": "Five rock caves stacked with more than 150 Buddha statues under ceilings entirely covered in centuries-old murals — the finest cave temple complex in South Asia.",
+      "detail": "The caves sit atop a short, sweaty staircase from the golden temple at the base — go early or late to avoid the midday climb and the tour-bus rush around 10am–2pm. Cave 2 is the showpiece: dozens of seated Buddhas beneath a painted ceiling that flows like fabric. Shoes come off at the top (socks help on hot stone), shoulders and knees covered as always. It is 25 minutes from Sigiriya, so most people pair the two in one day — Sigiriya at dawn, Dambulla late afternoon works best. Watch the monkeys near the entrance; they are professional snack thieves.",
+      "image": {
+        "query": "dambulla cave temple buddha statues",
+        "alt": "Rows of seated Buddha statues beneath painted cave ceilings at Dambulla"
+      }
+    },
+    {
+      "id": "tea-country",
+      "rank": 9,
+      "name": "Tea country around Nuwara Eliya",
+      "category": "Nature",
+      "blurb": "Emerald plantations at 1,800 metres, colonial bungalows, waterfalls and factory tours ending in tastings — the cool, misty England-in-the-tropics chapter of any circuit.",
+      "detail": "Tour a working factory — Pedro Estate near Nuwara Eliya or Dambatenne near Haputale (Lipton's original) — to watch leaves go from withering troughs to graded tea, then taste the difference between BOP and silver tips. Lipton's Seat above Dambatenne is the great viewpoint; go before 9am, after which cloud usually swallows it. Nuwara Eliya town itself trades on faded Raj-era charm — the post office, Victoria Park, and the Grand Hotel's high tea. Nights genuinely get cold, so pack a layer you'll use nowhere else on the island. Most itineraries give this one night between Kandy and Ella, which is enough.",
+      "image": {
+        "query": "nuwara eliya tea plantation pickers",
+        "alt": "Tea pickers working bright green terraced plantations in hill country mist"
+      }
+    },
+    {
+      "id": "hiriketiya",
+      "rank": 10,
+      "name": "Hiriketiya Bay",
+      "category": "Beach",
+      "blurb": "A horseshoe cove near Dickwella that quietly became the island's coolest corner — mellow surf, jungle-backed sand and a scene of specialty coffee and sunset bars.",
+      "detail": "The insider's finish to a south-coast trip: 'Hiri' is small enough to walk end to end in ten minutes, with beginner-friendly waves on the left of the bay and a punchier point for experienced surfers on the right. Board rental and lessons are everywhere and cheap. The vibe is barefoot but polished — smoothie bowls, wood-fired pizza, yoga shalas in the palms — without the party sprawl of bigger beach towns. Stay two or three nights, day-trip to the Hummanaya blowhole or Tangalle's empty beaches, and time your visit December to April when the sea behaves. Weekends bring Colombo crowds; midweek it's yours.",
+      "image": {
+        "query": "hiriketiya bay surf cove",
+        "alt": "Horseshoe-shaped Hiriketiya bay ringed by palms with surfers in the water"
+      }
+    }
+  ],
+  "activities": [
+    {
+      "id": "surf-weligama",
+      "name": "Learn to surf at Weligama",
+      "category": "Water",
+      "blurb": "Weligama's long sandy-bottom bay is one of Asia's best places to stand up for the first time — lessons from about ₹1,500 and whitewater waves all day long.",
+      "image": {
+        "query": "weligama beach surf lesson",
+        "alt": "Beginner surfers riding small waves at Weligama bay"
+      }
+    },
+    {
+      "id": "safari-jeep",
+      "name": "National park jeep safari",
+      "category": "Wildlife",
+      "blurb": "Beyond Yala: Udawalawe for near-guaranteed elephants, Minneriya for the famous dry-season Gathering of hundreds of them, Wilpattu for leopards without the jeep queues.",
+      "image": {
+        "query": "udawalawe elephants jeep safari",
+        "alt": "Wild elephants crossing grassland in front of a safari jeep"
+      }
+    },
+    {
+      "id": "ayurveda-spa",
+      "name": "Ayurveda treatments",
+      "category": "Wellness",
+      "blurb": "The island's Ayurveda tradition runs from ₹2,500 herbal-oil massages to full panchakarma retreats on the south coast — genuine practitioners, not just resort spa menus.",
+      "image": {
+        "query": "ayurveda massage sri lanka spa",
+        "alt": "Traditional Ayurvedic oil treatment in a garden spa pavilion"
+      }
+    },
+    {
+      "id": "cooking-class",
+      "name": "Sri Lankan cooking class",
+      "category": "Food",
+      "blurb": "Grind your own curry powder, scrape coconut and cook a proper rice-and-curry spread — classes in Ella, Galle and Mirissa run about ₹2,000–3,000 including the feast you make.",
+      "image": {
+        "query": "sri lankan rice curry cooking class",
+        "alt": "Clay pots of colourful curries and sambols laid out for a cooking class"
+      }
+    },
+    {
+      "id": "rafting-kitulgala",
+      "name": "White-water rafting at Kitulgala",
+      "category": "Adventure",
+      "blurb": "Grade 2–3 rapids on the Kelani River through rainforest where Bridge on the River Kwai was filmed — an easy half-day thrill between Colombo and the hills, from about ₹2,500.",
+      "image": {
+        "query": "kitulgala kelani river rafting",
+        "alt": "Raft crew paddling through rapids on the jungle-lined Kelani River"
+      }
+    },
+    {
+      "id": "galle-heritage-walk",
+      "name": "Galle Fort heritage walk",
+      "category": "Culture",
+      "blurb": "A guided sunset walk through the fort's Dutch, Portuguese and British layers — merchants' mansions, hidden courtyards and rampart stories you'd never catch alone.",
+      "image": {
+        "query": "galle fort street colonial walk",
+        "alt": "Colonnaded colonial streetscape inside Galle Fort in evening light"
+      }
+    }
+  ],
+  "trips": [
+    {
+      "id": "classic-circuit",
+      "title": "The Classic Circuit",
+      "nights": 7,
+      "route": [
+        {
+          "place": "Sigiriya",
+          "nights": 2
+        },
+        {
+          "place": "Kandy",
+          "nights": 2
+        },
+        {
+          "place": "Ella",
+          "nights": 2
+        },
+        {
+          "place": "Colombo",
+          "nights": 1
+        }
+      ],
+      "summary": "The greatest-hits loop: climb Sigiriya and Dambulla's caves, catch the evening puja at the Temple of the Tooth, ride the hill train to Ella for Nine Arch Bridge and tea-country walks, then finish with a Colombo food crawl before the flight home.",
+      "priceFrom": "₹68,000",
+      "image": {
+        "query": "sigiriya rock jungle sunrise",
+        "alt": "Sigiriya rock fortress above jungle at first light",
+        "candidates": [
+          "https://images.unsplash.com/photo-1580889240912-c39ecefd3d95"
+        ]
+      }
+    },
+    {
+      "id": "hills-and-beaches",
+      "title": "Hills, Leopards & Beaches",
+      "nights": 9,
+      "route": [
+        {
+          "place": "Kandy",
+          "nights": 2
+        },
+        {
+          "place": "Ella",
+          "nights": 2
+        },
+        {
+          "place": "Yala (Tissamaharama)",
+          "nights": 1
+        },
+        {
+          "place": "Mirissa",
+          "nights": 2
+        },
+        {
+          "place": "Galle",
+          "nights": 2
+        }
+      ],
+      "summary": "The full arc from cool tea country to warm sand: the famous train into Ella, a dawn leopard safari in Yala, blue whales and beach evenings at Mirissa, and two slow nights inside Galle Fort's ramparts to close. The best all-round first trip if you have the leave.",
+      "priceFrom": "₹92,000",
+      "image": {
+        "query": "blue train ella tea hills",
+        "alt": "Blue hill train crossing Nine Arch Bridge in tea country",
+        "candidates": [
+          "https://images.unsplash.com/photo-1566296314736-6eaac1ca0cb9"
+        ]
+      }
+    },
+    {
+      "id": "south-coast-short",
+      "title": "South Coast Slowdown",
+      "nights": 5,
+      "route": [
+        {
+          "place": "Galle",
+          "nights": 2
+        },
+        {
+          "place": "Hiriketiya",
+          "nights": 3
+        }
+      ],
+      "summary": "A long-weekend-plus reset that skips the driving: highway straight from the airport to Galle Fort for rampart sunsets and café mornings, then three barefoot nights in Hiriketiya's surf cove with a whale-watching or Udawalawe day trip if the mood strikes.",
+      "priceFrom": "₹48,000",
+      "image": {
+        "query": "galle fort ramparts ocean sunset",
+        "alt": "Sunset over the sea from Galle Fort's stone ramparts"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do Indians need a visa for Sri Lanka?",
+      "a": "You need an ETA (electronic travel authorisation), but it is currently free for Indian passport holders. Apply on the official portal eta.gov.lk before flying — approval usually lands within 24 hours — and you get 30 days, extendable in Colombo. Avoid lookalike sites that charge a 'service fee' for the same thing."
+    },
+    {
+      "q": "When is the best time to visit?",
+      "a": "December to March for the classic circuit — Colombo, the cultural triangle, hill country and the south-west beaches all run dry and sunny then. May to September flips the island: the south-west gets monsoon, but Trincomalee and Arugam Bay on the east coast are at their best. There is genuinely no bad month if you pick the right coast."
+    },
+    {
+      "q": "Is Sri Lanka expensive after the economic crisis?",
+      "a": "No — it remains one of the best-value destinations reachable from India. A comfortable mid-range trip runs ₹7,000–12,000 per person per day on the ground, flights from Chennai start around ₹12,000–18,000 return, and boutique hotels cost a fraction of their equivalents in Southeast Asia. Prices have risen since 2022 but so has reliability of fuel, power and supplies."
+    },
+    {
+      "q": "Will vegetarians manage easily?",
+      "a": "Very easily — arguably better than anywhere outside India. The standard rice-and-curry spread is built on dhal, jackfruit, beetroot, pumpkin and greens; kottu, hoppers and string hoppers all come in veg versions. The one watch-out is Maldive fish (dried tuna flakes) hiding in coconut sambol — ask for it without."
+    },
+    {
+      "q": "How do we get around the island?",
+      "a": "Most Indian travellers hire a car with an English-speaking driver for the whole trip — about ₹6,000–8,000 a day including fuel, and the driver arranges everything en route. Layer in the Kandy–Ella train for the scenery, PickMe app rides within cities, and tuk-tuks for short hops with fares agreed upfront."
+    },
+    {
+      "q": "Is it safe for families and solo women?",
+      "a": "Broadly yes — violent crime against tourists is rare and the tourist trail is well worn. The usual sense applies: prebooked transport at night, modest dress at religious sites, firm polite refusals to persistent touts, and care with ocean currents. Solo women report hassle levels similar to or lower than most of South Asia, especially in the hill country and fort towns."
+    }
+  ]
+}

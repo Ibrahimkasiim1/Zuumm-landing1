@@ -1,0 +1,451 @@
+{
+  "slug": "singapore",
+  "name": "Singapore",
+  "displayName": "Singapore",
+  "country": "Singapore",
+  "region": "southeast-asia",
+  "flag": "🇸🇬",
+  "tagline": "Skyline gardens, hawker feasts, midnight safaris.",
+  "overview": "Singapore packs a full country into a city you can cross in forty minutes. Mornings can start with kaya toast in a 1940s kopitiam, move through orchid gardens and a rooftop infinity pool by afternoon, and end under Supertrees pulsing to music at 7.45pm sharp. The city runs on precision — trains arrive when the sign says, queues actually work — yet the food scene is gloriously chaotic: Michelin-starred hawker stalls, Little India thali joints, and chilli crab eaten with plastic gloves by the marina. For Indian travellers it is the gentlest introduction to international travel there is: five hours or so non-stop from the metros, English everywhere, vegetarian food on every corner, and a Little India that smells exactly like home. It is expensive by Southeast Asian standards, but almost everything worth doing — the light shows, the beaches, the neighbourhood walks — costs nothing at all.",
+  "heroAlt": "Marina Bay Sands and the Singapore skyline reflected in the bay at dusk",
+  "heroImage": {
+    "query": "marina bay sands singapore skyline",
+    "alt": "Marina Bay Sands towers and the ArtScience Museum across the bay at blue hour",
+    "candidates": [
+      "https://images.unsplash.com/photo-1525625293386-3f8f99389edd"
+    ]
+  },
+  "quickFacts": {
+    "capital": "Singapore (city-state)",
+    "currency": {
+      "code": "SGD",
+      "name": "Singapore dollar",
+      "inr": "S$1 ≈ ₹75"
+    },
+    "languages": [
+      "English",
+      "Mandarin",
+      "Malay",
+      "Tamil"
+    ],
+    "timezone": "GMT+8 · 2½ hrs ahead of IST",
+    "flightFromIndia": "≈4h non-stop from Chennai or Kolkata, 5½h from Delhi and Mumbai",
+    "plug": "Type G (British 3-pin) · 230V — carry one adapter for the trip",
+    "sim": "Singtel hi!Tourist SIM at Changi from about ₹900 for 100GB, or an eSIM from ₹500 before you fly"
+  },
+  "visa": {
+    "type": "evisa",
+    "headline": "e-Visa before travel · 30-day stays",
+    "body": "Indian passport holders need an electronic visa arranged before flying, applied through authorised agents since individuals cannot file directly. Approved visas are typically multiple-entry and valid up to two years, with each stay capped around 30 days. Carry a passport valid six months beyond travel, return tickets and hotel bookings; apply at least a week out to stay relaxed.",
+    "cost": "About ₹2,100 government fee plus ≈₹1,000 agent fee (≈₹3,100 total)",
+    "processing": "Typically 3–5 working days"
+  },
+  "weather": {
+    "summary": "Equatorial and steady: 25–32°C every single day of the year, humid, with rain arriving as short, theatrical downpours rather than washouts. The northeast monsoon (November to January) brings the wettest stretch; February to April is the driest. Indoors, everything is aggressively air-conditioned — pack one light layer.",
+    "bestTime": "February – April",
+    "seasons": [
+      {
+        "label": "Dry-ish season",
+        "months": "Feb – Apr",
+        "temp": "26–32°C",
+        "notes": "The lowest rainfall of the year and the clearest skies for skyline views — Singapore at its most comfortable.",
+        "tone": "high"
+      },
+      {
+        "label": "Southwest monsoon",
+        "months": "May – Sep",
+        "temp": "26–32°C",
+        "notes": "Early-morning squalls that clear by breakfast. Great Singapore Sale in June–July; occasional haze late in the season.",
+        "tone": "shoulder"
+      },
+      {
+        "label": "Northeast monsoon",
+        "months": "Nov – Jan",
+        "temp": "24–30°C",
+        "notes": "The wettest months, with longer afternoon rain. Fine for a museum-mall-hawker trip; Christmas lights on Orchard compensate.",
+        "tone": "low"
+      }
+    ]
+  },
+  "booking": {
+    "high": "Dec – Jan holidays, June school break, and Formula 1 week in Sep – Oct",
+    "low": "Feb (post-CNY) – Apr and Aug",
+    "note": "Hotel rates spike sharply around the F1 night race and Christmas–New Year. February after Chinese New Year gives dry-season weather with the year's softest room rates — book flights 6–8 weeks out for the best fares."
+  },
+  "idealDuration": {
+    "nights": "4 – 5",
+    "note": "Four nights covers the marina, a Sentosa day and the neighbourhoods without rushing. Add a fifth for the zoo and Night Safari, or a sixth to slow down with kids."
+  },
+  "budget": {
+    "perDay": [
+      {
+        "tier": "Smart",
+        "inr": "₹7,000 – 10,000"
+      },
+      {
+        "tier": "Comfort",
+        "inr": "₹13,000 – 20,000"
+      },
+      {
+        "tier": "Luxe",
+        "inr": "₹35,000+"
+      }
+    ],
+    "note": "Per person per day with mid-range hotels, MRT travel, hawker meals and one paid attraction. Eating at hawker centres instead of restaurants easily halves your food spend without any downgrade in quality."
+  },
+  "safety": {
+    "score": 5,
+    "headline": "One of the safest cities on earth — for everyone, at any hour",
+    "tips": [
+      "Solo travellers and families can walk anywhere at midnight; petty theft is rare but keep phones off café tables anyway.",
+      "Fines are real: no eating or drinking on the MRT, no jaywalking, no littering — chewing gum is banned from sale.",
+      "Vaping is illegal, and drug offences carry extremely severe penalties; never carry anything through Changi for anyone.",
+      "Tap water is safe to drink everywhere — refill a bottle rather than buying.",
+      "Smoke only in marked yellow-box zones; lighting up elsewhere invites an on-the-spot fine.",
+      "Stay hydrated and pace outdoor sightseeing around the 11am–3pm heat; the humidity tires you faster than the temperature suggests."
+    ]
+  },
+  "goodToKnow": [
+    "Tipping is not expected — a 10% service charge is already built into restaurant bills.",
+    "Cards and phone wallets work everywhere, but keep S$30–50 in cash for hawker stalls and older kopitiams.",
+    "Get an EZ-Link card or just tap a credit card on the MRT — it is the fastest, cheapest way around, and taxis via Grab fill the gaps.",
+    "Vegetarians eat royally: Little India's thali houses, Chinese vegetarian stalls and clearly labelled hawker options are everywhere.",
+    "Changi airport deserves 3–4 spare hours on departure — the Jewel Rain Vortex alone is worth arriving early for.",
+    "Chinese New Year (Jan–Feb) closes many Chinatown stalls for two days but the light-up and bazaars beforehand are spectacular.",
+    "Book Gardens by the Bay, Universal Studios and Night Safari tickets online a few days ahead — gate prices are higher and slots sell out.",
+    "Durian is banned on public transport and in most hotels — eat it at the stall, not in your room."
+  ],
+  "cities": [
+    {
+      "id": "marina-bay",
+      "name": "Marina Bay",
+      "blurb": "The postcard Singapore: Marina Bay Sands, the Merlion, Gardens by the Bay and the nightly light shows, all walkable from glossy hotels. Base here for a first trip and short stays.",
+      "image": {
+        "query": "marina bay sands night singapore",
+        "alt": "Marina Bay Sands and ArtScience Museum lit up at night",
+        "candidates": [
+          "https://images.unsplash.com/photo-1565967511849-76a60a516170"
+        ]
+      }
+    },
+    {
+      "id": "sentosa",
+      "name": "Sentosa Island",
+      "blurb": "Singapore's play island — Universal Studios, beaches, the Skyline Luge and cable cars. Families staying two nights here skip the daily commute and get the beaches before day-trippers arrive.",
+      "image": {
+        "query": "sentosa island beach singapore",
+        "alt": "Palm-lined Siloso Beach on Sentosa with the cable car overhead"
+      }
+    },
+    {
+      "id": "chinatown",
+      "name": "Chinatown & Tanjong Pagar",
+      "blurb": "Shophouse lanes, the Buddha Tooth Relic Temple and Maxwell Food Centre by day; some of the city's best bars by night. Boutique hotels here cost less than the marina and feel more like Singapore.",
+      "image": {
+        "query": "chinatown shophouses singapore",
+        "alt": "Colourful restored shophouses along a Chinatown street"
+      }
+    },
+    {
+      "id": "little-india",
+      "name": "Little India & Kampong Glam",
+      "blurb": "Flower garlands, gold shops and dosa breakfasts on one side; the Sultan Mosque, Arab Street fabric stores and Haji Lane's murals on the other. The city's most colourful, best-value base.",
+      "image": {
+        "query": "sultan mosque kampong glam singapore",
+        "alt": "The golden dome of Sultan Mosque above Bussorah Street"
+      }
+    },
+    {
+      "id": "orchard-road",
+      "name": "Orchard Road",
+      "blurb": "Two kilometres of flagship malls and food halls with the widest hotel choice in the city. Not atmospheric, but ruthlessly convenient — one MRT line puts everything within twenty minutes.",
+      "image": {
+        "query": "orchard road singapore shopping street",
+        "alt": "Orchard Road's tree-lined shopping boulevard with mall facades"
+      }
+    },
+    {
+      "id": "katong",
+      "name": "Katong – Joo Chiat",
+      "blurb": "The insider's pick: pastel Peranakan terraces, laksa rivalries and indie cafés in the East Coast, fifteen minutes from Changi. Ideal for a slower second visit or a food-led weekend.",
+      "image": {
+        "query": "peranakan houses koon seng road",
+        "alt": "Pastel-coloured Peranakan terrace houses on Koon Seng Road"
+      }
+    }
+  ],
+  "highlights": [
+    {
+      "id": "gardens-by-the-bay",
+      "rank": 1,
+      "name": "Gardens by the Bay",
+      "category": "Icon",
+      "blurb": "The Supertree grove, Cloud Forest's indoor waterfall and the Flower Dome — Singapore's signature spectacle of engineered nature, free at ground level.",
+      "detail": "Arrive around 5pm: walk the outdoor gardens free, buy timed tickets for the two conservatories (about ₹3,300 combined), and be under the Supertrees by 7.45pm for the free Garden Rhapsody light-and-sound show, which repeats at 8.45pm. The OCBC Skyway between the trees is worth the small extra fee at dusk. Cloud Forest's 35-metre indoor waterfall hits differently after the humid walk over — the conservatories are chilled to highland temperatures. It sits directly behind Marina Bay Sands, so combine it with the SkyPark or the Spectra fountain show for one seamless evening.",
+      "image": {
+        "query": "supertree grove gardens by the bay",
+        "alt": "Illuminated Supertrees at Gardens by the Bay at night",
+        "candidates": [
+          "https://images.unsplash.com/photo-1508964942454-1a56651d54ac"
+        ]
+      }
+    },
+    {
+      "id": "marina-bay-sands",
+      "rank": 2,
+      "name": "Marina Bay Sands & Spectra",
+      "category": "Icon",
+      "blurb": "The triple-tower hotel with the boat on top, its 57th-floor SkyPark observation deck, and the free Spectra fountain-and-laser show on the bay every night.",
+      "detail": "You do not need a room to go up: SkyPark observation deck tickets run about ₹2,000, best bought for an hour before sunset so you get daylight, golden hour and the lit-up city in one visit. The infinity pool itself is guests-only — if that photo matters, one splurge night starts around ₹35,000. Down at water level, Spectra plays free at 8pm and 9pm (extra 10pm show on weekends) in front of the Event Plaza; stand near Louis Vuitton's island maison for the classic angle. The Shoppes' food court underneath is a surprisingly good, air-conditioned dinner stop.",
+      "image": {
+        "query": "marina bay sands skypark view",
+        "alt": "View over Marina Bay from the Sands SkyPark at sunset"
+      }
+    },
+    {
+      "id": "sentosa-island",
+      "rank": 3,
+      "name": "Sentosa Island",
+      "category": "Beaches & Fun",
+      "blurb": "A whole island of beaches, the Skyline Luge, S.E.A. Aquarium, zip lines and cable cars, connected to the city by monorail, boardwalk and cable car.",
+      "detail": "Enter by cable car from Mount Faber for the best arrival (about ₹2,100 round trip), or take the Sentosa Express monorail from VivoCity for pocket change. Structure the day: aquarium or Universal in the morning, Skyline Luge mid-afternoon (buy multi-ride bundles, kids love it), then Siloso or Tanjong Beach for sunset — the beaches are calm, man-made and family-friendly rather than dramatic. Wings of Time, the 7.40pm beachfront night show, is a decent capper with kids. On weekends locals pile in; go on a weekday if your itinerary allows.",
+      "image": {
+        "query": "sentosa cable car singapore",
+        "alt": "Cable cars crossing to Sentosa Island above the harbour"
+      }
+    },
+    {
+      "id": "universal-studios",
+      "rank": 4,
+      "name": "Universal Studios Singapore",
+      "category": "Theme Park",
+      "blurb": "Southeast Asia's only Universal park — Transformers, the Mummy coaster and Minion Land in a compact, very manageable single day.",
+      "detail": "Tickets run about ₹5,200 for adults; buy dated tickets online and reach the gates 15 minutes before opening — the first two hours before tour groups arrive are worth three hours later in the day. Head straight to Battlestar Galactica or Revenge of the Mummy, then work backwards against the crowd. The park is small enough that a single day genuinely covers everything, with Minion Land the newest draw for kids. Weekdays outside June and December school holidays mean 15-minute waits instead of 60. It sits inside Sentosa, so pair it with a beach evening rather than trekking back to town for dinner.",
+      "image": {
+        "query": "universal studios singapore globe",
+        "alt": "The rotating Universal Studios globe at the park entrance"
+      }
+    },
+    {
+      "id": "singapore-zoo-night-safari",
+      "rank": 5,
+      "name": "Singapore Zoo & Night Safari",
+      "category": "Wildlife",
+      "blurb": "The world's best-regarded open-concept zoo by day and its original after-dark safari by night, side by side in the Mandai forest.",
+      "detail": "These are two separate parks and doing both in one day works beautifully: zoo from 2pm (orangutans free-ranging overhead, the Fragile Forest biodome), then walk over for the Night Safari's first tram at 7.15pm. Book the Night Safari's timed entry days ahead — early slots sell out first and the queue difference is real. The tram loop takes 40 minutes; follow it with at least one walking trail, which most visitors skip and which gets you far closer to the animals. Combined tickets save meaningfully. It is about 40 minutes from town — Grab there, and pre-book a return ride since the taxi queue at closing is long.",
+      "image": {
+        "query": "singapore zoo orangutan",
+        "alt": "An orangutan on ropes in Singapore Zoo's open enclosure"
+      }
+    },
+    {
+      "id": "hawker-centres",
+      "rank": 6,
+      "name": "Hawker Centre Food Crawl",
+      "category": "Food",
+      "blurb": "UNESCO-listed food culture at ₹250 a plate — chicken rice at Maxwell, satay at Lau Pa Sat, laksa in Katong, with Michelin stars hiding in the queues.",
+      "detail": "Pick one hawker centre per day and go slightly off-peak (11.30am or 6pm) to dodge office crowds. Maxwell Food Centre is the classic starter — Tian Tian chicken rice's queue moves fast — while Lau Pa Sat turns its side street into an open-air satay grill after 7pm. Vegetarians should head to Little India's centres or look for the green vegetarian stalls present in nearly every hall. Chope tables the local way: a tissue packet on the seat means taken. Budget ₹250–400 a dish, carry small cash, and return your tray — it is the law, and the locals notice.",
+      "image": {
+        "query": "lau pa sat satay street",
+        "alt": "Smoking satay grills on the street outside Lau Pa Sat at night"
+      }
+    },
+    {
+      "id": "merlion-marina-walk",
+      "rank": 7,
+      "name": "Merlion Park & the Bay Walk",
+      "category": "Icon",
+      "blurb": "The half-lion, half-fish statue spouting into the bay, start of a flat 3.5km waterfront loop past the Esplanade, Helix Bridge and the Fullerton.",
+      "detail": "Come at 7am for the photo without fifty other people in it, or after 7pm when the skyline lights and the heat both behave. The full bay loop — Merlion, Esplanade theatres, Helix Bridge, Marina Bay Sands, back over Jubilee Bridge — takes about an hour at stroll pace and is the single best free thing in Singapore. The colonial Fullerton Hotel behind the Merlion was the old General Post Office; its Sunday brunch is a splurge locals still dress up for. Time the walk to end at the Event Plaza for the 8pm Spectra show and you have engineered a perfect first evening.",
+      "image": {
+        "query": "merlion statue marina bay",
+        "alt": "The Merlion statue spouting water with Marina Bay Sands behind"
+      }
+    },
+    {
+      "id": "little-india-kampong-glam",
+      "rank": 8,
+      "name": "Little India & Kampong Glam",
+      "category": "Culture",
+      "blurb": "Two heritage quarters twenty minutes apart on foot: Serangoon Road's temples, garlands and banana-leaf meals, then the Sultan Mosque, Arab Street and Haji Lane's murals.",
+      "detail": "Do Little India in the morning while the flower stalls are fresh: Sri Veeramakaliamman Temple, a dosa-and-filter-coffee breakfast, and Tekka Centre's wet market for a scene straight out of Chennai. Mustafa Centre, the famous 24-hour department store, is best raided late at night for chocolates and electronics. Walk or hop one MRT stop to Kampong Glam for the golden-domed Sultan Mosque (dress modestly; free entry outside prayer times), Arab Street's fabric and perfume shops, and Haji Lane's murals and cafés — photogenic by day, bar-hopping territory by night. Deepavali and Ramadan light-ups transform both districts.",
+      "image": {
+        "query": "haji lane murals singapore",
+        "alt": "Mural-covered shophouses and cafés along Haji Lane"
+      }
+    },
+    {
+      "id": "jewel-changi",
+      "rank": 9,
+      "name": "Jewel Changi & the Rain Vortex",
+      "category": "Icon",
+      "blurb": "A 40-metre indoor waterfall pouring through a glass dome ringed by forest, shops and food — inside the airport, before immigration, open to all.",
+      "detail": "Treat Jewel as an attraction, not a layover accessory: it sits landside at Changi, linked to Terminals 1–3, so you can visit on any day by MRT even without a flight. The Rain Vortex runs from 11am with a light-and-music show hourly from 8pm to 10pm — the 9pm show with the forest valley lit up is the keeper. Canopy Park up top (mazes, bouncing nets, the sky bridge with its glass floor) is ticketed and pure fun with kids. On departure day, arrive 4 hours early, drop bags at early check-in, and give Jewel the difference. A&W and Shake Shack queues are shortest before noon.",
+      "image": {
+        "query": "jewel changi rain vortex",
+        "alt": "The Rain Vortex waterfall inside Jewel Changi's glass dome"
+      }
+    },
+    {
+      "id": "pulau-ubin",
+      "rank": 10,
+      "name": "Pulau Ubin",
+      "category": "Nature",
+      "blurb": "A ten-minute bumboat to 1960s Singapore: kampong houses, dirt cycling trails and the Chek Jawa wetlands' boardwalk over mangroves and coral shallows.",
+      "detail": "This is the insider's half-day. Take the MRT and bus to Changi Point Ferry Terminal, pay about ₹250 for the bumboat (it leaves when twelve people show up), and rent a bicycle by the jetty for a few hundred rupees. Cycle 40 minutes east to Chek Jawa, where a boardwalk loops over seagrass flats and mangroves — go at low tide to see the shore come alive, and climb the Jejawi viewing tower for the canopy. There are no real restaurants beyond jetty-side seafood shacks, so carry water. Go on a weekday morning, be back by mid-afternoon, and you will have seen a Singapore most visitors never suspect exists.",
+      "image": {
+        "query": "pulau ubin chek jawa boardwalk",
+        "alt": "Wooden boardwalk over mangroves at Chek Jawa, Pulau Ubin"
+      }
+    }
+  ],
+  "activities": [
+    {
+      "id": "night-safari-tram",
+      "name": "Night Safari with Tram & Trails",
+      "category": "Wildlife",
+      "blurb": "The world's first nocturnal zoo: a 40-minute open tram through moonlit habitats, walking trails for close-ups, and the Creatures of the Night show. Book early slots online.",
+      "image": {
+        "query": "night safari singapore tram",
+        "alt": "Open-sided tram passing animal habitats at Singapore Night Safari"
+      }
+    },
+    {
+      "id": "hawker-food-tour",
+      "name": "Guided Hawker Food Tour",
+      "category": "Food",
+      "blurb": "A local guide steers you through 8–10 tastings across Chinatown or Katong — chicken rice, laksa, satay, kaya toast — with the stories and stall picks you would never find alone.",
+      "image": {
+        "query": "maxwell food centre stalls",
+        "alt": "Busy hawker stalls and diners at Maxwell Food Centre"
+      }
+    },
+    {
+      "id": "skyline-luge-cable-car",
+      "name": "Skyline Luge & Cable Car Combo",
+      "category": "Adventure",
+      "blurb": "Ride the cable car over the harbour to Sentosa, then gravity-race wheeled luges down jungle-lined tracks. The one activity every age group in the family rates the same.",
+      "image": {
+        "query": "skyline luge sentosa track",
+        "alt": "Riders steering luge carts down the Sentosa Skyline Luge track"
+      }
+    },
+    {
+      "id": "river-bumboat-cruise",
+      "name": "Singapore River Bumboat Cruise",
+      "category": "Water",
+      "blurb": "Forty minutes on a restored bumboat from Clarke Quay past Boat Quay's shophouses to the Merlion and back. Take the last evening sailing for the skyline fully lit.",
+      "image": {
+        "query": "singapore river bumboat clarke quay",
+        "alt": "A traditional bumboat cruising past Clarke Quay at night"
+      }
+    },
+    {
+      "id": "peranakan-heritage-walk",
+      "name": "Peranakan Heritage Walk in Katong",
+      "category": "Culture",
+      "blurb": "Walk Joo Chiat's pastel terraces with a guide who unpacks Peranakan tilework, beaded slippers and nonya cuisine, ending with a laksa tasting at a legendary stall.",
+      "image": {
+        "query": "peranakan tiles joo chiat",
+        "alt": "Ornate tiled facade of a Peranakan shophouse in Joo Chiat"
+      }
+    },
+    {
+      "id": "rooftop-bar-evening",
+      "name": "Rooftop Bars over Marina Bay",
+      "category": "Nightlife",
+      "blurb": "Sunset drinks at Lantern, Smoke & Mirrors or CÉ LA VI, timed so the 8pm Spectra show plays out below your table. Smart-casual dress; book windowside spots ahead.",
+      "image": {
+        "query": "singapore skyline rooftop bar view",
+        "alt": "Cocktails on a rooftop terrace overlooking the Marina Bay skyline"
+      }
+    }
+  ],
+  "trips": [
+    {
+      "id": "first-timer-classic",
+      "title": "The First-Timer Classic",
+      "nights": 4,
+      "route": [
+        {
+          "place": "Marina Bay / City",
+          "nights": 4
+        }
+      ],
+      "summary": "One central base, zero repacking. Day one is the bay loop, SkyPark and Spectra; day two Gardens by the Bay and Chinatown; day three a full Sentosa outing; day four Little India, Kampong Glam and a Jewel send-off before the night flight home.",
+      "priceFrom": "₹68,000",
+      "image": {
+        "query": "singapore skyline evening panorama",
+        "alt": "Panoramic evening view across Marina Bay and the financial district"
+      }
+    },
+    {
+      "id": "family-theme-park",
+      "title": "Family Fun, Split-Stay",
+      "nights": 5,
+      "route": [
+        {
+          "place": "City centre",
+          "nights": 3
+        },
+        {
+          "place": "Sentosa",
+          "nights": 2
+        }
+      ],
+      "summary": "Three city nights for Gardens by the Bay, the zoo-and-Night-Safari double and a duck-tour splash, then move to a Sentosa resort so Universal Studios, the aquarium, luge runs and beach evenings happen with no commuting and afternoon pool breaks built in.",
+      "priceFrom": "₹1,05,000",
+      "image": {
+        "query": "universal studios singapore family",
+        "alt": "Families at the colourful entrance plaza of Universal Studios Singapore"
+      }
+    },
+    {
+      "id": "couples-food-luxe",
+      "title": "Couples' Food & Skyline Luxe",
+      "nights": 4,
+      "route": [
+        {
+          "place": "Chinatown boutique",
+          "nights": 2
+        },
+        {
+          "place": "Marina Bay Sands",
+          "nights": 2
+        }
+      ],
+      "summary": "Two nights in a shophouse boutique for hawker crawls, Keong Saik bars and a Peranakan day in Katong, then two nights at Marina Bay Sands for the infinity pool, SkyPark sunsets, a river cruise and one properly dressed-up rooftop dinner.",
+      "priceFrom": "₹1,60,000",
+      "image": {
+        "query": "marina bay sands infinity pool",
+        "alt": "The Marina Bay Sands rooftop infinity pool overlooking the skyline"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do Indians need a visa for Singapore?",
+      "a": "Yes — an e-visa arranged before you fly, applied through authorised agents (individuals cannot apply directly). It costs about ₹3,100 all-in, takes 3–5 working days, and is typically issued as a multiple-entry visa valid up to two years with 30-day stays. There is no visa on arrival for Indian passports, so sort it at least a week before travel."
+    },
+    {
+      "q": "Is Singapore very expensive for Indian travellers?",
+      "a": "Hotels and alcohol are the costly parts; almost everything else is manageable. Hawker meals run ₹250–400, the MRT crosses the city for under ₹150, and headline sights like the Supertree show, Spectra and the bay walk are free. Plan ₹13,000–20,000 per person per day for a comfortable mid-range trip, less if you eat hawker and pick two paid attractions instead of five."
+    },
+    {
+      "q": "Will I find vegetarian and Indian food easily?",
+      "a": "Easier than almost anywhere outside India. Little India serves dosa, thali and chaat at Indian prices, most hawker centres have dedicated vegetarian stalls, and menus mark vegetarian options clearly. Jain and vegan travellers manage well too — Ananda Bhavan and Komala Vilas are long-standing safe bets."
+    },
+    {
+      "q": "When is the best time to visit?",
+      "a": "February to April is the driest, most comfortable window. Singapore works year-round though — rain comes in short bursts, and everything from malls to museums is air-conditioned. Avoid the F1 week (late Sep–early Oct) and Christmas–New Year unless you want those events, as hotel rates roughly double."
+    },
+    {
+      "q": "How do I get around the city?",
+      "a": "The MRT covers virtually every sight — just tap an Indian Visa or Mastercard at the gates, no separate card needed. Grab handles late nights and the zoo run. Skip car rentals entirely; between trains, buses and the occasional taxi you will never wait more than a few minutes."
+    },
+    {
+      "q": "Is 4 nights enough, or should I combine Singapore with another country?",
+      "a": "Four to five nights covers Singapore properly. If you have 8–10 days, it pairs naturally with Malaysia (Kuala Lumpur is under an hour's flight, or a scenic coach ride) or Bali, and Changi's connections make multi-stop Southeast Asia trips simple. Just remember your Singapore e-visa should be multiple-entry if you plan to exit and re-enter."
+    }
+  ]
+}

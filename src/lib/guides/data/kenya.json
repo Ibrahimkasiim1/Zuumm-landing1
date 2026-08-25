@@ -1,0 +1,477 @@
+{
+  "slug": "kenya",
+  "name": "Kenya",
+  "displayName": "Kenya",
+  "country": "Kenya",
+  "region": "africa",
+  "flag": "🇰🇪",
+  "tagline": "Lion mornings, Kilimanjaro views, Swahili coast evenings.",
+  "overview": "Kenya is where the word safari comes from, and no amount of Instagram exposure blunts the first time a lioness walks past your open vehicle in the Masai Mara. The country's genius is range: savannah thick with big cats in the south-west, elephants filing beneath Kilimanjaro at Amboseli, flamingo-rimmed Rift Valley lakes an easy drive from Nairobi, and then a complete change of register on the coast, where Diani's white sand and Lamu's carved-door alleys run on Swahili time. For Indian travellers the logistics are kinder than the destination's reputation suggests — a non-stop flight from Mumbai lands in under seven hours, the eTA is a simple online form, and Nairobi's long Indian history means dosas and Gujarati thalis sit comfortably next to nyama choma. Time it for the July–October migration and you will watch one of the last great wildlife spectacles on earth.",
+  "heroAlt": "Lioness walking through golden grassland in the Masai Mara, Kenya",
+  "heroImage": {
+    "query": "lion masai mara grassland kenya",
+    "alt": "A lioness moving through tall golden grass on the Masai Mara plains",
+    "candidates": [
+      "https://images.unsplash.com/photo-1547471080-7cc2caa01a7e"
+    ]
+  },
+  "quickFacts": {
+    "capital": "Nairobi",
+    "currency": {
+      "code": "KES",
+      "name": "Kenyan shilling",
+      "inr": "₹1 ≈ KSh 1.35"
+    },
+    "languages": [
+      "Swahili",
+      "English",
+      "Hindi/Gujarati in Nairobi's Indian quarters"
+    ],
+    "timezone": "GMT+3 · 2½ hrs behind IST",
+    "flightFromIndia": "≈6½ hrs non-stop Mumbai–Nairobi on Kenya Airways; one-stop from Delhi via Gulf hubs",
+    "plug": "Type G · 240V — same as UK, Indian plugs need an adapter",
+    "sim": "Safaricom SIM or eSIM at the airport, about ₹800 for 10GB plus M-Pesa access"
+  },
+  "visa": {
+    "type": "evisa",
+    "headline": "Online eTA · up to 90 days",
+    "body": "Indian passport holders apply for Kenya's electronic Travel Authorisation online before flying — there is no visa on arrival. Upload a passport photo, ticket and hotel details at etakenya.go.ke; approval typically lands within three working days, so apply at least a week out. Passport needs six months' validity and a blank page.",
+    "cost": "About US$34 (≈₹3,000)",
+    "processing": "Typically 3 working days, longer in peak season"
+  },
+  "weather": {
+    "summary": "Sitting on the equator at altitude, most of safari Kenya is warm by day and genuinely cool at night — Nairobi and the Mara need a fleece after dark. Rain comes in two windows: long rains March to May, short rains around November. The coast stays hotter and more humid year-round.",
+    "bestTime": "July – October for the migration; January – February for dry, quieter parks",
+    "seasons": [
+      {
+        "label": "Migration season",
+        "months": "Jul – Oct",
+        "temp": "12–26°C",
+        "notes": "Dry, animals crowd the rivers, and the wildebeest crossings peak — the classic window, priced accordingly.",
+        "tone": "high"
+      },
+      {
+        "label": "Short dry season",
+        "months": "Jan – Feb",
+        "temp": "14–29°C",
+        "notes": "Sunny parks, newborn animals, excellent birding and softer lodge rates than migration season.",
+        "tone": "shoulder"
+      },
+      {
+        "label": "Long rains",
+        "months": "Mar – May",
+        "temp": "15–27°C",
+        "notes": "Heavy afternoon downpours, muddy tracks and some camps closed — but the lowest prices and greenest scenery.",
+        "tone": "low"
+      }
+    ]
+  },
+  "booking": {
+    "high": "July – October, plus Christmas – New Year",
+    "low": "March – May",
+    "note": "Migration-season camps in the Mara sell out six to nine months ahead. January–February gets you dry weather and big cats at 20–30% less; June is the quiet secret just before the herds arrive."
+  },
+  "idealDuration": {
+    "nights": "7 – 9",
+    "note": "Seven nights covers Nairobi plus two safari parks without back-to-back long drives. Add two or three more to finish on the coast at Diani or Lamu."
+  },
+  "budget": {
+    "perDay": [
+      {
+        "tier": "Smart",
+        "inr": "₹9,000 – 14,000"
+      },
+      {
+        "tier": "Comfort",
+        "inr": "₹18,000 – 30,000"
+      },
+      {
+        "tier": "Luxe",
+        "inr": "₹50,000+"
+      }
+    ],
+    "note": "Safari days cost more than city or beach days because park fees, vehicle and guide are bundled in — the Mara's entry fee alone is about US$100–200 a day depending on season. Group departures shrink the per-head vehicle cost sharply."
+  },
+  "safety": {
+    "score": 3,
+    "headline": "Safe on safari and the tourist coast; use city sense in Nairobi",
+    "tips": [
+      "In Nairobi use Uber or Bolt rather than hailing cabs, and avoid walking downtown after dark.",
+      "Keep phones and cameras off open car windows in city traffic — snatch theft is the main petty crime.",
+      "Inside parks, follow your guide's instructions absolutely; never leave the vehicle except at marked points.",
+      "Take malaria prophylaxis for the coast and low-lying parks, and carry a yellow fever certificate — India asks for it on your return.",
+      "Use M-Pesa or cards where possible and split cash between bags; lodge safes are reliable.",
+      "Book safaris with licensed operators — rock-bottom online deals often cut corners on vehicles and park fees."
+    ]
+  },
+  "goodToKnow": [
+    "Tip roughly US$10–15 per person per day for your safari guide, handed over on the last day.",
+    "M-Pesa mobile money runs the country; a Safaricom SIM lets you pay for everything from curios to matatus.",
+    "US dollars printed before 2009 are widely refused — carry crisp recent notes for park fees and tips.",
+    "Nairobi has one of Africa's largest Indian communities, so vegetarian and Jain food is genuinely easy to find.",
+    "The SGR train runs Nairobi to Mombasa in about 6 hours — book the morning departure a few days ahead.",
+    "Domestic hops to the Mara and Lamu use small aircraft with 15kg soft-bag luggage limits; pack duffels, not hard suitcases.",
+    "Game drives start around 6am — the cold morning air at altitude surprises everyone, so bring a warm layer.",
+    "Plastic carrier bags are banned in Kenya with real fines; keep them out of your luggage entirely."
+  ],
+  "cities": [
+    {
+      "id": "nairobi",
+      "name": "Nairobi",
+      "blurb": "The only capital with a national park on its doorstep — lions with a skyline backdrop, baby elephants at Sheldrick, and a deep Indian food scene from Diamond Plaza to Westlands.",
+      "image": {
+        "query": "nairobi skyline national park",
+        "alt": "Giraffe in Nairobi National Park with the city skyline behind"
+      }
+    },
+    {
+      "id": "masai-mara",
+      "name": "Masai Mara",
+      "blurb": "Kenya's headline act: rolling savannah with the country's densest big-cat population, tented camps from honest to outrageous, and the wildebeest migration crossing its rivers July to October.",
+      "image": {
+        "query": "masai mara savannah wildebeest",
+        "alt": "Wildebeest herds scattered across the open Masai Mara grassland"
+      }
+    },
+    {
+      "id": "amboseli",
+      "name": "Amboseli",
+      "blurb": "Big-tusked elephant families crossing dusty flats with Kilimanjaro filling the horizon — the most photogenic park in Africa when the peak clears at dawn and dusk.",
+      "image": {
+        "query": "amboseli elephants kilimanjaro",
+        "alt": "Elephants walking across Amboseli's plains beneath Mount Kilimanjaro",
+        "candidates": [
+          "https://images.unsplash.com/photo-1489392191049-fc10c97e64b6"
+        ]
+      }
+    },
+    {
+      "id": "naivasha-nakuru",
+      "name": "Lake Naivasha & Nakuru",
+      "blurb": "The Rift Valley lakes circuit, three hours from Nairobi: boat safaris past hippos, rhino sightings almost guaranteed at Nakuru, and cycling among zebra in Hell's Gate.",
+      "image": {
+        "query": "lake nakuru flamingos rhino",
+        "alt": "Flamingos massed along the shoreline of Lake Nakuru"
+      }
+    },
+    {
+      "id": "diani-beach",
+      "name": "Diani Beach",
+      "blurb": "Seventeen kilometres of powder-white sand south of Mombasa, with reef-protected swimming, colobus monkeys in the beachside forest, and resorts that undercut the Maldives by half.",
+      "image": {
+        "query": "diani beach white sand palm",
+        "alt": "White sand and turquoise shallows lined with palms at Diani Beach"
+      }
+    },
+    {
+      "id": "lamu",
+      "name": "Lamu",
+      "blurb": "A carless Swahili island town of carved doors, donkeys and dhows, trading since the 14th century. Fly in, slow down, and let rooftop breakfasts and sunset sails set the pace.",
+      "image": {
+        "query": "lamu old town dhow waterfront",
+        "alt": "Traditional dhow sailing past Lamu's old stone waterfront"
+      }
+    }
+  ],
+  "highlights": [
+    {
+      "id": "masai-mara-game-drives",
+      "rank": 1,
+      "name": "Game drives in the Masai Mara",
+      "category": "Wildlife",
+      "blurb": "The most reliable big-cat sightings in Africa, on open savannah where lion prides, cheetah families and leopards go about their day metres from your vehicle.",
+      "detail": "Do it as three nights minimum — one is a tease, three lets your guide work the territory properly. Days run to a rhythm: out by 6.30am when cats are active, back for a long lunch, out again at 4pm for golden light. Staying inside the reserve or in a private conservancy like Naboisho costs more but saves an hour of gate commuting each way and allows off-road driving and night drives that the main reserve forbids. Fly from Nairobi's Wilson Airport in 45 minutes rather than driving five-plus hours on rough roads; the fare is usually worth every rupee.",
+      "image": {
+        "query": "masai mara lion safari vehicle",
+        "alt": "Safari vehicle watching a lion pride on the Mara plains"
+      }
+    },
+    {
+      "id": "great-migration-crossing",
+      "rank": 2,
+      "name": "Great Migration river crossings",
+      "category": "Wildlife",
+      "blurb": "Between July and October, hundreds of thousands of wildebeest plunge across the crocodile-patrolled Mara River — chaotic, loud, and unlike anything else in nature.",
+      "detail": "Crossings are unpredictable, which is exactly the drama: herds mass on the bank for hours, spook, regroup, then suddenly pour in. Give yourself at least three full days in the Mara during the season and tell your guide crossings are the priority — they track herd movements on radio all day. August and September are statistically the strongest weeks. Bring double the camera storage you think you need, and patience; some days you wait four hours at the river. Camps near the Mara and Talek rivers position you best, and this is the one experience worth booking six months out.",
+      "image": {
+        "query": "wildebeest crossing mara river",
+        "alt": "Wildebeest herd plunging down the bank into the Mara River"
+      }
+    },
+    {
+      "id": "amboseli-elephants",
+      "rank": 3,
+      "name": "Elephants of Amboseli",
+      "category": "Wildlife",
+      "blurb": "Africa's most studied elephant herds cross dusty lake flats with Kilimanjaro looming behind — the continent's single most famous photographic backdrop.",
+      "detail": "The mountain hides behind cloud most of the day, so the game is timing: it usually clears at dawn and again around sunset, which is when the classic elephants-and-Kili frame happens. Base two nights at a lodge inside or beside the park and do the 6am drive both mornings. Amboseli's elephants include some of the last great tuskers alive, and the swamps at the park's centre guarantee sightings even in dry months. It pairs naturally with the Mara on a week-long loop — most operators run the two as a circuit with a Nairobi night between, or connect via a short flight.",
+      "image": {
+        "query": "amboseli elephant kilimanjaro sunrise",
+        "alt": "Elephant herd on Amboseli's flats with snow-capped Kilimanjaro behind",
+        "candidates": [
+          "https://images.unsplash.com/photo-1489392191049-fc10c97e64b6"
+        ]
+      }
+    },
+    {
+      "id": "balloon-safari-mara",
+      "rank": 4,
+      "name": "Hot-air balloon over the Mara",
+      "category": "Adventure",
+      "blurb": "Lift off in the dark, drift over waking herds at sunrise, and land to a champagne breakfast on the open plain — safari's great splurge.",
+      "detail": "Flights leave around 6am and last about an hour, floating low enough to watch hyenas trot home and hippos return to the river. At roughly US$450–550 (₹40,000–48,000) per person it is the priciest hour of most Kenya trips, and worth it during migration season when the herds spread beneath you for miles. Book through your camp two or three days ahead — morning slots cap out in August. Wear layers; pre-dawn on the Mara is cold, the burner is hot, and the bush breakfast afterwards, tables set in the middle of nowhere, is half the memory.",
+      "image": {
+        "query": "hot air balloon masai mara sunrise",
+        "alt": "Hot-air balloon drifting over the Mara plains at sunrise"
+      }
+    },
+    {
+      "id": "sheldrick-giraffe-nairobi",
+      "rank": 5,
+      "name": "Sheldrick elephants & Giraffe Centre",
+      "category": "Wildlife",
+      "blurb": "Nairobi's back-to-back animal encounters: orphaned baby elephants at their mud-bath hour, then hand-feeding endangered Rothschild's giraffes from a raised platform.",
+      "detail": "The Sheldrick Wildlife Trust opens to visitors for a single public hour, 11am to noon, when keepers bottle-feed the orphans and the calves wallow spectacularly — book online well ahead as daily numbers are capped. The Giraffe Centre ten minutes away runs all day, so do Sheldrick first and giraffes after. Both sit in the Karen suburb, which makes a tidy half-day with lunch at one of the garden restaurants nearby; add the Karen Blixen Museum if the name Out of Africa means anything to you. It is the perfect first-morning plan while you shake off the flight.",
+      "image": {
+        "query": "sheldrick baby elephant keeper nairobi",
+        "alt": "Keeper bottle-feeding an orphaned elephant calf at the Sheldrick Trust"
+      }
+    },
+    {
+      "id": "diani-beach-days",
+      "rank": 6,
+      "name": "Beach days at Diani",
+      "category": "Beach",
+      "blurb": "The Indian Ocean's answer to a decompression chamber after safari: reef-calmed water, blinding white sand and beach bars where nobody checks the time.",
+      "detail": "Diani works because the reef keeps the water swimmable at most tides and the sand genuinely squeaks. Fly from the Mara or Nairobi to Ukunda airstrip, five minutes from most hotels, rather than braving the Mombasa road. Three nights is the sweet spot: one lazy, one for a snorkelling or kitesurfing morning, one for the Wasini dhow day-trip south. Skip the seaweed-heavy months of May–June if pristine sand matters to you; August–October and January–February are the coast at its best. Colobus monkeys move through the treetops above the pool bars — keep your chips guarded.",
+      "image": {
+        "query": "diani beach kenya turquoise water",
+        "alt": "Turquoise shallows and white sand stretching along Diani Beach"
+      }
+    },
+    {
+      "id": "lake-nakuru",
+      "rank": 7,
+      "name": "Lake Nakuru National Park",
+      "category": "Wildlife",
+      "blurb": "A compact Rift Valley park where white rhino sightings are close to guaranteed, flamingos fringe the soda lake, and baboon-topped cliffs give postcard views.",
+      "detail": "Nakuru is the easiest serious park to bolt onto a short trip — about three hours' drive from Nairobi on good tarmac, and small enough that a single afternoon plus a morning drive covers it well. Rhinos graze the lakeshore meadows in the open, which makes this the most dependable place in Kenya to see them; leopards favour the yellow-barked acacia woodland if your guide is sharp. Flamingo numbers swing with the lake's water levels, so treat the pink shoreline as a bonus rather than the promise. Combine with Lake Naivasha and Hell's Gate for a tidy two-night Rift Valley loop.",
+      "image": {
+        "query": "lake nakuru white rhino shoreline",
+        "alt": "White rhinos grazing near the flamingo-lined shore of Lake Nakuru"
+      }
+    },
+    {
+      "id": "hells-gate-cycling",
+      "rank": 8,
+      "name": "Cycling through Hell's Gate",
+      "category": "Adventure",
+      "blurb": "One of the few parks you can cross on a bicycle, pedalling past zebra and giraffe between red cliffs that inspired The Lion King's gorge scenes.",
+      "detail": "Rent a mountain bike at the Elsa Gate for a few hundred shillings and ride the 8km valley floor with plains game grazing on either side — there are no big cats resident, which is why it is allowed. Go early, by 8am, before the equatorial sun turns the open track into a grill, and add the walk through the lower gorge's sculpted rock walls with a local guide. It pairs with an afternoon boat ride on Lake Naivasha, drifting close to hippo pods and fish eagles. As a break from vehicle-bound safari days, nothing in Kenya beats it.",
+      "image": {
+        "query": "hells gate national park cycling cliffs",
+        "alt": "Cyclists riding the dirt track between Hell's Gate's red cliffs"
+      }
+    },
+    {
+      "id": "ol-pejeta",
+      "rank": 9,
+      "name": "Ol Pejeta Conservancy",
+      "category": "Wildlife",
+      "blurb": "The Laikipia conservancy protecting the world's last two northern white rhinos, plus a chimpanzee sanctuary and some of Kenya's best-run community tourism.",
+      "detail": "Ol Pejeta sits on the equator below Mount Kenya, about four hours' drive or a short flight from Nairobi, and rewards travellers who want their safari with substance. You can visit Najin and Fatu — the final two northern white rhinos, under 24-hour guard — meet rescued chimpanzees at the Sweetwaters sanctuary, and take night drives and lion-tracking outings the national parks cannot offer. Two nights is right. It slots neatly between Nairobi and Samburu on a northern circuit, and because it is a working conservancy, your fees visibly fund rangers and neighbouring communities.",
+      "image": {
+        "query": "ol pejeta rhino mount kenya",
+        "alt": "Rhino grazing on Ol Pejeta's plains with Mount Kenya in the distance"
+      }
+    },
+    {
+      "id": "lamu-old-town",
+      "rank": 10,
+      "name": "Lamu Old Town",
+      "category": "Culture",
+      "blurb": "A UNESCO-listed Swahili island town with no cars, 700 years of Indian Ocean trade in its bones, and dhow sails still catching the evening wind.",
+      "detail": "Lamu is the insider's finish to a Kenya trip: a 90-minute flight from Nairobi to an island where donkeys do the haulage and life runs on the tide. Stay in a restored merchant house in the old town or the quieter village of Shela, twenty minutes' walk along the shore. Days need no plan — wander the alleys, watch dhow builders at work, take a sunset sail with grilled fish on board. Gujarati and Omani traders shaped the architecture, and the carved doors will look oddly familiar to anyone who knows old Indian port towns. Two or three nights recalibrates you completely.",
+      "image": {
+        "query": "lamu shela beach dhow sunset",
+        "alt": "Dhow with lateen sail off Shela beach at sunset, Lamu"
+      }
+    }
+  ],
+  "activities": [
+    {
+      "id": "big-five-safari",
+      "name": "Big Five game drives",
+      "category": "Wildlife",
+      "blurb": "Twice-daily drives in open 4x4s with sharp-eyed guides — lion, leopard, elephant, buffalo and rhino are all realistic across a well-planned week.",
+      "image": {
+        "query": "safari 4x4 game drive kenya",
+        "alt": "Open safari vehicle on a game drive across Kenyan savannah",
+        "candidates": [
+          "https://images.unsplash.com/photo-1516426122078-c23e76319801"
+        ]
+      }
+    },
+    {
+      "id": "balloon-flight",
+      "name": "Sunrise balloon safari",
+      "category": "Adventure",
+      "blurb": "An hour drifting silently over the Mara's herds at first light, landing to a full champagne breakfast laid out on the plain.",
+      "image": {
+        "query": "balloon safari mara breakfast",
+        "alt": "Balloon shadow passing over herds on the Mara at dawn"
+      }
+    },
+    {
+      "id": "maasai-village",
+      "name": "Maasai village visit",
+      "category": "Culture",
+      "blurb": "Spend a morning in a working boma near the Mara — jumping dances, beadwork, cattle culture — arranged through your camp so money reaches the community.",
+      "image": {
+        "query": "maasai warriors traditional jumping dance",
+        "alt": "Maasai men in red shukas performing the traditional jumping dance"
+      }
+    },
+    {
+      "id": "wasini-dhow-snorkel",
+      "name": "Dhow cruise & snorkelling at Wasini",
+      "category": "Water",
+      "blurb": "Sail a wooden dhow through Kisite-Mpunguti Marine Park south of Diani, snorkelling coral gardens with dolphins often riding alongside, then a Swahili seafood lunch.",
+      "image": {
+        "query": "kisite mpunguti dhow snorkeling",
+        "alt": "Traditional dhow anchored over coral reef in Kisite marine park"
+      }
+    },
+    {
+      "id": "nairobi-food-crawl",
+      "name": "Nairobi food crawl",
+      "category": "Food",
+      "blurb": "From nyama choma grills to Diamond Plaza's chaat counters — Nairobi's Indian community has been cooking here for a century, so vegetarians eat remarkably well.",
+      "image": {
+        "query": "nyama choma grill nairobi",
+        "alt": "Nyama choma roasting over open coals at a Nairobi grill house"
+      }
+    },
+    {
+      "id": "naivasha-boat-safari",
+      "name": "Lake Naivasha boat safari",
+      "category": "Adventure",
+      "blurb": "Glide past yawning hippo pods and fish eagles diving for bait fish, with a walk among giraffe on Crescent Island where no predators roam.",
+      "image": {
+        "query": "lake naivasha hippo boat",
+        "alt": "Hippos surfacing near a small boat on Lake Naivasha"
+      }
+    }
+  ],
+  "trips": [
+    {
+      "id": "classic-safari-week",
+      "title": "Classic Safari Week",
+      "nights": 6,
+      "route": [
+        {
+          "place": "Nairobi",
+          "nights": 1
+        },
+        {
+          "place": "Lake Naivasha & Nakuru",
+          "nights": 2
+        },
+        {
+          "place": "Masai Mara",
+          "nights": 3
+        }
+      ],
+      "summary": "The efficient first-timer's loop: land in Nairobi for the elephant orphans and giraffes, run the Rift Valley lakes with a Hell's Gate cycle, then finish with three full days of big cats in the Mara. Road transfers throughout keep costs honest; fly back from the Mara if the budget stretches.",
+      "priceFrom": "₹1,45,000",
+      "image": {
+        "query": "masai mara safari sunset acacia",
+        "alt": "Acacia silhouetted against a Mara sunset with grazing herds"
+      }
+    },
+    {
+      "id": "migration-and-beach",
+      "title": "Migration & Beach",
+      "nights": 9,
+      "route": [
+        {
+          "place": "Nairobi",
+          "nights": 1
+        },
+        {
+          "place": "Masai Mara",
+          "nights": 3
+        },
+        {
+          "place": "Amboseli",
+          "nights": 2
+        },
+        {
+          "place": "Diani Beach",
+          "nights": 3
+        }
+      ],
+      "summary": "Kenya's greatest hits in one arc: river crossings in the Mara at migration peak, elephants beneath Kilimanjaro at Amboseli, then a flight to the coast to trade dust for white sand. Nine nights keeps the pace humane, and ending at Diani means you fly home rested rather than rattled.",
+      "priceFrom": "₹2,35,000",
+      "image": {
+        "query": "diani beach palm trees aerial",
+        "alt": "Aerial view of Diani's white beach curving between palms and reef"
+      }
+    },
+    {
+      "id": "bush-to-swahili-coast",
+      "title": "Bush to Swahili Coast",
+      "nights": 8,
+      "route": [
+        {
+          "place": "Nairobi",
+          "nights": 1
+        },
+        {
+          "place": "Ol Pejeta",
+          "nights": 2
+        },
+        {
+          "place": "Masai Mara",
+          "nights": 3
+        },
+        {
+          "place": "Lamu",
+          "nights": 2
+        }
+      ],
+      "summary": "For second-timers and honeymooners who want depth over box-ticking: rhino conservation and night drives at Ol Pejeta, prime cat country in the Mara, then two slow days of dhows and rooftop dinners in Lamu's old stone town. Internal flights link every leg, so no day is lost to the road.",
+      "priceFrom": "₹2,75,000",
+      "image": {
+        "query": "lamu old town rooftop dhow",
+        "alt": "View over Lamu old town rooftops to dhows on the channel"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do Indians need a visa for Kenya?",
+      "a": "Yes — an online eTA, applied for at etakenya.go.ke before you fly. It costs about US$34 (≈₹3,000), usually clears within three working days, and covers stays of up to 90 days. There is no visa on arrival, so do not board without approval in hand."
+    },
+    {
+      "q": "Is vegetarian food easy to find in Kenya?",
+      "a": "Easier than almost anywhere in Africa. Nairobi's century-old Indian community means proper Gujarati thalis, South Indian tiffin and Jain-friendly kitchens, and most safari lodges handle vegetarian requests routinely — just flag it at booking. On the coast, Swahili cooking leans on coconut, beans and vegetables alongside the seafood."
+    },
+    {
+      "q": "When should I go for the Great Migration?",
+      "a": "The herds are typically in the Masai Mara from July to October, with river crossings most frequent in August and September. Book Mara camps six months or more ahead for those weeks. If dates are flexible, January–February offers dry weather, newborn animals and noticeably lower prices."
+    },
+    {
+      "q": "How much does a Kenya trip cost from India?",
+      "a": "A well-run 6-night safari starts around ₹1.4–1.5 lakh per person all-in with flights, rising to ₹2.5 lakh-plus once you add the coast or migration-season camps. Park fees and safari vehicles are the fixed costs; sharing a vehicle in a small group is the single biggest saving."
+    },
+    {
+      "q": "What vaccinations do I need?",
+      "a": "Carry a yellow fever certificate — Indian immigration asks for it when you return from Kenya — and take malaria prophylaxis for the coast and lower parks after a chat with your doctor. Routine typhoid and hepatitis cover is sensible. Nairobi and the highland parks sit above most mosquito activity."
+    },
+    {
+      "q": "How do I get around between parks?",
+      "a": "Most itineraries use a dedicated safari vehicle and driver-guide for the southern circuit, with domestic flights from Nairobi's Wilson Airport for longer hops — 45 minutes to the Mara versus five-plus hours by road. The SGR train links Nairobi and Mombasa comfortably in about six hours. Self-driving is possible but rarely worth it for a first trip."
+    }
+  ]
+}

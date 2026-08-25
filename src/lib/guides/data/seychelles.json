@@ -1,0 +1,453 @@
+{
+  "slug": "seychelles",
+  "name": "Seychelles",
+  "displayName": "The Seychelles",
+  "country": "Seychelles",
+  "region": "africa",
+  "flag": "🇸🇨",
+  "tagline": "Granite boulders, gin-clear coves, Creole ease.",
+  "overview": "The Seychelles is what happens when you scatter 115 islands across an empty stretch of the Indian Ocean and leave most of them alone. The three you will actually stay on — Mahé, Praslin and La Digue — sit within a short ferry ride of each other, yet each has its own pace: Mahé has the mountains, the markets and the airport; Praslin guards a UNESCO palm forest older than most continents' myths; La Digue barely bothers with cars at all. The beaches are the headline, and they earn it — pink-tinged granite boulders framing sand so fine it squeaks — but the surprise is how easy the country is for Indians: no visa, a cheap online travel authorisation, and a five-hour non-stop from Mumbai. It is not a budget destination and does not pretend to be; go for fewer nights, done properly, and split them across at least two islands.",
+  "heroAlt": "Granite boulders and clear turquoise water at Anse Source d'Argent, La Digue",
+  "heroImage": {
+    "query": "anse source d'argent la digue boulders",
+    "alt": "Pink granite boulders framing shallow turquoise water at Anse Source d'Argent beach on La Digue"
+  },
+  "quickFacts": {
+    "capital": "Victoria (Mahé)",
+    "currency": {
+      "code": "SCR",
+      "name": "Seychellois rupee",
+      "inr": "SCR 1 ≈ ₹6.5"
+    },
+    "languages": [
+      "Seychellois Creole",
+      "English",
+      "French"
+    ],
+    "timezone": "GMT+4 · 1½ hrs behind IST",
+    "flightFromIndia": "≈5h non-stop from Mumbai on IndiGo; one stop from Delhi or Bengaluru",
+    "plug": "Type G (British 3-pin) · 240V — carry an adapter",
+    "sim": "Airtel Seychelles or Cable & Wireless tourist SIM at the airport from about ₹1,200; travel eSIMs from ₹700 for 5GB work fine on Mahé and Praslin"
+  },
+  "visa": {
+    "type": "visa-free",
+    "headline": "Visa-free · online Travel Authorisation before flying",
+    "body": "Indian passport holders need no visa for the Seychelles. You do need a digital Travel Authorisation, applied for online at seychelles.govtas.com before departure with your passport, ticket and hotel booking. On arrival you get a free visitor's permit, typically for the length of your stay up to three months. Carry proof of accommodation and return tickets; immigration does ask.",
+    "cost": "Entry free; Travel Authorisation €10 (≈₹1,000) per person",
+    "processing": "TA usually approved within 12–24 hours; apply 3–5 days before flying to be safe"
+  },
+  "weather": {
+    "summary": "Warm all year — 26–31°C with barely a season's difference in temperature. Instead of wet and dry, the islands swing between two wind patterns: calm, humid northwest winds from November to March with the heaviest rain around December–January, and cooler, breezier southeast trade winds from May to September. The magic windows are the changeovers, when the ocean goes flat and clear on every coast.",
+    "bestTime": "April – May & October – November",
+    "seasons": [
+      {
+        "label": "Calm windows",
+        "months": "Apr – May & Oct – Nov",
+        "temp": "28–31°C",
+        "notes": "Winds drop, seas turn glassy, visibility peaks for snorkelling and diving. The islands at their absolute best.",
+        "tone": "high"
+      },
+      {
+        "label": "Trade winds",
+        "months": "Jun – Sep",
+        "temp": "26–29°C",
+        "notes": "Driest, coolest stretch, but the southeast wind roughens south- and east-facing beaches and stirs up seaweed on some. Sheltered coasts stay lovely.",
+        "tone": "shoulder"
+      },
+      {
+        "label": "Northwest monsoon",
+        "months": "Dec – Mar",
+        "temp": "28–31°C",
+        "notes": "Hot and humid with short, heavy downpours, wettest around Christmas–January. Warm seas and green hills; fine for a flexible itinerary.",
+        "tone": "low"
+      }
+    ]
+  },
+  "booking": {
+    "high": "Christmas – New Year, Easter week, and July – August with European holiday crowds",
+    "low": "Late January – March, and early December before the festive rush",
+    "note": "The islands have limited rooms, so the festive fortnight and Easter sell out months ahead. May and October give you calm-season seas at noticeably softer rates — book those instead of fighting for August."
+  },
+  "idealDuration": {
+    "nights": "6 – 7",
+    "note": "Six nights covers the classic trio — Mahé, Praslin and La Digue — without turning ferry days into a blur. A pure two-island honeymoon works beautifully in five."
+  },
+  "budget": {
+    "perDay": [
+      {
+        "tier": "Smart",
+        "inr": "₹10,000 – 16,000"
+      },
+      {
+        "tier": "Comfort",
+        "inr": "₹18,000 – 32,000"
+      },
+      {
+        "tier": "Luxe",
+        "inr": "₹55,000+"
+      }
+    ],
+    "note": "Per person per day. The smart tier means self-catering guesthouses, buses and takeaway Creole plates — very doable and how locals-in-the-know travel. Resort dining and private boat charters push costs up fast."
+  },
+  "safety": {
+    "score": 4,
+    "headline": "One of the safest countries in the region — watch your beach bag, not your back",
+    "tips": [
+      "Never leave phones, wallets or car keys on the sand while you swim; opportunistic beach theft is the main crime, especially at Beau Vallon and Côte d'Or",
+      "Respect the flags and ask locally before swimming — currents get serious during the June–September trade winds, and some beaches like Grand Anse on La Digue are for wading, not laps",
+      "Use ATMs inside banks, malls or hotels rather than street machines, mostly in Victoria",
+      "Lock hire cars and keep nothing visible inside at trailheads and beach car parks",
+      "Wear reef shoes on rocky entries — sea urchins and stonefish are rare but unpleasant",
+      "Roads on Mahé are narrow, winding and unlit at night; drive slowly or use taxis after dark"
+    ]
+  },
+  "goodToKnow": [
+    "Cards are widely accepted and euros work almost everywhere; keep some Seychellois rupees for buses, market stalls and takeaways",
+    "Public buses on Mahé and Praslin cost a flat SCR 12 (about ₹80) — slow, scenic and a genuine money-saver",
+    "Book the Cat Cocos ferry (Mahé–Praslin, ~1h) and the Praslin–La Digue shuttle (~15 min) online a few days ahead in peak season",
+    "La Digue runs on bicycles — rent one for about SCR 150 a day and you have the whole island",
+    "Almost everything shuts on Sundays outside resorts; plan grocery runs and activities accordingly",
+    "Tipping is not expected — a 5–10% service charge is usually already on restaurant bills",
+    "Taking coco de mer nuts, shells or coral out of the country without a permit is illegal and checked at the airport",
+    "There is no Uber; hotels arrange taxis at fixed rates, so agree the fare before you get in"
+  ],
+  "cities": [
+    {
+      "id": "beau-vallon",
+      "name": "Beau Vallon, Mahé",
+      "blurb": "Mahé's liveliest bay — a long, safe, swimmable arc with dive schools, casual restaurants and Wednesday-evening food stalls. The most convenient first base, twenty minutes over the hill from Victoria.",
+      "image": {
+        "query": "beau vallon beach mahe seychelles",
+        "alt": "The long curve of Beau Vallon beach with boats moored offshore"
+      }
+    },
+    {
+      "id": "south-mahe",
+      "name": "South Mahé",
+      "blurb": "The quiet end of the main island: wilder beaches like Anse Intendance and Anse Takamaka, hillside villas and rum-distillery country. Choose it for seclusion with an airport still forty minutes away.",
+      "image": {
+        "query": "anse intendance beach south mahe",
+        "alt": "Empty Anse Intendance beach with heavy surf and palm-backed sand"
+      }
+    },
+    {
+      "id": "victoria-eden-island",
+      "name": "Victoria & Eden Island",
+      "blurb": "The tiny capital and its marina suburb. Stay here for the covered market, Creole eateries, the clock tower and easy ferry access — practical rather than romantic, and well priced for Seychelles.",
+      "image": {
+        "query": "victoria clock tower seychelles",
+        "alt": "The silver clock tower at the centre of Victoria, Mahé"
+      }
+    },
+    {
+      "id": "praslin",
+      "name": "Praslin",
+      "blurb": "The second island, softer and slower than Mahé, home to the Vallée de Mai palm forest and Anse Lazio. Côte d'Or beach makes a comfortable base with the widest hotel spread outside Mahé.",
+      "image": {
+        "query": "cote d'or beach praslin seychelles",
+        "alt": "Calm water and granite outcrops along Côte d'Or beach, Praslin"
+      }
+    },
+    {
+      "id": "la-digue",
+      "name": "La Digue",
+      "blurb": "A near-carless island you explore by bicycle, ringed by the country's most photographed boulder beaches. Guesthouses outnumber resorts, dinner is grilled fish under fairy lights, and two nights feel essential, not optional.",
+      "image": {
+        "query": "la digue island bicycle path",
+        "alt": "A sandy bicycle lane between palms on La Digue"
+      }
+    },
+    {
+      "id": "silhouette-island",
+      "name": "Silhouette Island",
+      "blurb": "A mountainous, road-free island 45 minutes by boat from Mahé with one resort, one lodge and dense virgin forest. The insider's pick for a splurge finale far from every crowd.",
+      "image": {
+        "query": "silhouette island seychelles mountains",
+        "alt": "The forested peaks of Silhouette Island rising from the sea"
+      }
+    }
+  ],
+  "highlights": [
+    {
+      "id": "anse-source-dargent",
+      "rank": 1,
+      "name": "Anse Source d'Argent",
+      "category": "Beach",
+      "blurb": "La Digue's shallow, boulder-strewn lagoon is among the most photographed beaches anywhere — pink granite, powder sand and knee-deep water glowing green at low tide.",
+      "detail": "Entry is through the old L'Union Estate plantation (about SCR 150), so arrive when it opens around 7am to have the coves nearly to yourself; by 10am day-trippers from Praslin fill every frame. Cycle in, then keep walking past the first busy stretch — the best boulder alcoves are ten minutes further south, reached by wading at low tide. Check the tide table: high tide is for swimming, low tide is for the glassy, waist-deep light photographers chase. There are juice shacks behind the beach for fresh coconut. Combine it with the estate's giant tortoise pen and vanilla plantation on the way out.",
+      "image": {
+        "query": "anse source d'argent granite boulders",
+        "alt": "Sculpted pink granite boulders meeting shallow turquoise water at Anse Source d'Argent"
+      }
+    },
+    {
+      "id": "vallee-de-mai",
+      "rank": 2,
+      "name": "Vallée de Mai",
+      "category": "Nature",
+      "blurb": "A UNESCO-listed primeval palm forest on Praslin, the only place on earth where the coco de mer — the world's heaviest seed — grows wild.",
+      "detail": "Give it two unhurried hours. The entry fee is about SCR 450 and includes a decent map; the three marked loops are shaded, gentle and best walked early, when the endemic black parrot is most vocal — hearing one is a genuine birder's prize. Guides at the gate are worth hiring if you want the botany and the coco de mer's suggestive folklore told properly. The forest canopy keeps things cool, so it slots perfectly into the middle of a hot day between Anse Lazio in the morning and Côte d'Or in the evening. Buses from both Praslin coasts stop right outside.",
+      "image": {
+        "query": "vallee de mai praslin palm forest",
+        "alt": "Giant coco de mer palm fronds forming a canopy in the Vallée de Mai"
+      }
+    },
+    {
+      "id": "anse-lazio",
+      "rank": 3,
+      "name": "Anse Lazio",
+      "category": "Beach",
+      "blurb": "Praslin's showpiece bay — a broad sweep of white sand between granite headlands, with calm, deep-blue swimming for most of the year.",
+      "detail": "It sits at the island's northwest tip, a hilly twenty-minute drive or bus-plus-walk from Côte d'Or. Go before 9am or after 3pm; midday brings tour groups and the car park fills. Swimming is glorious from October to May, but during strong southeast winds ask about currents before going deep — there are no lifeguards. Snorkelling is best around the rocks at the right-hand end, where turtles graze. Two beach restaurants do grilled fish and cold Seybrew at fair-for-Seychelles prices, so you can make an entire lazy day of it. Climb the boulders at the far left for the classic elevated photo.",
+      "image": {
+        "query": "anse lazio praslin beach",
+        "alt": "White sand and granite headlands at Anse Lazio, Praslin"
+      }
+    },
+    {
+      "id": "beau-vallon-bay",
+      "rank": 4,
+      "name": "Beau Vallon Bay",
+      "category": "Beach",
+      "blurb": "Mahé's family-friendly main beach: three kilometres of safe swimming, watersports operators, and the island's best casual sunset scene.",
+      "detail": "This is the beach you use rather than admire — flat entry, no rocks, and the north-facing curve stays calm even in trade-wind season, which makes it the most reliable swim on Mahé year-round. Dive centres here run trips to Shark Bank and wreck sites, and jet-ski and banana-boat operators line the sand. Come on a Wednesday evening for the bazar labrin street-food market: smoked fish, banana fritters, grilled chicken and local families out in force — the cheapest, most local dinner you will have all trip. Sunsets are directly over the water; stake out the northern end near the Fisherman's Cove headland.",
+      "image": {
+        "query": "beau vallon bay sunset mahe",
+        "alt": "Sunset over the wide bay at Beau Vallon with silhouetted palms"
+      }
+    },
+    {
+      "id": "curieuse-island",
+      "rank": 5,
+      "name": "Curieuse Island",
+      "category": "Wildlife",
+      "blurb": "A short boat hop from Praslin, home to hundreds of free-roaming Aldabra giant tortoises, a mangrove boardwalk and a ruined leper colony.",
+      "detail": "You can only visit by boat, and the standard day trip from Praslin pairs Curieuse with snorkelling at St Pierre islet — book it as a combo (roughly ₹6,000–8,000 with lunch). The tortoises gather near the ranger station at Baie Laraie and are entirely unbothered by people; the walk across the island to Anse St José via the mangrove boardwalk takes about 45 minutes and ends at the old doctor's house museum. Most tours include a Creole barbecue on the beach. Wear real shoes for the trail, and go early in the week when boats are less full. Marine-park fees are usually bundled into the tour price.",
+      "image": {
+        "query": "curieuse island giant tortoise",
+        "alt": "An Aldabra giant tortoise on the sand at Curieuse Island"
+      }
+    },
+    {
+      "id": "anse-intendance",
+      "rank": 6,
+      "name": "Anse Intendance",
+      "category": "Beach",
+      "blurb": "South Mahé's wild one — a long, empty crescent of deep sand and rolling surf backed by jungle, with no reef and no crowds.",
+      "detail": "There is no barrier reef here, so the ocean arrives with drama: bodysurfable rollers in the calm months, genuinely powerful surf during the southeast trades, when you should stay shin-deep. That same openness is why it stays empty — no snorkelling means no tour boats. Come for long walks, turtle tracks in nesting season (October to February, keep distance and lights off), and the kind of raw scenery north Mahé smooths over. The Banyan Tree resort sits behind it, but the beach is public like all Seychelles beaches. Pair it with Anse Takamaka and a tasting at the Takamaka rum distillery ten minutes north.",
+      "image": {
+        "query": "anse intendance mahe surf",
+        "alt": "Long empty crescent of Anse Intendance with heavy rollers coming in"
+      }
+    },
+    {
+      "id": "sainte-anne-marine-park",
+      "rank": 7,
+      "name": "Sainte Anne Marine National Park",
+      "category": "Water",
+      "blurb": "Six islets fifteen minutes off Victoria, protected since 1973 — the easiest big snorkelling day in the country, with turtles and rays over seagrass meadows.",
+      "detail": "Glass-bottom boat and catamaran day trips leave from the Eden Island and Victoria jetties most mornings, usually including snorkelling stops, a Creole buffet on Moyenne or Cerf island, and a wander among Moyenne's giant tortoises and pirate-grave folklore. Expect around ₹8,000–10,000 per person for a full day with lunch. Visibility is best in the April–May and October–November calm windows. If you would rather not join a group, hotels can arrange a private charter for a premium. It is the one marquee experience you can do even if you never leave Mahé — good insurance for a short trip.",
+      "image": {
+        "query": "sainte anne marine park seychelles snorkelling",
+        "alt": "Clear shallow water and islets of Sainte Anne Marine National Park"
+      }
+    },
+    {
+      "id": "morne-blanc-trail",
+      "rank": 8,
+      "name": "Morne Blanc trail",
+      "category": "Adventure",
+      "blurb": "A short, steep rainforest climb in Morne Seychellois National Park ending at a cliff-edge platform 660m above Mahé's west coast.",
+      "detail": "The trailhead is on the Sans Soucis road that crosses Mahé's spine, marked and free to enter. It is only about 40 minutes up, but the gradient is honest and the path gets slick after rain — wear grippy shoes and start by 8am, before cloud builds over the peaks and the viewing platform stares into mist. From the top the whole west coast unrolls: Port Launay's marine park, tea plantations below, Silhouette Island on the horizon. Combine it with the small tea factory just down the road and a swim at Port Launay afterwards. The tougher Copolia trail nearby offers a similar payoff with granite-slab summit views toward Eden Island.",
+      "image": {
+        "query": "morne blanc viewpoint mahe",
+        "alt": "View over Mahé's forested west coast from the Morne Blanc platform"
+      }
+    },
+    {
+      "id": "victoria-market",
+      "rank": 9,
+      "name": "Victoria & Sir Selwyn-Clarke Market",
+      "category": "Culture",
+      "blurb": "One of the world's smallest capitals, best absorbed through its covered market — fish stalls, spice vendors, tropical fruit and unhurried Creole life.",
+      "detail": "Go on a Saturday morning by 9am, when the market is fullest and fishermen lay out red snapper and job fish on ice while vendors sell cinnamon bark, vanilla pods and star fruit upstairs. The whole town takes ninety minutes on foot: the miniature silver clock tower modelled on London's Vauxhall clock, the Hindu Arul Mihu Navasakthi Vinayagar temple with its vivid gopuram, the cathedral, and Creole takeaways where a plate of fish curry and rice costs a fraction of resort prices. It works best as a half-day tacked onto a ferry departure from the nearby jetty. Most shops shut by 4pm and all day Sunday.",
+      "image": {
+        "query": "sir selwyn clarke market victoria",
+        "alt": "Fruit and spice stalls inside Victoria's covered market"
+      }
+    },
+    {
+      "id": "anse-cocos-hike",
+      "rank": 10,
+      "name": "Grand Anse to Anse Cocos, La Digue",
+      "category": "Adventure",
+      "blurb": "The insider's La Digue: a coastal walk linking three wild east-coast beaches, ending at a boulder-sheltered natural pool at Anse Cocos.",
+      "detail": "Cycle to Grand Anse, park the bike, and follow the path over the headlands via Petite Anse — about 40 minutes of easy walking with big, empty scenery the whole way. Swimming at Grand Anse and Petite Anse is dangerous for much of the year, but Anse Cocos hides calm, rock-ringed pools at its far left end that are safe when the sea behaves; ask at the small drinks shack. Carry water, a hat and reef shoes; there is little shade on the trail. Start by 8:30am for cool air and empty sand, and you will be back at Anse Source d'Argent by early afternoon.",
+      "image": {
+        "query": "anse cocos la digue natural pool",
+        "alt": "Rock-sheltered turquoise pools at the end of Anse Cocos beach"
+      }
+    }
+  ],
+  "activities": [
+    {
+      "id": "catamaran-island-hopping",
+      "name": "Catamaran island-hopping day",
+      "category": "Water",
+      "blurb": "Full-day sails from Praslin or Mahé stringing together Curieuse, St Pierre and Cousin — snorkelling stops, a beach barbecue and giant tortoises in one booking.",
+      "image": {
+        "query": "catamaran seychelles islands",
+        "alt": "A catamaran anchored in clear water off a granite islet"
+      }
+    },
+    {
+      "id": "scuba-diving-mahe",
+      "name": "Scuba diving",
+      "category": "Adventure",
+      "blurb": "Granite pinnacles like Shark Bank and Brissare Rocks draw reef sharks, rays and huge fish schools; Beau Vallon's dive schools run daily boats and beginner courses.",
+      "image": {
+        "query": "scuba diving seychelles reef",
+        "alt": "A diver above a granite reef with schooling fish"
+      }
+    },
+    {
+      "id": "cousin-bird-sanctuary",
+      "name": "Cousin Island nature reserve",
+      "category": "Wildlife",
+      "blurb": "A morning-only landing on a seabird sanctuary thick with fairy terns, tropicbirds and skinks — one of conservation's great success stories, minutes from Praslin.",
+      "image": {
+        "query": "fairy tern cousin island seychelles",
+        "alt": "A white fairy tern perched on a branch on Cousin Island"
+      }
+    },
+    {
+      "id": "creole-food-trail",
+      "name": "Creole food experiences",
+      "category": "Food",
+      "blurb": "Octopus curry, grilled job fish, breadfruit chips and ladob for dessert — via takeaway counters, the Wednesday bazar labrin at Beau Vallon, or a hosted home-cooking session.",
+      "image": {
+        "query": "creole octopus curry seychelles",
+        "alt": "A plate of Seychellois octopus curry with rice and chutney"
+      }
+    },
+    {
+      "id": "takamaka-rum-tour",
+      "name": "Takamaka rum distillery tour",
+      "category": "Culture",
+      "blurb": "A short, funny, generous tasting tour at the old Trois Frères estate on Mahé — the story of Seychellois rum plus a shaded verandah bar for afterwards.",
+      "image": {
+        "query": "takamaka rum distillery mahe",
+        "alt": "Rum barrels and the plantation house at the Takamaka distillery"
+      }
+    },
+    {
+      "id": "spa-wellness",
+      "name": "Spa days and sunset cruises",
+      "category": "Wellness",
+      "blurb": "Clifftop resort spas on Mahé take walk-in bookings at rates well below their room prices, and evening champagne sails out of Eden Island marina end the day properly.",
+      "image": {
+        "query": "seychelles resort spa ocean view",
+        "alt": "An open-air spa pavilion overlooking the ocean"
+      }
+    }
+  ],
+  "trips": [
+    {
+      "id": "three-island-classic",
+      "title": "Three-Island Classic",
+      "nights": 7,
+      "route": [
+        {
+          "place": "Mahé",
+          "nights": 2
+        },
+        {
+          "place": "Praslin",
+          "nights": 3
+        },
+        {
+          "place": "La Digue",
+          "nights": 2
+        }
+      ],
+      "summary": "The definitive first trip. Land in Mahé for Beau Vallon and Victoria, ferry to Praslin for the Vallée de Mai, Anse Lazio and a Curieuse boat day, then finish slow on La Digue with bicycles and Anse Source d'Argent before ferrying back for your flight.",
+      "priceFrom": "₹1,90,000",
+      "image": {
+        "query": "praslin ferry seychelles islands",
+        "alt": "The inter-island ferry crossing between granite islands"
+      }
+    },
+    {
+      "id": "short-and-sweet",
+      "title": "Short & Sweet",
+      "nights": 5,
+      "route": [
+        {
+          "place": "Mahé",
+          "nights": 3
+        },
+        {
+          "place": "Praslin",
+          "nights": 2
+        }
+      ],
+      "summary": "A long-weekend-plus that still feels complete: Mahé's beaches, the Sainte Anne marine park day and the rum distillery, then two Praslin nights covering Anse Lazio and the palm forest, with La Digue as an easy day trip by shuttle ferry.",
+      "priceFrom": "₹1,45,000",
+      "image": {
+        "query": "anse lazio praslin turquoise water",
+        "alt": "Turquoise shallows and boulders at a Praslin beach"
+      }
+    },
+    {
+      "id": "honeymoon-slow-lane",
+      "title": "Honeymoon Slow Lane",
+      "nights": 8,
+      "route": [
+        {
+          "place": "Praslin",
+          "nights": 3
+        },
+        {
+          "place": "La Digue",
+          "nights": 2
+        },
+        {
+          "place": "Mahé",
+          "nights": 3
+        }
+      ],
+      "summary": "Built for couples who want the postcard without the rush: a beachfront Praslin villa, barefoot La Digue guesthouse nights, then a south-Mahé hideaway with a spa day, a private sunset sail and dinner at a clifftop table to close.",
+      "priceFrom": "₹2,90,000",
+      "image": {
+        "query": "seychelles beach villa sunset couple",
+        "alt": "A private villa deck facing the sea at golden hour"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do Indians need a visa for the Seychelles?",
+      "a": "No — entry is visa-free for Indian passport holders. You only need the online Travel Authorisation (about €10, roughly ₹1,000), applied for at the official portal a few days before flying with your passport, tickets and hotel booking. A free visitor's permit is stamped on arrival. Carry proof of accommodation, return tickets and reasonable funds, as officers do check."
+    },
+    {
+      "q": "How expensive is a Seychelles trip really?",
+      "a": "It sits well above Bali or Thailand but below the Maldives if you play it right. A comfortable 6-night twin-island trip typically lands between ₹1.5–2.5 lakh per person including the Mumbai non-stop. The big levers are self-catering guesthouses instead of resorts, public buses and ferries instead of transfers, and Creole takeaways for half your meals."
+    },
+    {
+      "q": "Will I find vegetarian and Indian food?",
+      "a": "Yes, more easily than you might expect — a large Indian-origin community means Victoria and Mahé have proper Indian restaurants, and Creole cooking leans on rice, lentils, breadfruit, and vegetable curries alongside its fish. Self-catering apartments with kitchens are common, and supermarkets stock Indian staples. Resorts handle Jain and pure-veg requests with notice."
+    },
+    {
+      "q": "When should I go?",
+      "a": "April–May and October–November are the sweet spots — calm seas, peak snorkelling visibility and softer prices than the festive rush. June–September is dry and pleasant but windy, with rough water on exposed beaches; December–January is hot, humid and showery. Honestly, there is no bad month if you pick beaches on the sheltered coast for that season."
+    },
+    {
+      "q": "How do I get between the islands?",
+      "a": "The Cat Cocos fast ferry links Mahé and Praslin in about an hour, and a 15-minute shuttle ferry connects Praslin to La Digue; book both online a few days ahead in peak season. On the islands, hire cars and buses cover Mahé and Praslin, while La Digue is best on a rented bicycle. Domestic flights to Praslin exist but the ferry is cheaper and easier."
+    },
+    {
+      "q": "Is the Seychelles safe for couples and families?",
+      "a": "Very — it is one of the calmest destinations in the region, with rare violent crime and a stable, easy-going atmosphere. The two real risks are mundane: valuables left unattended on beaches, and swimming at unguarded beaches with strong seasonal currents. Keep bags with you, swim where locals swim, and the trip looks after itself."
+    }
+  ]
+}

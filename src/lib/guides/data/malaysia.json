@@ -1,0 +1,460 @@
+{
+  "slug": "malaysia",
+  "name": "Malaysia",
+  "displayName": "Malaysia",
+  "country": "Malaysia",
+  "region": "southeast-asia",
+  "flag": "🇲🇾",
+  "tagline": "Skyline nights, tea hills, island afternoons.",
+  "overview": "Malaysia is two trips wearing one visa stamp. The peninsula runs from Kuala Lumpur's glass towers and midnight hawker streets up through cool tea country to Langkawi's cable-car-and-beach circuit, with George Town's shophouses and Malacca's Dutch squares filling the gaps between. Across the sea, Borneo swaps all of that for orangutans, river cruises and Southeast Asia's highest mountain. What ties it together is the food: Malay, Chinese and Tamil kitchens have shared streets for two centuries, so a single lane can serve nasi lemak, char kway teow and banana-leaf thali within fifty metres. For Indians this is currently the lowest-friction international trip on the map — no visa, direct flights of four to five hours from most metros, English spoken almost everywhere and dosa-and-teh-tarik mamak joints open at 3am. Roads are excellent, Grab is cheap, and domestic flights make even Borneo an easy add-on.",
+  "heroAlt": "Petronas Twin Towers lit up over the KLCC park at dusk, Kuala Lumpur",
+  "heroImage": {
+    "query": "petronas twin towers kuala lumpur dusk",
+    "alt": "The Petronas Twin Towers glowing at blue hour above the Kuala Lumpur skyline",
+    "candidates": [
+      "https://images.unsplash.com/photo-1596422846543-75c6fc197f07"
+    ]
+  },
+  "quickFacts": {
+    "capital": "Kuala Lumpur",
+    "currency": {
+      "code": "MYR",
+      "name": "Malaysian ringgit",
+      "inr": "RM 1 ≈ ₹23.5"
+    },
+    "languages": [
+      "Malay",
+      "English widely spoken",
+      "Tamil",
+      "Mandarin"
+    ],
+    "timezone": "GMT+8 · 2½ hrs ahead of IST",
+    "flightFromIndia": "≈4–5½ hrs non-stop to KL from Chennai, Bengaluru, Delhi and Mumbai",
+    "plug": "Type G (UK-style) · 240V — Indian plugs need an adapter",
+    "sim": "Hotlink or CelcomDigi tourist SIM/eSIM at the airport, about ₹700 for 30GB-plus"
+  },
+  "visa": {
+    "type": "visa-free",
+    "headline": "Visa-free · 30 days",
+    "body": "Indian passport holders currently enter Malaysia without a visa for stays up to 30 days, an exemption announced through end-2026. The one mandatory step is the Malaysia Digital Arrival Card (MDAC), filed free online within three days before you fly. Carry a passport valid six months beyond arrival, a return ticket and hotel bookings — officers do ask. The waiver covers tourism and short business visits only.",
+    "cost": "Free — MDAC online form costs nothing",
+    "processing": "MDAC takes 10 minutes online; immigration is usually a quick stamp"
+  },
+  "weather": {
+    "summary": "Equatorial and steady: expect 24–33°C in the lowlands every month, with humidity and short, hard afternoon showers rather than distinct seasons. The Cameron Highlands sit 10 degrees cooler, and the two coasts take their monsoons at different times — the east-coast islands effectively close from November to February while Langkawi on the west stays open.",
+    "bestTime": "December – March for the west coast and KL; April – September for east-coast islands",
+    "seasons": [
+      {
+        "label": "Peak season",
+        "months": "Dec – Mar",
+        "temp": "24–32°C",
+        "notes": "Driest run for KL, Langkawi and Penang, plus Christmas and Chinese New Year energy. Book early around the holidays.",
+        "tone": "high"
+      },
+      {
+        "label": "Shoulder",
+        "months": "Jun – Aug",
+        "temp": "25–33°C",
+        "notes": "Warm and mostly workable everywhere, and the only window when the Perhentians and Redang are at their calm, clear best.",
+        "tone": "shoulder"
+      },
+      {
+        "label": "Inter-monsoon",
+        "months": "Sep – Nov",
+        "temp": "24–32°C",
+        "notes": "The wettest stretch on the west coast — heavy late-day downpours. Fine for city, food and mall trips; weaker for beaches.",
+        "tone": "low"
+      }
+    ]
+  },
+  "booking": {
+    "high": "Dec – Mar, Chinese New Year week and Hari Raya holidays",
+    "low": "Sep – Nov, outside Malaysian school breaks",
+    "note": "Flights from India to KL are among the cheapest international fares going — set alerts and ₹12,000–15,000 return sectors appear regularly. Avoid pricing your trip over Chinese New Year or Hari Raya, when domestic travel spikes and hotels follow."
+  },
+  "idealDuration": {
+    "nights": "6 – 8",
+    "note": "Six nights handles KL plus one more base — Langkawi or Penang — without rushing. Stretch to eight or more if Borneo's wildlife is on the list; it deserves its own leg."
+  },
+  "budget": {
+    "perDay": [
+      {
+        "tier": "Smart",
+        "inr": "₹3,500 – 5,500"
+      },
+      {
+        "tier": "Comfort",
+        "inr": "₹6,500 – 11,000"
+      },
+      {
+        "tier": "Luxe",
+        "inr": "₹18,000+"
+      }
+    ],
+    "note": "Per person per day with mid-range hotels, Grab rides and one paid activity. Hawker meals run ₹150–300 a plate, which is why food rarely dents a Malaysia budget — hotels and island transfers are where the money goes."
+  },
+  "safety": {
+    "score": 4,
+    "headline": "Easy, orderly and familiar — watch your phone, not your back",
+    "tips": [
+      "Bag and phone snatching by motorbike riders happens in KL — keep phones off the kerb side and bags across the body.",
+      "Use Grab instead of hailing taxis; metered disputes disappear and prices are fixed upfront.",
+      "Drug offences carry extremely severe penalties in Malaysia — there is zero grey area.",
+      "Jellyfish and rip currents affect some beaches seasonally; swim where flags and locals do.",
+      "Afternoon downpours flood roads fast — build slack into airport runs during Sep–Nov.",
+      "Cover shoulders and knees at mosques and temples; robes are usually lent free at major sites."
+    ]
+  },
+  "goodToKnow": [
+    "Tipping is not expected anywhere — a service charge is already on restaurant bills.",
+    "Grab is the everything app: cabs, food delivery and even payments in cities.",
+    "Cards work in malls and hotels, but hawker stalls run on cash or Touch 'n Go eWallet — keep RM 100–200 in small notes.",
+    "The KLIA Ekspres train does airport to city centre in 28 minutes; a Grab takes an hour-plus in traffic.",
+    "East-coast islands (Perhentians, Redang, Tioman) largely shut from November to February — plan them for April–September only.",
+    "Indian food is everywhere: 24-hour mamak restaurants serve roti canai, dosa and teh tarik, and pure-veg banana-leaf places cluster in Brickfields and George Town.",
+    "During Ramadan many Malay eateries close by day, but Chinese and Indian kitchens keep normal hours.",
+    "Friday 12:30–2:30pm is prayer time — some offices and small businesses pause, and mosques close to visitors."
+  ],
+  "cities": [
+    {
+      "id": "kuala-lumpur",
+      "name": "Kuala Lumpur",
+      "blurb": "The capital does towers, megamalls and rooftop bars, but its real pull is the street layer beneath — Jalan Alor's smoke and neon, Brickfields' Little India, and Batu Caves twenty minutes out.",
+      "image": {
+        "query": "kuala lumpur skyline klcc",
+        "alt": "Kuala Lumpur skyline with the Petronas Towers rising above KLCC park"
+      }
+    },
+    {
+      "id": "langkawi",
+      "name": "Langkawi",
+      "blurb": "A duty-free island of 99 outcrops with the famous SkyBridge, mangrove kayaking and long resort beaches. The easiest beach add-on to KL — one short flight, no visa-run logistics.",
+      "image": {
+        "query": "langkawi beach cenang sunset",
+        "alt": "Pantai Cenang beach at sunset with boats moored offshore, Langkawi"
+      }
+    },
+    {
+      "id": "penang",
+      "name": "Penang (George Town)",
+      "blurb": "A UNESCO-listed grid of shophouses, clan temples and street art that doubles as Malaysia's food capital. Come hungry, walk everything, and ride the funicular up Penang Hill at dusk.",
+      "image": {
+        "query": "george town penang shophouses street",
+        "alt": "Colourful heritage shophouses along a George Town street in Penang"
+      }
+    },
+    {
+      "id": "cameron-highlands",
+      "name": "Cameron Highlands",
+      "blurb": "Tea estates, strawberry farms and 18°C afternoons at 1,500 metres — a three-and-a-half-hour drive from KL. The BOH plantation viewpoints are the postcard everyone comes for.",
+      "image": {
+        "query": "cameron highlands tea plantation",
+        "alt": "Rolling green tea terraces in the Cameron Highlands"
+      }
+    },
+    {
+      "id": "malacca",
+      "name": "Malacca",
+      "blurb": "Portuguese, Dutch and British layers stacked on a red riverside old town two hours south of KL. Best as an overnight for the Jonker Street night market and river-walk lights.",
+      "image": {
+        "query": "malacca dutch square red buildings",
+        "alt": "The red Dutch-era Stadthuys and Christ Church at Malacca's Dutch Square"
+      }
+    },
+    {
+      "id": "kota-kinabalu",
+      "name": "Kota Kinabalu (Borneo)",
+      "blurb": "Gateway to Sabah: island-hopping in the marine park by day, waterfront sunsets by evening, and Mount Kinabalu, wildlife rivers and orangutan sanctuaries within reach.",
+      "image": {
+        "query": "kota kinabalu waterfront sunset",
+        "alt": "Fiery sunset over the Kota Kinabalu waterfront in Sabah, Borneo"
+      }
+    }
+  ],
+  "highlights": [
+    {
+      "id": "petronas-towers",
+      "rank": 1,
+      "name": "Petronas Twin Towers",
+      "category": "Landmark",
+      "blurb": "The 452-metre steel-and-glass twins that define Kuala Lumpur, linked by a skybridge on the 41st floor and fronted by a park built for evening photographs.",
+      "detail": "Book the tower tickets online a few days ahead — the timed slots for the skybridge and 86th-floor deck sell out, especially weekends. Go late afternoon so you catch daylight, dusk and the lit-up city in one visit. Afterwards, walk into KLCC Park for the classic head-on photo by the lake, timed to the Lake Symphony fountain show around 8pm. The Suria KLCC mall underneath solves dinner, and Heli Lounge Bar — a helipad turned rooftop bar ten minutes away — gives you the reverse view of the towers themselves. Combine with the nearby Saloma bridge for a second lit-up landmark shot.",
+      "image": {
+        "query": "petronas towers aerial night",
+        "alt": "Aerial night view of the illuminated Petronas Twin Towers",
+        "candidates": [
+          "https://images.unsplash.com/photo-1508062878650-88b52897f298"
+        ]
+      }
+    },
+    {
+      "id": "batu-caves",
+      "rank": 2,
+      "name": "Batu Caves",
+      "category": "Culture",
+      "blurb": "A 42-metre golden Murugan statue guards 272 rainbow-painted steps climbing into a vast limestone cathedral cave — one of the great Hindu shrines outside India.",
+      "detail": "It sits only 30 minutes from central KL by KTM Komuter train or Grab, so go early: gates open around 6am and by 10am the steps are hot and busy. The climb is easier than it looks, but hold your snacks tight — the macaques are professional thieves. Entry to the main Temple Cave is free; the Dark Cave tour, when open, adds a genuine caving experience. Dress with knees covered or rent a sarong at the base. If your dates allow, Thaipusam (Jan–Feb) turns the site into an extraordinary festival of devotion — spectacular, but expect vast crowds. Pair the morning with lunch in Brickfields on the way back.",
+      "image": {
+        "query": "batu caves murugan statue stairs",
+        "alt": "The golden Lord Murugan statue beside the rainbow staircase at Batu Caves"
+      }
+    },
+    {
+      "id": "langkawi-skybridge",
+      "rank": 3,
+      "name": "Langkawi SkyCab & SkyBridge",
+      "category": "Adventure",
+      "blurb": "One of the world's steepest cable cars climbs Gunung Machinchang to a curved pedestrian bridge slung 660 metres above the rainforest, with views to Thailand on clear days.",
+      "detail": "Ride from the Oriental Village station near Pantai Kok; buy the combo ticket that includes the SkyBridge, since the bridge is a separate short hike or SkyGlide funicular from the top station. Mornings are the play — cloud tends to build over the peak after lunch, and an obscured summit is a real risk on wet-season afternoons. The glass-bottomed gondola upgrade is fun but not essential. Budget two to three hours door to door, then roll straight into a Kilim Geoforest mangrove cruise nearby or catch sunset at Tanjung Rhu. Check the maintenance calendar before you plan — the cable car closes for servicing a few days each year.",
+      "image": {
+        "query": "langkawi sky bridge cable car",
+        "alt": "The curved Langkawi SkyBridge suspended above rainforest peaks"
+      }
+    },
+    {
+      "id": "george-town-heritage",
+      "rank": 4,
+      "name": "George Town's streets and street art",
+      "category": "Culture",
+      "blurb": "Penang's UNESCO core mixes Chinese clan houses, Indian temples and colonial arcades with Ernest Zacharevic's playful murals hidden down its lanes.",
+      "detail": "Do it on foot or by rented bicycle, early morning or after 4pm when the heat drops. Start at the Kids on Bicycle mural on Armenian Street, drift through Khoo Kongsi clan house, then out along the Chew Jetty boardwalk where houses stand on stilts over the harbour. The joy is that the food and the sightseeing are the same activity — char kway teow at Siam Road, cendol in a Lebuh Keng Kwee alley, banana leaf on Penang's own Little India streets. Give it a full day, finishing with the funicular up Penang Hill for sunset over the strait. Blue Mansion tours run at fixed times; book the afternoon slot.",
+      "image": {
+        "query": "george town street art armenian street",
+        "alt": "A heritage lane in George Town with famous bicycle mural and trishaws"
+      }
+    },
+    {
+      "id": "cameron-tea-estates",
+      "rank": 5,
+      "name": "Cameron Highlands tea estates",
+      "category": "Nature",
+      "blurb": "Velvet-green tea terraces ripple across cool hills first planted in the 1920s — the BOH estate's valley viewpoint is among Malaysia's most photographed scenes.",
+      "detail": "Base in Tanah Rata and reach the BOH Sungai Palas estate early — the narrow access road clogs by mid-morning on weekends, and mist rolls in after lunch. The estate café hangs over the valley; a pot of their own tea with scones at that railing is the moment people come for. Add the Mossy Forest boardwalk near Gunung Brinchang for an otherworldly, cloud-soaked hour, best booked as a guided 4x4 half-day since the summit road is rough. Pack a light jacket — evenings drop below 18°C, a novelty after the lowlands. Weekdays are dramatically quieter than Malaysian long weekends.",
+      "image": {
+        "query": "boh tea estate cameron highlands valley",
+        "alt": "Tea-covered valley at the BOH Sungai Palas estate in the Cameron Highlands"
+      }
+    },
+    {
+      "id": "malacca-jonker",
+      "rank": 6,
+      "name": "Malacca's old town and Jonker Street",
+      "category": "Culture",
+      "blurb": "A 500-year trading port where a red Dutch square, Portuguese fort ruins and Peranakan mansions crowd a walkable riverside — electric on weekend market nights.",
+      "detail": "Time it for a Friday or Saturday, when the Jonker Street night market takes over with satay celup, coconut shakes and antique stalls until late. Daytime is for the Stadthuys and Christ Church at Dutch Square, the climb to St Paul's ruins, and the Baba & Nyonya Heritage Museum, which explains Peranakan culture better than anywhere in the country. The riverside walk is prettiest after dark when the bridges light up; a 40-minute river cruise is a lazy, worthwhile ₹400. Most people day-trip from KL in two hours by bus, but one night lets you have the market and the morning quiet both.",
+      "image": {
+        "query": "jonker street malacca night market",
+        "alt": "Crowds and lanterns at the Jonker Street weekend night market in Malacca"
+      }
+    },
+    {
+      "id": "borneo-orangutans",
+      "rank": 7,
+      "name": "Orangutans at Sepilok, Borneo",
+      "category": "Wildlife",
+      "blurb": "Semi-wild orangutans swing in to feeding platforms at Sabah's famous rehabilitation centre, with sun bears next door and jungle boardwalks between.",
+      "detail": "Fly into Sandakan (via KL or Kota Kinabalu) and stay near Sepilok itself rather than town. Feedings run at 10am and 3pm — arrive 30 minutes early for the boardwalk to the platform, and treat sightings as likely rather than guaranteed, which is exactly why it feels honest. The Bornean Sun Bear Conservation Centre shares the entrance road and deserves an hour. The classic move is to combine Sepilok with two nights on the Kinabatangan River, where dusk cruises deliver proboscis monkeys, hornbills and, with luck, wild pygmy elephants. Keep cameras zoom-ready and skip flash entirely; guides enforce distance rules strictly.",
+      "image": {
+        "query": "orangutan sepilok sabah borneo",
+        "alt": "An orangutan hanging from ropes at the Sepilok rehabilitation centre"
+      }
+    },
+    {
+      "id": "genting-highlands",
+      "rank": 8,
+      "name": "Genting Highlands",
+      "category": "Entertainment",
+      "blurb": "A casino-and-theme-park city floating at 1,800 metres, one hour from KL, reached by a cable car gliding over unbroken rainforest.",
+      "detail": "The Awana SkyWay gondola is half the attraction — 10 minutes over jungle canopy, with a glass-floor option for a small premium. Up top, Genting SkyWorlds theme park fills a day for families, while the indoor SkyTropolis, malls and the casino floor mean weather never cancels anything. Temperatures hover around 16–20°C, so carry a layer. Stop at Chin Swee Caves Temple, one gondola station down, for pagoda views back across the valley. It works best as a day trip from KL or an overnight with a buffet-and-rides package; weekends get seriously crowded with local families, so go midweek if you can.",
+      "image": {
+        "query": "genting highlands cable car clouds",
+        "alt": "Awana SkyWay cable car rising through clouds towards Genting Highlands"
+      }
+    },
+    {
+      "id": "jalan-alor-food",
+      "rank": 9,
+      "name": "Jalan Alor food street",
+      "category": "Food",
+      "blurb": "KL's most famous eating street — a smoky, neon-lit run of woks, grills and plastic stools in Bukit Bintang that only starts breathing after dark.",
+      "detail": "Come around 7pm, walk the full length once before committing, then eat in rounds: grilled chicken wings at Wong Ah Wah at the far end are the anchor order, with char kway teow, satay, grilled stingray and coconut ice cream slotted between. Sharing plates across a group is the format. Vegetarians manage fine — hokkien mee can be made meatless at several stalls and fruit stands sell cut durian for the brave. Prices are honest but confirm seafood rates before ordering by weight. It sits five minutes from the Bukit Bintang MRT, making it the natural finish to a Pavilion-mall or Petronas evening.",
+      "image": {
+        "query": "jalan alor night food street kuala lumpur",
+        "alt": "Neon signs and packed food stalls along Jalan Alor at night"
+      }
+    },
+    {
+      "id": "taman-negara-canopy",
+      "rank": 10,
+      "name": "Taman Negara canopy walkway",
+      "category": "Adventure",
+      "blurb": "A swaying rope walkway strung high through 130-million-year-old rainforest — the insider pick for travellers who want jungle without flying to Borneo.",
+      "detail": "The park sits about four hours from KL via road to Kuala Tembeling plus a slow, beautiful longtail boat up the Tembeling river — the journey is genuinely part of the experience. The canopy walkway hangs around 40 metres up and takes a gently wobbly half hour; go at opening time before tour groups arrive and heat builds. Stay two nights in Kuala Tahan village across the river, adding a guided night jungle walk for tarantulas and glow fungi and a rapids-shooting boat run. It is humid, leech-prone in wet months and utterly worth it. Book transport as a package from KL; DIY connections are fiddly.",
+      "image": {
+        "query": "taman negara canopy walkway rainforest",
+        "alt": "Rope canopy walkway suspended through tall rainforest trees in Taman Negara"
+      }
+    }
+  ],
+  "activities": [
+    {
+      "id": "langkawi-island-hopping",
+      "name": "Langkawi island hopping & mangroves",
+      "category": "Water",
+      "blurb": "Shared speedboats loop Dayang Bunting's freshwater lake, eagle-watching bays and Beras Basah's sandbar in a half day; the Kilim Geoforest mangrove cruise adds caves, monitor lizards and stilt fish farms.",
+      "image": {
+        "query": "langkawi island hopping boat",
+        "alt": "Speedboat crossing turquoise water between Langkawi's forested islands"
+      }
+    },
+    {
+      "id": "penang-food-trail",
+      "name": "Guided Penang street-food crawl",
+      "category": "Food",
+      "blurb": "A local guide sequences George Town's hawker legends — assam laksa, char kway teow, cendol — so you hit the right stall at the right hour, with the history between bites.",
+      "image": {
+        "query": "penang hawker food char kway teow",
+        "alt": "A hawker tossing char kway teow in a flaming wok in Penang"
+      }
+    },
+    {
+      "id": "kl-heli-lounge-nightlife",
+      "name": "KL rooftop and speakeasy night",
+      "category": "Nightlife",
+      "blurb": "Start on the Heli Lounge helipad at sunset with the Petronas Towers dead ahead, then work through Bukit Bintang's hidden bars — KL's cocktail scene is quietly one of Asia's best.",
+      "image": {
+        "query": "kuala lumpur rooftop bar skyline night",
+        "alt": "Guests on a rooftop bar overlooking the lit Kuala Lumpur skyline"
+      }
+    },
+    {
+      "id": "kinabatangan-river-safari",
+      "name": "Kinabatangan river wildlife cruise",
+      "category": "Wildlife",
+      "blurb": "Dawn and dusk boat safaris on Sabah's longest river deliver proboscis monkeys, hornbills, crocodiles and — on lucky days — wild orangutans and pygmy elephants along the banks.",
+      "image": {
+        "query": "kinabatangan river cruise proboscis monkey",
+        "alt": "A small boat cruising the Kinabatangan river past dense jungle banks"
+      }
+    },
+    {
+      "id": "perhentian-snorkelling",
+      "name": "Perhentian Islands snorkelling & diving",
+      "category": "Adventure",
+      "blurb": "April to September, the east coast's clear shallows serve turtles, reef sharks and coral gardens metres from the beach — among the cheapest places anywhere to get PADI-certified.",
+      "image": {
+        "query": "perhentian islands snorkelling turtle",
+        "alt": "Snorkeller swimming above coral and a sea turtle in the Perhentians"
+      }
+    },
+    {
+      "id": "batik-cooking-culture",
+      "name": "Batik painting and Malay cooking class",
+      "category": "Culture",
+      "blurb": "Hands-on half days in KL, Penang or Langkawi: stamp and dye your own batik cloth, or shop a wet market with a chef and cook rendang and nasi lemak from scratch.",
+      "image": {
+        "query": "batik painting workshop malaysia",
+        "alt": "Hands applying wax and dye to a colourful batik cloth"
+      }
+    }
+  ],
+  "trips": [
+    {
+      "id": "classic-kl-langkawi",
+      "title": "Classic City & Island",
+      "nights": 6,
+      "route": [
+        {
+          "place": "Kuala Lumpur",
+          "nights": 3
+        },
+        {
+          "place": "Langkawi",
+          "nights": 3
+        }
+      ],
+      "summary": "The proven first-timer split. Three KL days cover Petronas, Batu Caves, Jalan Alor and a Genting or Malacca day trip; a one-hour flight then swaps towers for Langkawi's cable car, mangroves and beach sunsets. Direct flights both ways keep transit painless.",
+      "priceFrom": "₹52,000",
+      "image": {
+        "query": "langkawi beach resort palm trees",
+        "alt": "Palm-fringed beach with calm water at a Langkawi resort"
+      }
+    },
+    {
+      "id": "heritage-highlands-penang",
+      "title": "Heritage & Highlands",
+      "nights": 7,
+      "route": [
+        {
+          "place": "Kuala Lumpur",
+          "nights": 2
+        },
+        {
+          "place": "Cameron Highlands",
+          "nights": 2
+        },
+        {
+          "place": "Penang",
+          "nights": 3
+        }
+      ],
+      "summary": "An overland arc for food and culture people. KL's essentials first, then up to 18°C tea country for BOH estates and the Mossy Forest, before descending to George Town for three days of murals, clan houses and Malaysia's best street food. Fly home direct from Penang.",
+      "priceFrom": "₹62,000",
+      "image": {
+        "query": "cameron highlands tea estate road",
+        "alt": "Winding road through tea plantations in the Cameron Highlands"
+      }
+    },
+    {
+      "id": "kl-borneo-wildlife",
+      "title": "Skyline to Borneo Wild",
+      "nights": 8,
+      "route": [
+        {
+          "place": "Kuala Lumpur",
+          "nights": 3
+        },
+        {
+          "place": "Sepilok & Kinabatangan",
+          "nights": 3
+        },
+        {
+          "place": "Kota Kinabalu",
+          "nights": 2
+        }
+      ],
+      "summary": "City lights, then the wild half of the country. After KL, fly to Sandakan for orangutan feedings at Sepilok and two nights of river safaris on the Kinabatangan, finishing with Kota Kinabalu's island-hopping and waterfront sunsets before the flight back via KL.",
+      "priceFrom": "₹95,000",
+      "image": {
+        "query": "borneo rainforest river aerial",
+        "alt": "A river snaking through dense Bornean rainforest seen from above"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do Indians need a visa for Malaysia?",
+      "a": "No — Indian passport holders currently get visa-free entry for up to 30 days, announced through end-2026. You must fill the free Malaysia Digital Arrival Card (MDAC) online within three days before arrival, and carry a return ticket, hotel bookings and a passport valid six months. Check the current status close to travel, as the waiver is extended in blocks."
+    },
+    {
+      "q": "Is vegetarian food easy to find?",
+      "a": "Very. Malaysia has a large Tamil community, so pure-veg banana-leaf restaurants, dosa joints and Saravana Bhavan-style chains exist in every major city — Brickfields in KL and Little India in George Town are full of them. Chinese vegetarian (look for 'vegetarian' or Buddhist signage) and mamak places round it out. Jain and strict-veg travellers should confirm belacan (shrimp paste) is absent in Malay dishes."
+    },
+    {
+      "q": "How much does a Malaysia trip cost from India?",
+      "a": "A comfortable 6-night KL-plus-Langkawi trip typically lands around ₹50,000–70,000 per person including flights, mid-range hotels and activities. Return fares to KL from South Indian metros regularly drop to ₹12,000–15,000 on sale, and street food at ₹150–300 a meal keeps daily costs low. Borneo add-ons push budgets up mainly through internal flights and lodges."
+    },
+    {
+      "q": "When is the best time to visit?",
+      "a": "December to March is the safest all-round window for KL, Langkawi, Penang and Malacca. If the Perhentians, Redang or Tioman are your priority, flip it — those east-coast islands run April to September and mostly close during the November–February monsoon. September to November brings the heaviest west-coast rain, though city trips still work fine."
+    },
+    {
+      "q": "How do I get around?",
+      "a": "Grab covers cities cheaply and reliably, and KL adds a clean MRT/LRT network plus the 28-minute KLIA Ekspres airport train. Intercity buses are excellent and cheap — KL to Malacca or Cameron Highlands is a comfortable coach ride — while budget flights on AirAsia, Batik Air and Firefly connect Langkawi, Penang and Borneo for ₹2,000–6,000 a sector. Self-driving is easy too: right-hand drive, same as India."
+    },
+    {
+      "q": "Is Malaysia good for families and honeymooners?",
+      "a": "Both, unusually. Families get Genting's theme parks, Langkawi's calm beaches, KL's aquaria and short flight times with minimal jet lag (2½ hours ahead of IST). Honeymooners get adults-only pockets — Datai-end Langkawi, Pangkor Laut, boutique George Town mansions — at prices well under the Maldives for a comparable room. English everywhere keeps logistics stress-free for first-time international travellers."
+    }
+  ]
+}

@@ -1,0 +1,453 @@
+{
+  "slug": "azerbaijan",
+  "name": "Azerbaijan",
+  "displayName": "Azerbaijan",
+  "country": "Azerbaijan",
+  "region": "middle-east",
+  "flag": "🇦🇿",
+  "tagline": "Flame towers, silk-road forts, Caucasus mornings.",
+  "overview": "Azerbaijan sits at the seam where Europe blurs into Asia, and it wears both faces at once. Baku's medieval walled city — caravanserais, a 12th-century tower, carpet shops in stone lanes — is ringed by a glass skyline that lights up like a lava lamp after dark, and the Caspian seafront promenade between them buzzes until midnight. Drive an hour and the country turns strange in the best way: hillsides that have burned for centuries, mud volcanoes gurgling on a moonscape, Stone Age carvings by the sea. Drive four and you're in the Caucasus proper — Gabala's cable cars, Sheki's painted palace, shepherd villages above the clouds. For Indians it is one of the shortest 'foreign-feeling' trips on the map: about three hours non-stop from Delhi, an e-visa approved in days, food built on kebabs, saffron rice and bread, and prices that undercut Europe by half.",
+  "heroAlt": "Baku's illuminated Flame Towers rising above the old city rooftops at dusk",
+  "heroImage": {
+    "query": "baku flame towers skyline night",
+    "alt": "The three Flame Towers glowing red and orange over Baku's skyline at dusk"
+  },
+  "quickFacts": {
+    "capital": "Baku",
+    "currency": {
+      "code": "AZN",
+      "name": "Azerbaijani manat",
+      "inr": "1 AZN ≈ ₹56"
+    },
+    "languages": [
+      "Azerbaijani",
+      "Russian widely spoken",
+      "English in Baku hotels"
+    ],
+    "timezone": "GMT+4 · 1½ hrs behind IST",
+    "flightFromIndia": "≈3½ hrs non-stop from Delhi; about 4 hrs from Mumbai",
+    "plug": "Type C/F · 220V — Indian round-pin plugs usually fit",
+    "sim": "Azercell or Bakcell airport SIM from about ₹700 for 20GB; eSIMs work too"
+  },
+  "visa": {
+    "type": "evisa",
+    "headline": "e-Visa · 30 days, approved online",
+    "body": "Indian passport holders apply on the official ASAN Viza portal — no embassy visit, no biometrics. The single-entry e-visa allows a stay of up to 30 days and is valid for 90 days from issue. Carry a passport valid six months beyond travel; an urgent 3-hour service exists for last-minute bookings.",
+    "cost": "About USD 26 (≈₹2,300)",
+    "processing": "Typically 3 working days"
+  },
+  "weather": {
+    "summary": "Baku is windy, semi-arid and rarely extreme; the Caucasus towns run cooler and greener. Spring and autumn are the sweet spots, summer bakes on the coast while the mountains stay pleasant, and winter turns Shahdag and Tufandag into ski country.",
+    "bestTime": "April – June and September – October",
+    "seasons": [
+      {
+        "label": "Spring & autumn",
+        "months": "Apr – Jun, Sep – Oct",
+        "temp": "16–27°C",
+        "notes": "Mild days in Baku, green valleys in Gabala and Sheki, every road and cable car open — the country at its best.",
+        "tone": "high"
+      },
+      {
+        "label": "Summer",
+        "months": "Jul – Aug",
+        "temp": "28–35°C",
+        "notes": "Hot and dry on the coast, but the mountain towns sit 8–10 degrees cooler — fine if you base upcountry.",
+        "tone": "shoulder"
+      },
+      {
+        "label": "Winter",
+        "months": "Nov – Mar",
+        "temp": "0–10°C",
+        "notes": "Cold and grey in Baku, snowed-in passes upcountry. The exception: ski season at Shahdag, India's cheapest real slopes.",
+        "tone": "low"
+      }
+    ]
+  },
+  "booking": {
+    "high": "May – June and September – October, plus Diwali and New Year weeks",
+    "low": "Late January – March, outside the ski resorts",
+    "note": "Delhi–Baku non-stops are limited and sell out around Indian long weekends, so lock flights 6–8 weeks out. Hotels rarely bottleneck — Baku has more rooms than demand outside conference weeks."
+  },
+  "idealDuration": {
+    "nights": "5 – 7",
+    "note": "Five nights covers Baku plus its fire-and-mud day trips with one mountain base. Add two more to do both Gabala and Sheki without doubling back in a rush."
+  },
+  "budget": {
+    "perDay": [
+      {
+        "tier": "Smart",
+        "inr": "₹4,000 – 6,500"
+      },
+      {
+        "tier": "Comfort",
+        "inr": "₹7,500 – 12,000"
+      },
+      {
+        "tier": "Luxe",
+        "inr": "₹18,000+"
+      }
+    ],
+    "note": "Per person per day with mid-range hotels, Bolt rides in Baku and one paid excursion. A private car with driver for a full mountain day runs about ₹6,000–8,000 split between the group."
+  },
+  "safety": {
+    "score": 4,
+    "headline": "Very safe for visitors, with low street crime and a heavy police presence",
+    "tips": [
+      "Use Bolt for taxis — airport touts and unmetered cabs are the main tourist overcharge.",
+      "Avoid the border zones with Armenia entirely; the rest of the tourist circuit is unaffected.",
+      "Politics around Armenia and Nagorno-Karabakh is a genuinely sensitive topic — don't raise it with strangers.",
+      "Baku traffic is fast and pedestrian crossings are loosely observed; use underpasses on the big avenues.",
+      "Solo women travellers report Baku feels comfortable, though attention increases in rural areas — dress modestly outside the capital.",
+      "Don't photograph military sites, and ask before photographing people at mosques."
+    ]
+  },
+  "goodToKnow": [
+    "Tipping is 5–10% in restaurants; some places add a service charge, so check the bill first.",
+    "Cards work almost everywhere in Baku, but carry manat cash for bazaars, village lunches and mountain guesthouses.",
+    "Bolt is the ride app that matters; Baku's metro is spotless and a ride costs under ₹30 with a BakıKart.",
+    "Tea arrives in pear-shaped glasses with jam on the side — sip the tea through a spoon of jam, don't stir it in.",
+    "Russian gets you further than English outside Baku; Google Translate offline packs help in Sheki and Quba.",
+    "Novruz (around 20–21 March) shuts offices for days and fills hotels — festive to witness, awkward for logistics.",
+    "Azerbaijan is secular and alcohol is freely available, but dress modestly and remove shoes at mosques and the Ateshgah.",
+    "Vegetarians manage fine: qutab with greens, eggplant dishes, saffron plov without meat, salads and fresh bread are everywhere."
+  ],
+  "cities": [
+    {
+      "id": "baku",
+      "name": "Baku",
+      "blurb": "The Caspian capital where a UNESCO-listed walled old town sits under flame-shaped skyscrapers. Base here for the seafront boulevard, museums, food and the fire-and-mud day trips across the Absheron Peninsula.",
+      "image": {
+        "query": "baku old city maiden tower",
+        "alt": "Maiden Tower and stone lanes of Baku's Icherisheher old city"
+      }
+    },
+    {
+      "id": "gabala",
+      "name": "Gabala",
+      "blurb": "Azerbaijan's mountain playground, three hours from Baku: the Tufandag cable car, Nohur Lake, waterfalls and forested resorts. Works in summer for cool air and in winter as a compact ski base.",
+      "image": {
+        "query": "tufandag cable car gabala mountains",
+        "alt": "Cable car gondolas rising over forested Caucasus slopes above Gabala"
+      }
+    },
+    {
+      "id": "sheki",
+      "name": "Sheki",
+      "blurb": "A silk-road trading town in the Caucasus foothills, built around its stained-glass Khan's Palace and an 18th-century caravanserai you can actually sleep in. Famous for piti stew and crumbly saffron halva.",
+      "image": {
+        "query": "sheki khan palace facade",
+        "alt": "The painted, stained-glass facade of the Khan's Palace in Sheki"
+      }
+    },
+    {
+      "id": "quba",
+      "name": "Quba",
+      "blurb": "Orchard country in the northeast and the gateway to Khinalug, one of Europe's highest villages. Also home to Qırmızı Qəsəbə, a centuries-old town of Mountain Jews facing Quba across the river.",
+      "image": {
+        "query": "khinalug village caucasus mountains",
+        "alt": "Stone houses of Khinalug village stacked on a high Caucasus ridge"
+      }
+    },
+    {
+      "id": "shahdag",
+      "name": "Shahdag",
+      "blurb": "A purpose-built mountain resort near the Russian border — Azerbaijan's biggest ski area from December to March, with lift passes and lessons at a fraction of Alpine prices, and hiking plus zip lines in summer.",
+      "image": {
+        "query": "shahdag mountain resort ski slopes",
+        "alt": "Ski slopes and lifts at Shahdag Mountain Resort under snow"
+      }
+    },
+    {
+      "id": "lankaran",
+      "name": "Lankaran",
+      "blurb": "The subtropical south, where tea plantations and citrus groves run between the Talysh mountains and the Caspian. Come for lavangi chicken, black-sand beaches and the offbeat feel of Azerbaijan's deep countryside.",
+      "image": {
+        "query": "lankaran tea plantation azerbaijan",
+        "alt": "Green tea plantation rows near Lankaran with hills behind"
+      }
+    }
+  ],
+  "highlights": [
+    {
+      "id": "icherisheher",
+      "rank": 1,
+      "name": "Icherisheher — Baku Old City",
+      "category": "Heritage",
+      "blurb": "Baku's walled medieval core: the enigmatic Maiden Tower, the Palace of the Shirvanshahs, hammams, carpet shops and stone lanes that pre-date the oil booms by centuries.",
+      "detail": "Enter through the double gates near Icherisheher metro and just drift — the quarter is small enough that getting lost is the point. Climb the Maiden Tower early, before tour groups, for rooftop views across the bay, then give the Shirvanshahs' Palace complex a slow hour; a combined ticket covers both for a few hundred rupees. The lanes are most atmospheric at golden hour, when the limestone glows and tea houses set out tables. Several scenes from a beloved Soviet comedy were shot here, and locals will happily point out the exact staircase. Combine with the Carpet Museum, ten minutes' walk along the boulevard.",
+      "image": {
+        "query": "shirvanshah palace baku old city",
+        "alt": "Courtyard and carved stone portal of the Shirvanshahs' Palace in Baku"
+      }
+    },
+    {
+      "id": "flame-towers-boulevard",
+      "rank": 2,
+      "name": "Flame Towers & Baku Boulevard",
+      "category": "City",
+      "blurb": "Three flame-shaped skyscrapers that turn into a rippling LED fire show at night, best watched from the Caspian seafront promenade or Highland Park above it.",
+      "detail": "The show starts at dusk: the towers cycle through flames, the tricolour flag and waterfall effects, and the whole city seems built to watch it. Take the funicular (or the stairs, 15 sweaty minutes) up to Highland Park for the classic panorama over the bay — arrive 30 minutes before sunset to claim a railing spot. Afterwards walk the Boulevard, Baku's 5km seafront promenade, past the mini-Venice canals and the Ferris wheel; the whole stretch is lively until midnight in summer. Ride the funicular down, or amble to Fountain Square for dinner. Zero tickets needed — this is Baku's best free evening.",
+      "image": {
+        "query": "flame towers baku night illuminated",
+        "alt": "Baku's Flame Towers lit with a rippling flame animation at night"
+      }
+    },
+    {
+      "id": "heydar-aliyev-center",
+      "rank": 3,
+      "name": "Heydar Aliyev Center",
+      "category": "Architecture",
+      "blurb": "Zaha Hadid's white wave of a building, arguably her masterpiece — a museum and gallery inside a structure with barely a straight line in it.",
+      "detail": "Even people who skip museums should come for the exterior: the roof pours to the ground in one continuous curve, and the surrounding lawns with their giant snail and rabbit sculptures are a photographer's playground. Inside, tickets around ₹900 cover a classic car collection, a mini-Azerbaijan model floor and rotating exhibitions; allow 90 minutes. Light is best in late afternoon, when the white shell warms up and the crowds thin. It sits slightly out of the centre — a 10-minute Bolt from Fountain Square — so pair it with the Ganjlik mall area or hit it en route back from the airport road sights.",
+      "image": {
+        "query": "heydar aliyev center zaha hadid",
+        "alt": "The flowing white curves of the Heydar Aliyev Center against a blue sky"
+      }
+    },
+    {
+      "id": "gobustan-mud-volcanoes",
+      "rank": 4,
+      "name": "Gobustan Rock Art & Mud Volcanoes",
+      "category": "Nature",
+      "blurb": "A UNESCO site of 6,000-plus petroglyphs up to 40,000 years old, next door to a lunar plain of cold, burping mud volcanoes — one surreal half-day southwest of Baku.",
+      "detail": "Do this as a half-day tour or private car from Baku (about an hour each way). Start at the slick interactive museum — it makes the carvings of boats, dancers and aurochs legible before you walk the boulders themselves. Then transfer into a battered Lada for the bone-rattling ride to the mud volcanoes; the little cones gurgle and spit cool grey mud you can touch, and the landscape looks borrowed from another planet. Wear shoes you don't love. Morning slots beat the afternoon heat and haze, and most tours tack on Bibi-Heybat Mosque on the way back. Entry fees are minor; the Lada transfer is cash.",
+      "image": {
+        "query": "gobustan mud volcanoes azerbaijan",
+        "alt": "Grey mud volcano cones bubbling on Gobustan's barren plain"
+      }
+    },
+    {
+      "id": "yanar-dag",
+      "rank": 5,
+      "name": "Yanar Dag — the Burning Hillside",
+      "category": "Nature",
+      "blurb": "A ten-metre wall of natural gas flames that has burned continuously for decades on the Absheron Peninsula — the literal fire in the Land of Fire.",
+      "detail": "Yanar Dag is a 30-minute drive from central Baku and needs only 45 minutes on site, which is exactly why it slots perfectly into an Absheron half-day with the Ateshgah temple. Come at dusk if you can: the flames are underwhelming under a bright midday sun and hypnotic against a darkening sky, especially in winter when snow sizzles at the fire's edge. There's a small museum and amphitheatre seating right in front of the burning slope; entry is a couple of hundred rupees. Skip the trinket stalls, order tea from the little café, and sit with the heat on your face — it's a strangely calming spectacle.",
+      "image": {
+        "query": "yanar dag burning mountain baku",
+        "alt": "Natural gas flames burning along the base of the Yanar Dag hillside"
+      }
+    },
+    {
+      "id": "ateshgah",
+      "rank": 6,
+      "name": "Ateshgah Fire Temple",
+      "category": "Heritage",
+      "blurb": "A pentagonal fire temple built by Indian merchants and ascetics on a natural gas vent — Sanskrit and Punjabi inscriptions still frame its cells.",
+      "detail": "For Indian travellers this is the most personal site in Azerbaijan: the 17th–18th century complex at Surakhani was raised largely by traders and sadhus from Multan and beyond, and inscriptions in Devanagari and Gurmukhi survive above the doorways. The central altar's flame now runs on piped gas — the natural vent was exhausted in the 1960s — but the cells around the courtyard hold vivid displays of the ascetics' extreme austerities. It's 30 minutes from Baku near Surakhani station; pair it with Yanar Dag for a tidy fire-themed half-day. Entry is modest, and an hour is plenty. Go early to beat the tour buses.",
+      "image": {
+        "query": "ateshgah fire temple surakhani",
+        "alt": "Central flame altar in the courtyard of the Ateshgah fire temple"
+      }
+    },
+    {
+      "id": "sheki-khan-palace",
+      "rank": 7,
+      "name": "Sheki Khan's Palace",
+      "category": "Heritage",
+      "blurb": "An 18th-century summer palace assembled without a single nail, its facade a mosaic of stained glass and its interiors covered floor-to-ceiling in miniature paintings.",
+      "detail": "The palace is small — two floors, six rooms — but the shebeke windows, thousands of hand-cut glass pieces slotted into wooden lattice, throw coloured light across battle frescoes and floral murals that reward slow looking. Entry is guided-only in small groups and photography inside is banned, which keeps it serene; tickets are a few hundred rupees. Come mid-morning when sunlight hits the facade directly. Sheki itself deserves the rest of the day: walk down through the old town to the Karvansaray hotel for tea in its courtyard, watch shebeke artisans at work, and buy Sheki halva from Aliahmad's — the town's century-old sweet shop.",
+      "image": {
+        "query": "sheki khan palace stained glass",
+        "alt": "Stained-glass shebeke windows and painted walls of the Sheki Khan's Palace"
+      }
+    },
+    {
+      "id": "tufandag-gabala",
+      "rank": 8,
+      "name": "Tufandag Cable Car, Gabala",
+      "category": "Mountains",
+      "blurb": "A four-stage cable car climbing from Gabala town to nearly 2,000m, with Caucasus panoramas in summer and Azerbaijan's most accessible skiing in winter.",
+      "detail": "Ride all four stages for the full effect — the landscape shifts from orchards to alpine meadow to bare ridgeline in 40 minutes, and return tickets cost well under ₹1,000. In winter (roughly December to March) the same lifts serve ski runs with rental gear and instructors on site; in summer the top stations open walking trails and mountain-view cafés. Weather turns fast up top, so carry a layer even in July and go before noon for clear views. Combine with Nohur Lake's mirror-still water ten minutes away and the Seven Beauties waterfall for a full Gabala day.",
+      "image": {
+        "query": "tufandag mountain resort gabala",
+        "alt": "Tufandag cable car climbing toward snow-dusted Caucasus peaks"
+      }
+    },
+    {
+      "id": "khinalug",
+      "rank": 9,
+      "name": "Khinalug Village",
+      "category": "Adventure",
+      "blurb": "A 2,300m-high village of stacked stone houses whose people speak a language found nowhere else on earth, reached by a spectacular canyon road from Quba.",
+      "detail": "The two-hour drive up from Quba is half the experience — the road threads a gorge, breaks onto high pasture and finally reveals Khinalug stacked on its ridge like something hand-built by geology. The village has been inhabited for millennia and its language, Ketsh, belongs to no wider family. Hire a local driver in Quba (paved road, but confidence helps) or book a Baku-based day tour; homestays serve mountain bread, cheese and tea if you stay over. Late May to early October is the window — snow closes the upper road in winter. Dress warmly regardless, walk slowly at altitude, and greet before you photograph.",
+      "image": {
+        "query": "khinalug village mountain road",
+        "alt": "Khinalug's stone houses on a high ridge with Caucasus peaks behind"
+      }
+    },
+    {
+      "id": "lahij",
+      "rank": 10,
+      "name": "Lahij Coppersmith Village",
+      "category": "Culture",
+      "blurb": "A cobbled mountain village where coppersmiths still hammer pots and trays in open workshops along one stone street, as they have for centuries.",
+      "detail": "Lahij sits up a dramatic river-gorge road off the Baku–Sheki highway, which makes it a natural leg-stretch between the capital and the mountains rather than a dedicated trip. The main lane is short — an hour covers it — but it's the real thing: working forges, the tap of hammers, engravers finishing trays by the window light. Prices for hand-worked copper are fair and haggling is gentle; a small engraved pot makes the best souvenir in the country. There's a tiny local history museum in an old mosque and a couple of terrace cafés over the gorge. Mornings are quieter; weekends bring Baku day-trippers.",
+      "image": {
+        "query": "lahij village copper workshop",
+        "alt": "Coppersmith's workshop with hammered pots on a cobbled Lahij street"
+      }
+    }
+  ],
+  "activities": [
+    {
+      "id": "absheron-jeep-safari",
+      "name": "Absheron Fire & Mud Jeep Safari",
+      "category": "Adventure",
+      "blurb": "A half-day 4x4 loop through Baku's strange backyard — mud volcanoes, the burning hillside at Yanar Dag and the Ateshgah temple — with a driver who knows which cones are gurgling that week.",
+      "image": {
+        "query": "lada jeep gobustan desert",
+        "alt": "A 4x4 crossing the barren mud-volcano plains near Baku"
+      }
+    },
+    {
+      "id": "baku-food-walk",
+      "name": "Baku Old City Food Walk",
+      "category": "Food",
+      "blurb": "Graze through qutab flatbreads, saffron plov, pomegranate everything and Sheki-style sweets with a local guide, finishing with tea and jam the proper Azerbaijani way.",
+      "image": {
+        "query": "azerbaijani plov qutab food",
+        "alt": "Saffron plov and qutab flatbreads laid out at a Baku restaurant"
+      }
+    },
+    {
+      "id": "old-city-hammam",
+      "name": "Traditional Hammam Session",
+      "category": "Wellness",
+      "blurb": "Steam, scrub and mint tea in a centuries-old domed bathhouse — Baku's hammams are the unhurried, inexpensive answer to a day of walking, with separate hours for men and women.",
+      "image": {
+        "query": "hammam bathhouse dome interior",
+        "alt": "Stone domes and steam inside a traditional Baku bathhouse"
+      }
+    },
+    {
+      "id": "caspian-cruise",
+      "name": "Caspian Sunset Cruise",
+      "category": "Water",
+      "blurb": "A one-hour boat loop from Baku Boulevard as the Flame Towers light up — the cheapest good seat in the house for the skyline show, with longer dinner sailings in summer.",
+      "image": {
+        "query": "baku boulevard caspian sea skyline",
+        "alt": "Baku's skyline glowing over the Caspian Sea from a boat at dusk"
+      }
+    },
+    {
+      "id": "carpet-workshop",
+      "name": "Carpet Museum & Weaving Workshop",
+      "category": "Culture",
+      "blurb": "Azerbaijan's carpet tradition is UNESCO-listed; see the masterpieces in the rolled-carpet-shaped museum, then try a few rows of knotting yourself at a weaving demonstration.",
+      "image": {
+        "query": "azerbaijan carpet museum baku",
+        "alt": "The carpet-roll shaped facade of the Azerbaijan Carpet Museum"
+      }
+    },
+    {
+      "id": "baku-nightlife",
+      "name": "Fountain Square Nights",
+      "category": "Nightlife",
+      "blurb": "Rooftop lounges over the old city walls, wine bars pouring local Saperavi, and shisha terraces around Fountain Square — Baku after dark is relaxed, safe and surprisingly stylish.",
+      "image": {
+        "query": "fountain square baku night",
+        "alt": "Cafés and lit fountains at Baku's Fountain Square after dark"
+      }
+    }
+  ],
+  "trips": [
+    {
+      "id": "baku-long-weekend",
+      "title": "Baku Long Weekend",
+      "nights": 4,
+      "route": [
+        {
+          "place": "Baku",
+          "nights": 4
+        }
+      ],
+      "summary": "The efficient first taste: two days for the Old City, Boulevard, Heydar Aliyev Center and Highland Park sunset, one for the Gobustan–mud volcano half-day, one for Ateshgah and Yanar Dag. Non-stop flights make this genuinely doable over an extended weekend from Delhi or Mumbai.",
+      "priceFrom": "₹55,000",
+      "image": {
+        "query": "baku skyline highland park view",
+        "alt": "Panorama of Baku's bay and skyline from Highland Park"
+      }
+    },
+    {
+      "id": "baku-and-mountains",
+      "title": "Baku & the Mountains",
+      "nights": 6,
+      "route": [
+        {
+          "place": "Baku",
+          "nights": 3
+        },
+        {
+          "place": "Gabala",
+          "nights": 2
+        },
+        {
+          "place": "Sheki",
+          "nights": 1
+        }
+      ],
+      "summary": "The classic loop: Baku's city sights and fire country first, then north-west through Lahij's copper lanes to Gabala for the Tufandag cable car and Nohur Lake, ending with the stained-glass Khan's Palace and a caravanserai night in Sheki before driving back or flying out via Ganja.",
+      "priceFrom": "₹78,000",
+      "image": {
+        "query": "nohur lake gabala reflection",
+        "alt": "Still waters of Nohur Lake reflecting forested Caucasus hills"
+      }
+    },
+    {
+      "id": "grand-azerbaijan",
+      "title": "Grand Azerbaijan",
+      "nights": 8,
+      "route": [
+        {
+          "place": "Baku",
+          "nights": 3
+        },
+        {
+          "place": "Gabala",
+          "nights": 2
+        },
+        {
+          "place": "Sheki",
+          "nights": 2
+        },
+        {
+          "place": "Quba",
+          "nights": 1
+        }
+      ],
+      "summary": "Everything the shorter loops skip: a full Sheki day for halva, shebeke workshops and the Kish church, plus a Quba finale with the drive up to Khinalug at 2,300m and a walk through the Mountain Jews' quarter. Best in May–June or September when every mountain road is open.",
+      "priceFrom": "₹1,05,000",
+      "image": {
+        "query": "caucasus mountains road azerbaijan",
+        "alt": "A mountain road winding through a green Caucasus gorge near Quba"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do Indians need a visa for Azerbaijan?",
+      "a": "Yes — an e-visa, applied for entirely online on the official ASAN Viza portal. It costs about USD 26 (≈₹2,300), is typically approved in 3 working days, and allows a 30-day single-entry stay. There is no visa on arrival for Indian passports, so apply before you fly; an urgent 3-hour service exists if you cut it fine."
+    },
+    {
+      "q": "Will I find vegetarian food easily?",
+      "a": "Easier than the kebab reputation suggests. Qutab stuffed with greens or pumpkin, eggplant and tomato dishes, dovga yoghurt soup, meat-free plov, fresh salads, cheese and superb bread are on every menu, and Baku has proper Indian restaurants for a homesick night. Say 'ətsiz' (without meat) to be safe, since some soups use meat stock."
+    },
+    {
+      "q": "Is Azerbaijan expensive compared to Europe?",
+      "a": "Noticeably cheaper. A good sit-down meal in Baku runs ₹700–1,200 per person, a comfortable 4-star hotel ₹6,000–9,000 a night, and a full-day private car with driver about ₹6,000–8,000 for the group. With non-stop flights around ₹22,000–30,000 return, a week here usually costs less than five days in Western Europe."
+    },
+    {
+      "q": "When is the best time to go?",
+      "a": "April to June and September to October — mild in Baku, green in the mountains, everything open. July–August works if you split time between the (hot) coast and the (cool) mountains. December to March is for Shahdag and Tufandag ski trips; the high mountain villages like Khinalug become hard to reach in winter."
+    },
+    {
+      "q": "How do I get around without renting a car?",
+      "a": "In Baku, use Bolt (rides across town cost ₹150–400) and the cheap, clean metro. For the mountains, hire a private car with driver — agencies and hotels arrange them easily — or join day tours from Baku. Shared minibuses connect Baku to Gabala, Sheki and Quba for a few hundred rupees if you're on a tight budget."
+    },
+    {
+      "q": "Is it safe, and are there areas to avoid?",
+      "a": "Azerbaijan is one of the safer destinations in the region — street crime is rare and the tourist circuit is heavily policed. The only real no-go is the border zone with Armenia, which lies nowhere near the standard Baku–Gabala–Sheki–Quba route. The usual sense applies: use app taxis, watch your phone in bazaars, and avoid political debates."
+    }
+  ]
+}

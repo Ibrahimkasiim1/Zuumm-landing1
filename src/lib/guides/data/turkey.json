@@ -1,0 +1,473 @@
+{
+  "slug": "turkey",
+  "name": "Turkey",
+  "displayName": "Türkiye",
+  "country": "Türkiye",
+  "region": "middle-east",
+  "flag": "🇹🇷",
+  "tagline": "Balloon sunrises, bazaar haggles, turquoise coastlines.",
+  "overview": "Türkiye packs three trips into one ticket. Istanbul alone is a week's worth of city — Byzantine domes and Ottoman palaces on one shore, rooftop cafés and vintage trams on the other, with ferries shuttling between Europe and Asia for the price of a chai. Fly an hour inland and you are in Cappadocia, drifting over honeycombed valleys in a hot-air balloon before breakfast in a cave hotel. Head south instead and the Turquoise Coast delivers gulet cruises, paragliding over Ölüdeniz and ruins that predate Rome. The food needs no selling — kebabs, mezes, baklava and endless tulip glasses of tea — and vegetarians eat far better here than most expect. For Indian travellers the main hurdle is the sticker visa, which rewards planning ahead; once that is stamped, non-stop flights put Istanbul closer than parts of Southeast Asia, and the lira stretches a rupee budget further than almost anywhere in Europe.",
+  "heroAlt": "Hot-air balloons rising over the rock valleys of Cappadocia at sunrise",
+  "heroImage": {
+    "query": "cappadocia hot air balloons sunrise",
+    "alt": "Dozens of colourful hot-air balloons floating over Cappadocia's rock formations at dawn",
+    "candidates": [
+      "https://images.unsplash.com/photo-1641128324972-af3212f0f6bd"
+    ]
+  },
+  "quickFacts": {
+    "capital": "Ankara",
+    "currency": {
+      "code": "TRY",
+      "name": "Turkish lira",
+      "inr": "₺1 ≈ ₹2"
+    },
+    "languages": [
+      "Turkish",
+      "English in tourist areas"
+    ],
+    "timezone": "GMT+3 · 2½ hrs behind IST",
+    "flightFromIndia": "≈6½ hrs non-stop from Delhi or Mumbai to Istanbul on IndiGo or Turkish Airlines",
+    "plug": "Type C/F · 230V — Indian round-pin plugs usually fit, carry one adapter to be safe",
+    "sim": "Airport tourist SIMs are overpriced at ₹2,500+; an Airalo or Saily eSIM from about ₹1,000 for 10–20GB is the smarter buy"
+  },
+  "visa": {
+    "type": "sticker",
+    "headline": "Sticker visa via visa centre · e-visa shortcut for some",
+    "body": "Most Indian passport holders need a sticker visa applied through the Turkish visa application centres in Delhi, Mumbai and other metros — there is no visa on arrival. The useful exception: if you hold a valid US, UK, Irish or Schengen visa or residence permit, you can buy a 30-day single-entry e-visa online in minutes. Carry a passport valid six months beyond travel, confirmed hotels and return tickets.",
+    "cost": "≈₹13,000 – 17,500 with service fees (e-visa about $43–52 if eligible)",
+    "processing": "Typically 1 – 2 weeks at the visa centre; e-visa within 48 hours"
+  },
+  "weather": {
+    "summary": "A genuinely four-season country. The coast is Mediterranean — hot dry summers, mild wet winters — while Cappadocia and central Anatolia swing from 35°C summers to snow-dusted Januarys. Spring and autumn hit the balance where everything works: cities walkable, seas swimmable, balloons flying.",
+    "bestTime": "April – June & September – October",
+    "seasons": [
+      {
+        "label": "Spring & autumn",
+        "months": "Apr – Jun, Sep – Oct",
+        "temp": "15 – 28°C",
+        "notes": "Tulips or golden light, comfortable sightseeing everywhere and calm mornings for balloon flights — the whole country open at once.",
+        "tone": "high"
+      },
+      {
+        "label": "High summer",
+        "months": "Jul – Aug",
+        "temp": "28 – 38°C",
+        "notes": "Peak beach season on the coast but sweaty queues in Istanbul and scorching afternoons at Ephesus. Fine if the sea is the point.",
+        "tone": "shoulder"
+      },
+      {
+        "label": "Winter",
+        "months": "Nov – Mar",
+        "temp": "3 – 14°C",
+        "notes": "Cold, grey and often rainy — yet Cappadocia under snow is magical and hotel rates drop by half. Pack proper layers.",
+        "tone": "low"
+      }
+    ]
+  },
+  "booking": {
+    "high": "May – September, plus the Christmas – New Year week",
+    "low": "November – March, outside New Year",
+    "note": "Balloon slots and cave hotels in Cappadocia sell out weeks ahead in spring and autumn — lock those first, then build the rest around them. April and October give peak weather at noticeably softer fares."
+  },
+  "idealDuration": {
+    "nights": "7 – 9",
+    "note": "Seven nights covers Istanbul plus Cappadocia without rushing. Stretch to nine and you can add Pamukkale and Ephesus, or trade them for a coastal base like Fethiye or Antalya."
+  },
+  "budget": {
+    "perDay": [
+      {
+        "tier": "Smart",
+        "inr": "₹5,500 – 8,500"
+      },
+      {
+        "tier": "Comfort",
+        "inr": "₹10,000 – 17,000"
+      },
+      {
+        "tier": "Luxe",
+        "inr": "₹25,000+"
+      }
+    ],
+    "note": "Per person per day with mid-range hotels, trams and one paid activity. Food and transport are cheap; the big-ticket items are balloon flights (₹15,000 – 20,000) and Istanbul's headline museums, which now charge euro-priced tickets of roughly ₹2,000 – 5,000 each."
+  },
+  "safety": {
+    "score": 4,
+    "headline": "Safe and well-trodden — just learn the two classic Istanbul scams",
+    "tips": [
+      "Use BiTaksi or Uber in Istanbul, or insist on the meter — airport and Taksim taxis are the most common complaint travellers have.",
+      "Politely walk away from over-friendly strangers offering drinks or club invitations near Taksim; the inflated-bill bar scam targets solo male tourists.",
+      "Watch pockets and bags on the T1 tram and in the Grand Bazaar crush, as you would on any busy metro.",
+      "Stick to the tourist belt — Istanbul, Cappadocia, the Aegean and Mediterranean coasts; skip the far southeastern border provinces.",
+      "Women travellers report Türkiye as comfortable by regional standards; a scarf in the daypack covers mosque visits and conservative neighbourhoods."
+    ]
+  },
+  "goodToKnow": [
+    "Tipping runs 5 – 10% in sit-down restaurants, usually in cash even when you pay the bill by card.",
+    "Cards work almost everywhere, but keep lira notes for bazaars, taxis, tips and public toilets — and haggling in the Grand Bazaar is expected, starting around half the quoted price.",
+    "Buy an Istanbulkart (about ₹250) at any metro station; it covers trams, ferries, metro and funiculars for the whole group.",
+    "Domestic flights on Pegasus and AJet cost ₹3,000 – 6,000 booked early — the sane way to cover Istanbul–Cappadocia or Istanbul–Antalya distances.",
+    "Major mosques close to visitors at prayer times and require covered shoulders and knees; scarves are lent free at the Blue Mosque entrance.",
+    "During Ramazan most tourist restaurants stay open, but book ahead for iftar hours; Republic Day on 29 October brings closures and flag-waving crowds.",
+    "Tea is the social currency — accepting a tulip glass from a carpet seller commits you to nothing.",
+    "Turkish breakfast (kahvaltı) is an event, not a meal; budget 90 minutes and skip lunch."
+  ],
+  "cities": [
+    {
+      "id": "istanbul",
+      "name": "Istanbul",
+      "blurb": "The only city spread across two continents earns its hype: Hagia Sophia and Topkapi by day, Galata rooftops and meyhane dinners by night, Bosphorus ferries in between. Base in Sultanahmet for sights or Karaköy for atmosphere.",
+      "image": {
+        "query": "galata tower istanbul skyline",
+        "alt": "Galata Tower rising above Istanbul rooftops with seagulls circling at golden hour",
+        "candidates": [
+          "https://images.unsplash.com/photo-1524231757912-21f4fe3a7200"
+        ]
+      }
+    },
+    {
+      "id": "goreme",
+      "name": "Göreme, Cappadocia",
+      "blurb": "A village carved into fairy-chimney rock, ringed by hiking valleys and open-air churches. Sleep in a cave hotel, wake at 5am for the balloon launch, and spend afternoons exploring underground cities.",
+      "image": {
+        "query": "goreme cappadocia cave hotels valley",
+        "alt": "Cave hotels and fairy chimneys of Göreme village at dusk"
+      }
+    },
+    {
+      "id": "antalya",
+      "name": "Antalya",
+      "blurb": "The Mediterranean workhorse: a walkable Roman-walled old town (Kaleiçi), cliff-top beaches, waterfalls inside city limits and day trips to ancient Perge and Aspendos. Big resorts line the coast either side.",
+      "image": {
+        "query": "antalya kaleici old town harbour",
+        "alt": "Antalya's old harbour below the Roman walls of Kaleiçi"
+      }
+    },
+    {
+      "id": "fethiye",
+      "name": "Fethiye & Ölüdeniz",
+      "blurb": "Türkiye's adventure coast — paragliding off Babadağ mountain, the Blue Lagoon, gulet day cruises to the Twelve Islands and the start of the Lycian Way trail. Laid-back, good value, very Instagram-literate.",
+      "image": {
+        "query": "oludeniz blue lagoon aerial",
+        "alt": "The turquoise Blue Lagoon and sandspit at Ölüdeniz seen from above"
+      }
+    },
+    {
+      "id": "izmir-selcuk",
+      "name": "Izmir & Selçuk",
+      "blurb": "The Aegean base for Ephesus, one of the best-preserved ancient cities anywhere, plus the hillside wine village of Şirince. Izmir itself is breezy, secular and pleasantly untouristed.",
+      "image": {
+        "query": "ephesus library of celsus",
+        "alt": "The two-storey facade of the Library of Celsus at Ephesus"
+      }
+    },
+    {
+      "id": "pamukkale",
+      "name": "Pamukkale",
+      "blurb": "White travertine terraces spilling down a hillside, with the Roman spa town of Hierapolis on top. An overnight stop lets you beat the tour buses to the pools at 8am.",
+      "image": {
+        "query": "pamukkale travertine terraces",
+        "alt": "Turquoise water pooling in Pamukkale's white travertine terraces"
+      }
+    }
+  ],
+  "highlights": [
+    {
+      "id": "cappadocia-balloon",
+      "rank": 1,
+      "name": "Hot-air ballooning over Cappadocia",
+      "category": "Adventure",
+      "blurb": "A hundred balloons lifting off together over fairy chimneys at sunrise — the single image that sells Türkiye, and it genuinely lives up to it.",
+      "detail": "Flights launch at dawn year-round but cancel in wind, so schedule the balloon for your first Cappadocia morning and keep a spare day as backup. Standard baskets carry 20-plus people for around ₹15,000 – 18,000; smaller comfort baskets cost more and are worth it for photographers. Book directly with licensed operators like Butterfly or Royal a few weeks ahead in spring and autumn. Too budget-tight to fly? The sunrise viewpoints above Göreme, or a hotel terrace, put the whole spectacle in front of you for free.",
+      "image": {
+        "query": "cappadocia balloons fairy chimneys sunrise",
+        "alt": "Colourful hot-air balloons drifting low over Cappadocia's eroded rock valleys",
+        "candidates": [
+          "https://images.unsplash.com/photo-1641128324972-af3212f0f6bd"
+        ]
+      }
+    },
+    {
+      "id": "hagia-sophia",
+      "rank": 2,
+      "name": "Hagia Sophia",
+      "category": "Culture",
+      "blurb": "Fifteen centuries as cathedral, mosque, museum and mosque again — the dome that defined architecture for a thousand years still stops conversation mid-sentence.",
+      "detail": "Tourists now enter via a dedicated gate and visit the upper gallery, with tickets around €25 — buy online to skip the queue, and go at opening (9am) before the tour groups land. The gallery gives you the famous Byzantine mosaics and the best dome views anyway. It sits directly opposite the Blue Mosque across a fountain square, so pair the two in one morning, then walk five minutes to the Basilica Cistern for the cool, column-forested underworld beneath the same square.",
+      "image": {
+        "query": "hagia sophia istanbul exterior",
+        "alt": "The great dome and minarets of Hagia Sophia in Sultanahmet"
+      }
+    },
+    {
+      "id": "blue-mosque",
+      "rank": 3,
+      "name": "Blue Mosque",
+      "category": "Culture",
+      "blurb": "Six minarets and twenty thousand hand-painted İznik tiles — Sultanahmet's showpiece mosque, still active and free to enter between prayer times.",
+      "detail": "Entry is free, which makes timing the only skill: visit mid-morning or mid-afternoon between the five daily prayers, and skip Friday midday altogether when it closes longest for congregational prayers. Dress code is enforced — knees and shoulders covered, headscarves lent free at the door, shoes carried in a bag. The interior blue glow is best on bright days when light pours through the 200-plus stained windows. Combine with Hagia Sophia opposite and the Hippodrome alongside, then walk downhill to the Arasta Bazaar for calmer shopping than the Grand Bazaar.",
+      "image": {
+        "query": "blue mosque sultanahmet istanbul",
+        "alt": "The domes and six minarets of the Blue Mosque against a pink dusk sky",
+        "candidates": [
+          "https://images.unsplash.com/photo-1527838832700-5059252407fa"
+        ]
+      }
+    },
+    {
+      "id": "bosphorus-cruise",
+      "rank": 4,
+      "name": "Bosphorus cruise",
+      "category": "Experience",
+      "blurb": "Sail the strait between Europe and Asia past Ottoman palaces, waterfront mansions and two continents' worth of skyline — for less than the price of a coffee.",
+      "detail": "Skip the tourist boats and ride the public Şehir Hatları ferries: the short 90-minute Bosphorus loop from Eminönü costs a few hundred rupees on your Istanbulkart, or the long cruise runs all the way to Anadolu Kavağı fishing village for a lazy lunch. Sit on the right side going north for Dolmabahçe Palace, Ortaköy Mosque and the fortress of Rumeli Hisarı. Golden hour departures are the photographer's pick — seagulls trail the boat and the minarets go silhouette. Simit and tea on board is mandatory.",
+      "image": {
+        "query": "istanbul bosphorus ferry skyline",
+        "alt": "A ferry crossing the Golden Horn with Istanbul's mosque-studded skyline behind",
+        "candidates": [
+          "https://images.unsplash.com/photo-1589561454226-796a8aa89b05"
+        ]
+      }
+    },
+    {
+      "id": "pamukkale-terraces",
+      "rank": 5,
+      "name": "Pamukkale & Hierapolis",
+      "category": "Nature",
+      "blurb": "A cliff of blinding-white calcium terraces filled with warm spring water, crowned by a complete Roman spa city with an amphitheatre and column-strewn pool.",
+      "detail": "Everyone shoots the terraces; fewer plan them well. Stay overnight in Pamukkale village and enter at 8am, or after 4pm when the day-trippers from Antalya have gone and the low sun turns the travertines gold. You walk the terraces barefoot — shoes in hand — and the water-filled pools are shallower than photos suggest, so temper expectations in dry months. Budget an extra hour up top for Hierapolis: the amphitheatre is superb, and the Antique Pool lets you swim over toppled Roman columns for a separate fee. Pairs naturally with Ephesus on any coast-bound route.",
+      "image": {
+        "query": "pamukkale white travertine pools",
+        "alt": "Bathers wading through terraced white travertine pools at Pamukkale"
+      }
+    },
+    {
+      "id": "ephesus",
+      "rank": 6,
+      "name": "Ephesus",
+      "category": "History",
+      "blurb": "The Roman world's fourth-largest city, excavated enough to walk marble streets past the Library of Celsus and a 25,000-seat theatre.",
+      "detail": "Base in Selçuk, ten minutes away, and enter from the upper gate so the walk runs downhill, ending at the Library of Celsus and the Great Theatre. Go at opening or after 3pm — the marble bounces heat and cruise-ship groups from Kuşadası own the middle of the day. The add-on Terrace Houses ticket is worth it: intact frescoes and mosaics under a protective roof, usually crowd-free. Nearby, the House of the Virgin Mary and the single standing column of the Temple of Artemis round out a half day; Şirince village handles lunch and local wine.",
+      "image": {
+        "query": "library of celsus ephesus ruins",
+        "alt": "Tourists dwarfed by the restored facade of the Library of Celsus"
+      }
+    },
+    {
+      "id": "grand-bazaar",
+      "rank": 7,
+      "name": "Grand Bazaar & Spice Bazaar",
+      "category": "Shopping",
+      "blurb": "Four thousand shops under painted vaulted ceilings — one of the world's oldest covered markets, equal parts theatre, history and cheerful ambush.",
+      "detail": "Treat the Grand Bazaar as a sight first and a shop second: enter at Beyazıt gate, drift without a map, and remember every quoted price expects a counter-offer around half. Lamps, ceramics, towels and evil-eye everything are the safe buys; leave serious carpet or gold purchases for shops you have researched. The smaller Spice Bazaar near Eminönü is easier on the nerves and better for edible souvenirs — buy saffron, pistachio baklava and Turkish delight where locals queue, not at the entrance stalls. Both close Sundays; go weekday mornings before the tour groups compress the lanes.",
+      "image": {
+        "query": "grand bazaar istanbul lamps",
+        "alt": "Glowing mosaic lamps hanging in a Grand Bazaar shopfront"
+      }
+    },
+    {
+      "id": "oludeniz-lagoon",
+      "rank": 8,
+      "name": "Ölüdeniz Blue Lagoon & paragliding",
+      "category": "Adventure",
+      "blurb": "A sheltered turquoise lagoon beneath a 1,900-metre mountain that doubles as one of the world's best commercial paragliding launch sites.",
+      "detail": "The tandem flight off Babadağ is the headline: 25 – 40 minutes of ridge soaring ending on the beach promenade, around ₹8,000 – 12,000 with operators like Sky Sports, best flown in the morning calm. Feet-on-ground travellers still win — the lagoon itself is a protected national park beach with paddleboards and shallow, glassy water, a short dolmuş ride from Fethiye. Come April – June or September – October; July and August are beautiful but rammed. Add the ghost village of Kayaköy or a Butterfly Valley boat trip to fill the afternoon.",
+      "image": {
+        "query": "paragliding oludeniz turquoise lagoon",
+        "alt": "A tandem paraglider soaring above the turquoise Blue Lagoon at Ölüdeniz"
+      }
+    },
+    {
+      "id": "topkapi-palace",
+      "rank": 9,
+      "name": "Topkapi Palace",
+      "category": "History",
+      "blurb": "Four centuries of Ottoman sultans ruled from these courtyards above the Bosphorus — jewels, relics and the famously intrigue-filled Harem included.",
+      "detail": "Give it a half day and buy the combined ticket that includes the Harem — skipping it to save money misses the most atmospheric, tile-drenched section of the palace. Arrive at opening and head straight for the Treasury (the 86-carat Spoonmaker's Diamond draws the longest queue), then work backwards through the courtyards. The terrace behind the fourth courtyard has the best free view over the Bosphorus meeting the Golden Horn — timed right, it is your lunch spot. Closed Tuesdays. Combine with the Istanbul Archaeology Museums next door if antiquity is your thing.",
+      "image": {
+        "query": "topkapi palace courtyard istanbul",
+        "alt": "Tiled kiosks and courtyards of Topkapi Palace overlooking the Bosphorus"
+      }
+    },
+    {
+      "id": "balat-streets",
+      "rank": 10,
+      "name": "Balat & Fener backstreets",
+      "category": "Neighbourhood",
+      "blurb": "Istanbul's old Greek and Jewish quarters — steep lanes of candy-coloured houses, antique shops and third-wave cafés, still lived-in rather than staged.",
+      "detail": "The insider half-day most itineraries miss. Take the ferry or bus up the Golden Horn to Fener, climb to the red-brick Phanar Greek Orthodox College that towers over the district, then wander downhill through Balat's photogenic Kiremit and Merdivenli streets. Sunday flea stalls, cats on every windowsill and coffee roasters in converted grocers set the tone; the iron-framed St. Stephen Bulgarian church by the water is quietly spectacular. Go weekday mornings for empty lanes or weekends for street life. It connects neatly with the mosaic-filled Chora Church, a short taxi uphill.",
+      "image": {
+        "query": "balat colorful houses istanbul",
+        "alt": "Steep Balat street lined with brightly painted Ottoman-era houses"
+      }
+    }
+  ],
+  "activities": [
+    {
+      "id": "balloon-flight",
+      "name": "Sunrise balloon flight, Cappadocia",
+      "category": "Adventure",
+      "blurb": "An hour drifting over fairy chimneys and vineyard valleys with a hundred other balloons for company — book the first morning of your stay and keep a weather backup day.",
+      "image": {
+        "query": "cappadocia balloon basket sunrise",
+        "alt": "Passengers in a balloon basket floating over Cappadocia at dawn"
+      }
+    },
+    {
+      "id": "hamam-ritual",
+      "name": "Traditional hamam",
+      "category": "Wellness",
+      "blurb": "The full Ottoman scrub-and-foam ritual on a heated marble slab. Historic Istanbul houses like Çemberlitaş or Kılıç Ali Paşa run from about ₹4,000; you leave a kilo lighter in dead skin and stress.",
+      "image": {
+        "query": "turkish hamam marble interior",
+        "alt": "Light shafts falling through a domed ceiling onto the marble slab of a Turkish bath"
+      }
+    },
+    {
+      "id": "food-walk",
+      "name": "Istanbul street-food walk",
+      "category": "Food",
+      "blurb": "Guided grazing through Karaköy and the Asian side's Kadıköy market — simit, midye dolma, künefe, fish sandwiches and lahmacun with the backstories that make them taste better.",
+      "image": {
+        "query": "istanbul street food simit stall",
+        "alt": "A red simit cart stacked with sesame bread rings on an Istanbul street"
+      }
+    },
+    {
+      "id": "gulet-cruise",
+      "name": "Twelve Islands gulet cruise, Fethiye",
+      "category": "Water",
+      "blurb": "A day on a wooden gulet hopping swim stops in coves only boats can reach, lunch grilled on board. Full-day trips run around ₹2,500 – 4,000; multi-day Fethiye–Olympos blue cruises are the upgrade.",
+      "image": {
+        "query": "gulet boat turquoise coast fethiye",
+        "alt": "A wooden gulet anchored in a turquoise cove near Fethiye"
+      }
+    },
+    {
+      "id": "dervish-sema",
+      "name": "Whirling dervish ceremony",
+      "category": "Culture",
+      "blurb": "The Mevlevi sema is a Sufi worship ritual, not a show — the Hodjapasha centre in Istanbul and lodges in Cappadocia host respectful hour-long ceremonies; photography rules are strict, silence expected.",
+      "image": {
+        "query": "whirling dervishes sema ceremony",
+        "alt": "White-robed dervishes spinning during a sema ceremony"
+      }
+    },
+    {
+      "id": "oludeniz-paragliding",
+      "name": "Tandem paragliding, Ölüdeniz",
+      "category": "Adventure",
+      "blurb": "Launch from 1,900-metre Babadağ and spiral down to the beach over the Blue Lagoon — no experience needed, morning flights are smoothest, GoPro footage included in most packages.",
+      "image": {
+        "query": "babadag paragliding launch oludeniz",
+        "alt": "Paragliders launching from Babadağ mountain high above the coastline"
+      }
+    }
+  ],
+  "trips": [
+    {
+      "id": "classic-turkiye",
+      "title": "Classic Türkiye circuit",
+      "nights": 7,
+      "route": [
+        {
+          "place": "Istanbul",
+          "nights": 3
+        },
+        {
+          "place": "Cappadocia",
+          "nights": 2
+        },
+        {
+          "place": "Pamukkale",
+          "nights": 1
+        },
+        {
+          "place": "Selçuk (Ephesus)",
+          "nights": 1
+        }
+      ],
+      "summary": "The greatest-hits loop: three days across Istanbul's two continents, a balloon sunrise and valley hikes in Cappadocia, then the travertine terraces and Ephesus's marble streets on the way back to Izmir for the flight home. Two cheap domestic hops keep road time short.",
+      "priceFrom": "₹1,10,000",
+      "image": {
+        "query": "blue mosque istanbul minarets",
+        "alt": "The Blue Mosque's domes and minarets under a soft evening sky",
+        "candidates": [
+          "https://images.unsplash.com/photo-1541432901042-2d8bd64b4a9b"
+        ]
+      }
+    },
+    {
+      "id": "istanbul-cappadocia-express",
+      "title": "Istanbul & Cappadocia express",
+      "nights": 5,
+      "route": [
+        {
+          "place": "Istanbul",
+          "nights": 3
+        },
+        {
+          "place": "Cappadocia",
+          "nights": 2
+        }
+      ],
+      "summary": "The tightest itinerary that still feels complete: Sultanahmet's big four, a Bosphorus ferry and the bazaars, then fly to Cappadocia for a cave-hotel stay, sunrise balloons and a Red Valley sunset hike. Works as a long-weekend-plus trip on non-stop flights.",
+      "priceFrom": "₹85,000",
+      "image": {
+        "query": "cave hotel terrace cappadocia balloons",
+        "alt": "Balloons over Göreme seen from a cave hotel terrace at sunrise"
+      }
+    },
+    {
+      "id": "turquoise-coast",
+      "title": "Cities, caves & Turquoise Coast",
+      "nights": 9,
+      "route": [
+        {
+          "place": "Istanbul",
+          "nights": 3
+        },
+        {
+          "place": "Cappadocia",
+          "nights": 2
+        },
+        {
+          "place": "Antalya",
+          "nights": 2
+        },
+        {
+          "place": "Fethiye",
+          "nights": 2
+        }
+      ],
+      "summary": "The full spread for honeymooners and second-timers: Istanbul and Cappadocia's icons first, then a week's worth of Mediterranean packed into four coastal nights — Kaleiçi old town, a gulet day cruise, the Blue Lagoon and a tandem paraglide off Babadağ before flying out of Dalaman.",
+      "priceFrom": "₹1,45,000",
+      "image": {
+        "query": "kaputas beach turquoise cove",
+        "alt": "The turquoise cove and stairs of Kaputaş beach between Kaş and Kalkan"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do Indians need a visa for Türkiye, and how hard is it?",
+      "a": "Yes — most Indian passport holders need a sticker visa through the Turkish visa application centres, costing roughly ₹13,000 – 17,500 with fees and taking one to two weeks. The shortcut: if you hold a valid US, UK, Irish or Schengen visa or residence permit, you can get a 30-day e-visa online for about $43 – 52 within 48 hours. Apply at least three weeks before travel to be safe."
+    },
+    {
+      "q": "Is vegetarian food easy to find?",
+      "a": "Easier than Türkiye's kebab reputation suggests. Mezes are a vegetarian feast in themselves — hummus, dolma, grilled halloumi, white-bean salads — and staples like menemen (spiced scrambled eggs), gözleme, lentil soup, pide with cheese and çiğ köfte (now meat-free by law) are everywhere. Istanbul and coastal towns also have Indian restaurants; just confirm soups and rice dishes are not made with meat stock."
+    },
+    {
+      "q": "How much does a Türkiye trip cost from India?",
+      "a": "A comfortable 7-night trip typically lands between ₹1,00,000 and ₹1,50,000 per person including return flights, mid-range hotels, domestic hops and a balloon flight. Backpackers can do it nearer ₹75,000 by skipping the balloon and using buses; luxury cave suites and Bosphorus-view hotels push well past ₹2,00,000."
+    },
+    {
+      "q": "When is the best time to visit?",
+      "a": "April to June and September to October — mild across Istanbul, Cappadocia and the coast, with reliable balloon-flying weather. July and August suit beach-focused trips but are hot and crowded inland; November to March is cold and cheap, with snow-covered Cappadocia as the consolation prize."
+    },
+    {
+      "q": "What is the best way to get around?",
+      "a": "Fly the long legs — Pegasus and AJet connect Istanbul with Cappadocia (Kayseri or Nevşehir), Izmir, Antalya and Dalaman for ₹3,000 – 6,000 booked early. Within Istanbul, an Istanbulkart covers trams, metro and ferries; intercity buses are excellent for shorter hops like Pamukkale to Selçuk. Self-driving is easy on the coast, less useful in Istanbul."
+    }
+  ]
+}

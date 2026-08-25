@@ -1,0 +1,465 @@
+{
+  "slug": "china",
+  "name": "China",
+  "displayName": "China",
+  "country": "China",
+  "region": "east-asia",
+  "flag": "🇨🇳",
+  "tagline": "Great Walls, bullet trains, hotpot nights.",
+  "overview": "China rewards travellers who arrive curious rather than prepared, because nothing quite matches the mental picture. The Great Wall really does ripple over ridgelines to the horizon, but so does a rail network that covers 1,300 km between Beijing and Shanghai in four and a half hours, and cities where you pay for dumplings by scanning a QR code at a hole-in-the-wall. One trip can stack imperial Beijing, the Terracotta Army standing in its excavation pit, pandas eating breakfast in Chengdu and the sandstone pillars that inspired Avatar's floating mountains. The practical friction that once kept Indian travellers away has eased: direct flights are back, visa fees have been cut, and translation apps carry you through most conversations. It is not a lie-on-a-beach destination — it is a big, organised, occasionally bewildering country that repays a well-planned route, and it costs less per day than most people assume once the flight is paid for.",
+  "heroAlt": "The Great Wall of China snaking over green ridgelines at Mutianyu",
+  "heroImage": {
+    "query": "great wall mutianyu ridgeline",
+    "alt": "The Great Wall winding across forested mountain ridges near Beijing",
+    "candidates": [
+      "https://images.unsplash.com/photo-1508804185872-d7badad00f7d"
+    ]
+  },
+  "quickFacts": {
+    "capital": "Beijing",
+    "currency": {
+      "code": "CNY",
+      "name": "Chinese yuan (renminbi)",
+      "inr": "¥1 ≈ ₹12"
+    },
+    "languages": [
+      "Mandarin",
+      "Cantonese in the south",
+      "English only in big hotels"
+    ],
+    "timezone": "GMT+8 · 2½ hrs ahead of IST",
+    "flightFromIndia": "≈6 hrs non-stop Delhi–Shanghai; direct flights resumed in 2025, one-stops via Hong Kong or Kunming also work",
+    "plug": "Type A/C/I · 220V — Indian round-pin plugs need an adapter",
+    "sim": "Buy an international eSIM before flying, from about ₹700 for 10GB — roaming data bypasses the firewall so WhatsApp and Google keep working"
+  },
+  "visa": {
+    "type": "sticker",
+    "headline": "Sticker visa · apply at CVASC before you fly",
+    "body": "Indian passport holders need a tourist (L) visa stamped in advance — there is no e-visa or visa on arrival. Apply in person at the Chinese Visa Application Service Centre in Delhi, Mumbai or Kolkata with a passport valid six months, photos, flight and hotel bookings and bank statements. Fees have been reduced for Indians through end-2026, and single-entry applications are currently straightforward — no interview for most tourists.",
+    "cost": "About ₹2,900 for single entry plus roughly ₹2,000 CVASC service fee",
+    "processing": "Typically 4–7 working days; express options cut it further"
+  },
+  "weather": {
+    "summary": "A continental spread of climates: Beijing swings from freezing winters to 35°C summers, Guilin and the south stay milder and wetter, and the west sits high and dry. Spring and autumn are the country's genuinely pleasant windows almost everywhere on the classic routes.",
+    "bestTime": "April – May & September – October",
+    "seasons": [
+      {
+        "label": "Spring & autumn",
+        "months": "Apr – May, Sep – Oct",
+        "temp": "15–26°C",
+        "notes": "Clear skies over the Wall, comfortable walking weather, autumn colour in the parks — the country at its best. Avoid the Oct 1–7 Golden Week crush.",
+        "tone": "high"
+      },
+      {
+        "label": "Summer",
+        "months": "Jun – Aug",
+        "temp": "26–36°C",
+        "notes": "Hot, humid and busy with domestic holidays, but every sight is open and the karst south is lush and green.",
+        "tone": "shoulder"
+      },
+      {
+        "label": "Winter",
+        "months": "Nov – Mar",
+        "temp": "-5–12°C",
+        "notes": "Cold and dry in the north — pack proper layers. Thin crowds, low prices, and Harbin's ice festival if you lean into it.",
+        "tone": "low"
+      }
+    ]
+  },
+  "booking": {
+    "high": "Golden Week (Oct 1–7), Chinese New Year, and the Jul–Aug school holidays",
+    "low": "Nov – Mar, outside Chinese New Year",
+    "note": "China's own holidays move prices more than foreign demand does — shift a trip one week off Golden Week and hotels drop sharply. Book high-speed rail on Trip.com about two weeks out; popular routes sell through."
+  },
+  "idealDuration": {
+    "nights": "8 – 10",
+    "note": "Eight nights covers the Beijing–Xi'an–Shanghai triangle by high-speed rail without rushing. Add two more for Chengdu's pandas or the Guilin karst."
+  },
+  "budget": {
+    "perDay": [
+      {
+        "tier": "Smart",
+        "inr": "₹5,500 – 8,500"
+      },
+      {
+        "tier": "Comfort",
+        "inr": "₹10,000 – 17,000"
+      },
+      {
+        "tier": "Luxe",
+        "inr": "₹25,000+"
+      }
+    ],
+    "note": "Per person per day with mid-range hotels, second-class bullet-train seats, metro travel and one paid sight. Food is the bargain: a filling dumpling or noodle meal runs ₹150–400."
+  },
+  "safety": {
+    "score": 5,
+    "headline": "One of the safest countries you can travel — the challenges are logistical, not personal",
+    "tips": [
+      "Set up Alipay or WeChat Pay with your Indian card before flying — many shops and taxis no longer handle cash smoothly",
+      "Google, WhatsApp and Instagram are blocked on local networks; a roaming eSIM or a VPN installed before arrival keeps them alive",
+      "Politely refuse strangers inviting you to a 'tea ceremony' or 'art show' near tourist hubs — it is a long-running overcharge scam",
+      "Electric scooters are silent and everywhere; look both ways even on footpaths",
+      "Carry your hotel's name and address in Chinese characters for taxi drivers",
+      "Keep your passport on you — it is checked for train tickets, hotel check-in and many sight entries"
+    ]
+  },
+  "goodToKnow": [
+    "Tipping is not expected anywhere — not in restaurants, taxis or hotels",
+    "Download Alipay, DiDi (taxis), Amap (maps) and a translation app before you land; they replace half your usual phone",
+    "High-speed rail beats flying between most cities — book via Trip.com and your passport itself acts as the ticket",
+    "Golden Week (Oct 1–7) and Chinese New Year turn every sight into a scrum; plan around them",
+    "Vegetarians manage best at Buddhist restaurants and by saving the phrase 'wo chi su' (I eat veg) — broths and sauces often hide meat",
+    "Major sights like the Forbidden City and Terracotta Army need advance online booking against your passport number",
+    "English is thin outside five-star hotels; a translation app pointed at menus solves most of it",
+    "UPI does not work — load Alipay's Tour Pass or link an international card, and carry a little cash as backup"
+  ],
+  "cities": [
+    {
+      "id": "beijing",
+      "name": "Beijing",
+      "blurb": "The imperial capital layers the Forbidden City, Temple of Heaven and hutong lanes under a modern megacity, with the best-restored stretches of the Great Wall a day trip away.",
+      "image": {
+        "query": "forbidden city beijing rooftops",
+        "alt": "Golden rooftops of the Forbidden City in Beijing"
+      }
+    },
+    {
+      "id": "shanghai",
+      "name": "Shanghai",
+      "blurb": "China's showpiece city pairs the colonial-era Bund with the Pudong skyline across the river, plus superb food streets, art deco lanes and day trips to canal towns.",
+      "image": {
+        "query": "shanghai pudong skyline bund",
+        "alt": "Pudong skyscrapers seen from the Bund at dusk",
+        "candidates": [
+          "https://images.unsplash.com/photo-1474181487882-5abf3f0ba6c2"
+        ]
+      }
+    },
+    {
+      "id": "xian",
+      "name": "Xi'an",
+      "blurb": "The old Silk Road capital keeps its Ming-era city wall intact, hides the Terracotta Army on its outskirts and serves the best street food in the country in its Muslim Quarter.",
+      "image": {
+        "query": "xian city wall muslim quarter",
+        "alt": "Xi'an's ancient city wall lit at night"
+      }
+    },
+    {
+      "id": "chengdu",
+      "name": "Chengdu",
+      "blurb": "Sichuan's easygoing capital is the panda base, the hotpot capital and the teahouse city — a slower, spicier China that makes a natural pause between the big sights.",
+      "image": {
+        "query": "chengdu giant panda eating bamboo",
+        "alt": "A giant panda eating bamboo at Chengdu's research base"
+      }
+    },
+    {
+      "id": "yangshuo",
+      "name": "Guilin & Yangshuo",
+      "blurb": "Limestone karst peaks rise straight from rice paddies and the Li River here — the landscape on the ¥20 note. Base in Yangshuo for cycling, bamboo rafts and river cruises.",
+      "image": {
+        "query": "yangshuo li river karst peaks",
+        "alt": "Karst mountains reflected in the Li River near Yangshuo"
+      }
+    },
+    {
+      "id": "zhangjiajie",
+      "name": "Zhangjiajie",
+      "blurb": "Three thousand sandstone pillars, the world's longest glass bridge and the Tianmen mountain cableway make this Hunan park China's most cinematic landscape, four hours by rail from big hubs.",
+      "image": {
+        "query": "zhangjiajie sandstone pillars fog",
+        "alt": "Sandstone pillar peaks rising through mist in Zhangjiajie"
+      }
+    }
+  ],
+  "highlights": [
+    {
+      "id": "great-wall",
+      "rank": 1,
+      "name": "The Great Wall at Mutianyu",
+      "category": "Icon",
+      "blurb": "Watchtowers march along forested ridges for as far as you can see — the one sight in China that outperforms every photo of it.",
+      "detail": "Skip crowded Badaling and head to Mutianyu, about 90 minutes from Beijing: fully restored, dramatically steep in places, and quiet on weekday mornings. Take the cable car up to tower 14, walk the ridgeline towards tower 20 where the crowds thin to nothing, then ride the toboggan down — genuinely fun, not a gimmick. Go early; tour buses arrive around 10.30am. Book tickets online a day ahead, carry water and wear real shoes, because the gradients are serious. Hardier walkers can do the half-wild Jinshanling section instead for restored-to-ruined drama in one hike.",
+      "image": {
+        "query": "mutianyu great wall watchtowers",
+        "alt": "Watchtowers along the restored Mutianyu section of the Great Wall",
+        "candidates": [
+          "https://images.unsplash.com/photo-1508804185872-d7badad00f7d"
+        ]
+      }
+    },
+    {
+      "id": "forbidden-city",
+      "rank": 2,
+      "name": "The Forbidden City",
+      "category": "Heritage",
+      "blurb": "Six hundred years of emperors lived behind these walls — 980 buildings of vermilion columns and golden roofs at the exact centre of Beijing.",
+      "detail": "Tickets sell out days ahead in season and are booked online against your passport number, so sort this before you fly — entry is south-to-north through the Meridian Gate only. Give it three hours: the central axis of throne halls first, then dodge sideways into the quieter eastern courtyards and the Treasure Gallery. Finish by crossing the moat and climbing Jingshan Park's hill for the classic overhead view of the golden rooftops, best in late-afternoon light. Closed Mondays. Combine with Tiananmen Square at the southern end, but clear its security queue with time to spare.",
+      "image": {
+        "query": "forbidden city hall supreme harmony",
+        "alt": "The Hall of Supreme Harmony courtyard inside the Forbidden City"
+      }
+    },
+    {
+      "id": "terracotta-army",
+      "rank": 3,
+      "name": "The Terracotta Army, Xi'an",
+      "category": "Heritage",
+      "blurb": "Eight thousand life-sized clay soldiers, each face different, still standing in the pits where farmers found them in 1974.",
+      "detail": "See it in reverse: start at Pit 3, then Pit 2 where you can study kneeling archers in glass cases up close, and save the vast Pit 1 hangar — ranks of warriors dissolving into excavation trenches — for the finale, when its scale lands hardest. Hire a licensed guide or use the audio guide; without context it is rows of statues, with it it is the maddest funerary project in history. It sits an hour east of Xi'an — combine with the Huaqing Palace hot springs next door, and be back in the city by evening for the Muslim Quarter's food streets.",
+      "image": {
+        "query": "terracotta warriors pit one xian",
+        "alt": "Rows of terracotta warriors standing in Pit 1 near Xi'an"
+      }
+    },
+    {
+      "id": "the-bund",
+      "rank": 4,
+      "name": "The Bund & Pudong skyline",
+      "category": "City",
+      "blurb": "Shanghai's colonial riverfront faces a wall of 21st-century towers across the Huangpu — the country's past and future staring at each other.",
+      "detail": "Walk the Bund twice: once in daylight for the 1920s banking facades, once after dark when Pudong's towers — the Pearl Tower, the 632m Shanghai Tower — run their light show until 10pm. For the reverse angle, cross to Pudong and ride to the Shanghai Tower observation deck, or do it free with a cocktail at a riverside rooftop bar. A 50-minute Huangpu night cruise splits the difference and is worth the roughly ₹1,500. Start the evening with dinner in the former French Concession's plane-tree lanes, ten minutes away by metro.",
+      "image": {
+        "query": "shanghai bund pudong night",
+        "alt": "Pudong's illuminated skyline across the Huangpu River at night",
+        "candidates": [
+          "https://images.unsplash.com/photo-1474181487882-5abf3f0ba6c2"
+        ]
+      }
+    },
+    {
+      "id": "zhangjiajie-park",
+      "rank": 5,
+      "name": "Zhangjiajie National Forest Park",
+      "category": "Nature",
+      "blurb": "Quartz-sandstone pillars up to 300m tall stand in their thousands, often islanded in mist — the direct inspiration for Avatar's floating mountains.",
+      "detail": "Give it two full days on one multi-day ticket. Day one, ride the Bailong elevator — a glass lift bolted to a cliff face — up to the Yuanjiajie area for the 'Avatar Hallelujah Mountain' viewpoints, then walk the quieter Tianzi Mountain ridges. Day two, hike the Golden Whip Stream valley floor among wild macaques, and add the glass bridge over Zhangjiajie Grand Canyon if heights amuse you. Base in Wulingyuan village at the park gate, not Zhangjiajie city 40 minutes away. Mist is part of the deal — an atmospheric half-clear day here beats blue sky anywhere else.",
+      "image": {
+        "query": "zhangjiajie avatar hallelujah mountain",
+        "alt": "Sandstone pillar formations at Yuanjiajie in Zhangjiajie park"
+      }
+    },
+    {
+      "id": "li-river",
+      "rank": 6,
+      "name": "Li River cruise, Guilin to Yangshuo",
+      "category": "Nature",
+      "blurb": "Four hours drifting past hump-backed karst peaks, water buffalo and cormorant fishermen — the landscape printed on the ¥20 note.",
+      "detail": "The classic cruise boards near Guilin around 9am and lands you in Yangshuo by early afternoon; book a boat with an open upper deck and claim a rail spot for the Nine Horses Fresco Hill stretch, where everyone pulls out a ¥20 note to match the scene. Cheaper and more intimate: take a motorised 'bamboo' raft on the Yulong River tributary instead, then cycle Yangshuo's back lanes between paddies in the late light. Stay two nights in Yangshuo rather than day-tripping — evenings bring the Liu Sanjie light show, performed on the river itself with the peaks as backdrop.",
+      "image": {
+        "query": "li river cruise karst guilin",
+        "alt": "Cruise boat passing karst peaks on the Li River"
+      }
+    },
+    {
+      "id": "chengdu-pandas",
+      "rank": 7,
+      "name": "Chengdu Panda Base",
+      "category": "Wildlife",
+      "blurb": "Dozens of giant pandas — including tumbling cubs — in a bamboo-forest research base twenty minutes from downtown Chengdu.",
+      "detail": "Arrive at the 7.30am opening, no later: pandas eat and play through the cool morning and are asleep in trees by 11. Head straight to the sub-adult and cub enclosures at the back before the tour groups, then work forward. The shuttle carts save time but walking the bamboo avenues is half the pleasure. Two to three hours is enough, leaving the afternoon for People's Park teahouses or the Sanxingdui bronze masks museum. Skip any 'panda holding' offers — the base ended them — and check the seasonal cub nursery, which is the single best window if it is open.",
+      "image": {
+        "query": "giant panda cub chengdu base",
+        "alt": "Giant panda lounging on a wooden platform at Chengdu's breeding base"
+      }
+    },
+    {
+      "id": "west-lake",
+      "rank": 8,
+      "name": "West Lake, Hangzhou",
+      "category": "Culture",
+      "blurb": "The lake that defined Chinese landscape taste for a millennium — willow causeways, pagodas and tea hills, 45 minutes from Shanghai by bullet train.",
+      "detail": "Hangzhou works perfectly as a Shanghai day trip or an overnight decompression stop. Cycle or walk the Su Causeway across the lake at opening time, take a short boat to the Three Pools Mirroring the Moon islets, and climb Leifeng Pagoda for the overview. Then leave the lake: taxi 15 minutes into the Longjing tea villages, where terraced bushes climb the hills and farmers brew you the famous dragon-well green tea on their porches. Time an evening for Impression West Lake, the show staged on the water. Avoid summer weekends, when half of Shanghai has the same idea.",
+      "image": {
+        "query": "west lake hangzhou pagoda willow",
+        "alt": "Leifeng Pagoda above willow trees on West Lake, Hangzhou"
+      }
+    },
+    {
+      "id": "chongqing-hotpot",
+      "rank": 9,
+      "name": "Chongqing's stacked city & hotpot",
+      "category": "Food",
+      "blurb": "A 34-million-person mountain city where metros fly through apartment blocks, and the birthplace of China's fieriest communal meal.",
+      "detail": "Chongqing is the insider stop between Chengdu and the Yangtze. See Hongya Cave after dark — an eleven-storey stilted complex glowing gold above the river — ride the Yangtze cableway across the water, and watch the Liziba station train pass through the middle of a residential tower. Then commit to hotpot: a bubbling pot split into numbing-spicy red broth and a mild side, into which you cook skewers of everything. Ask for 'wei la' (mildly spicy) unless you have trained for this. The city pairs naturally with a Yangtze Three Gorges cruise, which departs from its docks.",
+      "image": {
+        "query": "hongya cave chongqing night",
+        "alt": "Hongya Cave's stacked golden buildings lit up at night in Chongqing"
+      }
+    },
+    {
+      "id": "longji-terraces",
+      "rank": 10,
+      "name": "Longji rice terraces",
+      "category": "Nature",
+      "blurb": "The 'Dragon's Backbone' terraces coil 800 years of farm engineering around whole mountainsides, two hours from Guilin, with Yao and Zhuang villages in their folds.",
+      "detail": "Most visitors do Longji as a rushed Guilin day trip; stay a night in Ping'an or the higher Dazhai village instead and you get the terraces at dawn, when mist pools in the valleys and the paddies mirror the sky. Cable cars run to the main viewpoints, but the two-to-three-hour ridge walk between villages is the real event, passing Yao women famous for floor-length hair. Timing changes everything: May–June the terraces are flooded mirrors, summer is electric green, late September gold before harvest. Guesthouses are simple; bags are portered up the stone paths.",
+      "image": {
+        "query": "longji rice terraces dazhai",
+        "alt": "Curved rice terraces wrapping the hillsides at Longji"
+      }
+    }
+  ],
+  "activities": [
+    {
+      "id": "great-wall-hike",
+      "name": "Great Wall hike & toboggan day",
+      "category": "Adventure",
+      "blurb": "A guided day at Mutianyu or half-wild Jinshanling — cable car up, ridge walk between watchtowers, and a toboggan run back down to the valley.",
+      "image": {
+        "query": "great wall hiking watchtower",
+        "alt": "Hikers walking a restored stretch of the Great Wall"
+      }
+    },
+    {
+      "id": "hotpot-food-tour",
+      "name": "Sichuan hotpot & street-food tour",
+      "category": "Food",
+      "blurb": "An evening eating through Chengdu or Chongqing with a local guide — hotpot etiquette, mapo tofu, dan dan noodles and the Sichuan-pepper tingle explained.",
+      "image": {
+        "query": "sichuan hotpot red broth",
+        "alt": "Bubbling red Sichuan hotpot with skewers and side dishes"
+      }
+    },
+    {
+      "id": "panda-experience",
+      "name": "Panda base early-entry visit",
+      "category": "Wildlife",
+      "blurb": "Beat the crowds into Chengdu's research base for feeding time, with a keeper-led walk through the cub and sub-adult enclosures.",
+      "image": {
+        "query": "panda keeper feeding bamboo",
+        "alt": "Keeper feeding bamboo to giant pandas at a research base"
+      }
+    },
+    {
+      "id": "li-river-rafting",
+      "name": "Yulong River bamboo rafting",
+      "category": "Water",
+      "blurb": "Drift a two-person raft down Yangshuo's calmer tributary between karst peaks, then cycle village lanes back through the rice paddies.",
+      "image": {
+        "query": "yulong river bamboo raft yangshuo",
+        "alt": "Bamboo raft floating down the Yulong River past karst hills"
+      }
+    },
+    {
+      "id": "acrobatics-show",
+      "name": "Shanghai acrobatics & night cruise",
+      "category": "Nightlife",
+      "blurb": "The ERA acrobatics show's motorbike globe and aerial acts, paired with a Huangpu river cruise under Pudong's full light show.",
+      "image": {
+        "query": "shanghai huangpu night cruise",
+        "alt": "Sightseeing boat on the Huangpu River with lit skyline behind"
+      }
+    },
+    {
+      "id": "tai-chi-tea",
+      "name": "Tai chi & tea ceremony morning",
+      "category": "Wellness",
+      "blurb": "A dawn tai chi session in a Beijing or Hangzhou park with a master, followed by a gongfu tea ceremony that decodes China's tea culture cup by cup.",
+      "image": {
+        "query": "tai chi morning practice park",
+        "alt": "People practising tai chi in a park at sunrise"
+      }
+    }
+  ],
+  "trips": [
+    {
+      "id": "golden-triangle",
+      "title": "The Golden Triangle: Beijing, Xi'an, Shanghai",
+      "nights": 8,
+      "route": [
+        {
+          "place": "Beijing",
+          "nights": 3
+        },
+        {
+          "place": "Xi'an",
+          "nights": 2
+        },
+        {
+          "place": "Shanghai",
+          "nights": 3
+        }
+      ],
+      "summary": "The definitive first China trip, stitched together by bullet train. Forbidden City, Temple of Heaven and a Mutianyu Great Wall day from Beijing; the Terracotta Army and Muslim Quarter food streets in Xi'an; then the Bund, French Concession and a Hangzhou day trip from Shanghai. Fly into Beijing, out of Shanghai.",
+      "priceFrom": "₹1,25,000",
+      "image": {
+        "query": "beijing temple of heaven",
+        "alt": "The circular Temple of Heaven under a blue sky in Beijing"
+      }
+    },
+    {
+      "id": "pandas-and-karst",
+      "title": "Pandas & Karst: Chengdu to Yangshuo",
+      "nights": 6,
+      "route": [
+        {
+          "place": "Chengdu",
+          "nights": 3
+        },
+        {
+          "place": "Yangshuo",
+          "nights": 3
+        }
+      ],
+      "summary": "A softer, greener China with no megacity marathon. Three Chengdu days for the panda base, teahouse afternoons, Leshan's giant Buddha and serious Sichuan food, then fly to Guilin for the Li River cruise, Yulong rafting, cycling between paddies and a Longji terraces day. Ideal second trip, or a first for nature-led travellers.",
+      "priceFrom": "₹98,000",
+      "image": {
+        "query": "yangshuo karst sunset cyclist",
+        "alt": "Cyclist on a village lane beneath karst peaks near Yangshuo"
+      }
+    },
+    {
+      "id": "avatar-express",
+      "title": "Skylines to Avatar Mountains",
+      "nights": 8,
+      "route": [
+        {
+          "place": "Shanghai",
+          "nights": 3
+        },
+        {
+          "place": "Zhangjiajie",
+          "nights": 3
+        },
+        {
+          "place": "Fenghuang",
+          "nights": 2
+        }
+      ],
+      "summary": "Shanghai's towers and lane-house neighbourhoods first, then fly inland for two full days among Zhangjiajie's sandstone pillars, the glass bridge and Tianmen Mountain's cliff walkways. Finish in Fenghuang, a stilt-house river town that glows with lanterns at night — the China most itineraries miss entirely.",
+      "priceFrom": "₹1,15,000",
+      "image": {
+        "query": "fenghuang ancient town river night",
+        "alt": "Stilted wooden houses reflected in the river at Fenghuang old town"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do Indians get a China visa, and how hard is it?",
+      "a": "You need a sticker visa arranged before travel — apply in person at the Chinese Visa Application Service Centre in Delhi, Mumbai or Kolkata with your passport, photos, flight and hotel bookings and bank statements. Fees are reduced for Indians until end-2026 (about ₹2,900 for single entry plus a ₹2,000-odd service charge), processing typically takes under a week, and tourist approvals are currently routine. There is no e-visa or visa on arrival for mainland China."
+    },
+    {
+      "q": "Will my phone apps work in China?",
+      "a": "Not on local networks — Google, WhatsApp, Instagram and most Indian favourites are blocked by the firewall. The clean fix is an international roaming eSIM bought before you fly, since roaming data is routed outside China and everything works. Also install Alipay, DiDi and a translation app before landing; they handle payments, taxis and menus."
+    },
+    {
+      "q": "Can vegetarians eat well in China?",
+      "a": "Yes, with a little technique. Every city has Buddhist vegetarian restaurants, and dishes like mapo tofu (ask for no mince), stir-fried greens, scallion noodles and vegetable dumplings are everywhere. The catch is hidden meat stock and lard, so learn 'wo chi su' (I eat veg) or keep the phrase saved in a translation app. Indian restaurants exist in Beijing, Shanghai and Guangzhou when you want a reset."
+    },
+    {
+      "q": "When should I go, and when should I avoid?",
+      "a": "April–May and September–October are the sweet spots: comfortable temperatures in the north, clear days on the Wall. Hard-avoid the Golden Week national holiday (Oct 1–7) and Chinese New Year, when hundreds of millions travel domestically and every sight and train fills. Winter is cold but cheap and empty; summer is hot, humid and busy but fully workable."
+    },
+    {
+      "q": "What is the best way to travel between cities?",
+      "a": "High-speed rail, almost always. Trains run up to 350 km/h, stations sit closer to city centres than airports, and Beijing–Shanghai takes about 4½ hours. Book on Trip.com with your passport details — the passport itself is your ticket at the gate — and reserve popular routes a week or two ahead. Within cities, metros are cheap and signed in English, and DiDi replaces street-hailing taxis."
+    },
+    {
+      "q": "How much does a China trip cost from India?",
+      "a": "A well-run 8-night trip lands around ₹1,00,000–1,40,000 per person all-in — return flights typically ₹25,000–45,000, decent 3–4 star hotels ₹4,000–8,000 a night, bullet trains ₹3,000–7,000 a leg, and food surprisingly cheap at ₹1,000–1,500 a day if you eat local. Backpackers can trim well below that; the visa adds roughly ₹5,000 with service fees."
+    }
+  ]
+}

@@ -1,0 +1,534 @@
+{
+  "slug": "egypt",
+  "name": "Egypt",
+  "displayName": "Egypt",
+  "country": "Egypt",
+  "region": "africa",
+  "flag": "🇪🇬",
+  "tagline": "Pharaohs at dawn, feluccas by dusk.",
+  "overview": "Egypt is the rare destination where the thing on the postcard actually over-delivers. The pyramids are bigger, stranger and older than any photograph suggests, and they are only the opening act: fly an hour south to Luxor and you are walking through painted tombs and column halls that make Giza look restrained. The country arranges itself neatly along the Nile, which is why the classic trip still works — Cairo for the pyramids, the new Grand Egyptian Museum and medieval bazaars, then Luxor and Aswan by sleeper train or a slow cruise between the two. Add the Red Sea and you get some of the world's best diving at Southeast Asia prices. For Indian travellers the sums are friendly: an e-visa sorted online in under a week, six-odd hours of flying, and a pound that has weakened so far that five-star Nile cruises cost what a hill-station weekend does at home.",
+  "heroAlt": "The Pyramid of Khafre rising over the Giza plateau with horses in the foreground",
+  "heroImage": {
+    "query": "pyramid khafre giza plateau",
+    "alt": "The Pyramid of Khafre towering over the sand at Giza under a blue sky",
+    "candidates": [
+      "https://images.unsplash.com/photo-1503177119275-0aa32b3a9368",
+      "https://images.unsplash.com/photo-1678038592492-d73c063bb9e2",
+      "https://images.unsplash.com/photo-1539768942893-daf53e448371"
+    ]
+  },
+  "quickFacts": {
+    "capital": "Cairo",
+    "currency": {
+      "code": "EGP",
+      "name": "Egyptian pound",
+      "inr": "E£1 ≈ ₹1.9"
+    },
+    "languages": [
+      "Arabic",
+      "English widely spoken in tourism"
+    ],
+    "timezone": "GMT+2 · 3½ hrs behind IST (2½ in summer)",
+    "flightFromIndia": "≈6 hrs non-stop Mumbai–Cairo on EgyptAir; one stop via the Gulf from Delhi and Bengaluru",
+    "plug": "Type C/F · 220V — most Indian two-pin chargers fit, thick round pins need an adapter",
+    "sim": "Vodafone or Orange tourist SIM at Cairo airport, about ₹700 for 15–20GB"
+  },
+  "visa": {
+    "type": "evisa",
+    "headline": "E-visa · 30 days · about ₹2,200",
+    "body": "Indian passport holders apply online on the official portal — typically approved in 3–7 working days, so file at least a week before flying. Single entry, valid 30 days; carry your hotel bookings, return ticket and a passport valid six months beyond arrival. Rules for Indians have tightened at times, and many applicants now route through a travel agent for a local letter of guarantee, so a specialist or your tour operator is worth using. Indians holding a valid US, UK or Schengen visa can typically get a visa on arrival instead.",
+    "cost": "US$25 (≈₹2,200) single entry",
+    "processing": "3 – 7 working days online"
+  },
+  "weather": {
+    "summary": "A desert country: sunshine is near-guaranteed, rain is a rumour, and the real variable is heat. Cairo winters are genuinely pleasant, Luxor and Aswan run 5–8°C hotter than the capital year-round, and the Red Sea coast stays swimmable even in January.",
+    "bestTime": "October – April",
+    "seasons": [
+      {
+        "label": "Winter",
+        "months": "Oct – Apr",
+        "temp": "18–28°C",
+        "notes": "Crisp mornings, warm afternoons, perfect temple-walking weather from Cairo to Abu Simbel. This is the season the whole itinerary is designed for.",
+        "tone": "high"
+      },
+      {
+        "label": "Shoulder",
+        "months": "May & Sep",
+        "temp": "30–36°C",
+        "notes": "Hot but workable if you sightsee early and pool by 1pm. Noticeably cheaper cruises and thinner tomb queues.",
+        "tone": "shoulder"
+      },
+      {
+        "label": "Summer",
+        "months": "Jun – Aug",
+        "temp": "36–43°C",
+        "notes": "Upper Egypt is punishing by mid-morning. Fine for a Red Sea beach-and-dive trip; wrong for a first-timer's temple circuit.",
+        "tone": "low"
+      }
+    ]
+  },
+  "booking": {
+    "high": "Oct – Apr, peaking over Christmas–New Year and the Diwali break",
+    "low": "May – September",
+    "note": "Nile cruise cabins and good Egyptologist guides sell out weeks ahead in winter. October and April buy you the same weather as January at softer rates — and always book the Abu Simbel leg before you fly, not on the ground."
+  },
+  "idealDuration": {
+    "nights": "7 – 9",
+    "note": "Seven nights covers the classic triangle — Cairo, Luxor, Aswan — without rushing. Add two or three more for a Red Sea finish at Hurghada or Dahab."
+  },
+  "budget": {
+    "perDay": [
+      {
+        "tier": "Smart",
+        "inr": "₹4,000 – 6,500"
+      },
+      {
+        "tier": "Comfort",
+        "inr": "₹7,500 – 13,000"
+      },
+      {
+        "tier": "Luxe",
+        "inr": "₹20,000+"
+      }
+    ],
+    "note": "Per person per day with mid-range hotels, internal train or one flight, and a guided site each day. Entry tickets add up — budget about ₹4,000–6,000 total for the big Luxor sites alone. Five-star Nile cruises start near ₹9,000 a night with all meals."
+  },
+  "safety": {
+    "score": 4,
+    "headline": "Tourist areas are heavily policed and genuinely safe; the hassle is verbal, not physical",
+    "tips": [
+      "Expect persistent touts at Giza and Luxor — a firm, smiling la shukran (no thanks) and walking on works better than debate.",
+      "Use Uber or Careem in Cairo and Alexandria instead of street taxis; fares are fixed and in the app.",
+      "Agree every price before the service — camel rides, caleches, boatmen — and treat any unrequested 'help' as a paid service.",
+      "Women travellers report the usual big-city attention; dressing modestly outside resorts and sitting in the women's metro car in Cairo reduces it.",
+      "Skip North Sinai entirely and check advisories for remote Western Desert routes; the Nile Valley, Cairo and Red Sea resorts are the well-trodden, well-guarded circuit.",
+      "Drink bottled or filtered water and ease into street food — Cairo belly is more common than any security issue."
+    ]
+  },
+  "goodToKnow": [
+    "Baksheesh (small tips) oils everything — keep E£5–20 notes for washroom attendants, tomb guardians and porters.",
+    "Cards work in hotels and bigger restaurants, but bazaars, tickets and tips run on cash; withdraw pounds from bank ATMs as you go.",
+    "Haggling in Khan el-Khalili is expected sport — open at a third of the quote and settle near half.",
+    "Photography passes are separate paid tickets in the Valley of the Kings and some museums; phone snaps without flash are usually covered, big cameras are not.",
+    "During Ramzan, daytime restaurant options shrink outside hotels and sites close earlier; evenings, in exchange, are wonderfully alive.",
+    "Vegetarians manage well — koshary, falafel (taameya), fuul, tahina and grilled-vegetable mezze are everywhere and cheap.",
+    "Friday is the weekly holiday: mosques close to visitors around noon prayers and museums open late or shut early.",
+    "Domestic flights on EgyptAir (Cairo–Luxor, Cairo–Aswan) are short and often cheaper booked as add-ons to your international ticket."
+  ],
+  "cities": [
+    {
+      "id": "cairo",
+      "name": "Cairo",
+      "blurb": "Chaotic, magnetic megacity where the pyramids sit at the end of a metro-and-taxi ride. Base here for Giza, the Grand Egyptian Museum, Islamic Cairo's minarets and the Khan el-Khalili bazaar.",
+      "image": {
+        "query": "cairo mosque sultan hassan skyline",
+        "alt": "The mosques of Sultan Hassan and Al-Rifai over Cairo's hazy skyline",
+        "candidates": [
+          "https://images.unsplash.com/photo-1572252009286-268acec5ca0a"
+        ]
+      }
+    },
+    {
+      "id": "luxor",
+      "name": "Luxor",
+      "blurb": "The world's densest open-air museum: Karnak and Luxor Temple on the east bank, the Valley of the Kings and balloon sunrises on the west. Two nights minimum, three is better.",
+      "image": {
+        "query": "luxor temple obelisk dusk",
+        "alt": "Luxor Temple's pylon and obelisk framed by palm trees at dusk",
+        "candidates": [
+          "https://images.unsplash.com/photo-1596130535979-eedea4278d29"
+        ]
+      }
+    },
+    {
+      "id": "aswan",
+      "name": "Aswan",
+      "blurb": "Egypt at its gentlest — Nubian villages, granite islands and feluccas drifting past the Old Cataract Hotel. The launchpad for Abu Simbel and the prettiest sunsets on the Nile.",
+      "image": {
+        "query": "felucca nile sunset aswan",
+        "alt": "A felucca under sail on the Nile at sunset",
+        "candidates": [
+          "https://images.unsplash.com/photo-1761351108511-661ab43bbe0c"
+        ]
+      }
+    },
+    {
+      "id": "hurghada",
+      "name": "Hurghada",
+      "blurb": "The Red Sea's big all-inclusive strip: reliable sun, warm reef-filled water and direct access from Luxor by road, which makes it the natural beach finish to a Nile itinerary.",
+      "image": {
+        "query": "hurghada red sea sunset",
+        "alt": "Sunset over the Red Sea off Hurghada with mountains on the horizon",
+        "candidates": [
+          "https://images.unsplash.com/photo-1593194730732-9c46181db1af"
+        ]
+      }
+    },
+    {
+      "id": "dahab",
+      "name": "Dahab",
+      "blurb": "Sinai's barefoot dive town — beach cafés, the Blue Hole, cheap PADI courses and a backpacker calm that feels closer to Gokarna than to Hurghada's resort rows.",
+      "image": {
+        "query": "dahab sinai mountains red sea",
+        "alt": "The Sinai mountains meeting the Red Sea near Dahab, seen from a boat",
+        "candidates": [
+          "https://images.unsplash.com/photo-1668964413045-964dcd3157e9"
+        ]
+      }
+    },
+    {
+      "id": "alexandria",
+      "name": "Alexandria",
+      "blurb": "Mediterranean Egypt: a seafront corniche, the Qaitbay citadel on the old lighthouse site, the modern Bibliotheca and the country's best seafood — an easy day or overnight from Cairo.",
+      "image": {
+        "query": "alexandria harbour corniche boats",
+        "alt": "Fishing boats in Alexandria's eastern harbour against the city skyline",
+        "candidates": [
+          "https://images.unsplash.com/photo-1594808815295-52034d585f56"
+        ]
+      }
+    }
+  ],
+  "highlights": [
+    {
+      "id": "pyramids-giza",
+      "rank": 1,
+      "name": "Pyramids of Giza & the Sphinx",
+      "category": "Icon",
+      "blurb": "The last surviving wonder of the ancient world, guarded by the Sphinx, twenty minutes from Cairo's traffic and somehow still bigger than you expect.",
+      "detail": "Arrive at the 8am opening before the coach groups, and start at the panoramic viewpoint where all nine pyramids line up for the classic photo. Going inside the Great Pyramid is a steep, sweaty scramble — claustrophobes can pick Khafre's chamber for a fraction of the price and none of the queue. Book a licensed guide or driver-guide combo in advance; freelancers at the gate are where most of the hassle lives. Camel rides are fine if you fix the price and duration first. Combine the morning with lunch overlooking the plateau, then the Grand Egyptian Museum next door in the afternoon.",
+      "image": {
+        "query": "sphinx pyramid khafre giza",
+        "alt": "The Great Sphinx in front of the Pyramid of Khafre with a traveller walking towards it",
+        "candidates": [
+          "https://images.unsplash.com/photo-1553913861-c0fddf2619ee",
+          "https://images.unsplash.com/photo-1568322445389-f64ac2515020"
+        ]
+      }
+    },
+    {
+      "id": "grand-egyptian-museum",
+      "rank": 2,
+      "name": "Grand Egyptian Museum",
+      "category": "Culture",
+      "blurb": "The new billion-dollar home of Tutankhamun's complete treasures beside the pyramids — a colossus of Ramses II greets you in an atrium built like a temple.",
+      "detail": "Give it a half day minimum; the Tutankhamun galleries alone — all five-thousand-plus objects from the tomb displayed together for the first time — reward slow walking. Book timed tickets online a few days ahead and take the earliest slot, when the grand staircase of statues is quietest and the pyramid view from the top windows is at its clearest. The old Egyptian Museum on Tahrir Square still holds the royal-adjacent odds and ends and is worth an hour if you are a completist. Pair GEM with Giza itself: they share a plateau edge, so one taxi covers both.",
+      "image": {
+        "query": "grand egyptian museum ramses statue",
+        "alt": "The colossal statue of Ramses II inside the Grand Egyptian Museum's atrium",
+        "candidates": [
+          "https://images.unsplash.com/photo-1777189978576-08b21689fcc9"
+        ]
+      }
+    },
+    {
+      "id": "karnak-temple",
+      "rank": 3,
+      "name": "Karnak Temple",
+      "category": "Culture",
+      "blurb": "A 2,000-year construction project of avenues, obelisks and the Great Hypostyle Hall — 134 columns wide enough that ten people can't link hands around one.",
+      "detail": "Karnak opens at 6am and the first hour is the whole trick: low gold light through the hypostyle columns, no crowds, cool air. A guide genuinely changes this site — without one it is impressive stone; with one it becomes a readable story of pharaohs one-upping each other for twenty dynasties. Budget two hours, then walk or ride the restored Avenue of Sphinxes towards Luxor Temple, which is best saved for after sunset when it is floodlit and half-empty. The evening sound-and-light show is skippable; the morning silence is not.",
+      "image": {
+        "query": "karnak hypostyle hall columns",
+        "alt": "Massive carved columns of Karnak's Great Hypostyle Hall against a blue sky",
+        "candidates": [
+          "https://images.unsplash.com/photo-1584719763904-2799b453ba8d"
+        ]
+      }
+    },
+    {
+      "id": "valley-of-the-kings",
+      "rank": 4,
+      "name": "Valley of the Kings",
+      "category": "Culture",
+      "blurb": "Sixty-plus royal tombs cut into a desert valley, their corridors still glowing with 3,000-year-old paint that looks finished last week.",
+      "detail": "The standard ticket covers three tombs of your choice; ask which are open that day and aim for Ramses IV for colour, Ramses IX for reliefs, and Merenptah for depth. Tutankhamun's tomb and Seti I cost extra — Seti is expensive but is the finest painted space in Egypt, while Tut's is small and mostly famous for its story. Go at opening or after 2pm when the coaches leave; the valley is a heat trap by 11. Combine with Hatshepsut's terraced temple and the Colossi of Memnon on the same west-bank loop, and carry small notes for the tomb guardians.",
+      "image": {
+        "query": "valley of the kings tomb interior",
+        "alt": "A painted corridor descending into a royal tomb in the Valley of the Kings",
+        "candidates": [
+          "https://images.unsplash.com/photo-1632944398987-494eebe663be"
+        ]
+      }
+    },
+    {
+      "id": "abu-simbel",
+      "rank": 5,
+      "name": "Abu Simbel",
+      "category": "Icon",
+      "blurb": "Four 20-metre colossi of Ramses II carved into a cliff by Lake Nasser — then moved uphill block by block in the 1960s to escape the rising water.",
+      "detail": "It sits 280km south of Aswan, so the standard move is the 4am road convoy, arriving around 8 and back by mid-afternoon; the short flight from Aswan buys you sleep for a price. Go inside both temples — Ramses' own, and the smaller one he built for Queen Nefertari, a rare honour. The relocation story is half the wonder; a guide or a good audio primer beforehand makes the engineering land. Twice a year, around 22 February and 22 October, dawn sun reaches the inner sanctuary statues and crowds triple — plan around it, or for it.",
+      "image": {
+        "query": "abu simbel ramses temple facade",
+        "alt": "The rock-cut facade of Abu Simbel with its four seated colossi of Ramses II",
+        "candidates": [
+          "https://images.unsplash.com/photo-1742262379112-eacb2813ca6d"
+        ]
+      }
+    },
+    {
+      "id": "luxor-balloon",
+      "rank": 6,
+      "name": "Hot-air balloon over Luxor",
+      "category": "Adventure",
+      "blurb": "Dozens of balloons lift off the west bank at dawn, drifting over temple ruins, green sugarcane and the desert hills hiding the royal tombs.",
+      "detail": "Flights leave before sunrise and last 45 minutes to an hour; you will be back at your hotel for breakfast. Book with one of the established operators through your hotel or platform rather than the cheapest street quote — this is one purchase where the premium buys maintenance and pilot hours. Winter mornings are cold aloft, so carry a layer. Flights cancel readily in wind, which is a feature, not a flaw; schedule it for your first Luxor morning so a scrubbed flight can roll to the next day. From the basket you can trace Hatshepsut's temple and the Nile's exact green-to-sand line.",
+      "image": {
+        "query": "hot air balloons luxor west bank sunrise",
+        "alt": "Balloons rising over Luxor's west bank fields and desert hills at dawn",
+        "candidates": [
+          "https://images.unsplash.com/photo-1761496921386-81d399db4df9"
+        ]
+      }
+    },
+    {
+      "id": "nile-cruise",
+      "rank": 7,
+      "name": "Nile cruise, Luxor to Aswan",
+      "category": "Experience",
+      "blurb": "Three or four nights of temples by day and river by dusk — Edfu and Kom Ombo are effectively unreachable any lovelier way.",
+      "detail": "Cruises run both directions; Luxor to Aswan is the classic order, front-loading the biggest sites. Boats range from tired three-stars to genuinely elegant small dahabiyas under sail — the sweet spot is a recent five-star hull, which costs less than you would guess in shoulder season. All meals are included; guiding is usually a bolt-on and worth taking as a small group. The rhythm is the point: temple at 7, sundeck by noon, gin-clear desert sunsets from the top deck. Book winter departures four to eight weeks out, and check the boat's actual sailing dates — many idle midweek.",
+      "image": {
+        "query": "felucca sailing nile luxor",
+        "alt": "A traditional sailboat catching the light on the Nile",
+        "candidates": [
+          "https://images.unsplash.com/photo-1684100096410-fd39cdff91a3"
+        ]
+      }
+    },
+    {
+      "id": "khan-el-khalili",
+      "rank": 8,
+      "name": "Khan el-Khalili & Islamic Cairo",
+      "category": "Culture",
+      "blurb": "A 600-year-old bazaar of brass, spice and lanterns threaded through the densest collection of medieval Islamic architecture anywhere.",
+      "detail": "Come late afternoon and stay past dark, when the lanterns switch on and Cairenes outnumber tourists. Walk the length of Sharia al-Muizz — a linear museum of mosques, sabils and merchant houses — then dive into the khan itself for brass lamps, inlay boxes and cartouche jewellery; bargain hard and cheerfully. Coffee at the centuries-old El Fishawy café is obligatory rather than optional. Climb a minaret at Bab Zuweila for rooftop views if it is open. Dress modestly, keep valuables zipped in the crowds, and pair the evening with the nearby mosques of Sultan Hassan and Al-Rifai earlier in the day.",
+      "image": {
+        "query": "islamic cairo mosques sultan hassan",
+        "alt": "The great mosques of Islamic Cairo rising above the old city's rooftops",
+        "candidates": [
+          "https://images.unsplash.com/photo-1572252009286-268acec5ca0a"
+        ]
+      }
+    },
+    {
+      "id": "red-sea-reefs",
+      "rank": 9,
+      "name": "Red Sea diving & snorkelling",
+      "category": "Water",
+      "blurb": "Some of the planet's healthiest coral in bath-warm, glass-clear water — wall dives, wrecks and reef fish in absurd density, at Asian-backpacker prices.",
+      "detail": "Hurghada suits first-timers and families: sheltered sites, big day boats, easy Giftun Island snorkel trips. Dahab is the diver's town — shore entries, the famous Blue Hole rim (snorkel it; leave the deep to tech divers), and open-water courses among the world's cheapest. Sharm el-Sheikh splits the difference with Ras Mohammed's drop-offs. Water stays 22–29°C year-round, so this is the one part of Egypt that works in summer. Non-swimmers still get their money's worth from glass-bottom boats and shallow lagoons. A two-tank dive day typically runs ₹6,000–9,000 with gear.",
+      "image": {
+        "query": "red sea coral reef egypt",
+        "alt": "A vividly coloured coral head in clear turquoise Red Sea water",
+        "candidates": [
+          "https://images.unsplash.com/photo-1589308945435-38c3f99b3824"
+        ]
+      }
+    },
+    {
+      "id": "white-desert",
+      "rank": 10,
+      "name": "White Desert camping",
+      "category": "Adventure",
+      "blurb": "Wind-carved chalk formations glowing like a lunar sculpture park — an overnight 4x4 camp under some of Egypt's darkest skies.",
+      "detail": "The insider pick. Trips run from Cairo via the Bahariya oasis: roughly five hours' drive, then 4x4s into the Black Desert, Crystal Mountain and finally the white chalk fields, where crews pitch camp, cook over fire and leave you to a silence you can hear. Sunset and sunrise turn the formations pink and gold; desert foxes visit camp after dinner. Two days and one night is the standard format and enough. Go October to April — summer is brutal — and book with an established Bahariya operator. Pack a proper jacket; desert winter nights drop near freezing.",
+      "image": {
+        "query": "white desert chalk formations egypt",
+        "alt": "White chalk rock formations scattered across the desert floor under a dramatic sky",
+        "candidates": [
+          "https://images.unsplash.com/photo-1643236166660-60907b89662b"
+        ]
+      }
+    }
+  ],
+  "activities": [
+    {
+      "id": "sunrise-balloon-flight",
+      "name": "Sunrise balloon flight, Luxor",
+      "category": "Adventure",
+      "blurb": "Lift off before dawn and drift over the Theban hills and temple ruins as the sun clears the Nile — Egypt's single best hour, weather permitting.",
+      "image": {
+        "query": "hot air balloons theban hills luxor",
+        "alt": "Two balloons floating over the sculpted desert hills of Luxor's west bank",
+        "candidates": [
+          "https://images.unsplash.com/photo-1599679101629-e1ecdee2b3aa"
+        ]
+      }
+    },
+    {
+      "id": "red-sea-dive-course",
+      "name": "Red Sea dive or snorkel day",
+      "category": "Water",
+      "blurb": "Boat days to Giftun's reefs from Hurghada, or shore dives and PADI courses in Dahab — warm, clear water and coral that still looks untouched.",
+      "image": {
+        "query": "coral reef snorkelling red sea",
+        "alt": "Snorkeller's view of a bright coral bommie in turquoise water",
+        "candidates": [
+          "https://images.unsplash.com/photo-1589308945435-38c3f99b3824"
+        ]
+      }
+    },
+    {
+      "id": "felucca-sunset-sail",
+      "name": "Felucca sunset sail",
+      "category": "Water",
+      "blurb": "An hour or two under lateen sail out of Aswan or Luxor, tea on deck, no engine — the cheapest genuinely magical thing you can buy in Egypt.",
+      "image": {
+        "query": "felucca sail nile sunset",
+        "alt": "A felucca silhouetted against an orange Nile sunset",
+        "candidates": [
+          "https://images.unsplash.com/photo-1761351108511-661ab43bbe0c"
+        ]
+      }
+    },
+    {
+      "id": "egyptologist-day-tour",
+      "name": "Private Egyptologist day tour",
+      "category": "Culture",
+      "blurb": "A licensed Egyptologist for Giza, Saqqara and Memphis or Luxor's west bank — the difference between looking at stones and reading them.",
+      "image": {
+        "query": "camel caravan giza pyramids sunset",
+        "alt": "Guides leading camels past the pyramids at golden hour",
+        "candidates": [
+          "https://images.unsplash.com/photo-1539768942893-daf53e448371"
+        ]
+      }
+    },
+    {
+      "id": "cairo-food-walk",
+      "name": "Cairo street-food walk",
+      "category": "Food",
+      "blurb": "Koshary, taameya, fuul, hawawshi and sugarcane juice with a local guide who knows which downtown institutions have queued-out counters for a reason.",
+      "image": {
+        "query": "koshary egyptian street food cairo",
+        "alt": "A steaming bowl of koshary topped with fried onions and tomato sauce"
+      }
+    },
+    {
+      "id": "desert-safari-camp",
+      "name": "White Desert overnight safari",
+      "category": "Adventure",
+      "blurb": "4x4s, campfire dinners and a night among glowing chalk formations from the Bahariya oasis — Egypt's best stargazing by a distance.",
+      "image": {
+        "query": "white desert egypt camping formations",
+        "alt": "Chalk formations and open desert under a vast sky in the White Desert",
+        "candidates": [
+          "https://images.unsplash.com/photo-1643236166660-60907b89662b"
+        ]
+      }
+    }
+  ],
+  "trips": [
+    {
+      "id": "golden-triangle",
+      "title": "The Golden Triangle",
+      "nights": 7,
+      "route": [
+        {
+          "place": "Cairo",
+          "nights": 3
+        },
+        {
+          "place": "Luxor",
+          "nights": 2
+        },
+        {
+          "place": "Aswan",
+          "nights": 2
+        }
+      ],
+      "summary": "The essential first-timer's circuit. Pyramids, Sphinx and the Grand Egyptian Museum from Cairo, fly south for Karnak and the Valley of the Kings, then train to Aswan for feluccas and the dawn run to Abu Simbel. Internal flights keep it comfortable at seven nights.",
+      "priceFrom": "₹95,000",
+      "image": {
+        "query": "giza pyramids sunset silhouette",
+        "alt": "The Giza pyramids silhouetted against a pink and orange sunset sky",
+        "candidates": [
+          "https://images.unsplash.com/photo-1678038592492-d73c063bb9e2"
+        ]
+      }
+    },
+    {
+      "id": "nile-and-red-sea",
+      "title": "Nile & Red Sea",
+      "nights": 8,
+      "route": [
+        {
+          "place": "Cairo",
+          "nights": 3
+        },
+        {
+          "place": "Luxor",
+          "nights": 2
+        },
+        {
+          "place": "Hurghada",
+          "nights": 3
+        }
+      ],
+      "summary": "History first, beach second. Three days of Cairo's icons, two of Luxor's temples and tombs with a balloon sunrise, then a four-hour road transfer to Hurghada for reef snorkelling, boat days and an all-inclusive exhale before flying home via Cairo.",
+      "priceFrom": "₹1,10,000",
+      "image": {
+        "query": "red sea reef boat hurghada",
+        "alt": "Bright coral beneath clear turquoise Red Sea water",
+        "candidates": [
+          "https://images.unsplash.com/photo-1589308945435-38c3f99b3824"
+        ]
+      }
+    },
+    {
+      "id": "grand-egypt-cruise",
+      "title": "Grand Egypt with Nile Cruise",
+      "nights": 9,
+      "route": [
+        {
+          "place": "Cairo",
+          "nights": 3
+        },
+        {
+          "place": "Nile cruise (Luxor–Aswan)",
+          "nights": 4
+        },
+        {
+          "place": "Aswan",
+          "nights": 2
+        }
+      ],
+      "summary": "The trip Egypt was designed for. Cairo's pyramids and museums, then board a five-star boat at Luxor and float south past Edfu and Kom Ombo with temples each morning and sundecks each evening, finishing with Abu Simbel and Nubian village colour from Aswan.",
+      "priceFrom": "₹1,45,000",
+      "image": {
+        "query": "nile cruise felucca luxor aswan",
+        "alt": "A sailboat on the wide Nile with green banks in evening light",
+        "candidates": [
+          "https://images.unsplash.com/photo-1684100096410-fd39cdff91a3"
+        ]
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do Indians need a visa for Egypt, and how hard is it?",
+      "a": "Yes — most Indian travellers use the 30-day single-entry e-visa, about US$25 (₹2,200 or so), approved online in typically 3–7 working days. Apply at least a week out and keep hotel bookings and return tickets handy. Rules for Indian applicants have tightened at times, with many routing applications through a travel agent, so booking visa support with your package is the low-stress option. If you hold a valid US, UK or Schengen visa, a visa on arrival is typically available instead."
+    },
+    {
+      "q": "Is Egypt good for vegetarians?",
+      "a": "Better than its kebab reputation suggests. The everyday staples — koshary (rice, lentils, pasta, fried onion), taameya falafel, fuul, tahina, grilled vegetable mezze and fresh flatbread — are all vegetarian and cost very little. Cairo and the Red Sea resorts also have Indian restaurants, and cruise buffets always carry vegetarian lines. Jain-strict diets need more planning; onion and garlic are foundational here."
+    },
+    {
+      "q": "When should I go?",
+      "a": "October to April, no contest — warm days, cool evenings, and every site comfortable to walk. December–January is peak pricing; October–November and February–April give the same weather for less. Summer works only for a Red Sea beach trip, since Luxor and Aswan regularly cross 40°C."
+    },
+    {
+      "q": "How much does a week in Egypt cost from India?",
+      "a": "A well-run 7-night Golden Triangle trip starts around ₹95,000 per person all-in — return flights, three-to-four-star hotels, internal flight, guided sites. Push to about ₹1.4–1.6 lakh for a five-star Nile cruise version. On the ground, comfortable mid-range travel runs ₹7,500–13,000 a day; the weak Egyptian pound makes food, taxis and tips feel cheap, while site tickets are the one cost that keeps climbing."
+    },
+    {
+      "q": "How do I get around between cities?",
+      "a": "EgyptAir's one-hour hops (Cairo–Luxor, Cairo–Aswan) are the comfortable default and cheap when booked with your international ticket. The Luxor–Aswan stretch is best done by cruise boat or the three-hour train. Within Cairo, Uber and Careem beat street taxis on both price and sanity, and the metro is useful for dodging traffic. Long-distance overnight sleeper trains between Cairo and Luxor are an experience — book the sleeper class, not the seats."
+    },
+    {
+      "q": "Is Egypt safe for families and women travellers?",
+      "a": "The tourist circuit — Cairo, the Nile Valley, the Red Sea resorts — is heavily policed and sees millions of visitors a year without incident; the realistic nuisances are touts and overcharging, not crime. Women travelling solo report attention similar to big Indian cities: modest dress outside resorts, Uber over street taxis, and the women's metro carriage in Cairo all help. Families do particularly well on cruises and at Red Sea resorts. Skip North Sinai, which is a separate security zone far from anywhere tourists go."
+    }
+  ]
+}

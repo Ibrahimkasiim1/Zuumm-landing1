@@ -1,0 +1,451 @@
+{
+  "slug": "saudi-arabia",
+  "name": "Saudi Arabia",
+  "displayName": "Saudi Arabia",
+  "country": "Saudi Arabia",
+  "region": "middle-east",
+  "flag": "🇸🇦",
+  "tagline": "Nabataean tombs, canyon hikes, neon-lit new Riyadh.",
+  "overview": "Saudi Arabia only opened to tourists in 2019, which means you can still stand alone inside a 2,000-year-old Nabataean tomb at Hegra — a sister city to Petra that gets a fraction of its footfall. The country is in the middle of a remarkable unveiling: AlUla's sandstone canyons now host balloon flights and mirror-clad concert halls, Riyadh swings between mud-brick Diriyah and the glowing sprawl of Boulevard City, and Jeddah's coral-house old town is being restored lane by lane. Distances are serious — this is a country four times the size of Rajasthan — so treat internal flights as part of the plan, not a luxury. For Indian travellers it is closer than it feels: four and a half hours non-stop from Delhi or Mumbai, food that leans familiar (kabsa is a cousin of biryani), and a winter season that lands exactly in India's holiday calendar.",
+  "heroAlt": "Hegra's carved Nabataean tomb Qasr al-Farid rising from the AlUla desert at golden hour",
+  "heroImage": {
+    "query": "hegra qasr al farid alula",
+    "alt": "The monolithic tomb of Qasr al-Farid at Hegra, AlUla, glowing at sunset"
+  },
+  "quickFacts": {
+    "capital": "Riyadh",
+    "currency": {
+      "code": "SAR",
+      "name": "Saudi riyal",
+      "inr": "SAR 1 ≈ ₹25.5"
+    },
+    "languages": [
+      "Arabic",
+      "English widely spoken in cities"
+    ],
+    "timezone": "GMT+3 · 2½ hrs behind IST",
+    "flightFromIndia": "≈4½ hrs non-stop to Riyadh from Delhi or Mumbai; Jeddah about 5 hrs",
+    "plug": "Type G · 230V — carry a UK-style adapter for Indian plugs",
+    "sim": "STC or Mobily tourist SIM at the airport, about ₹2,000–2,500 for 20–30GB; travel eSIMs from around ₹800"
+  },
+  "visa": {
+    "type": "evisa",
+    "headline": "eVisa for many Indians · embassy visa for the rest",
+    "body": "Indian passport holders qualify for Saudi's one-year, multiple-entry tourist eVisa (90 days total stay) if they hold a used US, UK or Schengen visa, a residence permit from those regions, or GCC residency — approval typically lands within minutes to a day. Everyone else applies for a tourist sticker visa through VFS Tasheel offices in major Indian cities, which takes longer but is a well-worn route. Note that Makkah remains closed to non-Muslims regardless of visa type.",
+    "cost": "eVisa about SAR 480–535 (≈₹12,500–13,500) including mandatory insurance",
+    "processing": "eVisa usually within 24 hours; sticker visa roughly 1–2 weeks"
+  },
+  "weather": {
+    "summary": "A desert country with real seasons: winters are gloriously mild and sunny, summers are fierce. Riyadh and AlUla can drop to single digits on winter nights while Jeddah stays warm and humid year-round, and the Asir mountains in the south-west run 10°C cooler than everywhere else.",
+    "bestTime": "November – February",
+    "seasons": [
+      {
+        "label": "Winter",
+        "months": "Nov – Feb",
+        "temp": "12–25°C",
+        "notes": "Crisp mornings, warm afternoons, every desert hike and festival open — this is when the whole country works.",
+        "tone": "high"
+      },
+      {
+        "label": "Shoulder",
+        "months": "Mar – Apr & Oct",
+        "temp": "22–34°C",
+        "notes": "Warm but manageable if you keep outdoor plans to early morning and late afternoon. Rates soften noticeably.",
+        "tone": "shoulder"
+      },
+      {
+        "label": "Summer",
+        "months": "May – Sep",
+        "temp": "38–45°C",
+        "notes": "Brutal heat inland; fine only for mall-and-museum city breaks or the cooler Asir highlands around Abha.",
+        "tone": "low"
+      }
+    ]
+  },
+  "booking": {
+    "high": "Dec – Jan, plus Riyadh Season weekends and AlUla's winter festivals",
+    "low": "May – September",
+    "note": "AlUla's boutique hotels are few and sell out weeks ahead in winter — lock those nights first and build the rest of the trip around them. November delivers full winter weather before peak pricing kicks in."
+  },
+  "idealDuration": {
+    "nights": "6 – 8",
+    "note": "Six nights covers Riyadh plus AlUla comfortably with an internal flight between them. Add two more to finish in Jeddah for the Red Sea and the old town."
+  },
+  "budget": {
+    "perDay": [
+      {
+        "tier": "Smart",
+        "inr": "₹8,000 – 12,000"
+      },
+      {
+        "tier": "Comfort",
+        "inr": "₹14,000 – 22,000"
+      },
+      {
+        "tier": "Luxe",
+        "inr": "₹35,000+"
+      }
+    ],
+    "note": "Per person per day with mid-range hotels, ride-hailing and one paid activity. Saudi is pricier than Southeast Asia — AlUla in particular runs at resort prices — but petrol-cheap road trips and generous portions pull costs back."
+  },
+  "safety": {
+    "score": 4,
+    "headline": "Very low crime; the real risks are the sun and the highway",
+    "tips": [
+      "Street crime is rare even late at night, but keep hotel and driving documents handy — police checkpoints on intercity highways are routine.",
+      "Summer heat is genuinely dangerous: carry water everywhere, and schedule desert activities for dawn or the last two hours of light.",
+      "Highway driving is fast and assertive; if you self-drive, keep to the middle lane and avoid night driving on rural roads where camels stray.",
+      "Dress modestly in public — shoulders and knees covered for everyone; women don't need an abaya or headscarf but loose clothing draws less attention.",
+      "Avoid photographing government buildings, airports and people (especially women) without permission.",
+      "Save the Tourist Police line 999 and your hotel's number; English-speaking help is standard in Riyadh, Jeddah and AlUla."
+    ]
+  },
+  "goodToKnow": [
+    "Tipping isn't expected but 10% is appreciated at restaurants; round up for drivers and porters.",
+    "Cards and Apple Pay work almost everywhere, including tiny shawarma stands — carry a little cash only for souqs and rural stops.",
+    "Uber and Careem cover Riyadh, Jeddah and Dammam well; Riyadh's new metro is cheap and useful along the main business spine.",
+    "Alcohol is banned throughout the country — there is no hotel-bar loophole, so plan celebrations around coffee culture instead.",
+    "The weekend is Friday–Saturday; Friday mornings are quiet with many places opening only after midday prayers.",
+    "During Ramadan (around February–March in 2027), daytime dining moves indoors and hours shift — evenings, though, are the liveliest of the year.",
+    "Makkah is closed to non-Muslims; Madinah city is open, but the central Prophet's Mosque area is reserved for Muslims.",
+    "Riyadh Season (roughly October–March) floods the capital with concerts and pop-ups — great fun, but book hotels earlier than you think."
+  ],
+  "cities": [
+    {
+      "id": "riyadh",
+      "name": "Riyadh",
+      "blurb": "The capital moves at startup speed: mud-brick Diriyah and the National Museum by day, Boulevard City's neon sprawl by night, with the Edge of the World an easy desert day trip away.",
+      "image": {
+        "query": "riyadh skyline kingdom centre",
+        "alt": "Riyadh's skyline with the Kingdom Centre tower rising above the city",
+        "candidates": [
+          "https://images.unsplash.com/photo-1586724237569-f3d0c1dee8c6"
+        ]
+      }
+    },
+    {
+      "id": "alula",
+      "name": "AlUla",
+      "blurb": "A sandstone canyon oasis holding Hegra's Nabataean tombs, a labyrinthine old town and some of the Middle East's most striking desert hotels. Two to three nights feel essential, not optional.",
+      "image": {
+        "query": "alula desert canyon oasis",
+        "alt": "Sandstone cliffs and palm oasis in the AlUla valley"
+      }
+    },
+    {
+      "id": "jeddah",
+      "name": "Jeddah",
+      "blurb": "The Red Sea port with the country's most relaxed pulse — coral-stone houses in UNESCO-listed Al-Balad, a 30km corniche, serious seafood and dive boats leaving straight from the marina.",
+      "image": {
+        "query": "jeddah al balad coral houses",
+        "alt": "Traditional coral-stone merchant houses with wooden balconies in Al-Balad, Jeddah"
+      }
+    },
+    {
+      "id": "abha",
+      "name": "Abha",
+      "blurb": "The Asir highlands' 2,200m capital, all misty escarpments, terraced villages and hanging-flower architecture. Saudis come here to escape summer; foreign visitors barely know it exists.",
+      "image": {
+        "query": "abha asir mountains escarpment",
+        "alt": "Green terraced mountains and fog over the Asir escarpment near Abha"
+      }
+    },
+    {
+      "id": "taif",
+      "name": "Taif",
+      "blurb": "A breezy hill city above Makkah famous for rose farms that distill attar each spring, a dramatic cable car down the Al-Hada escarpment and roadside baboons that treat the hairpins as home.",
+      "image": {
+        "query": "taif al hada mountain road",
+        "alt": "The winding Al-Hada escarpment road descending from Taif"
+      }
+    },
+    {
+      "id": "madinah",
+      "name": "Madinah",
+      "blurb": "One of Islam's holiest cities, now open to non-Muslim visitors outside the central haram zone. For Muslim travellers combining ziyarat with tourism, it pairs naturally with Jeddah and AlUla.",
+      "image": {
+        "query": "madinah prophet's mosque green dome",
+        "alt": "The Prophet's Mosque in Madinah with its green dome and white minarets"
+      }
+    }
+  ],
+  "highlights": [
+    {
+      "id": "hegra",
+      "rank": 1,
+      "name": "Hegra (Madain Salih)",
+      "category": "Heritage",
+      "blurb": "Saudi's first UNESCO site: 100-plus monumental Nabataean tombs carved into rose sandstone, crowned by the lone monolith of Qasr al-Farid.",
+      "detail": "Access is by guided tour only, booked through the Experience AlUla site or your hotel — vintage Land Rover tours cost more but are worth it for photographs. Go for the first slot of the morning or the golden-hour one; midday flattens the sandstone's colour and cooks the site even in winter. Guides walk you into tomb doorways Petra visitors can only look at from behind ropes, and crowds are still a fraction of Jordan's. Budget half a day, then pair it with Jabal Ikmah's inscriptions or a sunset at Elephant Rock ten minutes away.",
+      "image": {
+        "query": "hegra madain salih nabataean tombs",
+        "alt": "Carved tomb facades in the sandstone outcrops of Hegra"
+      }
+    },
+    {
+      "id": "edge-of-the-world",
+      "rank": 2,
+      "name": "Edge of the World",
+      "category": "Nature",
+      "blurb": "A 300m cliff line on the Tuwaiq escarpment 90 minutes from Riyadh, where the plateau simply stops and an ancient seabed stretches to the horizon.",
+      "detail": "The track in needs a 4x4 and a driver who knows it, so book a group tour from Riyadh (roughly ₹4,000–7,000 per person with transfers and snacks) rather than attempting it in a rental sedan. Afternoon departures timed for sunset are the classic move — the cliffs face west and the light show is the whole point. Wear proper shoes; the best viewpoints involve short scrambles with no railings. Winter only for comfort, and carry a warm layer because the plateau turns cold fast once the sun drops. Most tours have you back in Riyadh by 9pm.",
+      "image": {
+        "query": "edge of the world tuwaiq cliffs riyadh",
+        "alt": "Sheer cliffs of the Tuwaiq escarpment dropping to the desert plain at sunset"
+      }
+    },
+    {
+      "id": "al-balad",
+      "rank": 3,
+      "name": "Al-Balad, Jeddah",
+      "category": "Heritage",
+      "blurb": "Jeddah's UNESCO old town: coral-stone merchant houses with latticed wooden balconies, incense-heavy souqs and centuries of Hajj-route history in its lanes.",
+      "detail": "Come at 5pm and stay past dark — the district is at its best when the heat lifts, the lanterns come on and families fill the squares. Climb Bait Nassif or one of the restored tower houses for rooftop views, then follow the smell of mint tea to the cafés around Souq Al-Alawi. A guided walk (about ₹2,500) genuinely earns its fee here because the architecture's logic — coral walls, wind-catching rawasheen balconies — needs explaining. During Ramadan and the Historic Jeddah festival season the lanes turn into one long street party.",
+      "image": {
+        "query": "al balad jeddah historic district",
+        "alt": "Lantern-lit lane of coral houses with wooden balconies in old Jeddah"
+      }
+    },
+    {
+      "id": "diriyah",
+      "rank": 4,
+      "name": "Diriyah & At-Turaif",
+      "category": "Heritage",
+      "blurb": "The mud-brick birthplace of the Saudi state, restored into a UNESCO district of Najdi palaces, museums and one of Riyadh's best dining rows.",
+      "detail": "Book timed tickets online for At-Turaif itself, then give the evening to Bujairi Terrace across the wadi — a strip of serious restaurants (several Indian-friendly) facing the floodlit citadel walls. The contrast is the attraction: 300-year-old adobe towers on one side, tasting menus on the other. Winter evenings are ideal; go around 4pm to walk the palace district in soft light and be seated for dinner as the walls light up. It's 25 minutes from central Riyadh by Uber, and easily combined with the National Museum earlier that day.",
+      "image": {
+        "query": "diriyah at turaif mud brick palaces",
+        "alt": "Restored Najdi mud-brick architecture of At-Turaif district lit at dusk"
+      }
+    },
+    {
+      "id": "alula-old-town",
+      "rank": 5,
+      "name": "AlUla Old Town & Elephant Rock",
+      "category": "Culture",
+      "blurb": "A 900-year-old maze of mud-brick homes reborn as a candle-lit evening quarter, with the 52m sandstone arch of Elephant Rock a short drive out.",
+      "detail": "Do them as one evening: wander Old Town's restored lanes from about 4pm — craft shops, dates, and Saudi coffee poured from brass dallahs — then drive 15 minutes for sunset at Elephant Rock, where sunken fire-pit seating and coffee kiosks face the arch. Entry to both is free; Old Town runs a lively winter calendar of markets during the Winter at Tantora festival. The rock is at its best in the last hour of light when the sandstone goes copper. Book a table at one of Old Town's rooftop restaurants for after, since AlUla nights get genuinely cold.",
+      "image": {
+        "query": "elephant rock alula sunset",
+        "alt": "The sandstone arch of Elephant Rock in AlUla glowing at sunset"
+      }
+    },
+    {
+      "id": "boulevard-riyadh",
+      "rank": 6,
+      "name": "Boulevard City & Sky Bridge",
+      "category": "Entertainment",
+      "blurb": "Riyadh Season's flagship entertainment district — fountains, concerts and 200-odd restaurants — paired with the Kingdom Centre's 99th-floor Sky Bridge views.",
+      "detail": "Boulevard City runs from October to around March: buy zone tickets online before weekends, when walk-in queues get long, and come after 6pm when the fountains and light shows start. It's the easiest window into how young Riyadh actually spends its evenings. On a separate night, time the Kingdom Centre Sky Bridge (about ₹1,300) for 30 minutes before sunset so you get daylight, golden hour and the city switching on beneath you. Dinner options in the tower and mall below are strong, making it a tidy evening rather than a detour.",
+      "image": {
+        "query": "boulevard city riyadh season night",
+        "alt": "Illuminated fountains and crowds at Boulevard City, Riyadh, at night"
+      }
+    },
+    {
+      "id": "jeddah-corniche",
+      "rank": 7,
+      "name": "Jeddah Corniche & King Fahd's Fountain",
+      "category": "City",
+      "blurb": "Thirty kilometres of Red Sea waterfront with sculpture parks, floating mosque views and the world's tallest fountain firing seawater 260m into the sky.",
+      "detail": "The stretch around Al-Rahma (the 'floating') Mosque is the classic evening walk — arrive an hour before sunset to catch the mosque silhouetted over the water, then watch King Fahd's Fountain light up after dark. Jeddawis picnic here in extended-family numbers on weekends; join them with karak tea and mishaltet pastry from the kiosks. Mornings are good for runners and near-empty photographs. It's free, endless and best treated as the connective tissue of a Jeddah stay: an hour here between Al-Balad, the dive marina and dinner rather than a single ticked box.",
+      "image": {
+        "query": "al rahma floating mosque jeddah",
+        "alt": "Al-Rahma Mosque appearing to float over the Red Sea at sunset in Jeddah"
+      }
+    },
+    {
+      "id": "red-sea-diving",
+      "rank": 8,
+      "name": "Red Sea diving & Umluj islands",
+      "category": "Water",
+      "blurb": "Pristine reefs with barely any boats on them — day dives from Jeddah or Yanbu, and Maldives-grade sandbars off Umluj further north.",
+      "detail": "Saudi's Red Sea coast has the same coral as Egypt's with a fraction of the traffic. From Jeddah, two-tank boat dives run about ₹8,000–12,000 with gear; Yanbu's wrecks and walls reward the extra drive. Non-divers should aim for Umluj, a fishing town four hours north of Yanbu, where boat trips loop white-sand islets over water so clear the boats look parked on glass. Visibility peaks in the cooler months, and the water stays swimmable all winter. Book dive shops with PADI listings in advance — operators are fewer than the coastline deserves, which is exactly why it feels private.",
+      "image": {
+        "query": "umluj islands red sea saudi",
+        "alt": "Turquoise shallows and white sandbar islands off Umluj on the Red Sea"
+      }
+    },
+    {
+      "id": "rijal-almaa",
+      "rank": 9,
+      "name": "Rijal Almaa & the Asir highlands",
+      "category": "Culture",
+      "blurb": "A fortress village of stone towers with white-quartz trim stacked into a green mountain valley — the south-west's flagship, an hour from Abha.",
+      "detail": "Fly into Abha and make Rijal Almaa the anchor of a highlands day: the village's tower houses hold a small museum of Asiri interiors painted in the region's vivid geometric al-Qatt style. Combine it with the Jabal Sawda cable-car viewpoints and Abha's art district, and keep a jacket handy — this is the one part of Saudi where fog rolls through in the afternoon. Summer here is high season for Saudis escaping the heat, so winter visitors often get the terraces to themselves. Roads are excellent but relentlessly hairpinned; hire a driver if switchbacks aren't your idea of a holiday.",
+      "image": {
+        "query": "rijal almaa heritage village asir",
+        "alt": "Stone tower houses of Rijal Almaa village stacked against green mountains"
+      }
+    },
+    {
+      "id": "wadi-disah",
+      "rank": 10,
+      "name": "Wadi Al Disah",
+      "category": "Nature",
+      "blurb": "A palm-filled canyon of 500m sandstone pillars in the Tabuk region — running spring water in the desert, and still mostly a Saudi weekend secret.",
+      "detail": "The insider pick. Disah sits between AlUla and the NEOM coast, reachable as a long day trip from AlUla (about three hours each way) or from Tabuk. The main track follows a spring-fed stream between cliffs, so you walk or 4x4 through shallow water with palms overhead — improbable, cinematic and blissfully unfenced. Local Bedouin drivers at the village entrance run trips into the gorge for a modest fee; take one rather than risking sand traps. Late afternoon light is best, and combining it with an overnight in Tabuk sets up the far north's other canyons. Carry everything: there are no facilities inside.",
+      "image": {
+        "query": "wadi al disah canyon palms",
+        "alt": "Palm trees along a stream between towering sandstone cliffs in Wadi Al Disah"
+      }
+    }
+  ],
+  "activities": [
+    {
+      "id": "desert-safari",
+      "name": "Desert safari & dune camp",
+      "category": "Adventure",
+      "blurb": "Dune bashing, sandboarding and a Bedouin-style dinner camp in the red sands outside Riyadh or AlUla — from about ₹5,000 per person for an evening run.",
+      "image": {
+        "query": "red sand dunes riyadh desert safari",
+        "alt": "4x4 vehicles on red sand dunes outside Riyadh at dusk"
+      }
+    },
+    {
+      "id": "alula-balloon",
+      "name": "Hot-air balloon over AlUla",
+      "category": "Adventure",
+      "blurb": "Dawn flights drift over Hegra's tombs and the canyon oasis; winter mornings only, around ₹25,000 and worth every rupee of it.",
+      "image": {
+        "query": "hot air balloon alula desert",
+        "alt": "Hot-air balloons floating over the sandstone formations of AlUla at sunrise"
+      }
+    },
+    {
+      "id": "red-sea-scuba",
+      "name": "Red Sea dive or snorkel trip",
+      "category": "Water",
+      "blurb": "Boat days from Jeddah or Yanbu to reefs with wild visibility and almost no other divers; beginner discovery dives are easy to arrange.",
+      "image": {
+        "query": "red sea coral reef diving saudi",
+        "alt": "Diver over a healthy coral reef in the Red Sea"
+      }
+    },
+    {
+      "id": "jeddah-food-walk",
+      "name": "Al-Balad evening food walk",
+      "category": "Food",
+      "blurb": "Graze through old Jeddah — mutabbaq, foul, grilled hamour, karak and dates — with a guide who knows which hole-in-the-wall does what best.",
+      "image": {
+        "query": "saudi street food jeddah souq",
+        "alt": "Street food stalls and spice shops in a Jeddah souq at night"
+      }
+    },
+    {
+      "id": "heritage-tour",
+      "name": "Guided heritage day: Diriyah & museums",
+      "category": "Culture",
+      "blurb": "A curated day through At-Turaif, the National Museum and Masmak Fortress that turns Riyadh's history from a blur of dates into an actual story.",
+      "image": {
+        "query": "masmak fortress riyadh",
+        "alt": "The clay walls and towers of Masmak Fortress in Riyadh"
+      }
+    },
+    {
+      "id": "riyadh-season-night",
+      "name": "Riyadh Season show night",
+      "category": "Nightlife",
+      "blurb": "Concerts, esports arenas, immersive exhibitions and late-night restaurant rows across Boulevard City — Saudi's alcohol-free answer to a big night out.",
+      "image": {
+        "query": "riyadh season boulevard lights",
+        "alt": "Crowds under neon installations at a Riyadh Season venue at night"
+      }
+    }
+  ],
+  "trips": [
+    {
+      "id": "capital-and-canyons",
+      "title": "Capital & Canyons",
+      "nights": 5,
+      "route": [
+        {
+          "place": "Riyadh",
+          "nights": 3
+        },
+        {
+          "place": "AlUla",
+          "nights": 2
+        }
+      ],
+      "summary": "The essential first-timer split. Three Riyadh nights cover Diriyah, the National Museum, Boulevard City and a sunset at the Edge of the World; then a short flight to AlUla for Hegra, Old Town evenings and Elephant Rock. Fast, dense and almost entirely winter-weather dependent, so aim for November to February.",
+      "priceFrom": "₹95,000",
+      "image": {
+        "query": "alula hegra desert landscape",
+        "alt": "Sandstone outcrops and desert road in the AlUla valley"
+      }
+    },
+    {
+      "id": "red-sea-reset",
+      "title": "Red Sea Reset",
+      "nights": 4,
+      "route": [
+        {
+          "place": "Jeddah",
+          "nights": 3
+        },
+        {
+          "place": "Taif",
+          "nights": 1
+        }
+      ],
+      "summary": "A long-weekend build around Jeddah's easy rhythm: Al-Balad evenings, a Red Sea dive or snorkel day, corniche sunsets and serious seafood, capped with a night up in Taif for rose farms, cool air and the Al-Hada cable car. Works shoulder season too, since Jeddah's sea breeze softens the heat.",
+      "priceFrom": "₹72,000",
+      "image": {
+        "query": "jeddah corniche red sea sunset",
+        "alt": "Jeddah's waterfront corniche at sunset with the Red Sea beyond"
+      }
+    },
+    {
+      "id": "grand-arabian-loop",
+      "title": "The Grand Arabian Loop",
+      "nights": 8,
+      "route": [
+        {
+          "place": "Riyadh",
+          "nights": 3
+        },
+        {
+          "place": "AlUla",
+          "nights": 3
+        },
+        {
+          "place": "Jeddah",
+          "nights": 2
+        }
+      ],
+      "summary": "The full sweep on internal flights: Riyadh's old-new contrast, three unhurried AlUla nights with room for a balloon flight and Wadi Al Disah, then out through Jeddah for the old town and a Red Sea boat day. Open-jaw flights (into Riyadh, out of Jeddah) save a backtrack and real money.",
+      "priceFrom": "₹1,55,000",
+      "image": {
+        "query": "qasr al farid hegra monolith",
+        "alt": "The lone carved monolith of Qasr al-Farid standing in open desert"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do Indians get a Saudi tourist visa?",
+      "a": "If you hold a used US, UK or Schengen visa (or residency there, or in a GCC state), apply for the tourist eVisa online — it costs about ₹12,500–13,500 with insurance, usually approves within a day, and gives a year of multiple entries with 90 days of total stay. Without one of those visas, apply for a tourist sticker visa via VFS Tasheel in major Indian cities, budgeting one to two weeks. Umrah visas are a separate track with their own rules."
+    },
+    {
+      "q": "Is vegetarian food easy to find?",
+      "a": "Easier than you'd expect. Indian restaurants are everywhere thanks to a large desi community, and Saudi staples include plenty of meat-free plates — foul, falafel, hummus, saleeg-style rice sides, dates and excellent breads. In Riyadh and Jeddah you'll find dedicated vegetarian and South Indian places; in AlUla, tell your hotel in advance and they'll sort it. Jain-specific food needs the Indian restaurants."
+    },
+    {
+      "q": "What should women travellers know?",
+      "a": "Women can travel solo, drive, and book hotels without a male guardian, and the abaya is no longer required for tourists — loose clothing covering shoulders and knees is the norm. Harassment levels are low and public spaces feel notably safe. In smaller towns and religious sites, dress a notch more conservatively and carry a scarf for mosque visits."
+    },
+    {
+      "q": "When is the best time to go?",
+      "a": "November to February, no contest — mild days, cold desert nights, and the festival calendar (Riyadh Season, Winter at Tantora in AlUla) at full tilt. March, April and October work if you plan around midday heat. May to September is only sensible for the Asir mountains around Abha, which stay cool while the rest of the country bakes."
+    },
+    {
+      "q": "How do I get around such a big country?",
+      "a": "Fly between regions — Riyadh, AlUla, Jeddah and Abha are all connected by cheap domestic flights on Saudia, flynas and flyadeal, often under ₹6,000 a leg if booked early. Within cities, Uber and Careem are reliable and Riyadh has a new metro. The Haramain high-speed rail links Jeddah, Madinah and Makkah. Self-driving is easy on excellent roads if you're comfortable with fast highway traffic; an Indian licence plus IDP covers short visits."
+    },
+    {
+      "q": "Is Saudi Arabia expensive compared to Dubai?",
+      "a": "Broadly similar, with different peaks. City hotels and food in Riyadh and Jeddah cost about what Dubai does, ride-hailing and petrol are cheaper, and there's no alcohol spend at all. The one budget shock is AlUla, where limited rooms mean even mid-range stays run ₹15,000–25,000 a night in winter — book those first and the rest of the trip stays predictable."
+    }
+  ]
+}

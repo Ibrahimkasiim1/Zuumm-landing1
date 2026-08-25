@@ -1,0 +1,120 @@
+{
+  "slug": "france",
+  "name": "France",
+  "displayName": "Paris & France",
+  "country": "France",
+  "region": "europe",
+  "flag": "🇫🇷",
+  "tagline": "Café mornings, museum afternoons, lavender roads.",
+  "overview": "France runs on the confidence of a country that knows you'll come anyway — and then over-delivers. Paris is the obvious door: the Louvre before the crowds, a croissant eaten walking along the Seine, the Eiffel Tower doing its hourly glitter after dark. But the rewarding trick is pairing the capital with one other France. Provence in July smells of lavender and rosé; the Riviera stacks belle-époque towns above absurdly blue water; the Loire scatters Renaissance châteaux along a lazy river; Chamonix hangs cable cars off the roof of Western Europe. Trains sew it all together at 300 km/h, so a ten-day trip can hold two or three of these worlds without a single internal flight. For Indian travellers the Schengen paperwork is the one real hurdle — file early, then the country itself is easy: walkable cities, superb public transport, and dinner as the day's main event.",
+  "heroAlt": "Paris rooftops with the Eiffel Tower at golden hour",
+  "heroImage": {
+    "query": "eiffel tower paris golden hour",
+    "alt": "The Eiffel Tower above Haussmann rooftops at golden hour",
+    "candidates": ["https://images.unsplash.com/photo-1502602898657-3e91760cbb34"]
+  },
+  "quickFacts": {
+    "capital": "Paris",
+    "currency": { "code": "EUR", "name": "Euro", "inr": "€1 ≈ ₹105" },
+    "languages": ["French", "English in tourist areas"],
+    "timezone": "GMT+1/+2 · 3½–4½ hrs behind IST",
+    "flightFromIndia": "≈9 hrs non-stop to Paris from Delhi, Mumbai and Bengaluru",
+    "plug": "Type C/E · 230V — Indian round-pin plugs mostly fit",
+    "sim": "Orange Holiday eSIM ≈₹3,600 for 30GB across Europe; airport counters sell the same"
+  },
+  "visa": {
+    "type": "sticker",
+    "headline": "Schengen visa · apply 4–8 weeks ahead",
+    "body": "Indian passport holders need a Schengen visa, filed through VFS with flight, hotel and insurance proofs. Slots in metro cities tighten badly before summer — apply the day your dates firm up. One visa covers 29 European countries, so a Paris-plus-Switzerland trip needs a single application filed with the country of longest stay.",
+    "cost": "€90 (≈₹9,500) + VFS fees",
+    "processing": "Typically 10–20 working days"
+  },
+  "weather": {
+    "summary": "Four honest seasons. Paris is at its best April to June and September to October; the south stays warm and dry deep into autumn, while the Alps flip to ski mode from December. August is when the French themselves go on holiday — cities empty a little and the coast fills completely.",
+    "bestTime": "April – June & September – October",
+    "seasons": [
+      { "label": "Spring & early summer", "months": "Apr – Jun", "temp": "12–24°C", "notes": "Chestnut blossom in Paris, long evenings, café terraces open — the France of the films, before peak pricing.", "tone": "high" },
+      { "label": "High summer", "months": "Jul – Aug", "temp": "20–32°C", "notes": "Lavender and festivals in Provence, packed Riviera beaches, big queues at the icons. Book everything early.", "tone": "shoulder" },
+      { "label": "Winter", "months": "Nov – Mar", "temp": "2–10°C", "notes": "Grey and short days in the north — but museums are quiet, hotel rates drop, and December's window displays are their own show.", "tone": "low" }
+    ]
+  },
+  "booking": {
+    "high": "May – September, plus Christmas week",
+    "low": "November & late January – March",
+    "note": "TGV fares work like flights — book trains 2–3 months out for half price. June beats July–August in Provence: same sun, fewer people, and the lavender starts by mid-month."
+  },
+  "idealDuration": {
+    "nights": "8 – 10",
+    "note": "Four nights for Paris without rushing, then four or five for a second region — Provence and the Riviera pair naturally, the Loire works as day trips."
+  },
+  "budget": {
+    "perDay": [
+      { "tier": "Smart", "inr": "₹9,000 – 13,000" },
+      { "tier": "Comfort", "inr": "₹16,000 – 25,000" },
+      { "tier": "Luxe", "inr": "₹40,000+" }
+    ],
+    "note": "Per person per day with three-star stays, metro passes and one paid sight. The bakery is the budget traveller's best friend — a superb lunch costs ₹500."
+  },
+  "safety": {
+    "score": 4,
+    "headline": "Safe and well-policed; pickpockets around the icons are the one real nuisance",
+    "tips": [
+      "Phones and wallets vanish around the Eiffel Tower, Sacré-Cœur and on Métro line 1 — front pockets and zipped bags, always.",
+      "Ignore anyone with a petition, friendship bracelet or gold-ring 'find' — all three are distraction scams.",
+      "Validate paper train tickets before boarding regional trains; inspectors fine on the spot.",
+      "Keep a photocopy of your passport and Schengen visa separate from the originals.",
+      "August closures are real — many family restaurants shut for weeks; check before crossing town for one.",
+      "In crowds at night around Châtelet and Gare du Nord, take the normal big-city care you would in any capital."
+    ]
+  },
+  "goodToKnow": [
+    "Say 'Bonjour' before anything else in every shop and café — skipping it is genuinely rude here and changes the service you get.",
+    "Cafés price by where you sit: counter, table and terrace can be three different tariffs.",
+    "Service is included in restaurant bills; rounding up or leaving €1–2 is plenty.",
+    "Museums are free the first Sunday of many months, and the Paris Museum Pass jumps most queues.",
+    "Sunday is genuinely closed in much of France — plan museums or parks, not shopping.",
+    "Buy TGV tickets on SNCF Connect, not resellers; seat reservations are compulsory on high-speed trains.",
+    "Tap water is excellent and free by law in restaurants — ask for 'une carafe d'eau'.",
+    "Indian OCI or visa-sticker holders: carry hotel confirmations; border officers do occasionally ask on re-entry from Switzerland."
+  ],
+  "cities": [
+    { "id": "paris", "name": "Paris", "blurb": "The capital of looking at things: world-ending museums, bridge-by-bridge river walks, and neighbourhoods — Marais, Montmartre, Saint-Germain — that are destinations themselves.", "image": { "query": "paris seine pont alexandre", "alt": "Pont Alexandre III over the Seine in Paris" } },
+    { "id": "nice", "name": "Nice & the Riviera", "blurb": "Curving pebble bays, belle-époque facades and trains that hop to Monaco, Èze and Antibes in minutes — the easy base for the whole Côte d'Azur.", "image": { "query": "nice promenade anglais riviera", "alt": "The turquoise curve of the Baie des Anges in Nice" } },
+    { "id": "provence", "name": "Provence", "blurb": "Hilltop villages, Roman arenas, markets under plane trees and July's purple lavender fields — rent a car and drift between Avignon, Gordes and the Luberon.", "image": { "query": "lavender field provence valensole", "alt": "Rows of lavender stretching to a farmhouse in Provence" } },
+    { "id": "loire", "name": "Loire Valley", "blurb": "France's garden of castles: Chambord's fairytale rooftops, Chenonceau arched over the river, and vineyard cellars pouring crisp whites between them.", "image": { "query": "chateau chambord loire castle", "alt": "The turrets of Château de Chambord reflected in water" } },
+    { "id": "chamonix", "name": "Chamonix & the Alps", "blurb": "Mont Blanc's front porch — summer hiking under glaciers, winter skiing above the clouds, and the Aiguille du Midi cable car doing 2,800 vertical metres before lunch.", "image": { "query": "chamonix mont blanc aiguille", "alt": "Snowbound peaks above the Chamonix valley" } },
+    { "id": "strasbourg", "name": "Strasbourg & Alsace", "blurb": "Half-timbered villages along a wine road, a cathedral of rose-pink stone, and Europe's most famous Christmas markets when December arrives.", "image": { "query": "strasbourg petite france canal", "alt": "Half-timbered houses along the canal in Strasbourg's Petite France" } }
+  ],
+  "highlights": [
+    { "id": "eiffel-tower", "rank": 1, "name": "The Eiffel Tower", "category": "Icon", "blurb": "Still the best-designed piece of infrastructure on earth — go up at sunset, then watch it glitter from the Champ de Mars.", "detail": "Book summit tickets on the official site weeks ahead, choosing the last daylight slot so you get the city in sun, at dusk and lit up in one visit. The second floor honestly has the better photography — the summit is about saying you did. Skip-the-line resellers charge triple for the same gate. Afterwards, cross to Place du Trocadéro for the classic straight-on view, or picnic on the Champ de Mars and wait for the hourly five-minute sparkle after dark. In winter the queues halve and the light comes earlier — the tower at 5pm in December is a warmer experience than it sounds.", "image": { "query": "eiffel tower trocadero view", "alt": "The Eiffel Tower seen from Trocadéro at dusk" } },
+    { "id": "louvre", "rank": 2, "name": "The Louvre", "category": "Culture", "blurb": "The world's most visited museum rewards a plan: two wings, three hours, and the Mona Lisa first or never.", "detail": "Nine miles of galleries defeat anyone who wanders. Book the 9am slot, walk straight to the Mona Lisa before the tour groups mass, then give the rest of your visit to the Denon wing's Italian masters and the Winged Victory staircase. Wednesday and Friday nights stay open late and feel like a different, calmer museum. The pyramid entrance queues worst — enter via the Carrousel shopping arcade instead. Accept that you will see two per cent of it; the Louvre is a place you visit repeatedly across a lifetime, not exhaustively once.", "image": { "query": "louvre pyramid paris night", "alt": "The glass pyramid of the Louvre lit at night" } },
+    { "id": "versailles", "rank": 3, "name": "Palace of Versailles", "category": "Culture", "blurb": "The palace that bankrupted a monarchy — Hall of Mirrors, fountain gardens and Marie Antoinette's escape hamlet.", "detail": "Forty minutes on the RER C from central Paris, and worth a full day rather than a squeezed half. Tuesdays and Sundays are the busiest; book the first morning entry, do the State Apartments and Hall of Mirrors before the coaches arrive, then spend the afternoon in the gardens — free on non-fountain days, and at their best during the musical fountain shows on summer weekends. The Trianon palaces and the Queen's Hamlet at the far end of the park are what most visitors miss and often what they remember: rent a golf cart or the little train to reach them with energy left.", "image": { "query": "versailles hall of mirrors", "alt": "The gilded Hall of Mirrors at Versailles" } },
+    { "id": "mont-saint-michel", "rank": 4, "name": "Mont Saint-Michel", "category": "Icon", "blurb": "An abbey-topped island rising out of a tidal bay — medieval France's most improbable silhouette.", "detail": "The Normandy abbey-mount is a long day trip from Paris (about 4½ hours door to door) — better as an overnight, when the day crowds drain away and the lanes go quiet under the floodlights. Time your visit to the tide tables: at high spring tides the causeway bay fills and the Mont becomes a true island for a photogenic hour. Climb to the abbey early, then walk the ramparts anticlockwise for bay views. The famous puffy omelettes at La Mère Poulard are a tourist tax; eat crêpes in the village below instead and spend the savings on the abbey's night visit in summer.", "image": { "query": "mont saint michel tide", "alt": "Mont Saint-Michel reflected in wet tidal sands" } },
+    { "id": "lavender-luberon", "rank": 5, "name": "Lavender roads of Provence", "category": "Nature", "blurb": "Late June to mid-July, the Valensole plateau turns purple to the horizon — the best road trip in France.", "detail": "The bloom runs roughly 20 June to 20 July on the Valensole plateau, slightly later around Sault. Base in Gordes or Roussillon, start shooting by 7am when the light is low and the coach tours are still at breakfast, and work the triangle of Valensole, the Abbaye de Sénanque and the Sault plateau over two days. Fields are working farms: stay on the tramlines, never pick, and expect bees everywhere — they're busy, not interested in you. Pair the purple with the ochre cliffs of Roussillon and a long lunch in a village square; that combination is the whole point of Provence.", "image": { "query": "senanque abbey lavender", "alt": "Lavender rows leading to Sénanque Abbey" } },
+    { "id": "riviera-drive", "rank": 6, "name": "The Riviera's three corniches", "category": "Scenic", "blurb": "Cliff roads between Nice and Monaco stacked with the Mediterranean's most expensive views.", "detail": "Three parallel roads — low, middle and high corniche — link Nice to Monaco, and the Grande Corniche is the drive: 500 metres above the sea, with Èze village perched partway like a stone drone shot. Do it as a loop — out on the high road, back along the coast through Villefranche-sur-Mer's amphitheatre bay. No car? Bus 82 to Èze and the coastal train cover the essentials for a few euros. Èze itself deserves ninety minutes: the exotic garden at its summit owns the postcard angle. Time the return for late afternoon when the low sun turns the whole coast gold.", "image": { "query": "eze village french riviera view", "alt": "Èze village above the Mediterranean coastline" } },
+    { "id": "montmartre", "rank": 7, "name": "Montmartre at dawn", "category": "Neighbourhood", "blurb": "Sacré-Cœur's steps before the city wakes, then lanes where every corner was somebody's painting.", "detail": "Montmartre by 8am is a village: empty steps below Sacré-Cœur, bakeries opening, the vineyard and windmills to yourself. By 11 it is a theme park — the ordering matters. Start at the basilica for the city panorama (free, and the dome climb adds Paris's second-best view), then wander down through Place du Tertre before the easel crowd fully deploys, past the Maison Rose and the Lapin Agile, exiting through the quieter northern slopes. Keep a hand on your phone around the funicular and ignore the bracelet men on the steps. Finish with coffee on Rue des Abbesses among people who actually live here.", "image": { "query": "sacre coeur montmartre sunrise", "alt": "Sacré-Cœur basilica glowing at sunrise" } },
+    { "id": "loire-chateaux", "rank": 8, "name": "Châteaux of the Loire", "category": "Culture", "blurb": "Chambord's crown of turrets and Chenonceau's river arches — the Renaissance showing off in limestone.", "detail": "Two hours from Paris by TGV to Tours puts you in castle country. If you choose only two: Chambord for scale — 426 rooms and a double-helix staircase attributed to Leonardo — and Chenonceau for grace, its gallery bridging the Cher river. They sit an hour apart, so a car (or the summer château shuttle buses from Blois and Tours) makes the day comfortable. Arrive at Chenonceau for opening; it is the most visited château in France and its corridors are narrow. Villandry's geometric gardens make the ideal third stop for anyone castle-saturated but not garden-saturated.", "image": { "query": "chateau chenonceau river cher", "alt": "Château de Chenonceau spanning the River Cher" } },
+    { "id": "dday-normandy", "rank": 9, "name": "D-Day beaches of Normandy", "category": "History", "blurb": "Omaha's long sand, the American cemetery above it, and Arromanches' harbour ruins — history at walking pace.", "detail": "The invasion coast works best with a guide or a car: sites stretch 80 km from Sword to Utah beach. The essential half-day triangle is the Caen Memorial museum for context, Omaha Beach with the American cemetery on the bluff above — its rows of white crosses recalibrate anyone — and Arromanches, where the Mulberry harbour's caissons still sit in the surf at low tide. Pointe du Hoc adds cratered cliff-top drama ten minutes on. Bayeux, with its thousand-year-old tapestry and untouched medieval centre, is the natural overnight base and a destination in its own right.", "image": { "query": "omaha beach normandy american cemetery", "alt": "White crosses at the Normandy American Cemetery above Omaha Beach" } },
+    { "id": "aiguille-midi", "rank": 10, "name": "Aiguille du Midi cable car", "category": "Adventure", "blurb": "Chamonix to 3,842 metres in twenty minutes, then a glass box hanging over a kilometre of air.", "detail": "Europe's highest cable car climbs from Chamonix's valley floor to a needle of rock facing Mont Blanc. On top: terraces above a sea of glaciers, the 'Step into the Void' glass skywalk, and in summer the Panoramic gondola onward across the Vallée Blanche to Italy. Book the first cars of the morning — afternoon clouds build fast — and check the summit webcam before committing; the ticket is expensive enough to want clear sky. The altitude is real: 3,842 m straight from the valley makes some visitors woozy, so move slowly and drink water. Winter visits are quieter and the light on the glaciers is even better.", "image": { "query": "aiguille du midi cable car mont blanc", "alt": "The Aiguille du Midi station above glaciers and cloud" } }
+  ],
+  "activities": [
+    { "id": "seine-cruise", "name": "Seine cruise at dusk", "category": "Scenic", "blurb": "Paris's monuments filing past from water level as the lights come on — an hour that earns its cliché.", "image": { "query": "seine river cruise notre dame", "alt": "A river boat passing Notre-Dame at dusk" } },
+    { "id": "food-tour", "name": "Market & cheese crawl", "category": "Food", "blurb": "A guided run through a covered market: raw-milk cheeses, charcuterie, oysters and the bakery science of the baguette.", "image": { "query": "paris cheese shop fromagerie", "alt": "Wheels of cheese stacked in a Paris fromagerie" } },
+    { "id": "wine-tasting", "name": "Wine tasting in cellars", "category": "Food", "blurb": "Burgundy, Bordeaux or a Paris cave — France explained one glass at a time, no expertise required.", "image": { "query": "wine cellar tasting france", "alt": "Glasses poured in a stone wine cellar" } },
+    { "id": "perfume-grasse", "name": "Perfume workshop in Grasse", "category": "Culture", "blurb": "Blend your own bottle in the town that has supplied the world's noses since the 1600s.", "image": { "query": "grasse perfume flowers france", "alt": "Perfume bottles and flowers in a Grasse atelier" } },
+    { "id": "cycling-loire", "name": "Cycling the Loire à Vélo", "category": "Adventure", "blurb": "Flat riverside paths linking châteaux, vineyards and villages — rental e-bikes make it a glide.", "image": { "query": "cycling loire valley vineyard", "alt": "Cyclists on a path beside Loire vineyards" } },
+    { "id": "ski-alps", "name": "Skiing the French Alps", "category": "Adventure", "blurb": "From Chamonix's steeps to the Three Valleys' endless linked pistes — Europe's biggest ski country.", "image": { "query": "skiing french alps piste", "alt": "A skier carving a piste above the clouds" } }
+  ],
+  "trips": [
+    { "id": "paris-classic", "title": "Paris, properly", "nights": 5, "route": [ { "place": "Paris", "nights": 4 }, { "place": "Versailles", "nights": 1 } ], "summary": "Four unhurried Paris nights — Louvre morning, Montmartre dawn, Seine dusk, one museum-free wandering day — with a Versailles overnight so you see the palace before the coaches do. The right first France.", "priceFrom": "₹1,45,000", "image": { "query": "paris cafe street morning", "alt": "A classic Paris café terrace in morning light" } },
+    { "id": "paris-provence", "title": "Capital & the south", "nights": 9, "route": [ { "place": "Paris", "nights": 4 }, { "place": "Avignon/Provence", "nights": 3 }, { "place": "Nice", "nights": 2 } ], "summary": "The TGV swaps Paris pavements for Provençal markets in under three hours; finish on the Riviera with Èze and Monaco. In late June, this is the lavender itinerary. The definitive ten-day France.", "priceFrom": "₹2,20,000", "image": { "query": "provence village gordes hilltop", "alt": "The hilltop village of Gordes in Provence" } },
+    { "id": "france-honeymoon", "title": "Slow honeymoon: Paris & the Riviera", "nights": 8, "route": [ { "place": "Paris", "nights": 4 }, { "place": "Nice/Riviera", "nights": 4 } ], "summary": "Left-bank hotel, a dusk Seine cruise, one starred dinner — then four Riviera nights of coast trains, Èze at golden hour and long beach-club afternoons. Romance with zero logistics: one train, two bases.", "priceFrom": "₹2,60,000", "image": { "query": "french riviera villefranche bay", "alt": "Villefranche-sur-Mer's amphitheatre bay at dusk" } }
+  ],
+  "faqs": [
+    { "q": "How hard is the Schengen visa for Indians?", "a": "Document-heavy but predictable: flights, hotels, insurance, bank statements and employment proof, filed via VFS. The real constraint is appointment availability — slots vanish 4–8 weeks out before summer, so apply as soon as dates firm up. One visa covers all Schengen countries." },
+    { "q": "Is Paris expensive?", "a": "Hotels are the painful line item; almost everything else scales to your choices. Bakeries and crêpe stands make superb cheap meals, museums bundle into passes, and the metro is ₹190 a ride. Budget travellers do Paris well on ₹9,000–12,000 a day excluding the room." },
+    { "q": "Do I need French?", "a": "No — but you need 'Bonjour'. Open every interaction with it and service warms instantly. In Paris and tourist regions English works fine; in rural France a translation app fills the gaps." },
+    { "q": "Is vegetarian food easy to find?", "a": "Easier every year. Paris has a deep vegetarian scene and Indian restaurants in every arrondissement; classic bistros always have omelettes, soups and superb cheese. In smaller towns, check menus before sitting — traditional French cooking leans meat-heavy." },
+    { "q": "Paris plus which region, if I can only pick one?", "a": "June–September: Provence with the Riviera — lavender, hill villages and the coast in one arc. May or October: the Loire's châteaux. Winter: Chamonix for snow or Strasbourg for Christmas markets. All are direct TGV rides from Paris." }
+  ]
+}

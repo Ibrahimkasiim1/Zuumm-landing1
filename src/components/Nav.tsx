@@ -2,31 +2,45 @@
 import { APP_URL, waLink } from "@/lib/env";
 import { wizardHref } from "@/lib/planner/openPlanner";
 
-import { useEffect, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import Link from "next/link";
 import Image from "next/image";
 import { usePathname } from "next/navigation";
 import { isChromeless } from "@/lib/chrome";
 import { AnimatePresence, motion } from "framer-motion";
 import { ArrowRight, WhatsApp } from "./Icons";
+import { guidesByRegion, HUBS } from "@/lib/guides";
 
 /* The island carries exactly the doors a traveller needs: where to go, the
    two business lines, a human on WhatsApp, and their account. Planning CTAs
    live on the page itself — the wizard's first question is the hero. */
 
 const links = [
-  { href: "/#destinations", label: "Destinations" },
-  { href: "#", label: "For Partners" },
-  { href: "#", label: "Corporate Travel" },
+  { href: "/destinations", label: "Destinations" },
+  { href: "/for-partners", label: "For Partners" },
+  { href: "/corporate-travel", label: "Corporate Travel" },
 ];
 
-const WA_HREF = "#";
+const WA_HREF = waLink("Hi Zuumm! I'd like help planning a trip.");
 
 export default function Nav() {
   const [scrolled, setScrolled] = useState(false);
   const [open, setOpen] = useState(false); // mobile
   const [hovered, setHovered] = useState<string | null>(null);
+  /* the Destinations mega panel; a close timer bridges the pointer's hop
+     from the link to the panel so it doesn't blink shut on the way */
+  const [destOpen, setDestOpen] = useState(false);
+  const closeTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
   const pathname = usePathname();
+
+  const openDest = () => {
+    if (closeTimer.current) clearTimeout(closeTimer.current);
+    setDestOpen(true);
+  };
+  const scheduleCloseDest = () => {
+    if (closeTimer.current) clearTimeout(closeTimer.current);
+    closeTimer.current = setTimeout(() => setDestOpen(false), 140);
+  };
 
   useEffect(() => {
     const onScroll = () => setScrolled(window.scrollY > 12);
@@ -37,6 +51,7 @@ export default function Nav() {
 
   useEffect(() => {
     setOpen(false);
+    setDestOpen(false);
   }, [pathname]);
 
   if (isChromeless(pathname)) return null;
@@ -74,12 +89,24 @@ export default function Nav() {
           >
             {links.map((l) => {
               const active = pathname === l.href;
-              const lit = hovered === l.href || (hovered === null && active);
+              const isDest = l.href === "/destinations";
+              const lit =
+                hovered === l.href ||
+                (isDest && destOpen) ||
+                (hovered === null && active);
               return (
                 <Link
                   key={l.href}
                   href={l.href}
-                  onMouseEnter={() => setHovered(l.href)}
+                  onMouseEnter={() => {
+                    setHovered(l.href);
+                    if (isDest) openDest();
+                    else setDestOpen(false);
+                  }}
+                  onMouseLeave={() => {
+                    if (isDest) scheduleCloseDest();
+                  }}
+                  onFocus={() => isDest && openDest()}
                   className={`relative rounded-full px-4 py-2 text-[0.9rem] font-medium transition-colors duration-200 ${
                     lit ? "text-ink" : "text-ink-2 hover:text-ink"
                   }`}
@@ -115,7 +142,7 @@ export default function Nav() {
               <WhatsApp size={19} />
             </a>
             <a
-              href="#"
+              href={APP_URL}
               className="rounded-full px-4 py-2 text-[0.9rem] font-semibold text-ink transition-colors hover:text-coral-deep"
             >
               Log in
@@ -153,6 +180,76 @@ export default function Nav() {
           </button>
         </nav>
 
+        {/* -------- destinations mega panel (desktop) -------- */}
+        <AnimatePresence>
+          {destOpen && (
+            <motion.div
+              initial={{ opacity: 0, y: -8 }}
+              animate={{ opacity: 1, y: 0 }}
+              exit={{ opacity: 0, y: -6 }}
+              transition={{ duration: 0.2, ease: [0.21, 0.6, 0.35, 1] }}
+              onMouseEnter={openDest}
+              onMouseLeave={scheduleCloseDest}
+              className="pointer-events-auto mx-auto mt-2 hidden max-w-5xl rounded-3xl border border-line bg-white/95 p-7 shadow-[0_32px_90px_-24px_rgba(22,18,31,0.35)] backdrop-blur-xl md:block"
+            >
+              <div className="flex items-baseline justify-between gap-4 border-b border-line pb-4">
+                <p className="display text-[1.15rem] text-ink">
+                  Where do you want to go?
+                </p>
+                <Link
+                  href="/destinations"
+                  className="inline-flex items-center gap-1.5 text-[0.82rem] font-bold text-coral-deep hover:underline"
+                >
+                  View all destinations
+                  <ArrowRight size={13} />
+                </Link>
+              </div>
+              <div className="mt-5 grid max-h-[60vh] grid-cols-4 gap-x-8 gap-y-6 overflow-y-auto">
+                {guidesByRegion().map((r) => (
+                  <div key={r.key} className="break-inside-avoid">
+                    <p className="font-mono text-[0.6rem] font-bold uppercase tracking-[0.14em] text-ink-3">
+                      {r.label}
+                    </p>
+                    <ul className="mt-2.5 space-y-1">
+                      {r.guides.map((g) => (
+                        <li key={g.slug}>
+                          <Link
+                            href={`/destinations/${g.slug}`}
+                            className="flex items-center gap-2.5 rounded-xl px-2 py-1.5 text-[0.88rem] font-medium text-ink-2 transition-colors hover:bg-paper-2 hover:text-ink"
+                          >
+                            <span aria-hidden className="text-[1rem] leading-none">
+                              {g.flag}
+                            </span>
+                            {g.name}
+                          </Link>
+                        </li>
+                      ))}
+                    </ul>
+                  </div>
+                ))}
+                <div>
+                  <p className="font-mono text-[0.6rem] font-bold uppercase tracking-[0.14em] text-ink-3">
+                    By region
+                  </p>
+                  <ul className="mt-2.5 space-y-1">
+                    {HUBS.map((h) => (
+                      <li key={h.slug}>
+                        <Link
+                          href={`/destinations/${h.slug}`}
+                          className="flex items-center justify-between gap-2 rounded-xl px-2 py-1.5 text-[0.88rem] font-semibold text-ink-2 transition-colors hover:bg-paper-2 hover:text-ink"
+                        >
+                          {h.name}
+                          <ArrowRight size={13} className="text-ink-3" />
+                        </Link>
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              </div>
+            </motion.div>
+          )}
+        </AnimatePresence>
+
         {/* -------- mobile menu -------- */}
         <AnimatePresence>
           {open && (
@@ -188,7 +285,7 @@ export default function Nav() {
               </a>
               <div className="flex items-center gap-3 pt-3">
                 <a
-                  href="#"
+                  href={APP_URL}
                   className="flex-1 rounded-full border border-line px-5 py-3 text-center font-medium"
                 >
                   Log in
