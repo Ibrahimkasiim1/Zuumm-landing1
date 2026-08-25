@@ -20,7 +20,7 @@ import {
   WhatsApp,
 } from "@/components/Icons";
 
-/* /form — the classic OTA booking desk, rebuilt in Zuumm's own material.
+/* /form — the classic OTA booking desk, rebuilt in the site's own material.
 
    The page follows the reference skeleton exactly — nav · hero with a
    departures board · the ticket widget (seven services, one panel each) ·
@@ -371,7 +371,7 @@ export default function FormPage() {
         />
 
         <div className="container-x relative">
-          <div className="mb-10 flex flex-wrap items-start justify-between gap-10">
+          <div className="mb-7 flex flex-wrap items-center justify-between gap-10">
             <div className="max-w-[560px]">
               <p className="eyebrow text-coral">AI-powered travel desk</p>
               <h1 className="display mt-4 text-[clamp(2.2rem,5vw,3.4rem)] text-ink">
@@ -379,11 +379,6 @@ export default function FormPage() {
                 <em className="font-medium italic text-coral-deep">perfect</em>{" "}
                 trip.
               </h1>
-              <p className="mt-4 max-w-[480px] text-[1.02rem] leading-relaxed text-ink-2">
-                One search across 400+ airlines, 6,00,000+ hotels and 30,000+
-                curated experiences — matched by AI, backed by a real ground
-                team on WhatsApp, 24×7.
-              </p>
             </div>
             <div className="hidden md:block">
               <DeparturesBoard />
@@ -779,8 +774,8 @@ export default function FormPage() {
                     </span>
                     <h3 className="display relative text-[1.2rem]">Get a quote.</h3>
                     <p className="relative mt-1 max-w-[440px] text-[0.84rem] leading-relaxed text-white/75">
-                      Share your details and a Zuumm holiday expert gets in
-                      touch — every quote priced from real contracted rates.
+                      Share your details and a holiday expert gets in touch —
+                      every quote priced from real contracted rates.
                     </p>
                   </div>
                   <div className="mb-3.5 flex flex-col gap-3.5 sm:flex-row">
@@ -912,9 +907,9 @@ export default function FormPage() {
       <section id="why" className="py-16 md:py-20">
         <div className="container-x">
           <div className="mb-9 max-w-[560px]">
-            <p className="eyebrow text-coral">Why travellers choose Zuumm</p>
+            <p className="eyebrow text-coral">Why travellers choose us</p>
             <h2 className="display mt-4 text-3xl text-ink md:text-[2.4rem]">
-              Why book with Zuumm.
+              Why book with us.
             </h2>
           </div>
           <div className="grid grid-cols-1 gap-px overflow-hidden rounded-3xl border border-line bg-line sm:grid-cols-2 lg:grid-cols-3">
@@ -1015,8 +1010,8 @@ export default function FormPage() {
             </div>
             <div className="flex min-h-[260px] flex-col gap-3 p-5">
               <div className="max-w-[80%] self-start rounded-2xl rounded-bl-md bg-paper-2 px-3.5 py-2.5 text-[0.86rem] leading-relaxed text-ink">
-                Hi! I&rsquo;m Zippy, Zuumm&rsquo;s AI travel concierge. Where
-                are you headed?
+                Hi! I&rsquo;m Zippy, your AI travel concierge. Where are you
+                headed?
               </div>
               <div className="max-w-[80%] self-end rounded-2xl rounded-br-md bg-ink px-3.5 py-2.5 text-[0.86rem] font-medium leading-relaxed text-white">
                 Bali for 6 nights, couple, under ₹50k a person.
@@ -1054,8 +1049,8 @@ export default function FormPage() {
       {/* ================= footer ================= */}
       <footer className="border-t border-line bg-paper-2 py-6 text-center">
         <p className="container-x font-mono text-[0.66rem] uppercase tracking-[0.14em] text-ink-3">
-          <span className="font-bold text-ink">Zuumm</span> · flights, stays
-          and experiences, planned together · 24×7 ground team · AI-enabled
+          Flights, stays and experiences, planned together · 24×7 ground team
+          · AI-enabled
         </p>
       </footer>
 
