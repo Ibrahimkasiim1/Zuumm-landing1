@@ -11,12 +11,21 @@
   "heroImage": {
     "query": "milford sound mitre peak dawn",
     "alt": "Mitre Peak reflected in Milford Sound at dawn",
-    "candidates": ["https://images.unsplash.com/photo-1507699622108-4be3abd695ad"]
+    "candidates": [
+      "https://images.unsplash.com/photo-1507699622108-4be3abd695ad"
+    ]
   },
   "quickFacts": {
     "capital": "Wellington",
-    "currency": { "code": "NZD", "name": "New Zealand dollar", "inr": "NZ$1 ≈ ₹52" },
-    "languages": ["English", "Māori"],
+    "currency": {
+      "code": "NZD",
+      "name": "New Zealand dollar",
+      "inr": "NZ$1 ≈ ₹52"
+    },
+    "languages": [
+      "English",
+      "Māori"
+    ],
     "timezone": "GMT+12/+13 · 6½–7½ hrs ahead of IST",
     "flightFromIndia": "≈14–17 hrs via Singapore or Australia to Auckland; no non-stops",
     "plug": "Type I · 230V — Indian plugs need an adapter",
@@ -33,9 +42,27 @@
     "summary": "Maritime and moody — 'four seasons in one day' is the national forecast. Summers are mild rather than hot, winters snow the alps while the coasts stay green, and Fiordland's 7 metres of annual rain is precisely what keeps a thousand waterfalls running. Pack layers in every month and treat sunshine as a bonus round.",
     "bestTime": "December – March, with October–November and April as the quiet-value windows",
     "seasons": [
-      { "label": "Summer", "months": "Dec – Feb", "temp": "15–26°C", "notes": "Long light, every trail and sound cruise open, lupins ringing Tekapo — peak everything, including campervan traffic.", "tone": "high" },
-      { "label": "Autumn & spring", "months": "Mar – May & Sep – Nov", "temp": "8–18°C", "notes": "Arrowtown's golds or lambing-season greens, thinner crowds, softer rates. April is the photographer's month.", "tone": "shoulder" },
-      { "label": "Winter", "months": "Jun – Aug", "temp": "0–12°C", "notes": "Queenstown flips to ski town, Tekapo's skies hit maximum clarity, some alpine passes chain-up or close. Cosy, cheap, quieter.", "tone": "low" }
+      {
+        "label": "Summer",
+        "months": "Dec – Feb",
+        "temp": "15–26°C",
+        "notes": "Long light, every trail and sound cruise open, lupins ringing Tekapo — peak everything, including campervan traffic.",
+        "tone": "high"
+      },
+      {
+        "label": "Autumn & spring",
+        "months": "Mar – May & Sep – Nov",
+        "temp": "8–18°C",
+        "notes": "Arrowtown's golds or lambing-season greens, thinner crowds, softer rates. April is the photographer's month.",
+        "tone": "shoulder"
+      },
+      {
+        "label": "Winter",
+        "months": "Jun – Aug",
+        "temp": "0–12°C",
+        "notes": "Queenstown flips to ski town, Tekapo's skies hit maximum clarity, some alpine passes chain-up or close. Cosy, cheap, quieter.",
+        "tone": "low"
+      }
     ]
   },
   "booking": {
@@ -49,9 +76,18 @@
   },
   "budget": {
     "perDay": [
-      { "tier": "Smart", "inr": "₹8,500 – 13,000" },
-      { "tier": "Comfort", "inr": "₹15,000 – 24,000" },
-      { "tier": "Luxe", "inr": "₹38,000+" }
+      {
+        "tier": "Smart",
+        "inr": "₹8,500 – 13,000"
+      },
+      {
+        "tier": "Comfort",
+        "inr": "₹15,000 – 24,000"
+      },
+      {
+        "tier": "Luxe",
+        "inr": "₹38,000+"
+      }
     ],
     "note": "Per person per day with a shared rental car. Adventure add-ons are the swing: a bungy is ₹14,000, Milford overnight cruises ₹25,000+. Supermarket picnics at world-class viewpoints are the national budget hack."
   },
@@ -78,43 +114,354 @@
     "The i-SITE visitor centres in every town are superb — free, honest, and they book everything at list price."
   ],
   "cities": [
-    { "id": "queenstown", "name": "Queenstown", "blurb": "The adventure capital ringed by the Remarkables: bungy, jet boats and skydives by day, lakefront wine and Fergburger queues by night.", "image": { "query": "queenstown lake wakatipu remarkables", "alt": "Queenstown on Lake Wakatipu beneath the Remarkables" } },
-    { "id": "te-anau", "name": "Te Anau & Fiordland", "blurb": "The quiet lakeside base for Milford and Doubtful Sounds — glowworm caves across the water and the Kepler Track starting at the edge of town.", "image": { "query": "te anau lake fiordland", "alt": "Lake Te Anau against Fiordland's mountains" } },
-    { "id": "tekapo", "name": "Lake Tekapo & Mt Cook", "blurb": "Turquoise glacial water, the Church of the Good Shepherd, and a Dark Sky Reserve where the Milky Way is the streetlight. Aoraki's hooked summit an hour on.", "image": { "query": "lake tekapo church lupins", "alt": "The Church of the Good Shepherd beside turquoise Tekapo" } },
-    { "id": "rotorua", "name": "Rotorua", "blurb": "The North Island's geothermal heart — geysers, champagne-coloured hot pools, Māori cultural evenings and redwood canopy walks, all faintly scented with sulphur.", "image": { "query": "rotorua champagne pool waiotapu", "alt": "The steaming orange rim of the Champagne Pool" } },
-    { "id": "auckland", "name": "Auckland", "blurb": "The harbour-city arrival point spread across 48 volcanoes — Waiheke Island's vineyards a 40-minute ferry, black-sand surf coasts an hour west.", "image": { "query": "auckland skyline harbour sailboats", "alt": "Auckland's Sky Tower above a harbour of sails" } },
-    { "id": "franz-josef", "name": "West Coast glaciers", "blurb": "Franz Josef and Fox glaciers pouring off the Southern Alps toward rainforest — heli-hikes on the ice, mirror mornings at Lake Matheson.", "image": { "query": "franz josef glacier valley", "alt": "Franz Josef Glacier descending its rainforest valley" } }
+    {
+      "id": "queenstown",
+      "name": "Queenstown",
+      "blurb": "The adventure capital ringed by the Remarkables: bungy, jet boats and skydives by day, lakefront wine and Fergburger queues by night.",
+      "image": {
+        "query": "queenstown lake wakatipu remarkables",
+        "alt": "Queenstown on Lake Wakatipu beneath the Remarkables"
+      }
+    },
+    {
+      "id": "te-anau",
+      "name": "Te Anau & Fiordland",
+      "blurb": "The quiet lakeside base for Milford and Doubtful Sounds — glowworm caves across the water and the Kepler Track starting at the edge of town.",
+      "image": {
+        "query": "te anau lake fiordland",
+        "alt": "Lake Te Anau against Fiordland's mountains"
+      }
+    },
+    {
+      "id": "tekapo",
+      "name": "Lake Tekapo & Mt Cook",
+      "blurb": "Turquoise glacial water, the Church of the Good Shepherd, and a Dark Sky Reserve where the Milky Way is the streetlight. Aoraki's hooked summit an hour on.",
+      "image": {
+        "query": "lake tekapo church lupins",
+        "alt": "The Church of the Good Shepherd beside turquoise Tekapo"
+      }
+    },
+    {
+      "id": "rotorua",
+      "name": "Rotorua",
+      "blurb": "The North Island's geothermal heart — geysers, champagne-coloured hot pools, Māori cultural evenings and redwood canopy walks, all faintly scented with sulphur.",
+      "image": {
+        "query": "rotorua champagne pool waiotapu",
+        "alt": "The steaming orange rim of the Champagne Pool"
+      }
+    },
+    {
+      "id": "auckland",
+      "name": "Auckland",
+      "blurb": "The harbour-city arrival point spread across 48 volcanoes — Waiheke Island's vineyards a 40-minute ferry, black-sand surf coasts an hour west.",
+      "image": {
+        "query": "Auckland Sky Tower harbour",
+        "alt": "Auckland's Sky Tower above a harbour of sails"
+      }
+    },
+    {
+      "id": "franz-josef",
+      "name": "West Coast glaciers",
+      "blurb": "Franz Josef and Fox glaciers pouring off the Southern Alps toward rainforest — heli-hikes on the ice, mirror mornings at Lake Matheson.",
+      "image": {
+        "query": "franz josef glacier valley",
+        "alt": "Franz Josef Glacier descending its rainforest valley"
+      }
+    }
   ],
   "highlights": [
-    { "id": "milford-sound", "rank": 1, "name": "Milford Sound cruise", "category": "Nature", "blurb": "Mitre Peak rising 1,600 metres straight from dark water, waterfalls on every wall — Fiordland's masterpiece, rain or shine.", "detail": "Milford rewards weather either way: sunshine gives the mirror shots, and rain — statistically likelier — multiplies the waterfalls into the hundreds. Cruises run 1.5–2 hours past Stirling and Bowen Falls to the Tasman's mouth, with fur seals hauled out on Seal Rock and dolphins freelancing alongside. Book smaller boats over the big decks, take the first sailing before coach convoys arrive from Queenstown, and treat the drive in — mirror lakes, the Chasm, kea parrots dismantling aerials at the Homer Tunnel queue — as half the day's value. The kayak-and-cruise combos put you at water level where the scale turns properly absurd.", "image": { "query": "milford sound waterfall cruise", "alt": "A cruise boat dwarfed under Milford Sound's walls" } },
-    { "id": "hobbiton", "rank": 2, "name": "Hobbiton Movie Set", "category": "Icon", "blurb": "Forty-four hobbit holes, real smoking chimneys and a working Green Dragon Inn — the Shire, permanently built into a sheep farm.", "detail": "What began as a temporary set outside Matamata was rebuilt in permanent materials for the Hobbit films, and the two-hour guided walk through Bagshot Row to Bag End is a masterclass in movie craft: forced-perspective doors, hand-aged fences, gardens genuinely tended. It ends properly — a complimentary ale or ginger beer at the Green Dragon. Book the first morning tour for soft light and empty lanes in photos, or the Evening Banquet for lantern-lit feasting. Two hours from both Auckland and Rotorua, it slots naturally between them. Non-fans surrender within minutes; the place runs on pure charm.", "image": { "query": "hobbiton bag end green door", "alt": "Bag End's green door above the Hobbiton gardens" } },
-    { "id": "queenstown-adventure", "rank": 3, "name": "Queenstown's adventure circuit", "category": "Adventure", "blurb": "The town that invented bungy: the original Kawarau leap, canyon swings, jet boats shaving cliff walls at 85 km/h.", "detail": "Adventure is Queenstown's civic industry, graded for every nerve level. The icons: Kawarau Bridge's 43-metre bungy (the world's first commercial site, 1988), the Nevis's 134-metre monster with 8.5 seconds of freefall, the Shotover Jet's canyon runs, and tandem skydives over Lake Wakatipu. Book mornings for calmer winds and working cameras; every operator sells the footage you'll absolutely buy. The free-adrenaline alternative: ride the Skyline gondola and luge, then walk down the Tiki Trail. One honest tip — pick one or two headliners rather than ticking everything; prices stack fast and the second bungy teaches nothing new.", "image": { "query": "kawarau bridge bungy jump", "alt": "A jumper mid-leap from Kawarau Bridge" } },
-    { "id": "tekapo-stars", "rank": 4, "name": "Stargazing at Lake Tekapo", "category": "Nature", "blurb": "A Dark Sky Reserve where the Milky Way arches over turquoise water — telescopes, hot pools, southern constellations.", "detail": "The Mackenzie Basin's dry air and lighting controls create some of Earth's clearest night skies, formalised as a Dark Sky Reserve. Guided sessions at the Mt John Observatory or the Dark Sky Project's lakefront base bring telescopes to bear on the Southern Cross, Magellanic Clouds and — in season — the aurora australis flickering on the horizon. The luxurious version: Tekapo Springs' star-gazing float, watching the sky from 38°C water. New-moon weeks are dramatically better; check the calendar before fixing dates. By day, the Church of the Good Shepherd and November–December's lupin bloom fill the same shoreline with the country's most photographed foreground.", "image": { "query": "milky way lake tekapo night", "alt": "The Milky Way over Lake Tekapo's church" } },
-    { "id": "waitomo", "rank": 5, "name": "Waitomo glowworm caves", "category": "Nature", "blurb": "Drift by boat beneath a living galaxy — thousands of glowworms lighting limestone caverns in blue-green constellation.", "detail": "The classic tour walks you through the Cathedral chamber's acoustics before the finale: a silent boat glide under ceilings dense with Arachnocampa luminosa, each point of light a hunting larva's lure. It reads as pure planetarium until your eyes adjust and the 'stars' ripple with the current. Photography is banned on the classic route — memory does the archiving. The adventurous upgrade is black-water rafting with the Legendary Black Water Rafting Co.: wetsuits, inner tubes, small waterfalls and the same galaxy overhead. Caves sit three hours south of Auckland and pair perfectly with Hobbiton for the definitive North Island day-chain.", "image": { "query": "waitomo glowworm cave blue lights", "alt": "Glowworms constellating a dark Waitomo cavern" } },
-    { "id": "aoraki-hooker", "rank": 6, "name": "Aoraki / Mt Cook & the Hooker Valley", "category": "Nature", "blurb": "Three swing bridges to a glacier lake beneath the country's highest peak — the best effort-to-reward walk in the land.", "detail": "The Hooker Valley Track is ten flat kilometres return, and no other three hours in New Zealand pays this densely: swing bridges over milky rivers, alpine buttercups, and the finale at Hooker Lake where icebergs calve beneath Aoraki's 3,724-metre summit wall. Start before 8am for still water and parking; wind builds by noon on the bridges. The Tasman Glacier's boat tours float you among bergs on the terminal lake nearby, and heli-hikes land on the ice itself. The village's Hermitage hotel serves the classic peak-framed flat white. Respect the mountain's tapu status — Aoraki is an ancestor in Ngāi Tahu tradition, and summit selfie culture stays below the ice.", "image": { "query": "hooker valley track swing bridge mt cook", "alt": "A swing bridge on the Hooker Valley Track before Aoraki" } },
-    { "id": "rotorua-geothermal", "rank": 7, "name": "Rotorua's geothermal parks", "category": "Nature", "blurb": "Champagne-coloured pools, the Lady Knox geyser and mud that boils like slow applause — the earth's engine room, doors open.", "detail": "Wai-O-Tapu is the palette headline: the Champagne Pool's orange-rimmed steam, the improbably lime Devil's Bath, and Lady Knox erupting on schedule at 10:15 each morning. Te Puia adds the Pōhutu geyser — the southern hemisphere's largest, playing up to 30 metres — alongside the national carving and weaving schools and a kiwi house. Sulphur is the region's cologne; you stop noticing within the hour. Evenings belong to the cultural experiences: a hāngī feast cooked underground and a pōwhiri welcome at Te Pā Tū or Mitai rank among the country's most genuinely moving nights. The free version of the geology: Kuirau Park steams away right in town.", "image": { "query": "champagne pool waiotapu geothermal", "alt": "Steam rising off Wai-O-Tapu's orange-edged Champagne Pool" } },
-    { "id": "roys-peak", "rank": 8, "name": "Roys Peak, Wānaka", "category": "Adventure", "blurb": "The switchback grind to New Zealand's most famous ridgeline photo — Lake Wānaka fanning out 1,200 metres below.", "detail": "Six hours return, relentlessly uphill, zero shade — and a summit panorama that made this the country's most Instagrammed track. The famous ledge sits 20 minutes below the true summit; sunrise hikers (headlamps up, dawn at the ledge) get both the light and the shortest photo queue, which in peak summer is a real queue. Carry two litres of water, start cold, and check the track's spring lambing closure (roughly 1 Oct–10 Nov). Down in town, That Wānaka Tree — the lake's lone willow — handles the low-effort photography, and Rhyme x Reason brewery handles the recovery. Isthmus Peak next door offers 80% of the view at half the crowd.", "image": { "query": "roys peak ridge lake wanaka", "alt": "The Roys Peak ridgeline above Lake Wānaka" } },
-    { "id": "glacier-heli", "rank": 9, "name": "Glacier heli-hike, Franz Josef", "category": "Adventure", "blurb": "Helicopter onto living ice — blue caves, seracs and crampon walking two hours from rainforest beaches.", "detail": "The West Coast's freak geography drops glaciers from 2,500 metres almost to sea level through temperate rainforest, and since the lower valleys receded, helicopters are the way onto the ice. The heli-hike formula: a snow landing high on Franz Josef or Fox, crampons fitted, then two-plus guided hours weaving through ice caves, arches and meltwater channels that reform weekly. Flights are brutally weather-dependent — build a spare morning locally and take the first slot, which cancels least. Book with the pioneer operators (Franz Josef Glacier Guides, Fox Glacier Guiding). The bad-weather consolation is world-class anyway: Lake Matheson's mirror walk and glowworm dells in the rain.", "image": { "query": "franz josef heli hike blue ice", "alt": "Hikers in an electric-blue ice canyon on Franz Josef" } },
-    { "id": "doubtful-sound", "rank": 10, "name": "Overnight on Doubtful Sound", "category": "Nature", "blurb": "Milford's vaster, emptier sibling — reached by boat-bus-boat, slept aboard, remembered for the engines-off silence.", "detail": "Doubtful is three times Milford's length with a fraction of its traffic, and the journey filters the crowd: catamaran across Lake Manapouri, coach over the Wilmot Pass, then your vessel for 21 hours of fiord. The overnight cruises (Real NZ's Fiordland Navigator sets the standard) fold in kayaking off the stern, a swim for the brave, crayfish dinners — and the ritual that names the trip: engines and generators cut in a dead-still arm, letting Fiordland's total silence land on deck. Bottlenose dolphins and Fiordland crested penguins make regular cameos. It costs real money and books out by months; travellers consistently file it under 'worth every rupee'.", "image": { "query": "doubtful sound misty fiord", "alt": "Mist threading Doubtful Sound's dark ridgelines" } }
+    {
+      "id": "milford-sound",
+      "rank": 1,
+      "name": "Milford Sound cruise",
+      "category": "Nature",
+      "blurb": "Mitre Peak rising 1,600 metres straight from dark water, waterfalls on every wall — Fiordland's masterpiece, rain or shine.",
+      "detail": "Milford rewards weather either way: sunshine gives the mirror shots, and rain — statistically likelier — multiplies the waterfalls into the hundreds. Cruises run 1.5–2 hours past Stirling and Bowen Falls to the Tasman's mouth, with fur seals hauled out on Seal Rock and dolphins freelancing alongside. Book smaller boats over the big decks, take the first sailing before coach convoys arrive from Queenstown, and treat the drive in — mirror lakes, the Chasm, kea parrots dismantling aerials at the Homer Tunnel queue — as half the day's value. The kayak-and-cruise combos put you at water level where the scale turns properly absurd.",
+      "image": {
+        "query": "milford sound waterfall cruise",
+        "alt": "A cruise boat dwarfed under Milford Sound's walls"
+      }
+    },
+    {
+      "id": "hobbiton",
+      "rank": 2,
+      "name": "Hobbiton Movie Set",
+      "category": "Icon",
+      "blurb": "Forty-four hobbit holes, real smoking chimneys and a working Green Dragon Inn — the Shire, permanently built into a sheep farm.",
+      "detail": "What began as a temporary set outside Matamata was rebuilt in permanent materials for the Hobbit films, and the two-hour guided walk through Bagshot Row to Bag End is a masterclass in movie craft: forced-perspective doors, hand-aged fences, gardens genuinely tended. It ends properly — a complimentary ale or ginger beer at the Green Dragon. Book the first morning tour for soft light and empty lanes in photos, or the Evening Banquet for lantern-lit feasting. Two hours from both Auckland and Rotorua, it slots naturally between them. Non-fans surrender within minutes; the place runs on pure charm.",
+      "image": {
+        "query": "hobbiton bag end green door",
+        "alt": "Bag End's green door above the Hobbiton gardens"
+      }
+    },
+    {
+      "id": "queenstown-adventure",
+      "rank": 3,
+      "name": "Queenstown's adventure circuit",
+      "category": "Adventure",
+      "blurb": "The town that invented bungy: the original Kawarau leap, canyon swings, jet boats shaving cliff walls at 85 km/h.",
+      "detail": "Adventure is Queenstown's civic industry, graded for every nerve level. The icons: Kawarau Bridge's 43-metre bungy (the world's first commercial site, 1988), the Nevis's 134-metre monster with 8.5 seconds of freefall, the Shotover Jet's canyon runs, and tandem skydives over Lake Wakatipu. Book mornings for calmer winds and working cameras; every operator sells the footage you'll absolutely buy. The free-adrenaline alternative: ride the Skyline gondola and luge, then walk down the Tiki Trail. One honest tip — pick one or two headliners rather than ticking everything; prices stack fast and the second bungy teaches nothing new.",
+      "image": {
+        "query": "kawarau bridge bungy jump",
+        "alt": "A jumper mid-leap from Kawarau Bridge"
+      }
+    },
+    {
+      "id": "tekapo-stars",
+      "rank": 4,
+      "name": "Stargazing at Lake Tekapo",
+      "category": "Nature",
+      "blurb": "A Dark Sky Reserve where the Milky Way arches over turquoise water — telescopes, hot pools, southern constellations.",
+      "detail": "The Mackenzie Basin's dry air and lighting controls create some of Earth's clearest night skies, formalised as a Dark Sky Reserve. Guided sessions at the Mt John Observatory or the Dark Sky Project's lakefront base bring telescopes to bear on the Southern Cross, Magellanic Clouds and — in season — the aurora australis flickering on the horizon. The luxurious version: Tekapo Springs' star-gazing float, watching the sky from 38°C water. New-moon weeks are dramatically better; check the calendar before fixing dates. By day, the Church of the Good Shepherd and November–December's lupin bloom fill the same shoreline with the country's most photographed foreground.",
+      "image": {
+        "query": "milky way lake tekapo night",
+        "alt": "The Milky Way over Lake Tekapo's church"
+      }
+    },
+    {
+      "id": "waitomo",
+      "rank": 5,
+      "name": "Waitomo glowworm caves",
+      "category": "Nature",
+      "blurb": "Drift by boat beneath a living galaxy — thousands of glowworms lighting limestone caverns in blue-green constellation.",
+      "detail": "The classic tour walks you through the Cathedral chamber's acoustics before the finale: a silent boat glide under ceilings dense with Arachnocampa luminosa, each point of light a hunting larva's lure. It reads as pure planetarium until your eyes adjust and the 'stars' ripple with the current. Photography is banned on the classic route — memory does the archiving. The adventurous upgrade is black-water rafting with the Legendary Black Water Rafting Co.: wetsuits, inner tubes, small waterfalls and the same galaxy overhead. Caves sit three hours south of Auckland and pair perfectly with Hobbiton for the definitive North Island day-chain.",
+      "image": {
+        "query": "waitomo glowworm cave blue lights",
+        "alt": "Glowworms constellating a dark Waitomo cavern"
+      }
+    },
+    {
+      "id": "aoraki-hooker",
+      "rank": 6,
+      "name": "Aoraki / Mt Cook & the Hooker Valley",
+      "category": "Nature",
+      "blurb": "Three swing bridges to a glacier lake beneath the country's highest peak — the best effort-to-reward walk in the land.",
+      "detail": "The Hooker Valley Track is ten flat kilometres return, and no other three hours in New Zealand pays this densely: swing bridges over milky rivers, alpine buttercups, and the finale at Hooker Lake where icebergs calve beneath Aoraki's 3,724-metre summit wall. Start before 8am for still water and parking; wind builds by noon on the bridges. The Tasman Glacier's boat tours float you among bergs on the terminal lake nearby, and heli-hikes land on the ice itself. The village's Hermitage hotel serves the classic peak-framed flat white. Respect the mountain's tapu status — Aoraki is an ancestor in Ngāi Tahu tradition, and summit selfie culture stays below the ice.",
+      "image": {
+        "query": "hooker valley track swing bridge mt cook",
+        "alt": "A swing bridge on the Hooker Valley Track before Aoraki"
+      }
+    },
+    {
+      "id": "rotorua-geothermal",
+      "rank": 7,
+      "name": "Rotorua's geothermal parks",
+      "category": "Nature",
+      "blurb": "Champagne-coloured pools, the Lady Knox geyser and mud that boils like slow applause — the earth's engine room, doors open.",
+      "detail": "Wai-O-Tapu is the palette headline: the Champagne Pool's orange-rimmed steam, the improbably lime Devil's Bath, and Lady Knox erupting on schedule at 10:15 each morning. Te Puia adds the Pōhutu geyser — the southern hemisphere's largest, playing up to 30 metres — alongside the national carving and weaving schools and a kiwi house. Sulphur is the region's cologne; you stop noticing within the hour. Evenings belong to the cultural experiences: a hāngī feast cooked underground and a pōwhiri welcome at Te Pā Tū or Mitai rank among the country's most genuinely moving nights. The free version of the geology: Kuirau Park steams away right in town.",
+      "image": {
+        "query": "champagne pool waiotapu geothermal",
+        "alt": "Steam rising off Wai-O-Tapu's orange-edged Champagne Pool"
+      }
+    },
+    {
+      "id": "roys-peak",
+      "rank": 8,
+      "name": "Roys Peak, Wānaka",
+      "category": "Adventure",
+      "blurb": "The switchback grind to New Zealand's most famous ridgeline photo — Lake Wānaka fanning out 1,200 metres below.",
+      "detail": "Six hours return, relentlessly uphill, zero shade — and a summit panorama that made this the country's most Instagrammed track. The famous ledge sits 20 minutes below the true summit; sunrise hikers (headlamps up, dawn at the ledge) get both the light and the shortest photo queue, which in peak summer is a real queue. Carry two litres of water, start cold, and check the track's spring lambing closure (roughly 1 Oct–10 Nov). Down in town, That Wānaka Tree — the lake's lone willow — handles the low-effort photography, and Rhyme x Reason brewery handles the recovery. Isthmus Peak next door offers 80% of the view at half the crowd.",
+      "image": {
+        "query": "roys peak ridge lake wanaka",
+        "alt": "The Roys Peak ridgeline above Lake Wānaka"
+      }
+    },
+    {
+      "id": "glacier-heli",
+      "rank": 9,
+      "name": "Glacier heli-hike, Franz Josef",
+      "category": "Adventure",
+      "blurb": "Helicopter onto living ice — blue caves, seracs and crampon walking two hours from rainforest beaches.",
+      "detail": "The West Coast's freak geography drops glaciers from 2,500 metres almost to sea level through temperate rainforest, and since the lower valleys receded, helicopters are the way onto the ice. The heli-hike formula: a snow landing high on Franz Josef or Fox, crampons fitted, then two-plus guided hours weaving through ice caves, arches and meltwater channels that reform weekly. Flights are brutally weather-dependent — build a spare morning locally and take the first slot, which cancels least. Book with the pioneer operators (Franz Josef Glacier Guides, Fox Glacier Guiding). The bad-weather consolation is world-class anyway: Lake Matheson's mirror walk and glowworm dells in the rain.",
+      "image": {
+        "query": "Franz Josef glacier ice hike",
+        "alt": "Hikers in an electric-blue ice canyon on Franz Josef"
+      }
+    },
+    {
+      "id": "doubtful-sound",
+      "rank": 10,
+      "name": "Overnight on Doubtful Sound",
+      "category": "Nature",
+      "blurb": "Milford's vaster, emptier sibling — reached by boat-bus-boat, slept aboard, remembered for the engines-off silence.",
+      "detail": "Doubtful is three times Milford's length with a fraction of its traffic, and the journey filters the crowd: catamaran across Lake Manapouri, coach over the Wilmot Pass, then your vessel for 21 hours of fiord. The overnight cruises (Real NZ's Fiordland Navigator sets the standard) fold in kayaking off the stern, a swim for the brave, crayfish dinners — and the ritual that names the trip: engines and generators cut in a dead-still arm, letting Fiordland's total silence land on deck. Bottlenose dolphins and Fiordland crested penguins make regular cameos. It costs real money and books out by months; travellers consistently file it under 'worth every rupee'.",
+      "image": {
+        "query": "doubtful sound misty fiord",
+        "alt": "Mist threading Doubtful Sound's dark ridgelines"
+      }
+    }
   ],
   "activities": [
-    { "id": "jet-boat", "name": "Shotover canyon jet boat", "category": "Adventure", "blurb": "360° spins between canyon walls with centimetres to spare — Queenstown's signature 25 minutes.", "image": { "query": "shotover jet boat canyon", "alt": "A jet boat spinning through the Shotover canyon" } },
-    { "id": "maori-hangi", "name": "Māori evening & hāngī feast", "category": "Culture", "blurb": "Pōwhiri welcome, haka, and dinner steamed underground on hot stones — protocol, not performance.", "image": { "query": "maori hangi cultural performance", "alt": "A Māori cultural performance before a hāngī feast" } },
-    { "id": "waiheke-wine", "name": "Waiheke Island wine day", "category": "Food", "blurb": "Ferry from Auckland to clifftop cellar doors — syrah with sea views forty minutes from downtown.", "image": { "query": "waiheke island vineyard sea view", "alt": "Vines running to the sea on Waiheke Island" } },
-    { "id": "skydive-wanaka", "name": "Skydive over the Southern Alps", "category": "Adventure", "blurb": "15,000 feet above braided rivers and turquoise lakes — the scenery argument for jumping out of planes.", "image": { "query": "skydive wanaka lake mountains", "alt": "A tandem skydive high above Lake Wānaka" } },
-    { "id": "whale-kaikoura", "name": "Whale watching, Kaikōura", "category": "Wildlife", "blurb": "Resident sperm whales in a deep-sea canyon metres offshore, with dusky dolphins running escort.", "image": { "query": "sperm whale tail kaikoura", "alt": "A sperm whale fluking off the Kaikōura coast" } },
-    { "id": "tss-earnslaw", "name": "TSS Earnslaw steamship cruise", "category": "Scenic", "blurb": "A 1912 coal-fired steamer across Lake Wakatipu to a high-country farm — Queenstown at its gentlest.", "image": { "query": "tss earnslaw steamship wakatipu", "alt": "The white TSS Earnslaw steaming across Lake Wakatipu" } }
+    {
+      "id": "jet-boat",
+      "name": "Shotover canyon jet boat",
+      "category": "Adventure",
+      "blurb": "360° spins between canyon walls with centimetres to spare — Queenstown's signature 25 minutes.",
+      "image": {
+        "query": "shotover jet boat canyon",
+        "alt": "A jet boat spinning through the Shotover canyon"
+      }
+    },
+    {
+      "id": "maori-hangi",
+      "name": "Māori evening & hāngī feast",
+      "category": "Culture",
+      "blurb": "Pōwhiri welcome, haka, and dinner steamed underground on hot stones — protocol, not performance.",
+      "image": {
+        "query": "maori hangi cultural performance",
+        "alt": "A Māori cultural performance before a hāngī feast"
+      }
+    },
+    {
+      "id": "waiheke-wine",
+      "name": "Waiheke Island wine day",
+      "category": "Food",
+      "blurb": "Ferry from Auckland to clifftop cellar doors — syrah with sea views forty minutes from downtown.",
+      "image": {
+        "query": "waiheke island vineyard sea view",
+        "alt": "Vines running to the sea on Waiheke Island"
+      }
+    },
+    {
+      "id": "skydive-wanaka",
+      "name": "Skydive over the Southern Alps",
+      "category": "Adventure",
+      "blurb": "15,000 feet above braided rivers and turquoise lakes — the scenery argument for jumping out of planes.",
+      "image": {
+        "query": "tandem skydive freefall",
+        "alt": "A tandem skydive high above Lake Wānaka"
+      }
+    },
+    {
+      "id": "whale-kaikoura",
+      "name": "Whale watching, Kaikōura",
+      "category": "Wildlife",
+      "blurb": "Resident sperm whales in a deep-sea canyon metres offshore, with dusky dolphins running escort.",
+      "image": {
+        "query": "sperm whale tail kaikoura",
+        "alt": "A sperm whale fluking off the Kaikōura coast"
+      }
+    },
+    {
+      "id": "tss-earnslaw",
+      "name": "TSS Earnslaw steamship cruise",
+      "category": "Scenic",
+      "blurb": "A 1912 coal-fired steamer across Lake Wakatipu to a high-country farm — Queenstown at its gentlest.",
+      "image": {
+        "query": "tss earnslaw steamship wakatipu",
+        "alt": "The white TSS Earnslaw steaming across Lake Wakatipu"
+      }
+    }
   ],
   "trips": [
-    { "id": "south-island-loop", "title": "South Island grand loop", "nights": 10, "route": [ { "place": "Christchurch", "nights": 1 }, { "place": "Tekapo/Mt Cook", "nights": 2 }, { "place": "Queenstown", "nights": 4 }, { "place": "Te Anau/Milford", "nights": 2 }, { "place": "Christchurch", "nights": 1 } ], "summary": "The definitive self-drive: Tekapo's stars and the Hooker Valley, Queenstown's adventure circuit with a Wānaka day, then Fiordland for the Milford cruise. One rental car, the country's five best landscapes, and every night earned by a beautiful road.", "priceFrom": "₹2,35,000", "image": { "query": "road to mount cook lupins", "alt": "The lupin-lined road running toward Aoraki/Mt Cook" } },
-    { "id": "two-island-classic", "title": "Two-island classic", "nights": 12, "route": [ { "place": "Auckland", "nights": 2 }, { "place": "Rotorua", "nights": 2 }, { "place": "Queenstown", "nights": 4 }, { "place": "Te Anau/Milford", "nights": 2 }, { "place": "Auckland", "nights": 2 } ], "summary": "Hobbiton and Waitomo's glowworms southbound to Rotorua's geysers and a hāngī night, then fly south for Queenstown, Milford and Tekapo stars. Both islands' greatest hits in one arc — the honeymoon-favourite shape of New Zealand.", "priceFrom": "₹2,85,000", "image": { "query": "hobbiton rolling green hills", "alt": "Hobbit holes dotting Hobbiton's green hills" } },
-    { "id": "adventure-week", "title": "Pure adrenaline week", "nights": 7, "route": [ { "place": "Queenstown", "nights": 5 }, { "place": "Wānaka", "nights": 2 } ], "summary": "One base, maximum G-force: Nevis bungy, Shotover jet, canyon swing and a Southern Alps skydive, with Roys Peak at dawn and Franz Josef's heli-hike as the day-trip crescendos. For travellers whose holiday photos need waivers.", "priceFrom": "₹2,10,000", "image": { "query": "queenstown skydive adventure lake", "alt": "A skydiver over Queenstown's lake-and-range panorama" } }
+    {
+      "id": "south-island-loop",
+      "title": "South Island grand loop",
+      "nights": 10,
+      "route": [
+        {
+          "place": "Christchurch",
+          "nights": 1
+        },
+        {
+          "place": "Tekapo/Mt Cook",
+          "nights": 2
+        },
+        {
+          "place": "Queenstown",
+          "nights": 4
+        },
+        {
+          "place": "Te Anau/Milford",
+          "nights": 2
+        },
+        {
+          "place": "Christchurch",
+          "nights": 1
+        }
+      ],
+      "summary": "The definitive self-drive: Tekapo's stars and the Hooker Valley, Queenstown's adventure circuit with a Wānaka day, then Fiordland for the Milford cruise. One rental car, the country's five best landscapes, and every night earned by a beautiful road.",
+      "priceFrom": "₹2,35,000",
+      "image": {
+        "query": "road to mount cook lupins",
+        "alt": "The lupin-lined road running toward Aoraki/Mt Cook"
+      }
+    },
+    {
+      "id": "two-island-classic",
+      "title": "Two-island classic",
+      "nights": 12,
+      "route": [
+        {
+          "place": "Auckland",
+          "nights": 2
+        },
+        {
+          "place": "Rotorua",
+          "nights": 2
+        },
+        {
+          "place": "Queenstown",
+          "nights": 4
+        },
+        {
+          "place": "Te Anau/Milford",
+          "nights": 2
+        },
+        {
+          "place": "Auckland",
+          "nights": 2
+        }
+      ],
+      "summary": "Hobbiton and Waitomo's glowworms southbound to Rotorua's geysers and a hāngī night, then fly south for Queenstown, Milford and Tekapo stars. Both islands' greatest hits in one arc — the honeymoon-favourite shape of New Zealand.",
+      "priceFrom": "₹2,85,000",
+      "image": {
+        "query": "Lake Pukaki Mount Cook road",
+        "alt": "Hobbit holes dotting Hobbiton's green hills"
+      }
+    },
+    {
+      "id": "adventure-week",
+      "title": "Pure adrenaline week",
+      "nights": 7,
+      "route": [
+        {
+          "place": "Queenstown",
+          "nights": 5
+        },
+        {
+          "place": "Wānaka",
+          "nights": 2
+        }
+      ],
+      "summary": "One base, maximum G-force: Nevis bungy, Shotover jet, canyon swing and a Southern Alps skydive, with Roys Peak at dawn and Franz Josef's heli-hike as the day-trip crescendos. For travellers whose holiday photos need waivers.",
+      "priceFrom": "₹2,10,000",
+      "image": {
+        "query": "Queenstown Lake Wakatipu",
+        "alt": "A skydiver over Queenstown's lake-and-range panorama"
+      }
+    }
   ],
   "faqs": [
-    { "q": "How early should Indians apply for the NZ visa?", "a": "File the online visitor visa 6–8 weeks before travel — processing fluctuates and peaks before the southern summer. Keep flights refundable until the grant, and remember an Australian transit visa if your routing touches Australia." },
-    { "q": "North Island, South Island, or both?", "a": "Under eight nights: South Island only — it carries the scenery headlines. Ten-plus nights: fly into Auckland for Hobbiton, Waitomo and Rotorua, then south for Queenstown and Milford. The inter-island ferry is scenic but eats a day; flying between islands usually wins." },
-    { "q": "Do we need to self-drive?", "a": "It's the country's best feature — roads are the itinerary. Indians drive on the same side, licences in English work directly, and distances are short but slow. Non-drivers can build the same trip on InterCity buses and day tours, just with less spontaneity." },
-    { "q": "When do we go for the postcard version?", "a": "December–February for full summer; November and April for the same landscapes minus the crowds and campervans (November adds Tekapo's lupins, April adds Arrowtown's gold). Winter is for skiers and stargazers — and the aurora australis, if luck cooperates." },
-    { "q": "Is New Zealand vegetarian-friendly?", "a": "Very. Every town of consequence has an Indian restaurant — a large Indian community keeps standards honest — cafés label clearly, and supermarket self-catering is easy. At a hāngī, vegetarian portions exist; mention it when booking." }
+    {
+      "q": "How early should Indians apply for the NZ visa?",
+      "a": "File the online visitor visa 6–8 weeks before travel — processing fluctuates and peaks before the southern summer. Keep flights refundable until the grant, and remember an Australian transit visa if your routing touches Australia."
+    },
+    {
+      "q": "North Island, South Island, or both?",
+      "a": "Under eight nights: South Island only — it carries the scenery headlines. Ten-plus nights: fly into Auckland for Hobbiton, Waitomo and Rotorua, then south for Queenstown and Milford. The inter-island ferry is scenic but eats a day; flying between islands usually wins."
+    },
+    {
+      "q": "Do we need to self-drive?",
+      "a": "It's the country's best feature — roads are the itinerary. Indians drive on the same side, licences in English work directly, and distances are short but slow. Non-drivers can build the same trip on InterCity buses and day tours, just with less spontaneity."
+    },
+    {
+      "q": "When do we go for the postcard version?",
+      "a": "December–February for full summer; November and April for the same landscapes minus the crowds and campervans (November adds Tekapo's lupins, April adds Arrowtown's gold). Winter is for skiers and stargazers — and the aurora australis, if luck cooperates."
+    },
+    {
+      "q": "Is New Zealand vegetarian-friendly?",
+      "a": "Very. Every town of consequence has an Indian restaurant — a large Indian community keeps standards honest — cafés label clearly, and supermarket self-catering is easy. At a hāngī, vegetarian portions exist; mention it when booking."
+    }
   ]
 }

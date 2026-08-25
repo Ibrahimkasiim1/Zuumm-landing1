@@ -11,12 +11,23 @@
   "heroImage": {
     "query": "matterhorn reflection riffelsee sunrise",
     "alt": "The Matterhorn mirrored in the Riffelsee at sunrise",
-    "candidates": ["https://images.unsplash.com/photo-1508923567004-3a6b8004f3d7"]
+    "candidates": [
+      "https://images.unsplash.com/photo-1508923567004-3a6b8004f3d7"
+    ]
   },
   "quickFacts": {
     "capital": "Bern",
-    "currency": { "code": "CHF", "name": "Swiss franc", "inr": "CHF 1 ≈ ₹105" },
-    "languages": ["German", "French", "Italian", "English widely spoken"],
+    "currency": {
+      "code": "CHF",
+      "name": "Swiss franc",
+      "inr": "CHF 1 ≈ ₹105"
+    },
+    "languages": [
+      "German",
+      "French",
+      "Italian",
+      "English widely spoken"
+    ],
     "timezone": "GMT+1/+2 · 3½–4½ hrs behind IST",
     "flightFromIndia": "≈9 hrs non-stop to Zurich from Delhi and Mumbai",
     "plug": "Type J · 230V — Indian plugs need an adapter",
@@ -33,9 +44,27 @@
     "summary": "Mountain weather runs its own show — valleys can be warm while summits snow in July. Broadly: green, hikeable summers June to September; golden, quiet autumns; full winter-sports mode December to March. Weather apps matter here more than anywhere; summit webcams before committing to an expensive ascent are a Swiss travel skill.",
     "bestTime": "June – September (May & October for quiet; Dec – Mar for snow)",
     "seasons": [
-      { "label": "Alpine summer", "months": "Jun – Sep", "temp": "12–26°C", "notes": "Every trail, cable car and pass open; meadows loud with cowbells. July–August is peak everything, including prices.", "tone": "high" },
-      { "label": "Autumn gold", "months": "Oct – Nov", "temp": "4–14°C", "notes": "Larches turn amber, crowds vanish, some high lifts close for maintenance. The photographer's shoulder season.", "tone": "shoulder" },
-      { "label": "Deep winter", "months": "Dec – Mar", "temp": "-8–4°C", "notes": "Ski season proper; villages at their postcard best under snow. Non-skiers still get sledding, spas and winter hikes.", "tone": "low" }
+      {
+        "label": "Alpine summer",
+        "months": "Jun – Sep",
+        "temp": "12–26°C",
+        "notes": "Every trail, cable car and pass open; meadows loud with cowbells. July–August is peak everything, including prices.",
+        "tone": "high"
+      },
+      {
+        "label": "Autumn gold",
+        "months": "Oct – Nov",
+        "temp": "4–14°C",
+        "notes": "Larches turn amber, crowds vanish, some high lifts close for maintenance. The photographer's shoulder season.",
+        "tone": "shoulder"
+      },
+      {
+        "label": "Deep winter",
+        "months": "Dec – Mar",
+        "temp": "-8–4°C",
+        "notes": "Ski season proper; villages at their postcard best under snow. Non-skiers still get sledding, spas and winter hikes.",
+        "tone": "low"
+      }
     ]
   },
   "booking": {
@@ -49,9 +78,18 @@
   },
   "budget": {
     "perDay": [
-      { "tier": "Smart", "inr": "₹12,000 – 18,000" },
-      { "tier": "Comfort", "inr": "₹22,000 – 35,000" },
-      { "tier": "Luxe", "inr": "₹55,000+" }
+      {
+        "tier": "Smart",
+        "inr": "₹12,000 – 18,000"
+      },
+      {
+        "tier": "Comfort",
+        "inr": "₹22,000 – 35,000"
+      },
+      {
+        "tier": "Luxe",
+        "inr": "₹55,000+"
+      }
     ],
     "note": "Per person per day — Europe's priciest country. Coop and Migros supermarkets for lunches, a rail pass, and picnics with a view are how smart travellers halve the bill without dimming the trip."
   },
@@ -78,43 +116,342 @@
     "Paragliding, sledding and high hikes book out in peak weeks — reserve marquee activities before flying."
   ],
   "cities": [
-    { "id": "interlaken", "name": "Interlaken", "blurb": "The adventure hub wedged between two lakes under the Jungfrau wall — base camp for Grindelwald, Lauterbrunnen and half of Switzerland's postcards.", "image": { "query": "interlaken lakes aerial jungfrau", "alt": "Interlaken between its two lakes with the Jungfrau behind" } },
-    { "id": "zermatt", "name": "Zermatt", "blurb": "Car-free village at the foot of the Matterhorn: electric taxis, timber chalets and the Gornergrat railway climbing to the best mountain panorama in the Alps.", "image": { "query": "zermatt village matterhorn evening", "alt": "Zermatt's chalets under the Matterhorn at dusk" } },
-    { "id": "lucerne", "name": "Lucerne", "blurb": "Painted medieval bridges, a lake fringed by peaks, and paddle steamers to Rigi and Pilatus — the prettiest city stop in the country.", "image": { "query": "chapel bridge lucerne flowers", "alt": "The flower-lined Chapel Bridge in Lucerne" } },
-    { "id": "grindelwald", "name": "Grindelwald", "blurb": "Glacier village turned adventure playground — First's cliff walk and zip lines above, the Eiger's mile-high north face filling every window.", "image": { "query": "grindelwald eiger north face village", "alt": "Grindelwald meadows beneath the Eiger north face" } },
-    { "id": "lauterbrunnen", "name": "Lauterbrunnen", "blurb": "A valley of 72 waterfalls pouring off sheer walls, with Wengen and Mürren perched car-free on the shelves above. Switzerland's single most photographed kilometre.", "image": { "query": "lauterbrunnen valley staubbach falls", "alt": "Staubbach Falls dropping into the Lauterbrunnen valley" } },
-    { "id": "geneva", "name": "Geneva & Montreux", "blurb": "The French-speaking lake: Geneva's jet d'eau and old town, Montreux's palm-lined promenade, and Chillon castle standing in the water between them.", "image": { "query": "chillon castle lake geneva", "alt": "Chillon Castle on the shore of Lake Geneva" } }
+    {
+      "id": "interlaken",
+      "name": "Interlaken",
+      "blurb": "The adventure hub wedged between two lakes under the Jungfrau wall — base camp for Grindelwald, Lauterbrunnen and half of Switzerland's postcards.",
+      "image": {
+        "query": "interlaken lakes aerial jungfrau",
+        "alt": "Interlaken between its two lakes with the Jungfrau behind"
+      }
+    },
+    {
+      "id": "zermatt",
+      "name": "Zermatt",
+      "blurb": "Car-free village at the foot of the Matterhorn: electric taxis, timber chalets and the Gornergrat railway climbing to the best mountain panorama in the Alps.",
+      "image": {
+        "query": "zermatt village matterhorn evening",
+        "alt": "Zermatt's chalets under the Matterhorn at dusk"
+      }
+    },
+    {
+      "id": "lucerne",
+      "name": "Lucerne",
+      "blurb": "Painted medieval bridges, a lake fringed by peaks, and paddle steamers to Rigi and Pilatus — the prettiest city stop in the country.",
+      "image": {
+        "query": "Chapel Bridge Lucerne",
+        "alt": "The flower-lined Chapel Bridge in Lucerne"
+      }
+    },
+    {
+      "id": "grindelwald",
+      "name": "Grindelwald",
+      "blurb": "Glacier village turned adventure playground — First's cliff walk and zip lines above, the Eiger's mile-high north face filling every window.",
+      "image": {
+        "query": "grindelwald eiger north face village",
+        "alt": "Grindelwald meadows beneath the Eiger north face"
+      }
+    },
+    {
+      "id": "lauterbrunnen",
+      "name": "Lauterbrunnen",
+      "blurb": "A valley of 72 waterfalls pouring off sheer walls, with Wengen and Mürren perched car-free on the shelves above. Switzerland's single most photographed kilometre.",
+      "image": {
+        "query": "lauterbrunnen valley staubbach falls",
+        "alt": "Staubbach Falls dropping into the Lauterbrunnen valley"
+      }
+    },
+    {
+      "id": "geneva",
+      "name": "Geneva & Montreux",
+      "blurb": "The French-speaking lake: Geneva's jet d'eau and old town, Montreux's palm-lined promenade, and Chillon castle standing in the water between them.",
+      "image": {
+        "query": "Geneva Jet d'Eau lake",
+        "alt": "Chillon Castle on the shore of Lake Geneva"
+      }
+    }
   ],
   "highlights": [
-    { "id": "jungfraujoch", "rank": 1, "name": "Jungfraujoch — Top of Europe", "category": "Icon", "blurb": "A railway tunnelled through the Eiger to a 3,454 m glacier saddle: Europe's highest station and its most surreal commute.", "detail": "The train burrows inside the Eiger itself before surfacing at a science-fiction station on the Aletsch glacier's shoulder. Up top: the Sphinx observatory terrace, an ice palace carved into the glacier, and snow underfoot in August. Book the first trains (the 'Good Morning' fares are cheaper) and check the webcam before committing — in cloud you are buying an expensive tunnel ride. The Eiger Express gondola from Grindelwald cuts 45 minutes off the classic route; go up one way, down the other. Budget a full day and drink water: 3,454 m is real altitude.", "image": { "query": "jungfraujoch sphinx observatory glacier", "alt": "The Sphinx observatory above the Aletsch glacier" } },
-    { "id": "gornergrat", "rank": 2, "name": "Gornergrat railway", "category": "Scenic", "blurb": "Open-air cog rail from Zermatt to a 3,089 m ridge facing the Matterhorn and twenty other 4,000-metre peaks.", "detail": "Europe's highest open-air railway climbs out of Zermatt through larch forest into amphitheatre views that get comically better each minute. The summit platform faces the Matterhorn across the Gorner glacier with Monte Rosa filling the left of frame. The move connoisseurs make: ride up for sunrise (summer 'sunrise trains' run weekly), then walk down one or two stations along the ridge — the Riffelsee lake below Rotenboden holds the Matterhorn's reflection on still mornings and is the country's most famous photograph. Half-fare with the Swiss Travel Pass; clear-morning timing is everything.", "image": { "query": "gornergrat railway matterhorn train", "alt": "The red Gornergrat train with the Matterhorn behind" } },
-    { "id": "glacier-express", "rank": 3, "name": "The Glacier Express", "category": "Scenic", "blurb": "Eight hours, 291 bridges, one panoramic window — the world's slowest express train, Zermatt to St. Moritz.", "detail": "This is a day spent watching Switzerland scroll past glass: the Rhône valley, the Oberalp Pass at 2,033 m, the Rhine Gorge's white cliffs and the Landwasser Viaduct's curve into a cliff-face tunnel. Seat reservations are mandatory on top of the rail pass; second class is perfectly panoramic, and the full route can be shortened — Zermatt to Chur covers the best two-thirds if eight hours daunts. Excellence-class exists for proposals and anniversaries. Pack snacks regardless: the scenery outclasses the dining car. Book summer window seats weeks ahead, direction Zermatt→St. Moritz for the best light sequence.", "image": { "query": "glacier express landwasser viaduct", "alt": "The Glacier Express crossing the Landwasser Viaduct" } },
-    { "id": "first-cliff-walk", "rank": 4, "name": "Grindelwald First & the Cliff Walk", "category": "Adventure", "blurb": "A metal walkway bolted to a cliff face, a one-seat zip line, and the Eiger watching all of it.", "detail": "The First gondola rises from Grindelwald to 2,168 m, where the free Cliff Walk juts along and off the rock face to a viewing platform with the valley 600 metres below. From there, adrenaline is à la carte: the First Flyer zip line, mountain carts down gravel switchbacks, and trottibike scooters for the last stretch home. The one essential add-on is the 50-minute walk to Bachalpsee, an alpine lake that mirrors the Schreckhorn on calm mornings — go before 10am for glassy water. This is the Jungfrau region's best half-day when Jungfraujoch's price or clouds say no.", "image": { "query": "first cliff walk grindelwald", "alt": "The First Cliff Walk platform above the Grindelwald valley" } },
-    { "id": "lauterbrunnen-valley", "rank": 5, "name": "Lauterbrunnen & Mürren", "category": "Nature", "blurb": "72 waterfalls off kilometre-high walls, and a car-free village on the shelf above — Tolkien took notes here.", "detail": "Staubbach Falls free-falls 297 metres practically into the village; a path climbs behind the water for the valley view through the spray. Deeper in, Trümmelbach Falls thunders inside the mountain — ten glacier-fed cascades reached by tunnel lift, at their violent best on summer afternoons. Then ride the cable car and ridge railway up to Mürren, a car-free balcony village staring level at the Eiger, Mönch and Jungfrau. Walkers descend via Gimmelwald, all wooden barns and honesty-box cheese. This valley is the argument for basing in the Jungfrau region rather than day-tripping it.", "image": { "query": "murren village cliff eiger view", "alt": "Mürren village on its cliff shelf facing the Jungfrau massif" } },
-    { "id": "pilatus", "rank": 6, "name": "Mount Pilatus golden round trip", "category": "Scenic", "blurb": "Paddle steamer, the world's steepest cogwheel railway, and two cable cars — five transports, one perfect loop from Lucerne.", "detail": "The 'Golden Round Trip' is Swiss transport as theatre: boat across Lake Lucerne to Alpnachstad, the 48%-gradient cog railway clawing up to 2,132 m — dragon country in local legend — then the panoramic descent by aerial cableway and gondola to Kriens, tram back to Lucerne. Summits hold hotels, so the sunset-and-sunrise overnight beats any day visit for light. The cog railway runs May to November; winter reverses to cable-car-only. With clear weather, do the boat leg outbound in the morning while lake mist burns off — the steamer decks are half the joy.", "image": { "query": "pilatus cogwheel railway lake lucerne", "alt": "The steep cog railway climbing Mount Pilatus above Lake Lucerne" } },
-    { "id": "chillon", "rank": 7, "name": "Chillon Castle & the Riviera line", "category": "Culture", "blurb": "A moated castle standing in Lake Geneva, reached along Montreux's palm-and-peak promenade.", "detail": "Chillon has guarded the lake road for 800 years and looks exactly as a castle should: towers rising straight from the water, dungeons that inspired Byron, great halls with beamed ceilings and lake light. Walk there along the flowered promenade from Montreux — 45 easy minutes — or arrive by belle-époque paddle steamer for full effect. Combine with the Lavaux vineyard terraces ten minutes away by train: UNESCO-listed vines stepping down to the lake, with tasting caveaux in the villages. Late afternoon gives the castle its best light and the day-trip crowds their departure.", "image": { "query": "chillon castle montreux lake", "alt": "Chillon Castle rising from Lake Geneva" } },
-    { "id": "aletsch", "rank": 8, "name": "The Aletsch Glacier", "category": "Nature", "blurb": "23 kilometres of moving ice — the Alps' greatest glacier, seen whole from the Eggishorn ridge.", "detail": "Jungfraujoch shows you the glacier's head; the Eggishorn shows you the whole animal. Cable cars from Fiesch in the Rhône valley reach the ridge in twenty minutes, and the view is a physical shock — a frozen river sweeping to the horizon, banded with moraine like brushstrokes. The UNESCO region's marked trails along the ridge suit ordinary walkers; guided glacier walks on the ice itself run in summer for the properly equipped. Far quieter and far cheaper than the famous ascents, this is the high-Alps experience connoisseurs pick. Pair it with the Glacier Express line, which passes through Fiesch.", "image": { "query": "aletsch glacier eggishorn view", "alt": "The Aletsch Glacier curving between peaks" } },
-    { "id": "bern-oldtown", "rank": 9, "name": "Bern's old town", "category": "Culture", "blurb": "Six kilometres of medieval arcades wrapped in a river bend — the capital nobody expects and everybody likes.", "detail": "Bern's UNESCO core sits inside a tight loop of the jade-green Aare: sandstone arcades, Renaissance fountains, the Zytglogge clock tower performing its hourly mechanical show since 1530. Climb the Minster tower for the red-roof panorama with the Alps behind, then do the most Bernese thing possible: in summer, locals float down the Aare past parliament and walk back upstream — join them at the Marzili baths if you swim strongly. Einstein's flat on Kramgasse, where relativity got drafted, takes twenty minutes. Bern works as a half-day between Zurich and the mountains, and always over-delivers on it.", "image": { "query": "bern old town aare river", "alt": "Bern's old town inside the turquoise Aare river bend" } },
-    { "id": "rigi", "rank": 10, "name": "Rigi — Queen of the Mountains", "category": "Scenic", "blurb": "Europe's oldest mountain railway to a 360° balcony over thirteen lakes — Turner painted it; steamers still serve it.", "detail": "Rigi earns its royal title with geography: standing apart from the main Alpine wall, its 1,798 m summit sees the whole chain across a foreground of lakes. Do it as the classic combination: paddle steamer from Lucerne to Vitznau, the 1871 cogwheel railway (Europe's first) to Rigi Kulm, then descend the other flank by railway or cable car to Weggis for the boat home. Fully covered by the Swiss Travel Pass, which makes it the best-value big view in the country. Sunrise stays at Rigi Kulm's hotel are a Swiss tradition dating to the Victorians — Mark Twain overslept it, famously.", "image": { "query": "rigi kulm railway lake lucerne view", "alt": "The Rigi railway above a sea of lakes and cloud" } }
+    {
+      "id": "jungfraujoch",
+      "rank": 1,
+      "name": "Jungfraujoch — Top of Europe",
+      "category": "Icon",
+      "blurb": "A railway tunnelled through the Eiger to a 3,454 m glacier saddle: Europe's highest station and its most surreal commute.",
+      "detail": "The train burrows inside the Eiger itself before surfacing at a science-fiction station on the Aletsch glacier's shoulder. Up top: the Sphinx observatory terrace, an ice palace carved into the glacier, and snow underfoot in August. Book the first trains (the 'Good Morning' fares are cheaper) and check the webcam before committing — in cloud you are buying an expensive tunnel ride. The Eiger Express gondola from Grindelwald cuts 45 minutes off the classic route; go up one way, down the other. Budget a full day and drink water: 3,454 m is real altitude.",
+      "image": {
+        "query": "jungfraujoch sphinx observatory glacier",
+        "alt": "The Sphinx observatory above the Aletsch glacier"
+      }
+    },
+    {
+      "id": "gornergrat",
+      "rank": 2,
+      "name": "Gornergrat railway",
+      "category": "Scenic",
+      "blurb": "Open-air cog rail from Zermatt to a 3,089 m ridge facing the Matterhorn and twenty other 4,000-metre peaks.",
+      "detail": "Europe's highest open-air railway climbs out of Zermatt through larch forest into amphitheatre views that get comically better each minute. The summit platform faces the Matterhorn across the Gorner glacier with Monte Rosa filling the left of frame. The move connoisseurs make: ride up for sunrise (summer 'sunrise trains' run weekly), then walk down one or two stations along the ridge — the Riffelsee lake below Rotenboden holds the Matterhorn's reflection on still mornings and is the country's most famous photograph. Half-fare with the Swiss Travel Pass; clear-morning timing is everything.",
+      "image": {
+        "query": "gornergrat railway matterhorn train",
+        "alt": "The red Gornergrat train with the Matterhorn behind"
+      }
+    },
+    {
+      "id": "glacier-express",
+      "rank": 3,
+      "name": "The Glacier Express",
+      "category": "Scenic",
+      "blurb": "Eight hours, 291 bridges, one panoramic window — the world's slowest express train, Zermatt to St. Moritz.",
+      "detail": "This is a day spent watching Switzerland scroll past glass: the Rhône valley, the Oberalp Pass at 2,033 m, the Rhine Gorge's white cliffs and the Landwasser Viaduct's curve into a cliff-face tunnel. Seat reservations are mandatory on top of the rail pass; second class is perfectly panoramic, and the full route can be shortened — Zermatt to Chur covers the best two-thirds if eight hours daunts. Excellence-class exists for proposals and anniversaries. Pack snacks regardless: the scenery outclasses the dining car. Book summer window seats weeks ahead, direction Zermatt→St. Moritz for the best light sequence.",
+      "image": {
+        "query": "glacier express landwasser viaduct",
+        "alt": "The Glacier Express crossing the Landwasser Viaduct"
+      }
+    },
+    {
+      "id": "first-cliff-walk",
+      "rank": 4,
+      "name": "Grindelwald First & the Cliff Walk",
+      "category": "Adventure",
+      "blurb": "A metal walkway bolted to a cliff face, a one-seat zip line, and the Eiger watching all of it.",
+      "detail": "The First gondola rises from Grindelwald to 2,168 m, where the free Cliff Walk juts along and off the rock face to a viewing platform with the valley 600 metres below. From there, adrenaline is à la carte: the First Flyer zip line, mountain carts down gravel switchbacks, and trottibike scooters for the last stretch home. The one essential add-on is the 50-minute walk to Bachalpsee, an alpine lake that mirrors the Schreckhorn on calm mornings — go before 10am for glassy water. This is the Jungfrau region's best half-day when Jungfraujoch's price or clouds say no.",
+      "image": {
+        "query": "First Cliff Walk Grindelwald",
+        "alt": "The First Cliff Walk platform above the Grindelwald valley"
+      }
+    },
+    {
+      "id": "lauterbrunnen-valley",
+      "rank": 5,
+      "name": "Lauterbrunnen & Mürren",
+      "category": "Nature",
+      "blurb": "72 waterfalls off kilometre-high walls, and a car-free village on the shelf above — Tolkien took notes here.",
+      "detail": "Staubbach Falls free-falls 297 metres practically into the village; a path climbs behind the water for the valley view through the spray. Deeper in, Trümmelbach Falls thunders inside the mountain — ten glacier-fed cascades reached by tunnel lift, at their violent best on summer afternoons. Then ride the cable car and ridge railway up to Mürren, a car-free balcony village staring level at the Eiger, Mönch and Jungfrau. Walkers descend via Gimmelwald, all wooden barns and honesty-box cheese. This valley is the argument for basing in the Jungfrau region rather than day-tripping it.",
+      "image": {
+        "query": "murren village cliff eiger view",
+        "alt": "Mürren village on its cliff shelf facing the Jungfrau massif"
+      }
+    },
+    {
+      "id": "pilatus",
+      "rank": 6,
+      "name": "Mount Pilatus golden round trip",
+      "category": "Scenic",
+      "blurb": "Paddle steamer, the world's steepest cogwheel railway, and two cable cars — five transports, one perfect loop from Lucerne.",
+      "detail": "The 'Golden Round Trip' is Swiss transport as theatre: boat across Lake Lucerne to Alpnachstad, the 48%-gradient cog railway clawing up to 2,132 m — dragon country in local legend — then the panoramic descent by aerial cableway and gondola to Kriens, tram back to Lucerne. Summits hold hotels, so the sunset-and-sunrise overnight beats any day visit for light. The cog railway runs May to November; winter reverses to cable-car-only. With clear weather, do the boat leg outbound in the morning while lake mist burns off — the steamer decks are half the joy.",
+      "image": {
+        "query": "pilatus cogwheel railway lake lucerne",
+        "alt": "The steep cog railway climbing Mount Pilatus above Lake Lucerne"
+      }
+    },
+    {
+      "id": "chillon",
+      "rank": 7,
+      "name": "Chillon Castle & the Riviera line",
+      "category": "Culture",
+      "blurb": "A moated castle standing in Lake Geneva, reached along Montreux's palm-and-peak promenade.",
+      "detail": "Chillon has guarded the lake road for 800 years and looks exactly as a castle should: towers rising straight from the water, dungeons that inspired Byron, great halls with beamed ceilings and lake light. Walk there along the flowered promenade from Montreux — 45 easy minutes — or arrive by belle-époque paddle steamer for full effect. Combine with the Lavaux vineyard terraces ten minutes away by train: UNESCO-listed vines stepping down to the lake, with tasting caveaux in the villages. Late afternoon gives the castle its best light and the day-trip crowds their departure.",
+      "image": {
+        "query": "chillon castle montreux lake",
+        "alt": "Chillon Castle rising from Lake Geneva"
+      }
+    },
+    {
+      "id": "aletsch",
+      "rank": 8,
+      "name": "The Aletsch Glacier",
+      "category": "Nature",
+      "blurb": "23 kilometres of moving ice — the Alps' greatest glacier, seen whole from the Eggishorn ridge.",
+      "detail": "Jungfraujoch shows you the glacier's head; the Eggishorn shows you the whole animal. Cable cars from Fiesch in the Rhône valley reach the ridge in twenty minutes, and the view is a physical shock — a frozen river sweeping to the horizon, banded with moraine like brushstrokes. The UNESCO region's marked trails along the ridge suit ordinary walkers; guided glacier walks on the ice itself run in summer for the properly equipped. Far quieter and far cheaper than the famous ascents, this is the high-Alps experience connoisseurs pick. Pair it with the Glacier Express line, which passes through Fiesch.",
+      "image": {
+        "query": "aletsch glacier eggishorn view",
+        "alt": "The Aletsch Glacier curving between peaks"
+      }
+    },
+    {
+      "id": "bern-oldtown",
+      "rank": 9,
+      "name": "Bern's old town",
+      "category": "Culture",
+      "blurb": "Six kilometres of medieval arcades wrapped in a river bend — the capital nobody expects and everybody likes.",
+      "detail": "Bern's UNESCO core sits inside a tight loop of the jade-green Aare: sandstone arcades, Renaissance fountains, the Zytglogge clock tower performing its hourly mechanical show since 1530. Climb the Minster tower for the red-roof panorama with the Alps behind, then do the most Bernese thing possible: in summer, locals float down the Aare past parliament and walk back upstream — join them at the Marzili baths if you swim strongly. Einstein's flat on Kramgasse, where relativity got drafted, takes twenty minutes. Bern works as a half-day between Zurich and the mountains, and always over-delivers on it.",
+      "image": {
+        "query": "bern old town aare river",
+        "alt": "Bern's old town inside the turquoise Aare river bend"
+      }
+    },
+    {
+      "id": "rigi",
+      "rank": 10,
+      "name": "Rigi — Queen of the Mountains",
+      "category": "Scenic",
+      "blurb": "Europe's oldest mountain railway to a 360° balcony over thirteen lakes — Turner painted it; steamers still serve it.",
+      "detail": "Rigi earns its royal title with geography: standing apart from the main Alpine wall, its 1,798 m summit sees the whole chain across a foreground of lakes. Do it as the classic combination: paddle steamer from Lucerne to Vitznau, the 1871 cogwheel railway (Europe's first) to Rigi Kulm, then descend the other flank by railway or cable car to Weggis for the boat home. Fully covered by the Swiss Travel Pass, which makes it the best-value big view in the country. Sunrise stays at Rigi Kulm's hotel are a Swiss tradition dating to the Victorians — Mark Twain overslept it, famously.",
+      "image": {
+        "query": "rigi kulm railway lake lucerne view",
+        "alt": "The Rigi railway above a sea of lakes and cloud"
+      }
+    }
   ],
   "activities": [
-    { "id": "paragliding", "name": "Paragliding over Interlaken", "category": "Adventure", "blurb": "Tandem launches off Beatenberg with lakes both sides and the Jungfrau ahead — no experience needed, just a run-off.", "image": { "query": "paragliding interlaken tandem", "alt": "A tandem paraglider above Interlaken's lakes" } },
-    { "id": "fondue-night", "name": "Fondue in a mountain hut", "category": "Food", "blurb": "Molten Gruyère, crusty bread and a wood-panelled stübli — the national dish where it belongs.", "image": { "query": "cheese fondue swiss chalet", "alt": "A bubbling fondue pot in a wooden Swiss chalet" } },
-    { "id": "chocolate-workshop", "name": "Chocolate-making workshop", "category": "Food", "blurb": "Temper, mould and shamelessly sample at a Swiss chocolatier's bench — Lindt's Zurich museum runs the flagship.", "image": { "query": "swiss chocolate making pralines", "alt": "Pralines being decorated at a Swiss chocolatier" } },
-    { "id": "sledding", "name": "Winter sledding runs", "category": "Adventure", "blurb": "Rented wooden sledges and kilometres of banked snow-track — Grindelwald's 15 km 'Big Pintenfritz' is the world's longest.", "image": { "query": "sledding snow alps toboggan", "alt": "Sledgers on a snowy alpine toboggan run" } },
-    { "id": "lake-cruise", "name": "Paddle-steamer lake cruises", "category": "Scenic", "blurb": "Belle-époque steamers criss-crossing Lucerne, Geneva and Brienz — first-class decks come free with the Travel Pass.", "image": { "query": "paddle steamer lake lucerne", "alt": "A historic paddle steamer on Lake Lucerne" } },
-    { "id": "hiking-eiger", "name": "The Eiger Trail hike", "category": "Adventure", "blurb": "Two hours directly beneath the notorious north face, Alpiglen to Eigergletscher — ordinary legs, extraordinary wall.", "image": { "query": "eiger trail hiking north face", "alt": "Hikers on the trail below the Eiger north face" } }
+    {
+      "id": "paragliding",
+      "name": "Paragliding over Interlaken",
+      "category": "Adventure",
+      "blurb": "Tandem launches off Beatenberg with lakes both sides and the Jungfrau ahead — no experience needed, just a run-off.",
+      "image": {
+        "query": "paragliding interlaken tandem",
+        "alt": "A tandem paraglider above Interlaken's lakes"
+      }
+    },
+    {
+      "id": "fondue-night",
+      "name": "Fondue in a mountain hut",
+      "category": "Food",
+      "blurb": "Molten Gruyère, crusty bread and a wood-panelled stübli — the national dish where it belongs.",
+      "image": {
+        "query": "cheese fondue swiss chalet",
+        "alt": "A bubbling fondue pot in a wooden Swiss chalet"
+      }
+    },
+    {
+      "id": "chocolate-workshop",
+      "name": "Chocolate-making workshop",
+      "category": "Food",
+      "blurb": "Temper, mould and shamelessly sample at a Swiss chocolatier's bench — Lindt's Zurich museum runs the flagship.",
+      "image": {
+        "query": "swiss chocolate making pralines",
+        "alt": "Pralines being decorated at a Swiss chocolatier"
+      }
+    },
+    {
+      "id": "sledding",
+      "name": "Winter sledding runs",
+      "category": "Adventure",
+      "blurb": "Rented wooden sledges and kilometres of banked snow-track — Grindelwald's 15 km 'Big Pintenfritz' is the world's longest.",
+      "image": {
+        "query": "sledding snow alps toboggan",
+        "alt": "Sledgers on a snowy alpine toboggan run"
+      }
+    },
+    {
+      "id": "lake-cruise",
+      "name": "Paddle-steamer lake cruises",
+      "category": "Scenic",
+      "blurb": "Belle-époque steamers criss-crossing Lucerne, Geneva and Brienz — first-class decks come free with the Travel Pass.",
+      "image": {
+        "query": "paddle steamer lake lucerne",
+        "alt": "A historic paddle steamer on Lake Lucerne"
+      }
+    },
+    {
+      "id": "hiking-eiger",
+      "name": "The Eiger Trail hike",
+      "category": "Adventure",
+      "blurb": "Two hours directly beneath the notorious north face, Alpiglen to Eigergletscher — ordinary legs, extraordinary wall.",
+      "image": {
+        "query": "eiger trail hiking north face",
+        "alt": "Hikers on the trail below the Eiger north face"
+      }
+    }
   ],
   "trips": [
-    { "id": "jungfrau-classic", "title": "The Jungfrau first-timer", "nights": 6, "route": [ { "place": "Zurich", "nights": 1 }, { "place": "Interlaken", "nights": 3 }, { "place": "Lucerne", "nights": 2 } ], "summary": "Land in Zurich, base three nights under the Jungfrau — Top of Europe, First's cliff walk, Lauterbrunnen — then finish with Lucerne's bridges and the Pilatus golden round trip. The proven shape of a first Switzerland.", "priceFrom": "₹1,85,000", "image": { "query": "lauterbrunnen valley church waterfall", "alt": "Lauterbrunnen's church with Staubbach Falls behind" } },
-    { "id": "rail-grand-tour", "title": "Grand rail tour", "nights": 8, "route": [ { "place": "Zermatt", "nights": 3 }, { "place": "St. Moritz", "nights": 2 }, { "place": "Lucerne", "nights": 3 } ], "summary": "Gornergrat sunrise and the Matterhorn, then the full Glacier Express to St. Moritz, the Bernina line's glacier curves, and a Lucerne finale. Switzerland as one continuous window seat — the itinerary rail lovers dream in.", "priceFrom": "₹2,55,000", "image": { "query": "bernina express red train viaduct", "alt": "The red Bernina train curving over a stone viaduct" } },
-    { "id": "swiss-honeymoon", "title": "Peaks & lakes honeymoon", "nights": 7, "route": [ { "place": "Zermatt", "nights": 3 }, { "place": "Interlaken/Wengen", "nights": 2 }, { "place": "Montreux", "nights": 2 } ], "summary": "Car-free Zermatt with the Matterhorn at breakfast, a Wengen balcony under the Jungfrau, then Lake Geneva's palms, Chillon and Lavaux vineyards. Snow to Riviera in one week — the honeymoon Switzerland was designed for.", "priceFrom": "₹2,70,000", "image": { "query": "zermatt chalet matterhorn romantic", "alt": "A chalet balcony facing the Matterhorn at dusk" } }
+    {
+      "id": "jungfrau-classic",
+      "title": "The Jungfrau first-timer",
+      "nights": 6,
+      "route": [
+        {
+          "place": "Zurich",
+          "nights": 1
+        },
+        {
+          "place": "Interlaken",
+          "nights": 3
+        },
+        {
+          "place": "Lucerne",
+          "nights": 2
+        }
+      ],
+      "summary": "Land in Zurich, base three nights under the Jungfrau — Top of Europe, First's cliff walk, Lauterbrunnen — then finish with Lucerne's bridges and the Pilatus golden round trip. The proven shape of a first Switzerland.",
+      "priceFrom": "₹1,85,000",
+      "image": {
+        "query": "lauterbrunnen valley church waterfall",
+        "alt": "Lauterbrunnen's church with Staubbach Falls behind"
+      }
+    },
+    {
+      "id": "rail-grand-tour",
+      "title": "Grand rail tour",
+      "nights": 8,
+      "route": [
+        {
+          "place": "Zermatt",
+          "nights": 3
+        },
+        {
+          "place": "St. Moritz",
+          "nights": 2
+        },
+        {
+          "place": "Lucerne",
+          "nights": 3
+        }
+      ],
+      "summary": "Gornergrat sunrise and the Matterhorn, then the full Glacier Express to St. Moritz, the Bernina line's glacier curves, and a Lucerne finale. Switzerland as one continuous window seat — the itinerary rail lovers dream in.",
+      "priceFrom": "₹2,55,000",
+      "image": {
+        "query": "bernina express red train viaduct",
+        "alt": "The red Bernina train curving over a stone viaduct"
+      }
+    },
+    {
+      "id": "swiss-honeymoon",
+      "title": "Peaks & lakes honeymoon",
+      "nights": 7,
+      "route": [
+        {
+          "place": "Zermatt",
+          "nights": 3
+        },
+        {
+          "place": "Interlaken/Wengen",
+          "nights": 2
+        },
+        {
+          "place": "Montreux",
+          "nights": 2
+        }
+      ],
+      "summary": "Car-free Zermatt with the Matterhorn at breakfast, a Wengen balcony under the Jungfrau, then Lake Geneva's palms, Chillon and Lavaux vineyards. Snow to Riviera in one week — the honeymoon Switzerland was designed for.",
+      "priceFrom": "₹2,70,000",
+      "image": {
+        "query": "zermatt chalet matterhorn romantic",
+        "alt": "A chalet balcony facing the Matterhorn at dusk"
+      }
+    }
   ],
   "faqs": [
-    { "q": "Is the Swiss Travel Pass worth it?", "a": "For almost every itinerary, yes. It covers all trains, buses and boats, 500+ museums, full rides up Rigi and Stanserhorn, and 25–50% off the other mountain railways. Price a normal itinerary at full fares and the pass usually wins by day three." },
-    { "q": "How expensive is Switzerland really?", "a": "Plan ₹12,000–18,000 per person per day before the hotel, honestly. The levers that matter: supermarket lunches, tap water, the rail pass, and treating one big mountain excursion per region as the splurge rather than doing all of them." },
-    { "q": "When can I see snow?", "a": "Year-round at altitude — Jungfraujoch and the Matterhorn glacier paradise hold snow in August. For snowy villages and skiing, come December to March. June to September gives green valleys with white peaks: the classic postcard mix." },
-    { "q": "Is vegetarian and Indian food available?", "a": "Comfortably. Rösti, fondue and raclette are all vegetarian, supermarkets label clearly, and Interlaken, Zermatt and Lucerne all have established Indian restaurants thanks to decades of Indian tourism." },
-    { "q": "Do I need a car?", "a": "No — and mostly you don't want one. Trains and post buses reach every village in this guide, Zermatt, Wengen and Mürren are car-free anyway, and the pass covers it all. A car earns its keep only for obscure valleys off the rail map." }
+    {
+      "q": "Is the Swiss Travel Pass worth it?",
+      "a": "For almost every itinerary, yes. It covers all trains, buses and boats, 500+ museums, full rides up Rigi and Stanserhorn, and 25–50% off the other mountain railways. Price a normal itinerary at full fares and the pass usually wins by day three."
+    },
+    {
+      "q": "How expensive is Switzerland really?",
+      "a": "Plan ₹12,000–18,000 per person per day before the hotel, honestly. The levers that matter: supermarket lunches, tap water, the rail pass, and treating one big mountain excursion per region as the splurge rather than doing all of them."
+    },
+    {
+      "q": "When can I see snow?",
+      "a": "Year-round at altitude — Jungfraujoch and the Matterhorn glacier paradise hold snow in August. For snowy villages and skiing, come December to March. June to September gives green valleys with white peaks: the classic postcard mix."
+    },
+    {
+      "q": "Is vegetarian and Indian food available?",
+      "a": "Comfortably. Rösti, fondue and raclette are all vegetarian, supermarkets label clearly, and Interlaken, Zermatt and Lucerne all have established Indian restaurants thanks to decades of Indian tourism."
+    },
+    {
+      "q": "Do I need a car?",
+      "a": "No — and mostly you don't want one. Trains and post buses reach every village in this guide, Zermatt, Wengen and Mürren are car-free anyway, and the pass covers it all. A car earns its keep only for obscure valleys off the rail map."
+    }
   ]
 }

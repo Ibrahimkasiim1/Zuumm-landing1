@@ -11,12 +11,20 @@
   "heroImage": {
     "query": "sydney opera house harbour sunset",
     "alt": "The Opera House sails and Harbour Bridge at golden hour",
-    "candidates": ["https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9"]
+    "candidates": [
+      "https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9"
+    ]
   },
   "quickFacts": {
     "capital": "Canberra",
-    "currency": { "code": "AUD", "name": "Australian dollar", "inr": "A$1 ≈ ₹57" },
-    "languages": ["English"],
+    "currency": {
+      "code": "AUD",
+      "name": "Australian dollar",
+      "inr": "A$1 ≈ ₹57"
+    },
+    "languages": [
+      "English"
+    ],
     "timezone": "GMT+8 to +11 · Sydney is 4½–5½ hrs ahead of IST",
     "flightFromIndia": "≈12 hrs non-stop Delhi–Sydney/Melbourne; one-stops via Singapore often cheaper",
     "plug": "Type I · 230V — Indian plugs need an adapter",
@@ -33,9 +41,27 @@
     "summary": "Seasons inverted and climates plural: Sydney and Melbourne do four temperate seasons, Queensland runs tropical with a wet season, and the red centre swings from scorching summers to frosty desert nights. There is no single 'best month' — there is a best month per region, which is why route order matters more here than anywhere.",
     "bestTime": "September – November & March – May (almost everywhere at once)",
     "seasons": [
-      { "label": "Spring & autumn", "months": "Sep – Nov & Mar – May", "temp": "15–27°C", "notes": "The everywhere-works windows: whales off Sydney, reef visibility high, Uluru walkable, city parks in bloom or gold.", "tone": "high" },
-      { "label": "Southern summer", "months": "Dec – Feb", "temp": "22–35°C", "notes": "Beach season, Christmas on the sand, Boxing Day cricket — but reef waters hit stinger season and the centre bakes past 40°C.", "tone": "shoulder" },
-      { "label": "Southern winter", "months": "Jun – Aug", "temp": "8–18°C south", "notes": "Melbourne turns grey-cosy and cheap; meanwhile it's the best season up north — Cairns dry, sunny and stinger-free.", "tone": "low" }
+      {
+        "label": "Spring & autumn",
+        "months": "Sep – Nov & Mar – May",
+        "temp": "15–27°C",
+        "notes": "The everywhere-works windows: whales off Sydney, reef visibility high, Uluru walkable, city parks in bloom or gold.",
+        "tone": "high"
+      },
+      {
+        "label": "Southern summer",
+        "months": "Dec – Feb",
+        "temp": "22–35°C",
+        "notes": "Beach season, Christmas on the sand, Boxing Day cricket — but reef waters hit stinger season and the centre bakes past 40°C.",
+        "tone": "shoulder"
+      },
+      {
+        "label": "Southern winter",
+        "months": "Jun – Aug",
+        "temp": "8–18°C south",
+        "notes": "Melbourne turns grey-cosy and cheap; meanwhile it's the best season up north — Cairns dry, sunny and stinger-free.",
+        "tone": "low"
+      }
     ]
   },
   "booking": {
@@ -49,9 +75,18 @@
   },
   "budget": {
     "perDay": [
-      { "tier": "Smart", "inr": "₹9,000 – 14,000" },
-      { "tier": "Comfort", "inr": "₹16,000 – 26,000" },
-      { "tier": "Luxe", "inr": "₹40,000+" }
+      {
+        "tier": "Smart",
+        "inr": "₹9,000 – 14,000"
+      },
+      {
+        "tier": "Comfort",
+        "inr": "₹16,000 – 26,000"
+      },
+      {
+        "tier": "Luxe",
+        "inr": "₹40,000+"
+      }
     ],
     "note": "Per person per day; reef cruises (₹12,000–18,000) and internal flights are the swing items. Food courts, beach barbecues and goon-free bottle-shop wine keep smart budgets genuinely comfortable."
   },
@@ -78,43 +113,338 @@
     "Book reef trips, Bridge Climb and Uluru dining experiences weeks ahead in peak months — the good operators sell out first."
   ],
   "cities": [
-    { "id": "sydney", "name": "Sydney", "blurb": "The harbour city that photographs itself: Opera House, Bondi's cliff walk, ferries as commuter transport and beaches stitched into the suburbs.", "image": { "query": "sydney harbour bridge opera house", "alt": "Sydney Harbour with the Opera House and Bridge" } },
-    { "id": "melbourne", "name": "Melbourne", "blurb": "Laneway espresso, street art, sport as civic religion and a food scene that argues nightly with Sydney's — the connoisseur's Australian city.", "image": { "query": "melbourne laneway street art cafe", "alt": "A Melbourne laneway of café tables and street art" } },
-    { "id": "cairns", "name": "Cairns & Port Douglas", "blurb": "The reef's front door: catamarans to the outer coral, the Daintree's ancient rainforest an hour north, and a tropical esplanade lagoon between trips.", "image": { "query": "cairns marina tropical queensland", "alt": "Boats in the Cairns marina under tropical skies" } },
-    { "id": "uluru", "name": "Uluru & the Red Centre", "blurb": "The 348-metre monolith at the continent's heart — dawn and dusk colour shows, desert star fields and Anangu culture in the oldest living landscape on earth.", "image": { "query": "uluru sunset red centre", "alt": "Uluru glowing deep red at sunset" } },
-    { "id": "gold-coast", "name": "Gold Coast & Brisbane", "blurb": "Forty kilometres of surf beach backed by theme parks and a skyline in the sand — the family-holiday capital, with Brisbane's river city an hour north.", "image": { "query": "gold coast surfers paradise beach", "alt": "Surfers Paradise beach and skyline on the Gold Coast" } },
-    { "id": "perth", "name": "Perth & the West", "blurb": "The world's most isolated capital rewards the flight: Indian-Ocean sunsets, quokka selfies on Rottnest, and Margaret River's wine-and-surf coast south.", "image": { "query": "perth city swan river", "alt": "Perth's skyline across the Swan River" } }
+    {
+      "id": "sydney",
+      "name": "Sydney",
+      "blurb": "The harbour city that photographs itself: Opera House, Bondi's cliff walk, ferries as commuter transport and beaches stitched into the suburbs.",
+      "image": {
+        "query": "sydney harbour bridge opera house",
+        "alt": "Sydney Harbour with the Opera House and Bridge"
+      }
+    },
+    {
+      "id": "melbourne",
+      "name": "Melbourne",
+      "blurb": "Laneway espresso, street art, sport as civic religion and a food scene that argues nightly with Sydney's — the connoisseur's Australian city.",
+      "image": {
+        "query": "melbourne laneway street art cafe",
+        "alt": "A Melbourne laneway of café tables and street art"
+      }
+    },
+    {
+      "id": "cairns",
+      "name": "Cairns & Port Douglas",
+      "blurb": "The reef's front door: catamarans to the outer coral, the Daintree's ancient rainforest an hour north, and a tropical esplanade lagoon between trips.",
+      "image": {
+        "query": "cairns marina tropical queensland",
+        "alt": "Boats in the Cairns marina under tropical skies"
+      }
+    },
+    {
+      "id": "uluru",
+      "name": "Uluru & the Red Centre",
+      "blurb": "The 348-metre monolith at the continent's heart — dawn and dusk colour shows, desert star fields and Anangu culture in the oldest living landscape on earth.",
+      "image": {
+        "query": "uluru sunset red centre",
+        "alt": "Uluru glowing deep red at sunset"
+      }
+    },
+    {
+      "id": "gold-coast",
+      "name": "Gold Coast & Brisbane",
+      "blurb": "Forty kilometres of surf beach backed by theme parks and a skyline in the sand — the family-holiday capital, with Brisbane's river city an hour north.",
+      "image": {
+        "query": "gold coast surfers paradise beach",
+        "alt": "Surfers Paradise beach and skyline on the Gold Coast"
+      }
+    },
+    {
+      "id": "perth",
+      "name": "Perth & the West",
+      "blurb": "The world's most isolated capital rewards the flight: Indian-Ocean sunsets, quokka selfies on Rottnest, and Margaret River's wine-and-surf coast south.",
+      "image": {
+        "query": "perth city swan river",
+        "alt": "Perth's skyline across the Swan River"
+      }
+    }
   ],
   "highlights": [
-    { "id": "opera-house", "rank": 1, "name": "Sydney Opera House & the harbour", "category": "Icon", "blurb": "The 20th century's most recognisable building, best experienced from a ferry deck with the bridge filling the other window.", "detail": "The sails read differently from every angle, which is why the harbour itself is the real attraction. Do the loop: walk the Botanic Gardens shoreline to Mrs Macquarie's Chair for the classic Opera-House-and-Bridge frame, then ride the Manly ferry — thirty minutes of skyline for the price of a bus ticket, timed ideally for the return at sunset. Inside, the one-hour tour beats most performances for architecture appreciation, but an evening show under the sails is the memory that sticks. Book the Opera Bar for golden hour; it holds the city's most expensive view at beer prices.", "image": { "query": "opera house sails close ferry", "alt": "The Opera House sails seen from harbour level" } },
-    { "id": "great-barrier-reef", "rank": 2, "name": "Snorkelling the Great Barrier Reef", "category": "Nature", "blurb": "The planet's largest living structure — turtles, reef sharks and coral cities an easy catamaran ride from Cairns.", "detail": "The reef is 2,300 km long, so the operator choice is the experience. From Cairns or Port Douglas, pick outer-reef trips (Agincourt, Opal, Flynn) over cheaper inner platforms — visibility and coral health step up dramatically. Snorkellers see plenty; intro dives need no certification and are superbly supervised. June to November brings the best water clarity and dwarf minke and humpback season; summer adds stinger suits as standard kit. Seasickness-prone travellers should medicate before boarding — the outer runs cross open water. The splurge that's worth it once: a scenic-flight add-on to see the reef's blue geometry whole.", "image": { "query": "great barrier reef coral turtle snorkel", "alt": "A green turtle over coral on the Great Barrier Reef" } },
-    { "id": "uluru-sunset", "rank": 3, "name": "Uluru at sunrise and sunset", "category": "Nature", "blurb": "A rock the size of a city centre cycling through oranges, reds and purples — twice a day, never the same show.", "detail": "The car parks are labelled by light: Talinguru Nyakunytjaku for dawn, the sunset strip for dusk — claim a spot 45 minutes early in peak season with something cold in hand. Between shows, walk the full 10.6 km base loop in the morning cool: waterholes, rock art and folds of stone the postcards never show, with Anangu stories posted along the way. The Field of Light installation — 50,000 solar stems glowing against the darkness — and the dune-top dinner experiences need booking well ahead. Kata Tjuta's Valley of the Winds, 40 minutes away, is the companion hike most visitors rank equal to the rock itself.", "image": { "query": "uluru dawn colors desert", "alt": "Uluru shifting colour at dawn under desert sky" } },
-    { "id": "great-ocean-road", "rank": 4, "name": "The Great Ocean Road", "category": "Scenic", "blurb": "243 km of cliff-hugging tarmac ending at the Twelve Apostles — Australia's definitive drive.", "detail": "Built by returned WWI soldiers and dedicated as the world's largest war memorial, the road earns its fame honestly: surf towns, koala-hung eucalypts around Kennett River, rainforest gullies at Maits Rest, then the limestone drama of the Apostles rising from Southern-Ocean surf. Drive it westbound from Melbourne so the ocean sits on your side, and overnight in Apollo Bay or Port Campbell rather than day-tripping — sunset and sunrise at the Apostles, minus the tour-bus noon rush, is the whole point. Gibson Steps puts you on the sand below the stacks; Loch Ard Gorge adds shipwreck drama ten minutes on.", "image": { "query": "twelve apostles great ocean road", "alt": "The Twelve Apostles sea stacks at dusk" } },
-    { "id": "bondi-coastal", "rank": 5, "name": "Bondi to Coogee coastal walk", "category": "Nature", "blurb": "Six clifftop kilometres linking Sydney's most famous beaches — ocean pools, whale spouts and swimming stops built in.", "detail": "Sydney's best free morning: start at Bondi's north end, coffee in hand, and follow the sandstone cliffs south past Tamarama, Bronte's beach-and-baths combination, Clovelly's calm channel and into Coogee — two to three unhurried hours with a swim wherever the water calls. The ocean pools are the stars; Bronte Baths and Wylie's at Coogee cost nothing to little and photograph like film sets. May to November, watch the horizon for humpback spouts. Go early: shade is scarce, and the path is a local exercise track by 8am. Buses return you to Bondi in fifteen minutes.", "image": { "query": "bondi icebergs ocean pool", "alt": "Bondi's Icebergs pool against breaking surf" } },
-    { "id": "daintree", "rank": 6, "name": "Daintree Rainforest & Cape Tribulation", "category": "Nature", "blurb": "The world's oldest rainforest running straight into the reef — cassowaries, croc cruises and beaches out of deep time.", "detail": "North of Port Douglas, a cable ferry crosses the Daintree River into forest that predates the Amazon by tens of millions of years. The day unfolds as a sequence: a croc-spotting river cruise, boardwalks through fan-palm gullies at Marrdja, ice cream from rainforest-fruit orchards, and finally Cape Tribulation, where two World Heritage sites — reef and rainforest — physically touch. Watch verges for cassowaries and take the crocodile signage seriously; swimming spots are the marked freshwater ones only, like Emmagen Creek. Self-drive gives freedom, but the guided 4WD day tours pack in Indigenous Kuku Yalanji perspectives worth having.", "image": { "query": "cape tribulation daintree beach rainforest", "alt": "Rainforest meeting the sea at Cape Tribulation" } },
-    { "id": "bridge-climb", "rank": 7, "name": "Sydney Harbour Bridge Climb", "category": "Adventure", "blurb": "Three-and-a-half hours up the great steel coathanger to a 134-metre summit view the postcards shoot from.", "detail": "The climb walks the bridge's upper arch in issued suits and harnesses — no experience needed, just closed shoes and a head for the first ladder sections above traffic. Dawn and twilight slots cost more and repay it; the city lighting up beneath you at dusk is the version people rank among their travel bests. Cameras are banned (the guides shoot you at the summit), phones stay in lockers, and the safety systems make the exposure feel theatrical rather than frightening. Budget-minded alternative: the Pylon Lookout's 200 steps deliver 80% of the view for a fraction of the price — but the summit's 360° is the bucket-list tick.", "image": { "query": "harbour bridge climb summit sydney", "alt": "Climbers on the Harbour Bridge's upper arch" } },
-    { "id": "whitehaven", "rank": 8, "name": "Whitehaven Beach & the Whitsundays", "category": "Nature", "blurb": "Seven kilometres of 98% pure silica sand swirling into turquoise at Hill Inlet — routinely voted the world's best beach.", "detail": "The 74 Whitsunday islands sit inside the reef's shelter, and Whitehaven is their crown: sand so fine it squeaks and never burns, and the Hill Inlet lookout's marbled swirl of white and turquoise that owns every Queensland brochure. Day trips run from Airlie Beach by fast cat; the memorable upgrades are a seaplane landing directly on the beach or an overnight sailing trip through the islands. Tides change the inlet's swirl pattern — mid-to-low tide photographs best, worth checking when booking. Stinger season (Nov–May) means provided lycra suits for swimming. Bring polarised sunglasses; the colours are the entire event.", "image": { "query": "whitehaven beach hill inlet swirls", "alt": "The white-and-turquoise swirls of Hill Inlet" } },
-    { "id": "phillip-island", "rank": 9, "name": "Phillip Island penguin parade", "category": "Wildlife", "blurb": "Every dusk, the world's smallest penguins surf ashore and waddle home past the grandstands — nature's most reliable show.", "detail": "Ninety minutes from Melbourne, little penguins — 33 cm of determination — cross the beach at last light to burrows in the dunes, in processions that have run nightly for millennia. The eco-centre's tiered viewing keeps it respectful: no photography (flash blinds them), boardwalk seating, and rangers narrating numbers as they land. Underground and 'Penguins Plus' viewing tiers put you at eye level and sell out first. Arrive an hour early and add the Nobbies' seal-colony boardwalks beforehand. It pairs naturally with a Great Ocean Road itinerary, and December–January evenings bring the biggest crossings.", "image": { "query": "little penguins phillip island beach", "alt": "Little penguins crossing the beach at dusk" } },
-    { "id": "blue-mountains", "rank": 10, "name": "Blue Mountains & the Three Sisters", "category": "Nature", "blurb": "Eucalyptus haze over kilometre-deep valleys, ninety minutes from Sydney — with the world's steepest railway thrown in.", "detail": "The blue in the name is real — eucalyptus oil scattering the light over the Jamison Valley. Echo Point serves the Three Sisters postcard, but the better hours are below the rim: the Giant Stairway's 800 steps down past the Sisters, the Federal Pass through fern forest, and Scenic World's 52-degree railway hauling you back up. Wentworth Falls' clifftop track and Govetts Leap at Blackheath complete the greatest-hits circuit. Trains from Central reach Katoomba in two hours, making it Sydney's easiest big-nature day; winter mornings add valley cloud inversions that turn the lookouts into airships.", "image": { "query": "three sisters blue mountains lookout", "alt": "The Three Sisters above the blue Jamison Valley" } }
+    {
+      "id": "opera-house",
+      "rank": 1,
+      "name": "Sydney Opera House & the harbour",
+      "category": "Icon",
+      "blurb": "The 20th century's most recognisable building, best experienced from a ferry deck with the bridge filling the other window.",
+      "detail": "The sails read differently from every angle, which is why the harbour itself is the real attraction. Do the loop: walk the Botanic Gardens shoreline to Mrs Macquarie's Chair for the classic Opera-House-and-Bridge frame, then ride the Manly ferry — thirty minutes of skyline for the price of a bus ticket, timed ideally for the return at sunset. Inside, the one-hour tour beats most performances for architecture appreciation, but an evening show under the sails is the memory that sticks. Book the Opera Bar for golden hour; it holds the city's most expensive view at beer prices.",
+      "image": {
+        "query": "Sydney Opera House harbour",
+        "alt": "The Opera House sails seen from harbour level"
+      }
+    },
+    {
+      "id": "great-barrier-reef",
+      "rank": 2,
+      "name": "Snorkelling the Great Barrier Reef",
+      "category": "Nature",
+      "blurb": "The planet's largest living structure — turtles, reef sharks and coral cities an easy catamaran ride from Cairns.",
+      "detail": "The reef is 2,300 km long, so the operator choice is the experience. From Cairns or Port Douglas, pick outer-reef trips (Agincourt, Opal, Flynn) over cheaper inner platforms — visibility and coral health step up dramatically. Snorkellers see plenty; intro dives need no certification and are superbly supervised. June to November brings the best water clarity and dwarf minke and humpback season; summer adds stinger suits as standard kit. Seasickness-prone travellers should medicate before boarding — the outer runs cross open water. The splurge that's worth it once: a scenic-flight add-on to see the reef's blue geometry whole.",
+      "image": {
+        "query": "great barrier reef coral turtle snorkel",
+        "alt": "A green turtle over coral on the Great Barrier Reef"
+      }
+    },
+    {
+      "id": "uluru-sunset",
+      "rank": 3,
+      "name": "Uluru at sunrise and sunset",
+      "category": "Nature",
+      "blurb": "A rock the size of a city centre cycling through oranges, reds and purples — twice a day, never the same show.",
+      "detail": "The car parks are labelled by light: Talinguru Nyakunytjaku for dawn, the sunset strip for dusk — claim a spot 45 minutes early in peak season with something cold in hand. Between shows, walk the full 10.6 km base loop in the morning cool: waterholes, rock art and folds of stone the postcards never show, with Anangu stories posted along the way. The Field of Light installation — 50,000 solar stems glowing against the darkness — and the dune-top dinner experiences need booking well ahead. Kata Tjuta's Valley of the Winds, 40 minutes away, is the companion hike most visitors rank equal to the rock itself.",
+      "image": {
+        "query": "Uluru red rock sunset sky",
+        "alt": "Uluru shifting colour at dawn under desert sky"
+      }
+    },
+    {
+      "id": "great-ocean-road",
+      "rank": 4,
+      "name": "The Great Ocean Road",
+      "category": "Scenic",
+      "blurb": "243 km of cliff-hugging tarmac ending at the Twelve Apostles — Australia's definitive drive.",
+      "detail": "Built by returned WWI soldiers and dedicated as the world's largest war memorial, the road earns its fame honestly: surf towns, koala-hung eucalypts around Kennett River, rainforest gullies at Maits Rest, then the limestone drama of the Apostles rising from Southern-Ocean surf. Drive it westbound from Melbourne so the ocean sits on your side, and overnight in Apollo Bay or Port Campbell rather than day-tripping — sunset and sunrise at the Apostles, minus the tour-bus noon rush, is the whole point. Gibson Steps puts you on the sand below the stacks; Loch Ard Gorge adds shipwreck drama ten minutes on.",
+      "image": {
+        "query": "twelve apostles great ocean road",
+        "alt": "The Twelve Apostles sea stacks at dusk"
+      }
+    },
+    {
+      "id": "bondi-coastal",
+      "rank": 5,
+      "name": "Bondi to Coogee coastal walk",
+      "category": "Nature",
+      "blurb": "Six clifftop kilometres linking Sydney's most famous beaches — ocean pools, whale spouts and swimming stops built in.",
+      "detail": "Sydney's best free morning: start at Bondi's north end, coffee in hand, and follow the sandstone cliffs south past Tamarama, Bronte's beach-and-baths combination, Clovelly's calm channel and into Coogee — two to three unhurried hours with a swim wherever the water calls. The ocean pools are the stars; Bronte Baths and Wylie's at Coogee cost nothing to little and photograph like film sets. May to November, watch the horizon for humpback spouts. Go early: shade is scarce, and the path is a local exercise track by 8am. Buses return you to Bondi in fifteen minutes.",
+      "image": {
+        "query": "bondi icebergs ocean pool",
+        "alt": "Bondi's Icebergs pool against breaking surf"
+      }
+    },
+    {
+      "id": "daintree",
+      "rank": 6,
+      "name": "Daintree Rainforest & Cape Tribulation",
+      "category": "Nature",
+      "blurb": "The world's oldest rainforest running straight into the reef — cassowaries, croc cruises and beaches out of deep time.",
+      "detail": "North of Port Douglas, a cable ferry crosses the Daintree River into forest that predates the Amazon by tens of millions of years. The day unfolds as a sequence: a croc-spotting river cruise, boardwalks through fan-palm gullies at Marrdja, ice cream from rainforest-fruit orchards, and finally Cape Tribulation, where two World Heritage sites — reef and rainforest — physically touch. Watch verges for cassowaries and take the crocodile signage seriously; swimming spots are the marked freshwater ones only, like Emmagen Creek. Self-drive gives freedom, but the guided 4WD day tours pack in Indigenous Kuku Yalanji perspectives worth having.",
+      "image": {
+        "query": "cape tribulation daintree beach rainforest",
+        "alt": "Rainforest meeting the sea at Cape Tribulation"
+      }
+    },
+    {
+      "id": "bridge-climb",
+      "rank": 7,
+      "name": "Sydney Harbour Bridge Climb",
+      "category": "Adventure",
+      "blurb": "Three-and-a-half hours up the great steel coathanger to a 134-metre summit view the postcards shoot from.",
+      "detail": "The climb walks the bridge's upper arch in issued suits and harnesses — no experience needed, just closed shoes and a head for the first ladder sections above traffic. Dawn and twilight slots cost more and repay it; the city lighting up beneath you at dusk is the version people rank among their travel bests. Cameras are banned (the guides shoot you at the summit), phones stay in lockers, and the safety systems make the exposure feel theatrical rather than frightening. Budget-minded alternative: the Pylon Lookout's 200 steps deliver 80% of the view for a fraction of the price — but the summit's 360° is the bucket-list tick.",
+      "image": {
+        "query": "harbour bridge climb summit sydney",
+        "alt": "Climbers on the Harbour Bridge's upper arch"
+      }
+    },
+    {
+      "id": "whitehaven",
+      "rank": 8,
+      "name": "Whitehaven Beach & the Whitsundays",
+      "category": "Nature",
+      "blurb": "Seven kilometres of 98% pure silica sand swirling into turquoise at Hill Inlet — routinely voted the world's best beach.",
+      "detail": "The 74 Whitsunday islands sit inside the reef's shelter, and Whitehaven is their crown: sand so fine it squeaks and never burns, and the Hill Inlet lookout's marbled swirl of white and turquoise that owns every Queensland brochure. Day trips run from Airlie Beach by fast cat; the memorable upgrades are a seaplane landing directly on the beach or an overnight sailing trip through the islands. Tides change the inlet's swirl pattern — mid-to-low tide photographs best, worth checking when booking. Stinger season (Nov–May) means provided lycra suits for swimming. Bring polarised sunglasses; the colours are the entire event.",
+      "image": {
+        "query": "whitehaven beach hill inlet swirls",
+        "alt": "The white-and-turquoise swirls of Hill Inlet"
+      }
+    },
+    {
+      "id": "phillip-island",
+      "rank": 9,
+      "name": "Phillip Island penguin parade",
+      "category": "Wildlife",
+      "blurb": "Every dusk, the world's smallest penguins surf ashore and waddle home past the grandstands — nature's most reliable show.",
+      "detail": "Ninety minutes from Melbourne, little penguins — 33 cm of determination — cross the beach at last light to burrows in the dunes, in processions that have run nightly for millennia. The eco-centre's tiered viewing keeps it respectful: no photography (flash blinds them), boardwalk seating, and rangers narrating numbers as they land. Underground and 'Penguins Plus' viewing tiers put you at eye level and sell out first. Arrive an hour early and add the Nobbies' seal-colony boardwalks beforehand. It pairs naturally with a Great Ocean Road itinerary, and December–January evenings bring the biggest crossings.",
+      "image": {
+        "query": "little penguins phillip island beach",
+        "alt": "Little penguins crossing the beach at dusk"
+      }
+    },
+    {
+      "id": "blue-mountains",
+      "rank": 10,
+      "name": "Blue Mountains & the Three Sisters",
+      "category": "Nature",
+      "blurb": "Eucalyptus haze over kilometre-deep valleys, ninety minutes from Sydney — with the world's steepest railway thrown in.",
+      "detail": "The blue in the name is real — eucalyptus oil scattering the light over the Jamison Valley. Echo Point serves the Three Sisters postcard, but the better hours are below the rim: the Giant Stairway's 800 steps down past the Sisters, the Federal Pass through fern forest, and Scenic World's 52-degree railway hauling you back up. Wentworth Falls' clifftop track and Govetts Leap at Blackheath complete the greatest-hits circuit. Trains from Central reach Katoomba in two hours, making it Sydney's easiest big-nature day; winter mornings add valley cloud inversions that turn the lookouts into airships.",
+      "image": {
+        "query": "three sisters blue mountains lookout",
+        "alt": "The Three Sisters above the blue Jamison Valley"
+      }
+    }
   ],
   "activities": [
-    { "id": "surf-lesson-bondi", "name": "Learn to surf at Bondi", "category": "Adventure", "blurb": "Foam boards, whitewater waves and instructors who've stood up thousands of first-timers — Australia's rite of passage.", "image": { "query": "surf lesson bondi beach", "alt": "Beginner surfers walking into Bondi's whitewater" } },
-    { "id": "wine-yarra", "name": "Yarra & Hunter wine days", "category": "Food", "blurb": "Cellar doors an hour from the cities — cool-climate pinot near Melbourne, old-vine semillon near Sydney.", "image": { "query": "yarra valley vineyard cellar door", "alt": "Vine rows rolling through the Yarra Valley" } },
-    { "id": "kangaroo-wildlife", "name": "Wildlife park mornings", "category": "Wildlife", "blurb": "Hand-feed kangaroos and meet koalas at ethical sanctuaries — Australia Zoo and Bonorong set the standard.", "image": { "query": "kangaroo feeding wildlife sanctuary", "alt": "A visitor hand-feeding a kangaroo at a sanctuary" } },
-    { "id": "seaplane-sydney", "name": "Sydney seaplane & lunch", "category": "Scenic", "blurb": "Take off from the harbour, loop the northern beaches and land for lunch at a water-access-only restaurant.", "image": { "query": "seaplane sydney harbour flight", "alt": "A seaplane banking over Sydney's harbour" } },
-    { "id": "field-of-light", "name": "Field of Light dinner, Uluru", "category": "Icon", "blurb": "50,000 glowing stems under desert stars, paired with bush-tucker dining on a dune — book months out.", "image": { "query": "field of light uluru installation", "alt": "The Field of Light glowing before Uluru at night" } },
-    { "id": "quokka-rottnest", "name": "Quokka cycling on Rottnest", "category": "Wildlife", "blurb": "Car-free island loops between snorkel bays, punctuated by the world's most smile-prone marsupial.", "image": { "query": "quokka rottnest island smile", "alt": "A quokka up close on Rottnest Island" } }
+    {
+      "id": "surf-lesson-bondi",
+      "name": "Learn to surf at Bondi",
+      "category": "Adventure",
+      "blurb": "Foam boards, whitewater waves and instructors who've stood up thousands of first-timers — Australia's rite of passage.",
+      "image": {
+        "query": "Bondi Beach surfers waves",
+        "alt": "Beginner surfers walking into Bondi's whitewater"
+      }
+    },
+    {
+      "id": "wine-yarra",
+      "name": "Yarra & Hunter wine days",
+      "category": "Food",
+      "blurb": "Cellar doors an hour from the cities — cool-climate pinot near Melbourne, old-vine semillon near Sydney.",
+      "image": {
+        "query": "yarra valley vineyard cellar door",
+        "alt": "Vine rows rolling through the Yarra Valley"
+      }
+    },
+    {
+      "id": "kangaroo-wildlife",
+      "name": "Wildlife park mornings",
+      "category": "Wildlife",
+      "blurb": "Hand-feed kangaroos and meet koalas at ethical sanctuaries — Australia Zoo and Bonorong set the standard.",
+      "image": {
+        "query": "kangaroo grassland Australia",
+        "alt": "A visitor hand-feeding a kangaroo at a sanctuary"
+      }
+    },
+    {
+      "id": "seaplane-sydney",
+      "name": "Sydney seaplane & lunch",
+      "category": "Scenic",
+      "blurb": "Take off from the harbour, loop the northern beaches and land for lunch at a water-access-only restaurant.",
+      "image": {
+        "query": "seaplane sydney harbour flight",
+        "alt": "A seaplane banking over Sydney's harbour"
+      }
+    },
+    {
+      "id": "field-of-light",
+      "name": "Field of Light dinner, Uluru",
+      "category": "Icon",
+      "blurb": "50,000 glowing stems under desert stars, paired with bush-tucker dining on a dune — book months out.",
+      "image": {
+        "query": "field of light uluru installation",
+        "alt": "The Field of Light glowing before Uluru at night"
+      }
+    },
+    {
+      "id": "quokka-rottnest",
+      "name": "Quokka cycling on Rottnest",
+      "category": "Wildlife",
+      "blurb": "Car-free island loops between snorkel bays, punctuated by the world's most smile-prone marsupial.",
+      "image": {
+        "query": "quokka rottnest island smile",
+        "alt": "A quokka up close on Rottnest Island"
+      }
+    }
   ],
   "trips": [
-    { "id": "east-coast-classic", "title": "The east-coast classic", "nights": 10, "route": [ { "place": "Sydney", "nights": 4 }, { "place": "Cairns", "nights": 3 }, { "place": "Melbourne", "nights": 3 } ], "summary": "Harbour days and the Bondi walk, north for the outer reef and Daintree, then Melbourne's laneways with a Great Ocean Road day. Three Australias, two internal flights, zero wasted nights — the definitive first visit.", "priceFrom": "₹2,45,000", "image": { "query": "sydney harbour ferry summer", "alt": "A ferry crossing Sydney Harbour past the Opera House" } },
-    { "id": "reef-rock", "title": "Reef & red centre", "nights": 9, "route": [ { "place": "Sydney", "nights": 3 }, { "place": "Uluru", "nights": 2 }, { "place": "Cairns", "nights": 4 } ], "summary": "The icons run: Bridge Climb and Opera Bar sunsets, then the desert's dawn colour show and Field of Light, finishing underwater on the outer reef. Australia's three signature landscapes in one arc — book Uluru beds early, they're few.", "priceFrom": "₹2,70,000", "image": { "query": "uluru desert road red centre", "alt": "The desert road running toward Uluru" } },
-    { "id": "family-queensland", "title": "Queensland family sun", "nights": 8, "route": [ { "place": "Gold Coast", "nights": 4 }, { "place": "Cairns", "nights": 4 } ], "summary": "Theme-park mornings and patrolled surf on the Gold Coast, then reef pontoons built for kids, the Kuranda rainforest railway and croc-spotting up north. School-holiday engineering: maximum wow, minimal transit, one easy internal flight.", "priceFrom": "₹2,30,000", "image": { "query": "gold coast beach family surf", "alt": "Families on the wide surf beach of the Gold Coast" } }
+    {
+      "id": "east-coast-classic",
+      "title": "The east-coast classic",
+      "nights": 10,
+      "route": [
+        {
+          "place": "Sydney",
+          "nights": 4
+        },
+        {
+          "place": "Cairns",
+          "nights": 3
+        },
+        {
+          "place": "Melbourne",
+          "nights": 3
+        }
+      ],
+      "summary": "Harbour days and the Bondi walk, north for the outer reef and Daintree, then Melbourne's laneways with a Great Ocean Road day. Three Australias, two internal flights, zero wasted nights — the definitive first visit.",
+      "priceFrom": "₹2,45,000",
+      "image": {
+        "query": "Whitsunday Islands aerial reef",
+        "alt": "A ferry crossing Sydney Harbour past the Opera House"
+      }
+    },
+    {
+      "id": "reef-rock",
+      "title": "Reef & red centre",
+      "nights": 9,
+      "route": [
+        {
+          "place": "Sydney",
+          "nights": 3
+        },
+        {
+          "place": "Uluru",
+          "nights": 2
+        },
+        {
+          "place": "Cairns",
+          "nights": 4
+        }
+      ],
+      "summary": "The icons run: Bridge Climb and Opera Bar sunsets, then the desert's dawn colour show and Field of Light, finishing underwater on the outer reef. Australia's three signature landscapes in one arc — book Uluru beds early, they're few.",
+      "priceFrom": "₹2,70,000",
+      "image": {
+        "query": "uluru desert road red centre",
+        "alt": "The desert road running toward Uluru"
+      }
+    },
+    {
+      "id": "family-queensland",
+      "title": "Queensland family sun",
+      "nights": 8,
+      "route": [
+        {
+          "place": "Gold Coast",
+          "nights": 4
+        },
+        {
+          "place": "Cairns",
+          "nights": 4
+        }
+      ],
+      "summary": "Theme-park mornings and patrolled surf on the Gold Coast, then reef pontoons built for kids, the Kuranda rainforest railway and croc-spotting up north. School-holiday engineering: maximum wow, minimal transit, one easy internal flight.",
+      "priceFrom": "₹2,30,000",
+      "image": {
+        "query": "gold coast beach family surf",
+        "alt": "Families on the wide surf beach of the Gold Coast"
+      }
+    }
   ],
   "faqs": [
-    { "q": "How long does the Australian visa take for Indians?", "a": "The Visitor 600 e-visa is filed fully online; grants commonly arrive in two to five weeks but can stretch, so apply 6–8 weeks out and hold off on non-refundable bookings. Strong financial documentation and a clear itinerary speed decisions." },
-    { "q": "When should we go?", "a": "September–November and March–May work everywhere at once: reef clarity, walkable desert, blooming or golden cities. December–February is beach season but stinger season up north and furnace season at Uluru; June–August flips the logic — perfect Cairns, cosy-grey Melbourne." },
-    { "q": "How much of Australia fits in one trip?", "a": "Two, at most three regions. Sydney plus the reef is the honest one-week trip; ten nights adds Melbourne or Uluru. The country punishes itinerary greed with airport days — better one coast done well than three sampled from departure lounges." },
-    { "q": "Is it very expensive?", "a": "Mid-tier, honestly: costlier than Southeast Asia, kinder than Switzerland. The big-ticket items are internal flights and reef/Uluru experiences; food courts, beach barbecues, free coastal walks and superb public beaches balance the ledger." },
-    { "q": "Vegetarian and Indian food?", "a": "Everywhere and excellent. Every city has serious Indian restaurants (Sydney's Harris Park is a destination in itself), supermarkets label clearly, and cafés treat vegetarian cooking as mainstream rather than accommodation." }
+    {
+      "q": "How long does the Australian visa take for Indians?",
+      "a": "The Visitor 600 e-visa is filed fully online; grants commonly arrive in two to five weeks but can stretch, so apply 6–8 weeks out and hold off on non-refundable bookings. Strong financial documentation and a clear itinerary speed decisions."
+    },
+    {
+      "q": "When should we go?",
+      "a": "September–November and March–May work everywhere at once: reef clarity, walkable desert, blooming or golden cities. December–February is beach season but stinger season up north and furnace season at Uluru; June–August flips the logic — perfect Cairns, cosy-grey Melbourne."
+    },
+    {
+      "q": "How much of Australia fits in one trip?",
+      "a": "Two, at most three regions. Sydney plus the reef is the honest one-week trip; ten nights adds Melbourne or Uluru. The country punishes itinerary greed with airport days — better one coast done well than three sampled from departure lounges."
+    },
+    {
+      "q": "Is it very expensive?",
+      "a": "Mid-tier, honestly: costlier than Southeast Asia, kinder than Switzerland. The big-ticket items are internal flights and reef/Uluru experiences; food courts, beach barbecues, free coastal walks and superb public beaches balance the ledger."
+    },
+    {
+      "q": "Vegetarian and Indian food?",
+      "a": "Everywhere and excellent. Every city has serious Indian restaurants (Sydney's Harris Park is a destination in itself), supermarkets label clearly, and cafés treat vegetarian cooking as mainstream rather than accommodation."
+    }
   ]
 }

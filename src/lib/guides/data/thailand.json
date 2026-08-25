@@ -128,7 +128,7 @@
       "name": "Phuket",
       "blurb": "Thailand's biggest island and easiest beach base, with direct flights from India. Patong is the party strip; Kata and Bang Tao are calmer. Every Andaman day trip launches from here.",
       "image": {
-        "query": "phuket kata beach aerial",
+        "query": "Phuket Patong beach aerial",
         "alt": "Curved sandy bay with turquoise water and green headlands in Phuket"
       }
     },
@@ -137,7 +137,7 @@
       "name": "Krabi",
       "blurb": "The mainland answer to Phuket — quieter, cheaper and closer to the best limestone scenery. Ao Nang is the practical base for boats to Railay, Phi Phi and the Hong islands.",
       "image": {
-        "query": "railay beach krabi limestone cliffs",
+        "query": "Krabi limestone cliffs longtail",
         "alt": "Longtail boats on Railay beach beneath sheer limestone cliffs"
       }
     },
@@ -286,7 +286,7 @@
       "blurb": "A laid-back mountain valley three hours north of Chiang Mai — canyon sunsets, hot springs, waterfalls and a walking street of live music and cheap eats.",
       "detail": "The road from Chiang Mai has 762 bends, so take the minivan (about ₹500) rather than a scooter unless you're an experienced rider, and sit near the front if you get carsick. Once there, rent a scooter or hire a driver to loop Pai Canyon for sunset, the Tha Pai hot springs, the bamboo bridge over the rice fields and the white Buddha viewpoint. Nights revolve around the walking street's food stalls and open-mic bars. Two nights is right; in cool season pack a warm layer, because the valley genuinely drops towards single digits after dark. This is the insider add-on for second-time Thailand visitors.",
       "image": {
-        "query": "pai canyon sunset thailand",
+        "query": "Pai canyon Thailand",
         "alt": "Narrow ridged walkways of Pai Canyon under an orange sunset sky"
       }
     }
@@ -298,7 +298,7 @@
       "category": "Water",
       "blurb": "Full-day tours from Phuket or Krabi threading four or five islands — snorkelling stops, hidden lagoons and beach lunches from about ₹2,500 per person.",
       "image": {
-        "query": "speedboat phi phi islands tour",
+        "query": "longtail boats Thailand island",
         "alt": "Speedboat anchored off a limestone island with snorkellers in clear water"
       }
     },
@@ -308,7 +308,7 @@
       "category": "Food",
       "blurb": "Market tour, then wok stations: green curry from scratch, pad thai, mango sticky rice. Chiang Mai's farm schools are the best-loved, from around ₹1,500 with veg menus standard.",
       "image": {
-        "query": "thai cooking class wok curry",
+        "query": "pad thai cooking wok",
         "alt": "Hands tossing vegetables in a flaming wok at a Thai cooking school"
       }
     },
@@ -328,7 +328,7 @@
       "category": "Culture",
       "blurb": "Live bouts with full ceremony — the wai kru dance, live pipes and drums — at Bangkok's Rajadamnern or Lumpinee stadiums. Ringside from about ₹2,500; electric atmosphere either way.",
       "image": {
-        "query": "muay thai stadium fight bangkok",
+        "query": "muay thai boxing match stadium",
         "alt": "Two Muay Thai fighters mid-bout under stadium lights"
       }
     },
@@ -338,7 +338,7 @@
       "category": "Adventure",
       "blurb": "One of the world's cheapest places to get PADI-certified — three-day open water courses around ₹22,000, warm 30-metre visibility and resident turtles.",
       "image": {
-        "query": "koh tao scuba diving turtle",
+        "query": "Koh Tao bay snorkel",
         "alt": "Scuba diver swimming beside a sea turtle in clear blue water off Koh Tao"
       }
     },
@@ -396,11 +396,8 @@
       "summary": "Fly direct into Phuket, day-trip Phang Nga Bay, then ferry to Phi Phi for two slow nights after the day boats leave. End in Krabi with longtails to Railay and the Hong islands — the full limestone-and-turquoise show in one week.",
       "priceFrom": "₹85,000",
       "image": {
-        "query": "phi phi island viewpoint bay",
-        "alt": "Twin turquoise bays of Phi Phi Don seen from the island viewpoint",
-        "candidates": [
-          "https://images.unsplash.com/photo-1528181304800-259b08848526"
-        ]
+        "query": "Similan Islands Thailand boat",
+        "alt": "Twin turquoise bays of Phi Phi Don seen from the island viewpoint"
       }
     },
     {

@@ -151,7 +151,7 @@
       "name": "Little India & Kampong Glam",
       "blurb": "Flower garlands, gold shops and dosa breakfasts on one side; the Sultan Mosque, Arab Street fabric stores and Haji Lane's murals on the other. The city's most colourful, best-value base.",
       "image": {
-        "query": "sultan mosque kampong glam singapore",
+        "query": "Little India Singapore colourful street",
         "alt": "The golden dome of Sultan Mosque above Bussorah Street"
       }
     },
@@ -169,7 +169,7 @@
       "name": "Katong – Joo Chiat",
       "blurb": "The insider's pick: pastel Peranakan terraces, laksa rivalries and indie cafés in the East Coast, fifteen minutes from Changi. Ideal for a slower second visit or a food-led weekend.",
       "image": {
-        "query": "peranakan houses koon seng road",
+        "query": "Katong Joo Chiat shophouses",
         "alt": "Pastel-coloured Peranakan terrace houses on Koon Seng Road"
       }
     }
@@ -210,7 +210,7 @@
       "blurb": "A whole island of beaches, the Skyline Luge, S.E.A. Aquarium, zip lines and cable cars, connected to the city by monorail, boardwalk and cable car.",
       "detail": "Enter by cable car from Mount Faber for the best arrival (about ₹2,100 round trip), or take the Sentosa Express monorail from VivoCity for pocket change. Structure the day: aquarium or Universal in the morning, Skyline Luge mid-afternoon (buy multi-ride bundles, kids love it), then Siloso or Tanjong Beach for sunset — the beaches are calm, man-made and family-friendly rather than dramatic. Wings of Time, the 7.40pm beachfront night show, is a decent capper with kids. On weekends locals pile in; go on a weekday if your itinerary allows.",
       "image": {
-        "query": "sentosa cable car singapore",
+        "query": "Sentosa Siloso beach",
         "alt": "Cable cars crossing to Sentosa Island above the harbour"
       }
     },
@@ -282,7 +282,7 @@
       "blurb": "A 40-metre indoor waterfall pouring through a glass dome ringed by forest, shops and food — inside the airport, before immigration, open to all.",
       "detail": "Treat Jewel as an attraction, not a layover accessory: it sits landside at Changi, linked to Terminals 1–3, so you can visit on any day by MRT even without a flight. The Rain Vortex runs from 11am with a light-and-music show hourly from 8pm to 10pm — the 9pm show with the forest valley lit up is the keeper. Canopy Park up top (mazes, bouncing nets, the sky bridge with its glass floor) is ticketed and pure fun with kids. On departure day, arrive 4 hours early, drop bags at early check-in, and give Jewel the difference. A&W and Shake Shack queues are shortest before noon.",
       "image": {
-        "query": "jewel changi rain vortex",
+        "query": "Jewel Changi rain vortex waterfall",
         "alt": "The Rain Vortex waterfall inside Jewel Changi's glass dome"
       }
     },
@@ -356,7 +356,7 @@
       "category": "Nightlife",
       "blurb": "Sunset drinks at Lantern, Smoke & Mirrors or CÉ LA VI, timed so the 8pm Spectra show plays out below your table. Smart-casual dress; book windowside spots ahead.",
       "image": {
-        "query": "singapore skyline rooftop bar view",
+        "query": "Singapore rooftop skyline evening",
         "alt": "Cocktails on a rooftop terrace overlooking the Marina Bay skyline"
       }
     }
@@ -375,7 +375,7 @@
       "summary": "One central base, zero repacking. Day one is the bay loop, SkyPark and Spectra; day two Gardens by the Bay and Chinatown; day three a full Sentosa outing; day four Little India, Kampong Glam and a Jewel send-off before the night flight home.",
       "priceFrom": "₹68,000",
       "image": {
-        "query": "singapore skyline evening panorama",
+        "query": "Marina Bay Sands skyline Singapore",
         "alt": "Panoramic evening view across Marina Bay and the financial district"
       }
     },

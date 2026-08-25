@@ -307,7 +307,7 @@
       "category": "Food",
       "blurb": "Graze Tokyo's outer fish market with a guide — tamagoyaki stalls, knife shops, tuna-auction lore and a proper sushi breakfast. Morning tours run about ₹6,000–9,000 and book out in season.",
       "image": {
-        "query": "tsukiji outer market food stalls",
+        "query": "Tokyo fish market sushi stalls",
         "alt": "Vendors grilling seafood at Tsukiji outer market stalls"
       }
     },
@@ -317,7 +317,7 @@
       "category": "Culture",
       "blurb": "Dress in kimono, then learn to whisk matcha in a machiya townhouse tearoom. Ninety-minute sessions from about ₹3,500; the kimono rental doubles as your Gion photo-walk outfit.",
       "image": {
-        "query": "kyoto tea ceremony matcha whisk",
+        "query": "Japanese tea ceremony matcha bowl",
         "alt": "Hands whisking matcha in a bowl during a Kyoto tea ceremony"
       }
     },
@@ -327,7 +327,7 @@
       "category": "Adventure",
       "blurb": "Hakuba and Niseko get some of the lightest snow on the planet from December to March. Day lift passes run about ₹4,500, with English-speaking schools ideal for first-timers.",
       "image": {
-        "query": "hakuba ski slopes powder snow",
+        "query": "Hakuba valley ski slope",
         "alt": "A skier carving through deep powder on a Hakuba slope"
       }
     },
@@ -337,7 +337,7 @@
       "category": "Culture",
       "blurb": "Catch a grand tournament in Tokyo (January, May, September; tickets from about ₹2,500) or visit a stable's dawn training session in Ryogoku the rest of the year.",
       "image": {
-        "query": "sumo wrestlers tournament ryogoku",
+        "query": "sumo wrestlers tournament ring",
         "alt": "Two sumo wrestlers grappling in a tournament ring"
       }
     },

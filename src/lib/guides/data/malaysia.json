@@ -121,7 +121,7 @@
       "name": "Kuala Lumpur",
       "blurb": "The capital does towers, megamalls and rooftop bars, but its real pull is the street layer beneath — Jalan Alor's smoke and neon, Brickfields' Little India, and Batu Caves twenty minutes out.",
       "image": {
-        "query": "kuala lumpur skyline klcc",
+        "query": "Kuala Lumpur skyline night",
         "alt": "Kuala Lumpur skyline with the Petronas Towers rising above KLCC park"
       }
     },
@@ -130,7 +130,7 @@
       "name": "Langkawi",
       "blurb": "A duty-free island of 99 outcrops with the famous SkyBridge, mangrove kayaking and long resort beaches. The easiest beach add-on to KL — one short flight, no visa-run logistics.",
       "image": {
-        "query": "langkawi beach cenang sunset",
+        "query": "Langkawi beach Pantai Cenang",
         "alt": "Pantai Cenang beach at sunset with boats moored offshore, Langkawi"
       }
     },
@@ -139,7 +139,7 @@
       "name": "Penang (George Town)",
       "blurb": "A UNESCO-listed grid of shophouses, clan temples and street art that doubles as Malaysia's food capital. Come hungry, walk everything, and ride the funicular up Penang Hill at dusk.",
       "image": {
-        "query": "george town penang shophouses street",
+        "query": "George Town Penang aerial",
         "alt": "Colourful heritage shophouses along a George Town street in Penang"
       }
     },
@@ -148,7 +148,7 @@
       "name": "Cameron Highlands",
       "blurb": "Tea estates, strawberry farms and 18°C afternoons at 1,500 metres — a three-and-a-half-hour drive from KL. The BOH plantation viewpoints are the postcard everyone comes for.",
       "image": {
-        "query": "cameron highlands tea plantation",
+        "query": "Cameron Highlands tea valley morning",
         "alt": "Rolling green tea terraces in the Cameron Highlands"
       }
     },
@@ -219,7 +219,7 @@
       "blurb": "Penang's UNESCO core mixes Chinese clan houses, Indian temples and colonial arcades with Ernest Zacharevic's playful murals hidden down its lanes.",
       "detail": "Do it on foot or by rented bicycle, early morning or after 4pm when the heat drops. Start at the Kids on Bicycle mural on Armenian Street, drift through Khoo Kongsi clan house, then out along the Chew Jetty boardwalk where houses stand on stilts over the harbour. The joy is that the food and the sightseeing are the same activity — char kway teow at Siam Road, cendol in a Lebuh Keng Kwee alley, banana leaf on Penang's own Little India streets. Give it a full day, finishing with the funicular up Penang Hill for sunset over the strait. Blue Mansion tours run at fixed times; book the afternoon slot.",
       "image": {
-        "query": "george town street art armenian street",
+        "query": "George Town Penang street art mural",
         "alt": "A heritage lane in George Town with famous bicycle mural and trishaws"
       }
     },
@@ -255,7 +255,7 @@
       "blurb": "Semi-wild orangutans swing in to feeding platforms at Sabah's famous rehabilitation centre, with sun bears next door and jungle boardwalks between.",
       "detail": "Fly into Sandakan (via KL or Kota Kinabalu) and stay near Sepilok itself rather than town. Feedings run at 10am and 3pm — arrive 30 minutes early for the boardwalk to the platform, and treat sightings as likely rather than guaranteed, which is exactly why it feels honest. The Bornean Sun Bear Conservation Centre shares the entrance road and deserves an hour. The classic move is to combine Sepilok with two nights on the Kinabatangan River, where dusk cruises deliver proboscis monkeys, hornbills and, with luck, wild pygmy elephants. Keep cameras zoom-ready and skip flash entirely; guides enforce distance rules strictly.",
       "image": {
-        "query": "orangutan sepilok sabah borneo",
+        "query": "orangutan Sepilok Borneo",
         "alt": "An orangutan hanging from ropes at the Sepilok rehabilitation centre"
       }
     },
@@ -267,7 +267,7 @@
       "blurb": "A casino-and-theme-park city floating at 1,800 metres, one hour from KL, reached by a cable car gliding over unbroken rainforest.",
       "detail": "The Awana SkyWay gondola is half the attraction — 10 minutes over jungle canopy, with a glass-floor option for a small premium. Up top, Genting SkyWorlds theme park fills a day for families, while the indoor SkyTropolis, malls and the casino floor mean weather never cancels anything. Temperatures hover around 16–20°C, so carry a layer. Stop at Chin Swee Caves Temple, one gondola station down, for pagoda views back across the valley. It works best as a day trip from KL or an overnight with a buffet-and-rides package; weekends get seriously crowded with local families, so go midweek if you can.",
       "image": {
-        "query": "genting highlands cable car clouds",
+        "query": "Genting Highlands resort hilltop",
         "alt": "Awana SkyWay cable car rising through clouds towards Genting Highlands"
       }
     },
@@ -279,7 +279,7 @@
       "blurb": "KL's most famous eating street — a smoky, neon-lit run of woks, grills and plastic stools in Bukit Bintang that only starts breathing after dark.",
       "detail": "Come around 7pm, walk the full length once before committing, then eat in rounds: grilled chicken wings at Wong Ah Wah at the far end are the anchor order, with char kway teow, satay, grilled stingray and coconut ice cream slotted between. Sharing plates across a group is the format. Vegetarians manage fine — hokkien mee can be made meatless at several stalls and fruit stands sell cut durian for the brave. Prices are honest but confirm seafood rates before ordering by weight. It sits five minutes from the Bukit Bintang MRT, making it the natural finish to a Pavilion-mall or Petronas evening.",
       "image": {
-        "query": "jalan alor night food street kuala lumpur",
+        "query": "hawker stalls street food Kuala Lumpur",
         "alt": "Neon signs and packed food stalls along Jalan Alor at night"
       }
     },
@@ -303,7 +303,7 @@
       "category": "Water",
       "blurb": "Shared speedboats loop Dayang Bunting's freshwater lake, eagle-watching bays and Beras Basah's sandbar in a half day; the Kilim Geoforest mangrove cruise adds caves, monitor lizards and stilt fish farms.",
       "image": {
-        "query": "langkawi island hopping boat",
+        "query": "Langkawi island boat trip",
         "alt": "Speedboat crossing turquoise water between Langkawi's forested islands"
       }
     },
@@ -333,7 +333,7 @@
       "category": "Wildlife",
       "blurb": "Dawn and dusk boat safaris on Sabah's longest river deliver proboscis monkeys, hornbills, crocodiles and — on lucky days — wild orangutans and pygmy elephants along the banks.",
       "image": {
-        "query": "kinabatangan river cruise proboscis monkey",
+        "query": "proboscis monkey Borneo river",
         "alt": "A small boat cruising the Kinabatangan river past dense jungle banks"
       }
     },
@@ -343,7 +343,7 @@
       "category": "Adventure",
       "blurb": "April to September, the east coast's clear shallows serve turtles, reef sharks and coral gardens metres from the beach — among the cheapest places anywhere to get PADI-certified.",
       "image": {
-        "query": "perhentian islands snorkelling turtle",
+        "query": "Perhentian islands turquoise beach",
         "alt": "Snorkeller swimming above coral and a sea turtle in the Perhentians"
       }
     },
@@ -376,7 +376,7 @@
       "summary": "The proven first-timer split. Three KL days cover Petronas, Batu Caves, Jalan Alor and a Genting or Malacca day trip; a one-hour flight then swaps towers for Langkawi's cable car, mangroves and beach sunsets. Direct flights both ways keep transit painless.",
       "priceFrom": "₹52,000",
       "image": {
-        "query": "langkawi beach resort palm trees",
+        "query": "Kuala Lumpur Petronas towers park",
         "alt": "Palm-fringed beach with calm water at a Langkawi resort"
       }
     },
@@ -401,7 +401,7 @@
       "summary": "An overland arc for food and culture people. KL's essentials first, then up to 18°C tea country for BOH estates and the Mossy Forest, before descending to George Town for three days of murals, clan houses and Malaysia's best street food. Fly home direct from Penang.",
       "priceFrom": "₹62,000",
       "image": {
-        "query": "cameron highlands tea estate road",
+        "query": "Penang Hill funicular view",
         "alt": "Winding road through tea plantations in the Cameron Highlands"
       }
     },

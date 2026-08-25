@@ -1,0 +1,3608 @@
+{
+  "bali/hero.jpg": {
+    "source": "unsplash",
+    "credit": "https://images.unsplash.com/photo-1537996194471-e657df975ab4",
+    "query": "ulun danu bratan temple bali lake"
+  },
+  "bali/ubud.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Bali",
+    "query": "ubud rice terrace bali"
+  },
+  "bali/seminyak.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Kuta%2C%20Bali",
+    "query": "seminyak beach sunset bali"
+  },
+  "bali/canggu.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Canggu",
+    "query": "canggu beach surf bali"
+  },
+  "bali/uluwatu.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Uluwatu%2C%20Bali",
+    "query": "uluwatu cliff temple bali"
+  },
+  "bali/nusa-penida.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Nusa%20Penida",
+    "query": "kelingking beach nusa penida"
+  },
+  "bali/mount-batur.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Mount%20Agung",
+    "query": "mount batur sunrise bali"
+  },
+  "bali/tegallalang.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Tegallalang",
+    "query": "tegallalang rice terraces bali"
+  },
+  "bali/uluwatu-kecak.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Uluwatu%20Temple",
+    "query": "kecak dance uluwatu temple"
+  },
+  "bali/tirta-empul.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Tirta%20Empul",
+    "query": "tirta empul temple purification bali"
+  },
+  "bali/monkey-forest.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Ubud%20Monkey%20Forest",
+    "query": "ubud monkey forest temple"
+  },
+  "bali/sekumpul.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Buleleng%20Regency",
+    "query": "sekumpul waterfall bali"
+  },
+  "bali/gili-snorkel.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Catching_A_Break_(220789365).jpeg",
+    "query": "gili islands turtle snorkeling"
+  },
+  "bali/atv-jungle.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/All-terrain%20vehicle",
+    "query": "atv quad bike jungle bali"
+  },
+  "bali/white-water.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Rafting,_Ayung_Valley_River,_Ubud_(15194218561).jpg",
+    "query": "ayung river rafting bali"
+  },
+  "bali/classic-week.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Uluwatu%2C%20Bali",
+    "query": "bali beach temple travel"
+  },
+  "bali/island-hopper.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Nusa%20Lembongan",
+    "query": "nusa penida cliff ocean"
+  },
+  "bali/cooking-class.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Duck%20as%20food",
+    "query": "balinese cooking class food"
+  },
+  "bali/honeymoon.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Viceroy_-_panoramio.jpg",
+    "query": "bali private pool villa jungle"
+  },
+  "hubs/africa.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Maasai%20Mara",
+    "query": "masai mara elephants savanna"
+  },
+  "hubs/south-america.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Machu%20Picchu",
+    "query": "machu picchu peru"
+  },
+  "hubs/south-america-t1.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Machu%20Picchu",
+    "query": "machu picchu peru citadel"
+  },
+  "hubs/south-america-t3.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Perito%20Moreno%20Glacier",
+    "query": "perito moreno glacier argentina"
+  },
+  "hubs/south-america-t2.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Christ%20the%20Redeemer%20(statue)",
+    "query": "rio de janeiro christ redeemer"
+  },
+  "hubs/south-america-t4.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Cartagena%2C%20Colombia",
+    "query": "cartagena colombia old town"
+  },
+  "australia/family-queensland.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Palm%20Beach%2C%20Queensland",
+    "query": "gold coast beach family surf"
+  },
+  "azerbaijan/quba.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Khinalug",
+    "query": "khinalug village caucasus mountains"
+  },
+  "azerbaijan/shahdag.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Shahdag%20Mountain%20Resort",
+    "query": "shahdag mountain resort ski slopes"
+  },
+  "azerbaijan/yanar-dag.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Yanar%20Dagh",
+    "query": "yanar dag burning mountain baku"
+  },
+  "azerbaijan/khinalug.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Khinalug",
+    "query": "khinalug village mountain road"
+  },
+  "azerbaijan/baku-long-weekend.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/List%20of%20Ferris%20wheels",
+    "query": "baku skyline highland park view"
+  },
+  "azerbaijan/baku-and-mountains.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Qabala%20District",
+    "query": "nohur lake gabala reflection"
+  },
+  "azerbaijan/grand-azerbaijan.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Caucasus%20Mountains",
+    "query": "caucasus mountains road azerbaijan"
+  },
+  "china/hero.jpg": {
+    "source": "unsplash",
+    "credit": "https://images.unsplash.com/photo-1508804185872-d7badad00f7d",
+    "query": "great wall mutianyu ridgeline"
+  },
+  "china/beijing.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Beijing",
+    "query": "forbidden city beijing rooftops"
+  },
+  "china/shanghai.jpg": {
+    "source": "unsplash",
+    "credit": "https://images.unsplash.com/photo-1474181487882-5abf3f0ba6c2",
+    "query": "shanghai pudong skyline bund"
+  },
+  "china/xian.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Xi'an",
+    "query": "xian city wall muslim quarter"
+  },
+  "china/chengdu.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Giant%20pandas%20around%20the%20world",
+    "query": "chengdu giant panda eating bamboo"
+  },
+  "china/yangshuo.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Li%20River",
+    "query": "yangshuo li river karst peaks"
+  },
+  "china/zhangjiajie.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Tianzi%20Mountain",
+    "query": "zhangjiajie sandstone pillars fog"
+  },
+  "china/great-wall.jpg": {
+    "source": "unsplash",
+    "credit": "https://images.unsplash.com/photo-1508804185872-d7badad00f7d",
+    "query": "mutianyu great wall watchtowers"
+  },
+  "china/forbidden-city.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Hall%20of%20Supreme%20Harmony",
+    "query": "forbidden city hall supreme harmony"
+  },
+  "china/terracotta-army.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Terracotta%20Army",
+    "query": "terracotta warriors pit one xian"
+  },
+  "china/the-bund.jpg": {
+    "source": "unsplash",
+    "credit": "https://images.unsplash.com/photo-1474181487882-5abf3f0ba6c2",
+    "query": "shanghai bund pudong night"
+  },
+  "china/zhangjiajie-park.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Zhangjiajie%20National%20Forest%20Park",
+    "query": "zhangjiajie avatar hallelujah mountain"
+  },
+  "china/li-river.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Li%20River",
+    "query": "li river cruise karst guilin"
+  },
+  "china/chengdu-pandas.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Chengdu%20Research%20Base%20of%20Giant%20Panda%20Breeding",
+    "query": "giant panda cub chengdu base"
+  },
+  "china/west-lake.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/West%20Lake",
+    "query": "west lake hangzhou pagoda willow"
+  },
+  "china/chongqing-hotpot.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Hongya%20Cave",
+    "query": "hongya cave chongqing night"
+  },
+  "china/longji-terraces.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Longsheng%20Rice%20Terraces",
+    "query": "longji rice terraces dazhai"
+  },
+  "china/hotpot-food-tour.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Hot%20pot",
+    "query": "sichuan hotpot red broth"
+  },
+  "china/li-river-rafting.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Yulong%20River",
+    "query": "yulong river bamboo raft yangshuo"
+  },
+  "china/golden-triangle.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Temple%20of%20Heaven",
+    "query": "beijing temple of heaven"
+  },
+  "egypt/hero.jpg": {
+    "source": "unsplash",
+    "credit": "https://images.unsplash.com/photo-1503177119275-0aa32b3a9368",
+    "query": "pyramid khafre giza plateau"
+  },
+  "egypt/cairo.jpg": {
+    "source": "unsplash",
+    "credit": "https://images.unsplash.com/photo-1572252009286-268acec5ca0a",
+    "query": "cairo mosque sultan hassan skyline"
+  },
+  "egypt/luxor.jpg": {
+    "source": "unsplash",
+    "credit": "https://images.unsplash.com/photo-1596130535979-eedea4278d29",
+    "query": "luxor temple obelisk dusk"
+  },
+  "egypt/aswan.jpg": {
+    "source": "unsplash",
+    "credit": "https://images.unsplash.com/photo-1761351108511-661ab43bbe0c",
+    "query": "felucca nile sunset aswan"
+  },
+  "egypt/hurghada.jpg": {
+    "source": "unsplash",
+    "credit": "https://images.unsplash.com/photo-1593194730732-9c46181db1af",
+    "query": "hurghada red sea sunset"
+  },
+  "egypt/dahab.jpg": {
+    "source": "unsplash",
+    "credit": "https://images.unsplash.com/photo-1668964413045-964dcd3157e9",
+    "query": "dahab sinai mountains red sea"
+  },
+  "egypt/alexandria.jpg": {
+    "source": "unsplash",
+    "credit": "https://images.unsplash.com/photo-1594808815295-52034d585f56",
+    "query": "alexandria harbour corniche boats"
+  },
+  "egypt/pyramids-giza.jpg": {
+    "source": "unsplash",
+    "credit": "https://images.unsplash.com/photo-1553913861-c0fddf2619ee",
+    "query": "sphinx pyramid khafre giza"
+  },
+  "egypt/grand-egyptian-museum.jpg": {
+    "source": "unsplash",
+    "credit": "https://images.unsplash.com/photo-1777189978576-08b21689fcc9",
+    "query": "grand egyptian museum ramses statue"
+  },
+  "egypt/karnak-temple.jpg": {
+    "source": "unsplash",
+    "credit": "https://images.unsplash.com/photo-1584719763904-2799b453ba8d",
+    "query": "karnak hypostyle hall columns"
+  },
+  "egypt/valley-of-the-kings.jpg": {
+    "source": "unsplash",
+    "credit": "https://images.unsplash.com/photo-1632944398987-494eebe663be",
+    "query": "valley of the kings tomb interior"
+  },
+  "egypt/abu-simbel.jpg": {
+    "source": "unsplash",
+    "credit": "https://images.unsplash.com/photo-1742262379112-eacb2813ca6d",
+    "query": "abu simbel ramses temple facade"
+  },
+  "egypt/luxor-balloon.jpg": {
+    "source": "unsplash",
+    "credit": "https://images.unsplash.com/photo-1761496921386-81d399db4df9",
+    "query": "hot air balloons luxor west bank sunrise"
+  },
+  "egypt/nile-cruise.jpg": {
+    "source": "unsplash",
+    "credit": "https://images.unsplash.com/photo-1684100096410-fd39cdff91a3",
+    "query": "felucca sailing nile luxor"
+  },
+  "egypt/khan-el-khalili.jpg": {
+    "source": "unsplash",
+    "credit": "https://images.unsplash.com/photo-1572252009286-268acec5ca0a",
+    "query": "islamic cairo mosques sultan hassan"
+  },
+  "egypt/red-sea-reefs.jpg": {
+    "source": "unsplash",
+    "credit": "https://images.unsplash.com/photo-1589308945435-38c3f99b3824",
+    "query": "red sea coral reef egypt"
+  },
+  "egypt/white-desert.jpg": {
+    "source": "unsplash",
+    "credit": "https://images.unsplash.com/photo-1643236166660-60907b89662b",
+    "query": "white desert chalk formations egypt"
+  },
+  "egypt/sunrise-balloon-flight.jpg": {
+    "source": "unsplash",
+    "credit": "https://images.unsplash.com/photo-1599679101629-e1ecdee2b3aa",
+    "query": "hot air balloons theban hills luxor"
+  },
+  "egypt/red-sea-dive-course.jpg": {
+    "source": "unsplash",
+    "credit": "https://images.unsplash.com/photo-1589308945435-38c3f99b3824",
+    "query": "coral reef snorkelling red sea"
+  },
+  "egypt/felucca-sunset-sail.jpg": {
+    "source": "unsplash",
+    "credit": "https://images.unsplash.com/photo-1761351108511-661ab43bbe0c",
+    "query": "felucca sail nile sunset"
+  },
+  "egypt/egyptologist-day-tour.jpg": {
+    "source": "unsplash",
+    "credit": "https://images.unsplash.com/photo-1539768942893-daf53e448371",
+    "query": "camel caravan giza pyramids sunset"
+  },
+  "egypt/cairo-food-walk.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Koshary",
+    "query": "koshary egyptian street food cairo"
+  },
+  "egypt/desert-safari-camp.jpg": {
+    "source": "unsplash",
+    "credit": "https://images.unsplash.com/photo-1643236166660-60907b89662b",
+    "query": "white desert egypt camping formations"
+  },
+  "egypt/golden-triangle.jpg": {
+    "source": "unsplash",
+    "credit": "https://images.unsplash.com/photo-1678038592492-d73c063bb9e2",
+    "query": "giza pyramids sunset silhouette"
+  },
+  "egypt/nile-and-red-sea.jpg": {
+    "source": "unsplash",
+    "credit": "https://images.unsplash.com/photo-1589308945435-38c3f99b3824",
+    "query": "red sea reef boat hurghada"
+  },
+  "egypt/grand-egypt-cruise.jpg": {
+    "source": "unsplash",
+    "credit": "https://images.unsplash.com/photo-1684100096410-fd39cdff91a3",
+    "query": "nile cruise felucca luxor aswan"
+  },
+  "finland/hero.jpg": {
+    "source": "unsplash",
+    "credit": "https://images.unsplash.com/photo-1531366936337-7c912a4589a7",
+    "query": "aurora borealis lapland finland forest"
+  },
+  "finland/helsinki.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Senate%20Square%2C%20Helsinki",
+    "query": "helsinki cathedral senate square"
+  },
+  "finland/rovaniemi.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Santa%20Claus%20Village",
+    "query": "rovaniemi santa claus village winter"
+  },
+  "finland/levi.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Levi%2C%20Finland",
+    "query": "levi lapland ski resort winter"
+  },
+  "finland/turku.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Turku%20Castle",
+    "query": "turku castle river aura"
+  },
+  "finland/aurora-hunt.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Aurora",
+    "query": "northern lights green arc lapland"
+  },
+  "finland/santa-village.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Santa%20Claus%20Village",
+    "query": "santa claus village arctic circle rovaniemi"
+  },
+  "finland/snow-hotel.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Ice%20hotel",
+    "query": "snow hotel ice room lapland"
+  },
+  "finland/reindeer-farm.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Reindeer",
+    "query": "reindeer sleigh ride lapland"
+  },
+  "finland/suomenlinna.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Suomenlinna",
+    "query": "suomenlinna fortress helsinki sea"
+  },
+  "finland/sauna-avanto.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Finnish%20sauna",
+    "query": "ice swimming avanto sauna finland"
+  },
+  "finland/icebreaker.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Sampo%20(1960%20icebreaker)",
+    "query": "icebreaker sampo kemi ship"
+  },
+  "finland/design-district.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Helsinki%20Central%20Library%20Oodi",
+    "query": "oodi library helsinki architecture"
+  },
+  "finland/lapland-classic.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Ice%20hotel",
+    "query": "lapland cabin snow aurora"
+  },
+  "france/hero.jpg": {
+    "source": "unsplash",
+    "credit": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34",
+    "query": "eiffel tower paris golden hour"
+  },
+  "france/paris.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Pont%20Alexandre%20III",
+    "query": "paris seine pont alexandre"
+  },
+  "france/nice.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Nice",
+    "query": "nice promenade anglais riviera"
+  },
+  "france/provence.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Valensole",
+    "query": "lavender field provence valensole"
+  },
+  "france/loire.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Ch%C3%A2teau%20de%20Chambord",
+    "query": "chateau chambord loire castle"
+  },
+  "france/chamonix.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Aiguille%20du%20Midi",
+    "query": "chamonix mont blanc aiguille"
+  },
+  "france/strasbourg.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Petite%20France%2C%20Strasbourg",
+    "query": "strasbourg petite france canal"
+  },
+  "france/eiffel-tower.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Trocad%C3%A9ro%2C%20Paris",
+    "query": "eiffel tower trocadero view"
+  },
+  "france/louvre.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Louvre%20Pyramid",
+    "query": "louvre pyramid paris night"
+  },
+  "france/versailles.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Hall%20of%20Mirrors",
+    "query": "versailles hall of mirrors"
+  },
+  "france/mont-saint-michel.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Mont-Saint-Michel",
+    "query": "mont saint michel tide"
+  },
+  "france/lavender-luberon.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/S%C3%A9nanque%20Abbey",
+    "query": "senanque abbey lavender"
+  },
+  "france/riviera-drive.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/%C3%88ze",
+    "query": "eze village french riviera view"
+  },
+  "france/loire-chateaux.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Ch%C3%A2teau%20de%20Chenonceau",
+    "query": "chateau chenonceau river cher"
+  },
+  "france/dday-normandy.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Normandy%20American%20Cemetery%20and%20Memorial",
+    "query": "omaha beach normandy american cemetery"
+  },
+  "france/aiguille-midi.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Aiguille%20du%20Midi",
+    "query": "aiguille du midi cable car mont blanc"
+  },
+  "france/seine-cruise.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Bateaux%20Mouches",
+    "query": "seine river cruise notre dame"
+  },
+  "france/food-tour.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Polidor",
+    "query": "paris cheese shop fromagerie"
+  },
+  "france/wine-tasting.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Wine%20cellar",
+    "query": "wine cellar tasting france"
+  },
+  "france/perfume-grasse.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Grasse",
+    "query": "grasse perfume flowers france"
+  },
+  "france/cycling-loire.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Loire%20Valley",
+    "query": "cycling loire valley vineyard"
+  },
+  "france/ski-alps.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/French%20Alps",
+    "query": "skiing french alps piste"
+  },
+  "france/paris-classic.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Parisian%20caf%C3%A9",
+    "query": "paris cafe street morning"
+  },
+  "france/paris-provence.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Architecture%20of%20Provence",
+    "query": "provence village gordes hilltop"
+  },
+  "france/france-honeymoon.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Villefranche-sur-Mer",
+    "query": "french riviera villefranche bay"
+  },
+  "hong-kong/hero.jpg": {
+    "source": "unsplash",
+    "credit": "https://images.unsplash.com/photo-1536599018102-9f803c140fc1",
+    "query": "hong kong skyline victoria peak"
+  },
+  "hong-kong/tsim-sha-tsui.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Tsim%20Sha%20Tsui",
+    "query": "tsim sha tsui waterfront promenade"
+  },
+  "hong-kong/central-sheung-wan.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Central%E2%80%93Mid-Levels%20escalator",
+    "query": "central hong kong mid-levels escalator street"
+  },
+  "hong-kong/causeway-bay.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Tsim%20Sha%20Tsui",
+    "query": "causeway bay hong kong shopping street neon"
+  },
+  "hong-kong/mong-kok.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Pitt%20Street%2C%20Hong%20Kong",
+    "query": "mong kok neon signs street market"
+  },
+  "hong-kong/lantau-island.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Lantau%20Island",
+    "query": "ngong ping cable car lantau island"
+  },
+  "hong-kong/sai-kung.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Sai%20Kung%20Town",
+    "query": "sai kung harbour fishing boats"
+  },
+  "hong-kong/victoria-peak.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Peak%20Tower",
+    "query": "victoria peak hong kong skyline view"
+  },
+  "hong-kong/star-ferry-harbour.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Star%20Ferry",
+    "query": "star ferry victoria harbour hong kong"
+  },
+  "hong-kong/big-buddha-ngong-ping.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/The%20Big%20Buddha%20(Hong%20Kong)",
+    "query": "tian tan big buddha lantau"
+  },
+  "hong-kong/hong-kong-disneyland.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Hong%20Kong%20Disneyland",
+    "query": "hong kong disneyland castle"
+  },
+  "hong-kong/temple-street-markets.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Temple%20Street%2C%20Hong%20Kong",
+    "query": "temple street night market kowloon"
+  },
+  "hong-kong/ocean-park.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Ocean%20Park%20Hong%20Kong",
+    "query": "ocean park hong kong cable car coast"
+  },
+  "hong-kong/wong-tai-sin.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Wong%20Tai%20Sin%20Temple%20(Hong%20Kong)",
+    "query": "wong tai sin temple hong kong"
+  },
+  "hong-kong/dragons-back.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Dragon's%20Back",
+    "query": "dragons back trail hong kong ridge"
+  },
+  "hong-kong/dim-sum-food-trail.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Dim%20sum",
+    "query": "dim sum bamboo steamers hong kong"
+  },
+  "hong-kong/sai-kung-junk-boat.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Sai%20Kung%20District",
+    "query": "junk boat sai kung islands"
+  },
+  "hong-kong/theme-park-day.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Hong%20Kong%20Disneyland",
+    "query": "hong kong disneyland fireworks night"
+  },
+  "hong-kong/rooftop-bar-crawl.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Regent%20Hong%20Kong",
+    "query": "hong kong rooftop bar skyline view"
+  },
+  "hong-kong/hong-kong-essentials.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Victoria%20Harbour",
+    "query": "hong kong skyline harbour night"
+  },
+  "hong-kong/family-city-disney.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Hong%20Kong%20Disneyland",
+    "query": "hong kong disneyland castle family"
+  },
+  "hong-kong/hong-kong-macau.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Ruins%20of%20Saint%20Paul's",
+    "query": "macau ruins of st paul facade"
+  },
+  "japan/hero.jpg": {
+    "source": "unsplash",
+    "credit": "https://images.unsplash.com/photo-1545569341-9eb8b30979d9",
+    "query": "chureito pagoda mount fuji"
+  },
+  "japan/tokyo.jpg": {
+    "source": "unsplash",
+    "credit": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf",
+    "query": "tokyo tower street night"
+  },
+  "japan/kyoto.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Gion%20Matsuri",
+    "query": "kyoto gion street traditional"
+  },
+  "japan/osaka.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/D%C5%8Dtonbori",
+    "query": "dotonbori osaka neon canal"
+  },
+  "japan/hakone.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Hakone",
+    "query": "hakone lake ashi torii fuji"
+  },
+  "japan/hiroshima.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Itsukushima%20Shrine",
+    "query": "itsukushima shrine floating torii miyajima"
+  },
+  "japan/kanazawa.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Kenroku-en",
+    "query": "kenrokuen garden kanazawa"
+  },
+  "japan/fushimi-inari.jpg": {
+    "source": "unsplash",
+    "credit": "https://images.unsplash.com/photo-1528360983277-13d401cdc186",
+    "query": "fushimi inari torii gates tunnel"
+  },
+  "japan/mount-fuji.jpg": {
+    "source": "unsplash",
+    "credit": "https://images.unsplash.com/photo-1490806843957-31f4c9a91c65",
+    "query": "mount fuji lake kawaguchiko reflection"
+  },
+  "japan/shibuya-shinjuku.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Shibuya",
+    "query": "shibuya crossing aerial night"
+  },
+  "japan/kinkakuji.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Kinkaku-ji",
+    "query": "kinkakuji golden pavilion kyoto pond"
+  },
+  "japan/shinkansen.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Tokaido%20Shinkansen",
+    "query": "shinkansen bullet train mount fuji"
+  },
+  "japan/dotonbori.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/D%C5%8Dtonbori",
+    "query": "dotonbori glico sign canal night"
+  },
+  "japan/nara-deer.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Nara%20(city)",
+    "query": "nara deer todaiji temple park"
+  },
+  "japan/teamlab.jpg": {
+    "source": "openverse:by",
+    "credit": "https://www.flickr.com/photos/36749444@N06/47031464801",
+    "query": "teamlab planets tokyo water exhibit"
+  },
+  "japan/miyajima-hiroshima.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Itsukushima%20Shrine",
+    "query": "itsukushima floating torii sunset"
+  },
+  "japan/onsen-ryokan.jpg": {
+    "source": "openverse:by-nd",
+    "credit": "https://www.flickr.com/photos/30682070@N00/346966505",
+    "query": "kinosaki onsen town evening yukata"
+  },
+  "japan/izakaya-nightlife.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Shinjuku%20Golden%20Gai",
+    "query": "golden gai shinjuku bar alley"
+  },
+  "japan/theme-parks.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Super%20Nintendo%20World",
+    "query": "super nintendo world universal osaka"
+  },
+  "japan/golden-route-classic.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Higashiyama-ku%2C%20Kyoto",
+    "query": "kyoto yasaka pagoda street"
+  },
+  "japan/honshu-grand-tour.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Osaka%20Castle",
+    "query": "osaka castle cherry blossoms"
+  },
+  "japan/alps-and-old-japan.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Shirakawa%2C%20Gifu%20(village)",
+    "query": "shirakawa-go gassho houses village"
+  },
+  "kenya/hero.jpg": {
+    "source": "unsplash",
+    "credit": "https://images.unsplash.com/photo-1547471080-7cc2caa01a7e",
+    "query": "lion masai mara grassland kenya"
+  },
+  "kenya/amboseli.jpg": {
+    "source": "unsplash",
+    "credit": "https://images.unsplash.com/photo-1489392191049-fc10c97e64b6",
+    "query": "amboseli elephants kilimanjaro"
+  },
+  "kenya/naivasha-nakuru.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Lake%20Nakuru",
+    "query": "lake nakuru flamingos rhino"
+  },
+  "kenya/lamu.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Lamu",
+    "query": "lamu old town dhow waterfront"
+  },
+  "kenya/great-migration-crossing.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Western%20white-bearded%20wildebeest",
+    "query": "wildebeest crossing mara river"
+  },
+  "kenya/balloon-safari-mara.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:IMAGES-4501_28.jpg",
+    "query": "hot air balloon masai mara sunrise"
+  },
+  "kenya/diani-beach-days.jpg": {
+    "source": "openverse:by",
+    "credit": "https://www.flickr.com/photos/49511267@N00/3338613231",
+    "query": "diani beach kenya turquoise water"
+  },
+  "kenya/lake-nakuru.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Lake%20Nakuru",
+    "query": "lake nakuru white rhino shoreline"
+  },
+  "kenya/hells-gate-cycling.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Hell's%20Gate%20National%20Park",
+    "query": "hells gate national park cycling cliffs"
+  },
+  "kenya/lamu-old-town.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Lamu%20Island",
+    "query": "lamu shela beach dhow sunset"
+  },
+  "kenya/big-five-safari.jpg": {
+    "source": "unsplash",
+    "credit": "https://images.unsplash.com/photo-1516426122078-c23e76319801",
+    "query": "safari 4x4 game drive kenya"
+  },
+  "kenya/maasai-village.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Maasai%20people",
+    "query": "maasai warriors traditional jumping dance"
+  },
+  "kenya/naivasha-boat-safari.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Lake%20Naivasha",
+    "query": "lake naivasha hippo boat"
+  },
+  "kenya/classic-safari-week.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Masai_Mara_at_Sunset.jpg",
+    "query": "masai mara safari sunset acacia"
+  },
+  "malaysia/hero.jpg": {
+    "source": "unsplash",
+    "credit": "https://images.unsplash.com/photo-1596422846543-75c6fc197f07",
+    "query": "petronas twin towers kuala lumpur dusk"
+  },
+  "malaysia/malacca.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Christ%20Church%2C%20Malacca",
+    "query": "malacca dutch square red buildings"
+  },
+  "malaysia/kota-kinabalu.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Kota%20Kinabalu",
+    "query": "kota kinabalu waterfront sunset"
+  },
+  "malaysia/petronas-towers.jpg": {
+    "source": "unsplash",
+    "credit": "https://images.unsplash.com/photo-1508062878650-88b52897f298",
+    "query": "petronas towers aerial night"
+  },
+  "malaysia/batu-caves.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Batu%20Caves",
+    "query": "batu caves murugan statue stairs"
+  },
+  "malaysia/langkawi-skybridge.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Langkawi%20Sky%20Bridge",
+    "query": "langkawi sky bridge cable car"
+  },
+  "malaysia/cameron-tea-estates.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Cameron%20Highlands",
+    "query": "boh tea estate cameron highlands valley"
+  },
+  "malaysia/malacca-jonker.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Jonker%20Walk",
+    "query": "jonker street malacca night market"
+  },
+  "malaysia/taman-negara-canopy.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Taman%20Negara",
+    "query": "taman negara canopy walkway rainforest"
+  },
+  "malaysia/penang-food-trail.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Char%20kway%20teow",
+    "query": "penang hawker food char kway teow"
+  },
+  "malaysia/kl-heli-lounge-nightlife.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Shangri-La%20Far%20Eastern%2C%20Taipei",
+    "query": "kuala lumpur rooftop bar skyline night"
+  },
+  "malaysia/batik-cooking-culture.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Batik",
+    "query": "batik painting workshop malaysia"
+  },
+  "malaysia/kl-borneo-wildlife.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Rainforest",
+    "query": "borneo rainforest river aerial"
+  },
+  "maldives/hero.jpg": {
+    "source": "unsplash",
+    "credit": "https://images.unsplash.com/photo-1514282401047-d79a71a590e8",
+    "query": "maldives atoll aerial overwater villas"
+  },
+  "maldives/male.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Mal%C3%A9",
+    "query": "male city maldives aerial"
+  },
+  "maldives/hulhumale.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Hulhumal%C3%A9",
+    "query": "hulhumale beach maldives"
+  },
+  "maldives/dhigurah.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Alif%20Dhaalu%20Atoll",
+    "query": "dhigurah island south ari atoll"
+  },
+  "maldives/ukulhas.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Ukulhas",
+    "query": "ukulhas island beach maldives"
+  },
+  "maldives/overwater-villa.jpg": {
+    "source": "openverse:by",
+    "credit": "https://www.flickr.com/photos/39551170@N02/18094731775",
+    "query": "maldives overwater villa deck"
+  },
+  "maldives/whale-sharks-ari.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Whale%20shark",
+    "query": "whale shark snorkeler maldives"
+  },
+  "maldives/male-old-town.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Mal%C3%A9%20Friday%20Mosque",
+    "query": "male friday mosque hukuru miskiy"
+  },
+  "maldives/resort-day-pass.jpg": {
+    "source": "openverse:by",
+    "credit": "https://www.flickr.com/photos/86665756@N00/5047591825",
+    "query": "maldives resort infinity pool beach"
+  },
+  "maldives/underwater-dining.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Ithaa",
+    "query": "ithaa undersea restaurant maldives"
+  },
+  "mauritius/hero.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Le%20Morne%20Brabant",
+    "query": "le morne brabant mauritius lagoon"
+  },
+  "mauritius/port-louis.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Caudan%20Waterfront",
+    "query": "port louis caudan waterfront mauritius"
+  },
+  "mauritius/blue-bay.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Blue%20Bay%20Marine%20Park",
+    "query": "blue bay marine park mauritius"
+  },
+  "mauritius/le-morne-brabant.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Xavier%20Th%C3%A9venard",
+    "query": "le morne brabant summit trail view"
+  },
+  "mauritius/chamarel-coloured-earth.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Seven%20Coloured%20Earths",
+    "query": "seven coloured earth chamarel dunes"
+  },
+  "mauritius/ganga-talao.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Ganga%20Talao",
+    "query": "ganga talao shiva statue mauritius"
+  },
+  "mauritius/port-louis-market.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Kejetia%20Market",
+    "query": "port louis central market stalls"
+  },
+  "mauritius/pamplemousses-garden.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Nymphaeaceae",
+    "query": "pamplemousses giant water lilies pond"
+  },
+  "mauritius/tamarin-dolphins.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Tamarin%2C%20Mauritius",
+    "query": "spinner dolphins tamarin bay mauritius"
+  },
+  "mauritius/blue-bay-marine-park.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Islets%20of%20Mauritius",
+    "query": "blue bay snorkelling coral mauritius"
+  },
+  "mauritius/catamaran-day-cruise.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Sailing%20(sport)",
+    "query": "catamaran sailing mauritius lagoon"
+  },
+  "mauritius/resort-spa-day.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Spa",
+    "query": "resort spa pavilion mauritius"
+  },
+  "mauritius/tea-and-rum-route.jpg": {
+    "source": "openverse:by-nd",
+    "credit": "https://www.flickr.com/photos/7471788@N03/2551661136",
+    "query": "bois cheri tea plantation mauritius"
+  },
+  "mauritius/full-island-circuit.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Venice",
+    "query": "belle mare lagoon aerial mauritius"
+  },
+  "nepal/hero.jpg": {
+    "source": "unsplash",
+    "credit": "https://images.unsplash.com/photo-1544735716-392fe2489ffa",
+    "query": "boudhanath stupa kathmandu prayer flags"
+  },
+  "nepal/kathmandu.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Kathmandu%20Durbar%20Square",
+    "query": "kathmandu durbar square temples"
+  },
+  "nepal/pokhara.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Phewa%20Lake",
+    "query": "phewa lake pokhara annapurna reflection"
+  },
+  "nepal/chitwan.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Indian%20rhinoceros",
+    "query": "one horned rhinoceros chitwan national park"
+  },
+  "nepal/nagarkot.jpg": {
+    "source": "openverse:by",
+    "credit": "https://www.flickr.com/photos/77742560@N06/49638496897",
+    "query": "nagarkot sunrise himalaya panorama"
+  },
+  "nepal/lumbini.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Maya%20Devi%20Temple%2C%20Lumbini",
+    "query": "maya devi temple lumbini"
+  },
+  "nepal/everest-mountain-flight.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Everest%20base%20camps",
+    "query": "mount everest aerial view himalaya"
+  },
+  "nepal/sarangkot-sunrise.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Kaski%20District",
+    "query": "sarangkot sunrise machhapuchhre annapurna"
+  },
+  "nepal/pashupatinath.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Bagmati%20River",
+    "query": "pashupatinath temple bagmati ghats"
+  },
+  "nepal/swayambhunath.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Boudha%20Stupa",
+    "query": "swayambhunath stupa kathmandu valley view"
+  },
+  "nepal/bhaktapur-durbar-square.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Nyatapola%20Temple",
+    "query": "nyatapola temple bhaktapur square"
+  },
+  "nepal/lumbini-gardens.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Pillars%20of%20Ashoka",
+    "query": "maya devi temple lumbini ashoka pillar"
+  },
+  "nepal/sarangkot-paragliding.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Sarangkot",
+    "query": "paragliding sarangkot pokhara lake"
+  },
+  "nepal/trishuli-rafting.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Trishuli%20River",
+    "query": "trishuli river rafting nepal rapids"
+  },
+  "nepal/kathmandu-heritage-walk.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Asan%2C%20Kathmandu",
+    "query": "ason bazaar kathmandu old city"
+  },
+  "nepal/short-himalayan-trek.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Mardi%20Himal",
+    "query": "annapurna teahouse trek trail village"
+  },
+  "nepal/classic-kathmandu-pokhara.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Pokhara",
+    "query": "phewa lake boats annapurna pokhara"
+  },
+  "nepal/himalaya-and-jungle.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Indian%20rhinoceros",
+    "query": "one horned rhino chitwan grassland"
+  },
+  "nepal/everest-views-old-towns.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:The_Nagarkot_Photography_Experiences.JPG",
+    "query": "nagarkot himalaya sunrise viewpoint"
+  },
+  "new-zealand/hero.jpg": {
+    "source": "unsplash",
+    "credit": "https://images.unsplash.com/photo-1507699622108-4be3abd695ad",
+    "query": "milford sound mitre peak dawn"
+  },
+  "new-zealand/queenstown.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Lake%20Wakatipu",
+    "query": "queenstown lake wakatipu remarkables"
+  },
+  "new-zealand/te-anau.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Te%20Anau",
+    "query": "te anau lake fiordland"
+  },
+  "new-zealand/tekapo.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Lake%20Tekapo",
+    "query": "lake tekapo church lupins"
+  },
+  "new-zealand/rotorua.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Champagne%20Pool",
+    "query": "rotorua champagne pool waiotapu"
+  },
+  "new-zealand/franz-josef.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Franz%20Josef%20Glacier",
+    "query": "franz josef glacier valley"
+  },
+  "new-zealand/milford-sound.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Milford%20Sound",
+    "query": "milford sound waterfall cruise"
+  },
+  "new-zealand/hobbiton.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Bag%20End",
+    "query": "hobbiton bag end green door"
+  },
+  "new-zealand/queenstown-adventure.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Kawarau%20River",
+    "query": "kawarau bridge bungy jump"
+  },
+  "new-zealand/tekapo-stars.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Dark%20sky%20movement%20in%20New%20Zealand",
+    "query": "milky way lake tekapo night"
+  },
+  "new-zealand/waitomo.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Waitomo%20Glowworm%20Cave",
+    "query": "waitomo glowworm cave blue lights"
+  },
+  "new-zealand/aoraki-hooker.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Aoraki%20%2F%20Mount%20Cook%20National%20Park",
+    "query": "hooker valley track swing bridge mt cook"
+  },
+  "new-zealand/rotorua-geothermal.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Champagne%20Pool",
+    "query": "champagne pool waiotapu geothermal"
+  },
+  "new-zealand/roys-peak.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Lake%20W%C4%81naka",
+    "query": "roys peak ridge lake wanaka"
+  },
+  "new-zealand/doubtful-sound.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Doubtful%20Sound%20%2F%20Patea",
+    "query": "doubtful sound misty fiord"
+  },
+  "new-zealand/jet-boat.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Shotover%20River",
+    "query": "shotover jet boat canyon"
+  },
+  "new-zealand/maori-hangi.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/M%C4%81ori%20culture",
+    "query": "maori hangi cultural performance"
+  },
+  "new-zealand/waiheke-wine.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Waiheke%20Island",
+    "query": "waiheke island vineyard sea view"
+  },
+  "new-zealand/whale-kaikoura.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Cetacean%20surfacing%20behaviour",
+    "query": "sperm whale tail kaikoura"
+  },
+  "new-zealand/tss-earnslaw.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/TSS%20Earnslaw",
+    "query": "tss earnslaw steamship wakatipu"
+  },
+  "new-zealand/south-island-loop.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Aoraki%20%2F%20Mount%20Cook%20National%20Park",
+    "query": "road to mount cook lupins"
+  },
+  "philippines/hero.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Palawan",
+    "query": "el nido palawan lagoon karst"
+  },
+  "philippines/el-nido.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/El%20Nido%2C%20Palawan",
+    "query": "el nido bacuit bay boats"
+  },
+  "philippines/coron.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:The_viewpoint_on_the_hike_to_Kayangan_Lake.jpg",
+    "query": "kayangan lake coron viewpoint"
+  },
+  "philippines/boracay.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Vinta",
+    "query": "boracay white beach paraw sailboat"
+  },
+  "philippines/cebu-mactan.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Kawasan%20Falls",
+    "query": "kawasan falls cebu turquoise"
+  },
+  "philippines/coron-lakes-wrecks.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Coron%20Island",
+    "query": "twin lagoon coron palawan"
+  },
+  "philippines/boracay-white-beach.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Boracay",
+    "query": "white beach boracay station 1"
+  },
+  "philippines/kawasan-canyoneering.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Canyoning",
+    "query": "canyoneering badian cebu jump"
+  },
+  "philippines/underground-river.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Puerto%20Princesa%20Subterranean%20River%20National%20Park",
+    "query": "puerto princesa underground river cave"
+  },
+  "philippines/intramuros-manila.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/San%20Agustin%20Church%20(Manila)",
+    "query": "san agustin church intramuros"
+  },
+  "philippines/kawasan-canyoneering-trip.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Kawasan%20Falls",
+    "query": "kawasan falls canyoneering cebu"
+  },
+  "philippines/whale-sharks-donsol.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Whale%20shark",
+    "query": "whale shark snorkeling philippines"
+  },
+  "philippines/cebu-lechon-food-crawl.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Pig%20roast",
+    "query": "cebu lechon roast market"
+  },
+  "philippines/palawan-classic.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/El%20Nido%2C%20Palawan",
+    "query": "el nido lagoon aerial palawan"
+  },
+  "philippines/cebu-bohol-sampler.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Alona%20Beach",
+    "query": "alona beach panglao bohol"
+  },
+  "philippines/best-of-the-islands.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Boracay_Island.jpg",
+    "query": "paraw sunset boracay silhouette"
+  },
+  "russia/hero.jpg": {
+    "source": "unsplash",
+    "credit": "https://images.unsplash.com/photo-1513326738677-b964603b136d",
+    "query": "st basils cathedral red square moscow"
+  },
+  "russia/peterhof.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Peterhof%20Palace",
+    "query": "peterhof palace grand cascade fountains"
+  },
+  "russia/golden-ring.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Golden%20Ring%20of%20Russia",
+    "query": "suzdal golden ring churches"
+  },
+  "russia/kazan.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Kul%20Sharif%20Mosque",
+    "query": "kazan kremlin kul sharif mosque"
+  },
+  "russia/hermitage.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Jordan%20Staircase%20of%20the%20Winter%20Palace",
+    "query": "hermitage winter palace jordan staircase"
+  },
+  "russia/moscow-metro.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Komsomolskaya%20(Koltsevaya%20line)",
+    "query": "komsomolskaya metro station moscow"
+  },
+  "russia/kremlin.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Saint%20Basil's%20Cathedral",
+    "query": "kremlin cathedral square golden domes"
+  },
+  "russia/spilled-blood.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Church%20of%20the%20Savior%20on%20Blood",
+    "query": "savior spilled blood mosaics interior"
+  },
+  "russia/peterhof-fountains.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Peterhof%20Palace",
+    "query": "peterhof samson fountain grand cascade"
+  },
+  "russia/white-nights.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Saint%20Petersburg",
+    "query": "palace bridge raised white nights neva"
+  },
+  "russia/sergiev-posad.jpg": {
+    "source": "openverse:by-nd",
+    "credit": "https://www.flickr.com/photos/67406666@N00/8375096168",
+    "query": "sergiev posad lavra blue domes"
+  },
+  "russia/canal-cruise.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Saint%20Petersburg",
+    "query": "st petersburg canal boat palaces"
+  },
+  "russia/banya.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Banya%20(sauna)",
+    "query": "russian banya sanduny baths"
+  },
+  "russia/vodka-tasting.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Zakuski",
+    "query": "vodka zakuski russian table"
+  },
+  "russia/trans-siberian.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Trans-Siberian%20Railway",
+    "query": "trans siberian railway train russia"
+  },
+  "russia/two-capitals.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Saint%20Petersburg",
+    "query": "moscow st petersburg landmarks"
+  },
+  "saudi-arabia/riyadh.jpg": {
+    "source": "unsplash",
+    "credit": "https://images.unsplash.com/photo-1586724237569-f3d0c1dee8c6",
+    "query": "riyadh skyline kingdom centre"
+  },
+  "saudi-arabia/alula.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Al-Ula",
+    "query": "alula desert canyon oasis"
+  },
+  "saudi-arabia/jeddah.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Jeddah",
+    "query": "jeddah al balad coral houses"
+  },
+  "saudi-arabia/abha.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Asir",
+    "query": "abha asir mountains escarpment"
+  },
+  "saudi-arabia/taif.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Taif",
+    "query": "taif al hada mountain road"
+  },
+  "saudi-arabia/madinah.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Prophet's%20Mosque",
+    "query": "madinah prophet's mosque green dome"
+  },
+  "saudi-arabia/edge-of-the-world.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Tuwaiq",
+    "query": "edge of the world tuwaiq cliffs riyadh"
+  },
+  "saudi-arabia/al-balad.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Al-Balad%2C%20Jeddah",
+    "query": "al balad jeddah historic district"
+  },
+  "saudi-arabia/boulevard-riyadh.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Riyadh%20Season",
+    "query": "boulevard city riyadh season night"
+  },
+  "saudi-arabia/jeddah-corniche.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Al-Rahmah%20Mosque",
+    "query": "al rahma floating mosque jeddah"
+  },
+  "saudi-arabia/rijal-almaa.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Rijal%20Almaa",
+    "query": "rijal almaa heritage village asir"
+  },
+  "saudi-arabia/wadi-disah.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Oasis",
+    "query": "wadi al disah canyon palms"
+  },
+  "saudi-arabia/red-sea-scuba.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Red%20Sea",
+    "query": "red sea coral reef diving saudi"
+  },
+  "saudi-arabia/jeddah-food-walk.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Jeddah",
+    "query": "saudi street food jeddah souq"
+  },
+  "saudi-arabia/heritage-tour.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Al%20Masmak%20Palace",
+    "query": "masmak fortress riyadh"
+  },
+  "saudi-arabia/riyadh-season-night.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Boulevard%20City",
+    "query": "riyadh season boulevard lights"
+  },
+  "seychelles/hero.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Anse%20Source%20d'Argent",
+    "query": "anse source d'argent la digue boulders"
+  },
+  "seychelles/south-mahe.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Anse%20Intendance",
+    "query": "anse intendance beach south mahe"
+  },
+  "seychelles/victoria-eden-island.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Little%20Ben",
+    "query": "victoria clock tower seychelles"
+  },
+  "seychelles/praslin.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Cote_D%27Or_Beach_-_Anse_Volbert_-_Praslin_-_Seychelles.jpg",
+    "query": "cote d'or beach praslin seychelles"
+  },
+  "seychelles/anse-source-dargent.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Geography%20of%20Seychelles",
+    "query": "anse source d'argent granite boulders"
+  },
+  "seychelles/vallee-de-mai.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Vall%C3%A9e%20de%20Mai",
+    "query": "vallee de mai praslin palm forest"
+  },
+  "seychelles/anse-lazio.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Praslin",
+    "query": "anse lazio praslin beach"
+  },
+  "seychelles/curieuse-island.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Giant%20tortoise",
+    "query": "curieuse island giant tortoise"
+  },
+  "seychelles/sainte-anne-marine-park.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Sainte%20Anne%20Marine%20National%20Park",
+    "query": "sainte anne marine park seychelles snorkelling"
+  },
+  "seychelles/victoria-market.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Sir%20Selwyn%20Selwyn-Clarke%20Market",
+    "query": "sir selwyn clarke market victoria"
+  },
+  "seychelles/anse-cocos-hike.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Tourism%20in%20Seychelles",
+    "query": "anse cocos la digue natural pool"
+  },
+  "seychelles/scuba-diving-mahe.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Scuba%20diving%20tourism",
+    "query": "scuba diving seychelles reef"
+  },
+  "seychelles/creole-food-trail.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/List%20of%20seafood%20dishes",
+    "query": "creole octopus curry seychelles"
+  },
+  "seychelles/takamaka-rum-tour.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/La%20Plaine%20St.%20Andr%C3%A9",
+    "query": "takamaka rum distillery mahe"
+  },
+  "seychelles/three-island-classic.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/La%20Digue",
+    "query": "praslin ferry seychelles islands"
+  },
+  "singapore/hero.jpg": {
+    "source": "unsplash",
+    "credit": "https://images.unsplash.com/photo-1525625293386-3f8f99389edd",
+    "query": "marina bay sands singapore skyline"
+  },
+  "singapore/marina-bay.jpg": {
+    "source": "unsplash",
+    "credit": "https://images.unsplash.com/photo-1565967511849-76a60a516170",
+    "query": "marina bay sands night singapore"
+  },
+  "singapore/sentosa.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Sentosa",
+    "query": "sentosa island beach singapore"
+  },
+  "singapore/chinatown.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Chinatown%2C%20Singapore",
+    "query": "chinatown shophouses singapore"
+  },
+  "singapore/orchard-road.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Orchard%20Road",
+    "query": "orchard road singapore shopping street"
+  },
+  "singapore/gardens-by-the-bay.jpg": {
+    "source": "unsplash",
+    "credit": "https://images.unsplash.com/photo-1508964942454-1a56651d54ac",
+    "query": "supertree grove gardens by the bay"
+  },
+  "singapore/marina-bay-sands.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Marina%20Bay%20Sands",
+    "query": "marina bay sands skypark view"
+  },
+  "singapore/universal-studios.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Universal%20Studios%20Singapore",
+    "query": "universal studios singapore globe"
+  },
+  "singapore/singapore-zoo-night-safari.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Singapore%20Zoo",
+    "query": "singapore zoo orangutan"
+  },
+  "singapore/hawker-centres.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Lau%20Pa%20Sat",
+    "query": "lau pa sat satay street"
+  },
+  "singapore/merlion-marina-walk.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Merlion",
+    "query": "merlion statue marina bay"
+  },
+  "singapore/little-india-kampong-glam.jpg": {
+    "source": "openverse:by-nd",
+    "credit": "https://www.flickr.com/photos/70862511@N07/9506637113",
+    "query": "haji lane murals singapore"
+  },
+  "singapore/pulau-ubin.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Pulau%20Ubin",
+    "query": "pulau ubin chek jawa boardwalk"
+  },
+  "singapore/night-safari-tram.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Night%20Safari%2C%20Singapore",
+    "query": "night safari singapore tram"
+  },
+  "singapore/hawker-food-tour.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Maxwell%20Food%20Centre",
+    "query": "maxwell food centre stalls"
+  },
+  "singapore/skyline-luge-cable-car.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Skyline%20Luge%20Singapore",
+    "query": "skyline luge sentosa track"
+  },
+  "singapore/river-bumboat-cruise.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Clarke%20Quay",
+    "query": "singapore river bumboat clarke quay"
+  },
+  "singapore/peranakan-heritage-walk.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Chin%20Mee%20Chin%20Confectionery",
+    "query": "peranakan tiles joo chiat"
+  },
+  "singapore/family-theme-park.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Universal%20Studios%20Singapore",
+    "query": "universal studios singapore family"
+  },
+  "singapore/couples-food-luxe.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Marina%20Bay%20Sands",
+    "query": "marina bay sands infinity pool"
+  },
+  "south-africa/hero.jpg": {
+    "source": "unsplash",
+    "credit": "https://images.unsplash.com/photo-1580060839134-75a5edca2e99",
+    "query": "table mountain cape town city view"
+  },
+  "south-africa/cape-town.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Camps%20Bay",
+    "query": "cape town camps bay beach mountain"
+  },
+  "south-africa/winelands.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Stellenbosch",
+    "query": "stellenbosch vineyard mountains"
+  },
+  "south-africa/johannesburg.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Johannesburg",
+    "query": "johannesburg skyline maboneng"
+  },
+  "south-africa/table-mountain.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Table%20Mountain%20Aerial%20Cableway",
+    "query": "table mountain cableway rotating car"
+  },
+  "south-africa/cape-point-drive.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Clarence%20Drive",
+    "query": "chapmans peak drive coast road"
+  },
+  "south-africa/boulders-penguins.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Boulders%20Beach",
+    "query": "boulders beach penguins swimming"
+  },
+  "south-africa/robben-island.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Robben%20Island%20(prison)",
+    "query": "robben island prison cell mandela"
+  },
+  "south-africa/winelands-day.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Franschhoek",
+    "query": "franschhoek wine tram vineyard"
+  },
+  "south-africa/garden-route-drive.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Tsitsikamma%20National%20Park",
+    "query": "tsitsikamma storms river bridge"
+  },
+  "south-africa/shark-whale.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Southern%20right%20whale",
+    "query": "southern right whale breaching hermanus"
+  },
+  "south-africa/bloukrans-bungee.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Bloukrans%20Bridge",
+    "query": "bloukrans bridge bungee jump"
+  },
+  "south-africa/bokaap-cooking.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Cape_Town_(ZA),_Wale_Street_--_2024_--_3536.jpg",
+    "query": "bo kaap colorful houses cape town"
+  },
+  "south-africa/kirstenbosch.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Kirstenbosch%20National%20Botanical%20Garden",
+    "query": "kirstenbosch canopy walkway boomslang"
+  },
+  "south-africa/ocean-safari.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Whale%20watching",
+    "query": "whale watching boat south africa"
+  },
+  "south-africa/honeymoon-luxe.jpg": {
+    "source": "openverse:by-nd",
+    "credit": "https://www.flickr.com/photos/103779044@N02/10045986644",
+    "query": "luxury safari lodge deck sunset"
+  },
+  "sri-lanka/hero.jpg": {
+    "source": "unsplash",
+    "credit": "https://images.unsplash.com/photo-1588598198321-9735fd52455b",
+    "query": "sigiriya rock fortress sri lanka"
+  },
+  "sri-lanka/colombo.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Galle%20Face%20Hotel",
+    "query": "colombo galle face green sunset"
+  },
+  "sri-lanka/sigiriya-rock.jpg": {
+    "source": "unsplash",
+    "credit": "https://images.unsplash.com/photo-1588598198321-9735fd52455b",
+    "query": "sigiriya rock fortress sunrise"
+  },
+  "sri-lanka/kandy-ella-train.jpg": {
+    "source": "unsplash",
+    "credit": "https://images.unsplash.com/photo-1566296314736-6eaac1ca0cb9",
+    "query": "sri lanka blue train nine arch bridge"
+  },
+  "sri-lanka/galle-fort.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Galle%20Fort",
+    "query": "galle fort lighthouse sunset"
+  },
+  "sri-lanka/temple-of-tooth.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Temple%20of%20the%20Tooth",
+    "query": "temple of tooth kandy puja"
+  },
+  "sri-lanka/mirissa-whales.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Whale%20watching",
+    "query": "blue whale mirissa boat tour"
+  },
+  "sri-lanka/dambulla-caves.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Dambulla%20cave%20temple",
+    "query": "dambulla cave temple buddha statues"
+  },
+  "sri-lanka/tea-country.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Tea%20production%20in%20Sri%20Lanka",
+    "query": "nuwara eliya tea plantation pickers"
+  },
+  "sri-lanka/rafting-kitulgala.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Kitulgala",
+    "query": "kitulgala kelani river rafting"
+  },
+  "switzerland/hero.jpg": {
+    "source": "unsplash",
+    "credit": "https://images.unsplash.com/photo-1508923567004-3a6b8004f3d7",
+    "query": "matterhorn reflection riffelsee sunrise"
+  },
+  "switzerland/interlaken.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Interlaken",
+    "query": "interlaken lakes aerial jungfrau"
+  },
+  "switzerland/zermatt.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Brig%E2%80%93Zermatt%20railway%20line",
+    "query": "zermatt village matterhorn evening"
+  },
+  "switzerland/grindelwald.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Grindelwald",
+    "query": "grindelwald eiger north face village"
+  },
+  "switzerland/lauterbrunnen.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Lauterbrunnen",
+    "query": "lauterbrunnen valley staubbach falls"
+  },
+  "switzerland/jungfraujoch.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Jungfraujoch",
+    "query": "jungfraujoch sphinx observatory glacier"
+  },
+  "switzerland/gornergrat.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Gornergrat%20Railway",
+    "query": "gornergrat railway matterhorn train"
+  },
+  "switzerland/glacier-express.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Landwasser%20Viaduct",
+    "query": "glacier express landwasser viaduct"
+  },
+  "switzerland/lauterbrunnen-valley.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Lauterbrunnen%E2%80%93M%C3%BCrren%20Mountain%20Railway",
+    "query": "murren village cliff eiger view"
+  },
+  "switzerland/pilatus.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Pilatus%20Railway",
+    "query": "pilatus cogwheel railway lake lucerne"
+  },
+  "switzerland/chillon.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Chillon%20Castle",
+    "query": "chillon castle montreux lake"
+  },
+  "switzerland/aletsch.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Aletsch%20Glacier",
+    "query": "aletsch glacier eggishorn view"
+  },
+  "switzerland/bern-oldtown.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Aare",
+    "query": "bern old town aare river"
+  },
+  "switzerland/rigi.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Rigi",
+    "query": "rigi kulm railway lake lucerne view"
+  },
+  "switzerland/paragliding.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Red%20Bull%20X-Alps",
+    "query": "paragliding interlaken tandem"
+  },
+  "switzerland/fondue-night.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Fondue",
+    "query": "cheese fondue swiss chalet"
+  },
+  "switzerland/chocolate-workshop.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Swiss%20chocolate",
+    "query": "swiss chocolate making pralines"
+  },
+  "switzerland/sledding.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Mushing",
+    "query": "sledding snow alps toboggan"
+  },
+  "switzerland/lake-cruise.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Lake%20Lucerne%20Navigation%20Company",
+    "query": "paddle steamer lake lucerne"
+  },
+  "switzerland/hiking-eiger.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Eiger",
+    "query": "eiger trail hiking north face"
+  },
+  "switzerland/jungfrau-classic.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Lauterbrunnen",
+    "query": "lauterbrunnen valley church waterfall"
+  },
+  "switzerland/rail-grand-tour.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Landwasser%20Viaduct",
+    "query": "bernina express red train viaduct"
+  },
+  "switzerland/swiss-honeymoon.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Matterhorn",
+    "query": "zermatt chalet matterhorn romantic"
+  },
+  "thailand/hero.jpg": {
+    "source": "unsplash",
+    "credit": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a",
+    "query": "longtail boats krabi turquoise water"
+  },
+  "thailand/bangkok.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Wat%20Arun",
+    "query": "wat arun bangkok chao phraya"
+  },
+  "thailand/chiang-mai.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Chiang%20Mai",
+    "query": "chiang mai old city temple"
+  },
+  "thailand/koh-samui.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Ko%20Samui",
+    "query": "koh samui beach palm trees"
+  },
+  "thailand/pattaya.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Pattaya",
+    "query": "pattaya beach waterfront skyline"
+  },
+  "thailand/grand-palace.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Wat%20Phra%20Kaew",
+    "query": "grand palace bangkok wat phra kaew"
+  },
+  "thailand/phi-phi-islands.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Phi%20Phi%20Islands",
+    "query": "maya bay phi phi limestone cliffs"
+  },
+  "thailand/wat-arun.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Bangkok_along_the_Chao_Phraya_and_Wat_Arun_(14881740197).jpg",
+    "query": "hand-picked"
+  },
+  "thailand/phang-nga-bay.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Phang%20Nga%20Bay",
+    "query": "james bond island phang nga bay"
+  },
+  "thailand/railay-beach.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Railay%20Beach",
+    "query": "phra nang beach railay cave"
+  },
+  "thailand/bangkok-street-food.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Chinatown%2C%20Bangkok",
+    "query": "yaowarat chinatown bangkok night food"
+  },
+  "thailand/doi-suthep.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Wat%20Phra%20That%20Doi%20Suthep",
+    "query": "doi suthep temple golden chedi"
+  },
+  "thailand/ayutthaya.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Wat%20Chaiwatthanaram",
+    "query": "wat chaiwatthanaram ayutthaya ruins"
+  },
+  "thailand/maeklong-floating-markets.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Damnoen%20Saduak%20Floating%20Market",
+    "query": "damnoen saduak floating market boats"
+  },
+  "thailand/elephant-sanctuary.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Elephant%20Nature%20Park",
+    "query": "elephant sanctuary chiang mai feeding"
+  },
+  "thailand/thai-massage-spa.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Traditional%20Thai%20massage",
+    "query": "thai massage spa treatment"
+  },
+  "thailand/bangkok-pattaya-classic.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Bangkok",
+    "query": "bangkok skyline chao phraya night"
+  },
+  "thailand/temples-to-beaches.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Yi%20Peng%20festival",
+    "query": "chiang mai temple monks morning"
+  },
+  "turkey/hero.jpg": {
+    "source": "unsplash",
+    "credit": "https://images.unsplash.com/photo-1641128324972-af3212f0f6bd",
+    "query": "cappadocia hot air balloons sunrise"
+  },
+  "turkey/istanbul.jpg": {
+    "source": "unsplash",
+    "credit": "https://images.unsplash.com/photo-1524231757912-21f4fe3a7200",
+    "query": "galata tower istanbul skyline"
+  },
+  "turkey/antalya.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Antalya",
+    "query": "antalya kaleici old town harbour"
+  },
+  "turkey/pamukkale.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Pamukkale",
+    "query": "pamukkale travertine terraces"
+  },
+  "turkey/cappadocia-balloon.jpg": {
+    "source": "unsplash",
+    "credit": "https://images.unsplash.com/photo-1641128324972-af3212f0f6bd",
+    "query": "cappadocia balloons fairy chimneys sunrise"
+  },
+  "turkey/hagia-sophia.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Little%20Hagia%20Sophia",
+    "query": "hagia sophia istanbul exterior"
+  },
+  "turkey/blue-mosque.jpg": {
+    "source": "unsplash",
+    "credit": "https://images.unsplash.com/photo-1527838832700-5059252407fa",
+    "query": "blue mosque sultanahmet istanbul"
+  },
+  "turkey/bosphorus-cruise.jpg": {
+    "source": "unsplash",
+    "credit": "https://images.unsplash.com/photo-1589561454226-796a8aa89b05",
+    "query": "istanbul bosphorus ferry skyline"
+  },
+  "turkey/pamukkale-terraces.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Pamukkale",
+    "query": "pamukkale white travertine pools"
+  },
+  "turkey/ephesus.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Library%20of%20Celsus",
+    "query": "library of celsus ephesus ruins"
+  },
+  "turkey/oludeniz-lagoon.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/%C3%96l%C3%BCdeniz",
+    "query": "paragliding oludeniz turquoise lagoon"
+  },
+  "turkey/topkapi-palace.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Topkap%C4%B1%20Palace",
+    "query": "topkapi palace courtyard istanbul"
+  },
+  "turkey/balloon-flight.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Hot%20air%20balloon",
+    "query": "cappadocia balloon basket sunrise"
+  },
+  "turkey/hamam-ritual.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Hammam",
+    "query": "turkish hamam marble interior"
+  },
+  "turkey/food-walk.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Regional%20street%20food",
+    "query": "istanbul street food simit stall"
+  },
+  "turkey/gulet-cruise.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Blue%20Cruise",
+    "query": "gulet boat turquoise coast fethiye"
+  },
+  "turkey/classic-turkiye.jpg": {
+    "source": "unsplash",
+    "credit": "https://images.unsplash.com/photo-1541432901042-2d8bd64b4a9b",
+    "query": "blue mosque istanbul minarets"
+  },
+  "turkey/turquoise-coast.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Ka%C5%9F",
+    "query": "kaputas beach turquoise cove"
+  },
+  "uae/hero.jpg": {
+    "source": "unsplash",
+    "credit": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c",
+    "query": "dubai skyline burj khalifa dusk"
+  },
+  "uae/dubai.jpg": {
+    "source": "unsplash",
+    "credit": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c",
+    "query": "dubai downtown burj khalifa skyline"
+  },
+  "uae/abu-dhabi.jpg": {
+    "source": "unsplash",
+    "credit": "https://images.unsplash.com/photo-1526495124232-a04e1849168c",
+    "query": "sheikh zayed grand mosque abu dhabi"
+  },
+  "uae/sharjah.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Sharjah",
+    "query": "sharjah heritage area al noor mosque"
+  },
+  "uae/fujairah.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Snoopy%20Island",
+    "query": "fujairah snoopy island beach coast"
+  },
+  "uae/burj-khalifa.jpg": {
+    "source": "unsplash",
+    "credit": "https://images.unsplash.com/photo-1518684079-3c830dcef090",
+    "query": "burj khalifa tower dubai"
+  },
+  "uae/dubai-fountain-mall.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Burj%20Khalifa",
+    "query": "dubai fountain show burj khalifa night"
+  },
+  "uae/old-dubai-souks.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Abra%20(boat)",
+    "query": "dubai creek abra boats deira"
+  },
+  "uae/palm-jumeirah.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Palm%20Jumeirah",
+    "query": "palm jumeirah aerial atlantis dubai"
+  },
+  "uae/museum-of-the-future.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Museum%20of%20the%20Future",
+    "query": "museum of the future dubai building"
+  },
+  "uae/yas-island.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Warner%20Bros.%20World%20Abu%20Dhabi",
+    "query": "ferrari world yas island abu dhabi"
+  },
+  "uae/marina-yacht-cruise.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Dubai%20Marina",
+    "query": "dubai marina yacht skyline"
+  },
+  "uae/aquaventure-day.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Atlantis%20Paradise%20Island",
+    "query": "aquaventure atlantis water park slides"
+  },
+  "uae/dubai-express.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Dubai%20Fountain",
+    "query": "dubai downtown fountain evening"
+  },
+  "uae/dubai-abu-dhabi-classic.jpg": {
+    "source": "unsplash",
+    "credit": "https://images.unsplash.com/photo-1526495124232-a04e1849168c",
+    "query": "sheikh zayed mosque dusk abu dhabi"
+  },
+  "usa/hero.jpg": {
+    "source": "unsplash",
+    "credit": "https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9",
+    "query": "manhattan skyline dusk brooklyn bridge"
+  },
+  "usa/new-york.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Times%20Square",
+    "query": "new york times square night"
+  },
+  "usa/san-francisco.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Golden%20Gate%20Bridge",
+    "query": "golden gate bridge fog san francisco"
+  },
+  "usa/grand-canyon.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Grand%20Canyon%20National%20Park",
+    "query": "grand canyon south rim sunset"
+  },
+  "usa/miami-orlando.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Miami%20Beach%2C%20Florida",
+    "query": "miami south beach art deco"
+  },
+  "usa/times-square-broadway.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Lyceum%20Theatre%20(Broadway)",
+    "query": "broadway theater marquee night"
+  },
+  "usa/grand-canyon-rim.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Bryce%20Canyon%20National%20Park",
+    "query": "grand canyon mather point sunrise"
+  },
+  "usa/golden-gate.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Presidio%20of%20San%20Francisco",
+    "query": "golden gate bridge bike crissy field"
+  },
+  "usa/yosemite.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/El%20Capitan",
+    "query": "yosemite tunnel view el capitan"
+  },
+  "usa/niagara.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Maid%20of%20the%20Mist",
+    "query": "niagara falls maid of the mist"
+  },
+  "usa/antelope-horseshoe.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Antelope%20Canyon",
+    "query": "antelope canyon light beam"
+  },
+  "usa/disney-universal.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Disney%20Enchantment",
+    "query": "disney world castle fireworks"
+  },
+  "usa/pacific-coast-highway.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Bixby%20Bridge",
+    "query": "bixby bridge big sur highway"
+  },
+  "usa/smithsonian-dc.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Lincoln%20Memorial%20Reflecting%20Pool",
+    "query": "lincoln memorial reflecting pool"
+  },
+  "usa/nba-game.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/List%20of%20NBA%20arenas",
+    "query": "nba arena game crowd"
+  },
+  "usa/alcatraz.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Alcatraz%20Island",
+    "query": "alcatraz island prison san francisco"
+  },
+  "usa/east-coast-first.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Central%20Park",
+    "query": "central park skyline autumn"
+  },
+  "usa/west-parks-loop.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Yosemite%20Valley",
+    "query": "yosemite valley road view"
+  },
+  "usa/family-florida.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Fun%20Spot%20America%20Theme%20Parks",
+    "query": "orlando theme park family"
+  },
+  "vietnam/hero.jpg": {
+    "source": "unsplash",
+    "credit": "https://images.unsplash.com/photo-1528127269322-539801943592",
+    "query": "ninh binh trang an boat karst"
+  },
+  "vietnam/hanoi.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Old%20Quarter%2C%20Hanoi",
+    "query": "hanoi old quarter street"
+  },
+  "vietnam/ho-chi-minh-city.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/District%201%2C%20Ho%20Chi%20Minh%20City",
+    "query": "ho chi minh city skyline night"
+  },
+  "vietnam/da-nang.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Dragon%20Bridge%20(Da%20Nang)",
+    "query": "da nang dragon bridge beach"
+  },
+  "vietnam/ninh-binh.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:View_from_Hang_Mua.jpg",
+    "query": "ninh binh hang mua viewpoint"
+  },
+  "vietnam/ha-long-bay.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/H%E1%BA%A1%20Long%20Bay",
+    "query": "ha long bay cruise karsts"
+  },
+  "vietnam/hoi-an-ancient-town.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/H%E1%BB%99i%20An%20(city)",
+    "query": "hoi an japanese bridge lanterns"
+  },
+  "vietnam/hanoi-old-quarter.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Hanoi%20Train%20Street",
+    "query": "hanoi train street cafe"
+  },
+  "vietnam/ninh-binh-trang-an.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Tr%C3%A0ng%20An%20Scenic%20Landscape%20Complex",
+    "query": "trang an boat cave ninh binh"
+  },
+  "vietnam/golden-bridge.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Golden%20Bridge%20(Vietnam)",
+    "query": "golden bridge ba na hills hands"
+  },
+  "vietnam/mekong-delta.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/C%C3%A1i%20R%C4%83ng%20Floating%20Market",
+    "query": "cai rang floating market mekong"
+  },
+  "vietnam/hue-imperial-city.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Imperial%20City%20of%20Hu%E1%BA%BF",
+    "query": "hue imperial city gate"
+  },
+  "vietnam/overnight-bay-cruise.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Lan%20H%E1%BA%A1%20Bay",
+    "query": "lan ha bay kayaking cruise"
+  },
+  "vietnam/street-food-tour.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Pho",
+    "query": "hanoi street food pho stall"
+  },
+  "vietnam/hoi-an-cooking-class.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Vietnamese%20cuisine",
+    "query": "hoi an cooking class spring rolls"
+  },
+  "finland/saariselka.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Saariselk%C3%A4",
+    "query": "Saariselka Lapland winter"
+  },
+  "kenya/bush-to-swahili-coast.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Lamu",
+    "query": "Lamu old town Kenya"
+  },
+  "maldives/dolphin-cruise.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Common%20dolphin",
+    "query": "spinner dolphins jumping ocean"
+  },
+  "maldives/wildlife-week.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Whale%20shark",
+    "query": "whale shark swimming"
+  },
+  "mauritius/le-morne.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Le%20Morne%20Brabant",
+    "query": "Le Morne Brabant Mauritius"
+  },
+  "mauritius/ile-aux-cerfs.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/%C3%8Ele%20aux%20Cerfs",
+    "query": "Ile aux Cerfs Mauritius"
+  },
+  "mauritius/casela-nature-park.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Zebra",
+    "query": "zebras savannah park"
+  },
+  "nepal/boudhanath-stupa.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Boudha%20Stupa",
+    "query": "Boudhanath stupa Kathmandu"
+  },
+  "nepal/momo-food-trail.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Momo%20(food)",
+    "query": "momo dumplings Nepal"
+  },
+  "new-zealand/adventure-week.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Lake%20Wakatipu",
+    "query": "Queenstown Lake Wakatipu"
+  },
+  "seychelles/short-and-sweet.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Anse%20Lazio",
+    "query": "Anse Lazio Praslin Seychelles"
+  },
+  "singapore/first-timer-classic.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Marina%20Bay%2C%20Singapore",
+    "query": "Marina Bay Sands skyline Singapore"
+  },
+  "uae/dune-dinner-safari.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Al%20Wohoosh%20Desert%20Conservation%20Reserve",
+    "query": "desert safari camp Dubai"
+  },
+  "uae/old-dubai-food-walk.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:The_Defender_2,000,000_with_the_Defender_Pedal_Car_Concept_(22676505480).jpg",
+    "query": "Al Fahidi historical district Dubai"
+  },
+  "south-africa/durban.jpg": {
+    "source": "commons",
+    "title": "File:Addington Beach, Durban, KwaZulu-Natal, South Africa (19892672743).jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Addington_Beach,_Durban,_KwaZulu-Natal,_South_Africa_(19892672743).jpg"
+  },
+  "australia/opera-house.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Sydney%20Opera%20House",
+    "query": "Sydney Opera House harbour"
+  },
+  "australia/uluru-sunset.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Petermann_Ranges_(AU),_Uluru-Kata_Tjuta_National_Park,_Uluru_--_2019_--_3688.jpg",
+    "query": "Uluru sunset",
+    "round3": true
+  },
+  "australia/surf-lesson-bondi.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Bondi%20Beach",
+    "query": "Bondi Beach surfers waves"
+  },
+  "australia/kangaroo-wildlife.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Kangaroo",
+    "query": "kangaroo grassland Australia"
+  },
+  "australia/east-coast-classic.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Great%20Barrier%20Reef",
+    "query": "Whitsunday Islands aerial reef"
+  },
+  "azerbaijan/hero.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Flame_towers_from_Baku_boulevard.JPG",
+    "query": "Flame Towers Baku",
+    "round3": true
+  },
+  "azerbaijan/baku.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Baku%20Boulevard",
+    "query": "Baku boulevard Caspian promenade"
+  },
+  "azerbaijan/gabala.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Training_ground_of_Qabala_City_Stadium_(1).jpg",
+    "query": "Gabala city Azerbaijan",
+    "round3": true
+  },
+  "azerbaijan/sheki.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Shaki%2C%20Azerbaijan",
+    "query": "Sheki Azerbaijan town"
+  },
+  "azerbaijan/lankaran.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Big_Bazaar_Lankaran,_Azerbaijan.jpg",
+    "query": "Lankaran"
+  },
+  "azerbaijan/icherisheher.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Maiden%20Tower%20(Baku)",
+    "query": "Maiden Tower Baku old city"
+  },
+  "azerbaijan/gobustan-mud-volcanoes.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Mudpot",
+    "query": "mud volcano bubbling Azerbaijan"
+  },
+  "azerbaijan/ateshgah.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Ateshgah%20of%20Baku",
+    "query": "Ateshgah Fire Temple Baku"
+  },
+  "azerbaijan/absheron-jeep-safari.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Far_view_of_the_Yanar_Dagh_or_fire_mountain_(36450231443).jpg",
+    "query": "Yanar Dag burning mountain Baku"
+  },
+  "azerbaijan/caspian-cruise.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:A_view_of_the_Baku_bay,_Azerbaijan.jpg",
+    "query": "Baku Bay",
+    "round3": true
+  },
+  "bali/sanur.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Sanur%2C%20Bali",
+    "query": "Sanur beach boats Bali"
+  },
+  "bali/nusa-penida-day.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Kelingking_Beach_(T-Rex_Bay)_of_Nusa_Penida,_Bali_(2025)_-_img_09.jpg",
+    "query": "Kelingking beach Nusa Penida"
+  },
+  "bali/tanah-lot.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Tanah%20Lot",
+    "query": "Tanah Lot temple sea"
+  },
+  "bali/campuhan.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Campuhan_Ridge_Walk,_Ubud,_Bali_(15003876558).jpg",
+    "query": "Campuhan Ridge Walk",
+    "round3": true
+  },
+  "bali/surf-lesson.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Surfer_at_Kuta_Beach,_Bali_(Unsplash).jpg",
+    "query": "surfer wave Bali"
+  },
+  "bali/beach-club.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Shankumugham%20Beach",
+    "query": "Bali beach sunset umbrellas"
+  },
+  "bali/spa-day.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Mansion_Resort_and_Spa_in_Bali_-_6.jpg",
+    "query": "Balinese massage",
+    "round3": true
+  },
+  "china/great-wall-hike.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Jinshanling",
+    "query": "Great Wall Jinshanling towers"
+  },
+  "china/panda-experience.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Giant%20panda",
+    "query": "giant panda eating bamboo"
+  },
+  "china/acrobatics-show.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Chinese%20variety%20art",
+    "query": "Chinese acrobatics performance stage"
+  },
+  "china/tai-chi-tea.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Tai_Chi_Chuan_In_The_Park.jpg",
+    "query": "Taijiquan",
+    "round3": true
+  },
+  "china/pandas-and-karst.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Bao_Bao_Tree.jpg",
+    "query": "giant panda cub tree"
+  },
+  "china/avatar-express.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Sandstone_spire_forest_Zhangjiajie_Hunan.jpg",
+    "query": "Zhangjiajie sandstone pillars mist"
+  },
+  "finland/lakeland.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Saimaa",
+    "query": "Lake Saimaa Finland summer"
+  },
+  "finland/husky-safari.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Siberian%20Husky",
+    "query": "husky sled team running snow"
+  },
+  "finland/glass-igloo.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Husky_Dogs_(301004607).jpg",
+    "query": "Kakslauttanen",
+    "round3": true
+  },
+  "finland/snowmobile.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Snowmobile_(11731945515).jpg",
+    "query": "snowmobile Lapland",
+    "round3": true
+  },
+  "finland/archipelago-summer.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Kaarnitta_and_Veps%C3%A4_and_Satava,_Archipelago_Sea,_Naantali_and_Turku,_Finland.jpg",
+    "query": "Archipelago Sea aerial",
+    "round3": true
+  },
+  "finland/ice-floating.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Virginia_National_Guard_Soldiers_participate_in_Finnish_past-time_of_%E2%80%9Cavanto%E2%80%9D_or_ice-hole_swimming_during_Arctic_Forge_25_(8882333).jpg",
+    "query": "avanto ice swimming",
+    "round3": true
+  },
+  "finland/ice-fishing.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Ice%20fishing",
+    "query": "ice fishing frozen lake hole"
+  },
+  "finland/berry-foraging.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Bilberry",
+    "query": "bilberry forest picking"
+  },
+  "finland/midnight-sun-kayak.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Lohja,_Finland_-_panoramio_(12).jpg",
+    "query": "canoeing Finland lake",
+    "round3": true
+  },
+  "finland/family-santa.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Arctic_Circle_marker_Santa_Claus_Village_Rovaniemi_2022-09-15_01.jpg",
+    "query": "Santa Claus Village Rovaniemi arctic circle"
+  },
+  "finland/summer-lakes.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Typical_rocky_shores_of_Lake_Saimaa.jpg",
+    "query": "Saimaa summer",
+    "round3": true
+  },
+  "france/montmartre.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Sacr%C3%A9-C%C5%93ur%2C%20Paris",
+    "query": "Sacre-Coeur basilica Montmartre"
+  },
+  "hong-kong/old-town-central.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Hong_Kong_Tramways_Double_Decker_Tram_(Ank_Kumar)_01.jpg",
+    "query": "Hong Kong Tramways",
+    "round3": true
+  },
+  "hong-kong/tai-o.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Fishing%20village",
+    "query": "Tai O stilt houses fishing village"
+  },
+  "hong-kong/peak-night-photography.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Hong_Kong_Harbour_Night_2019-06-11.jpg",
+    "query": "Victoria Peak night skyline Hong Kong"
+  },
+  "hong-kong/coastal-hike-guided.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Dragons-Back-Northwards.jpg",
+    "query": "Dragons Back trail view Hong Kong"
+  },
+  "japan/tsukiji-food-tour.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:August_2007_Tsukiji_fish_market_3.jpg",
+    "query": "Tsukiji market",
+    "round3": true
+  },
+  "japan/tea-ceremony-kimono.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Japanese_garden_at_Sch%C3%B6nbrunn_Palace_in_Vienna,_Austria_-_teahouse_Heterotopia_tea_ceremony-full_PNr%C2%B01025.jpg",
+    "query": "Japanese tea ceremony",
+    "round3": true
+  },
+  "japan/hakuba-skiing.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Hakuba",
+    "query": "Hakuba valley ski slope"
+  },
+  "japan/sumo-morning.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Inside_the_Ryogoku_Kokugikan_at_the_2014_January_Sumo_Tournament.jpg",
+    "query": "hand-picked"
+  },
+  "kenya/nairobi.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Upper%20Hill%2C%20Nairobi",
+    "query": "Nairobi city skyline"
+  },
+  "kenya/masai-mara.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Elephant_under_acacia_tree,_Mara_North_Conservancy,_Kenya.jpg",
+    "query": "Masai Mara savanna acacia"
+  },
+  "kenya/diani-beach.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Diani_beach.JPG",
+    "query": "Diani Beach",
+    "round3": true
+  },
+  "kenya/masai-mara-game-drives.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Safari_vehicle_parked_under_acacia_tree_on_savanna,_Maasai_Mara,_Kenya.jpg",
+    "query": "Maasai Mara safari vehicle",
+    "round3": true
+  },
+  "kenya/amboseli-elephants.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Amboseli_NP._Lion_and_elephants.jpg",
+    "query": "elephants Amboseli",
+    "round3": true
+  },
+  "kenya/sheldrick-giraffe-nairobi.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Giraffe%20Centre",
+    "query": "Rothschild giraffe feeding Nairobi"
+  },
+  "kenya/ol-pejeta.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/White%20rhinoceros",
+    "query": "white rhino grazing conservancy"
+  },
+  "kenya/balloon-flight.jpg": {
+    "source": "openverse:by-sa",
+    "credit": "https://www.flickr.com/photos/26116471@N03/6417186763",
+    "query": "hot air balloon savanna sunrise"
+  },
+  "kenya/wasini-dhow-snorkel.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Dhow",
+    "query": "dhow sailboat Indian ocean Kenya"
+  },
+  "kenya/nairobi-food-crawl.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Nyama_choma_-_Chapati.JPG",
+    "query": "nyama choma",
+    "round3": true
+  },
+  "kenya/migration-and-beach.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Western_white-bearded_wildebeest_(Connochaetes_taurinus_mearnsi)_Mara_River_crossing_1a.jpg",
+    "query": "wildebeest crossing Mara river"
+  },
+  "malaysia/kuala-lumpur.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Skyline-of-Kuala-Lumpur-Sentral-02.jpg",
+    "query": "Kuala Lumpur skyline",
+    "round3": true
+  },
+  "malaysia/langkawi.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Langkawi",
+    "query": "Langkawi beach Pantai Cenang"
+  },
+  "malaysia/penang.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/George%20Town%2C%20Penang",
+    "query": "George Town Penang aerial"
+  },
+  "malaysia/cameron-highlands.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Cameron_Bharat_Tea_Plantation,_Cameron_Highlands,_Malaysia,_20250829_1535_4121.jpg",
+    "query": "Cameron Highlands tea plantation",
+    "round3": true
+  },
+  "malaysia/george-town-heritage.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Lake_and_town_2019_G01.jpg",
+    "query": "George Town street art",
+    "round3": true
+  },
+  "malaysia/borneo-orangutans.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Bornean%20orangutan",
+    "query": "orangutan Sepilok Borneo"
+  },
+  "malaysia/genting-highlands.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Genting%20Highlands",
+    "query": "Genting Highlands resort hilltop"
+  },
+  "malaysia/jalan-alor-food.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Hawker%20centre",
+    "query": "hawker stalls street food Kuala Lumpur"
+  },
+  "malaysia/langkawi-island-hopping.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Fishing_boats._Langkawi._(16454197132).jpg",
+    "query": "Langkawi island boat trip"
+  },
+  "malaysia/kinabatangan-river-safari.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Proboscis%20monkey",
+    "query": "proboscis monkey Borneo river"
+  },
+  "malaysia/perhentian-snorkelling.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Redang%20Island",
+    "query": "Perhentian islands turquoise beach"
+  },
+  "malaysia/classic-kl-langkawi.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Petronas%20Towers",
+    "query": "Kuala Lumpur Petronas towers park"
+  },
+  "malaysia/heritage-highlands-penang.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Penang%20Hill%20Railway",
+    "query": "Penang Hill funicular view"
+  },
+  "maldives/maafushi.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Maafushi%20(Kaafu%20Atoll)",
+    "query": "Maafushi island Maldives"
+  },
+  "maldives/thulusdhoo.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Uninhabited%20island",
+    "query": "Maldives island beach palm aerial"
+  },
+  "maldives/house-reef-snorkelling.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Belize%20Barrier%20Reef",
+    "query": "snorkeling coral reef fish"
+  },
+  "maldives/hanifaru-mantas.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Manta_Ray,_Bali,_Indonesia.jpg",
+    "query": "manta ray",
+    "round3": true
+  },
+  "maldives/sandbank-picnic.jpg": {
+    "source": "openverse:by",
+    "credit": "https://www.flickr.com/photos/33345813@N00/5660202089",
+    "query": "sandbank turquoise water Maldives"
+  },
+  "maldives/seaplane-transfer.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Floatplane_at_Bathala_(Maldives).jpg",
+    "query": "hand-picked"
+  },
+  "maldives/night-diving-snorkel.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:EODMU_1_conduct_night_dive_operations_during_RIMPAC_2014_140718-N-FN215-943.jpg",
+    "query": "night dive underwater",
+    "round3": true
+  },
+  "maldives/bioluminescent-beach.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Bioluminescence_in_San_Diego.jpg",
+    "query": "hand-picked"
+  },
+  "maldives/snorkel-safari.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Hawksbill%20sea%20turtle",
+    "query": "sea turtle swimming reef"
+  },
+  "maldives/surf-thulusdhoo.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Surfing",
+    "query": "surfer barrel wave"
+  },
+  "maldives/overwater-spa.jpg": {
+    "source": "openverse:by-nd",
+    "credit": "https://www.flickr.com/photos/51035750608@N01/31266084465",
+    "query": "overwater bungalow deck Maldives"
+  },
+  "maldives/sunset-fishing.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Fishing%20industry%20in%20the%20Maldives",
+    "query": "dhoni fishing boat sunset Maldives"
+  },
+  "maldives/lagoon-classic.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Atoll",
+    "query": "Maldives atoll lagoon aerial"
+  },
+  "maldives/island-hopper.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Bathala_(Maldives)_2.jpg",
+    "query": "Maldives island aerial",
+    "round3": true
+  },
+  "mauritius/grand-baie.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Grand_Baie,_La_Cuvette_Beach.jpg",
+    "query": "hand-picked"
+  },
+  "mauritius/flic-en-flac.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Sunset_at_Flic_en_Flac_Beach_in_Mauritius_(53696897952).jpg",
+    "query": "Flic en Flac beach sunset"
+  },
+  "mauritius/belle-mare.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Mauritius_long_beach_golf_spa_ressort.jpg",
+    "query": "Belle Mare beach Mauritius"
+  },
+  "mauritius/black-river-gorges.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Deschutes%20River",
+    "query": "Black River Gorges viewpoint waterfall"
+  },
+  "mauritius/rhumerie-de-chamarel.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Chamarel-SevenColours.jpg",
+    "query": "Chamarel Mauritius green hills"
+  },
+  "mauritius/quad-biking-south.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Merzouga_dune_quad_tour.jpg",
+    "query": "hand-picked"
+  },
+  "mauritius/street-food-trail.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Dholl_puri.jpg",
+    "query": "dholl puri",
+    "round3": true
+  },
+  "mauritius/north-west-sampler.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Trou-aux-Biches,_Mauritius_(53697980183).jpg",
+    "query": "Trou aux Biches",
+    "round3": true
+  },
+  "mauritius/southwest-honeymoon.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Le_Morne_Beach_with_Le_Morne_Brabant_Mountain_in_the_background,_Mauritius_(53698223315).jpg",
+    "query": "hand-picked"
+  },
+  "nepal/bandipur.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Heaven_is_myth;_Nepal_is_Real._Bandipur_-_Heaven_on_Earth.jpg",
+    "query": "Bandipur Nepal",
+    "round3": true
+  },
+  "nepal/chitwan-safari.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Jungle_Safari_at_Chitwan_National_Park.jpg",
+    "query": "Chitwan National Park safari",
+    "round3": true
+  },
+  "nepal/poon-hill-trek.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Ghorepani",
+    "query": "Poon Hill sunrise Annapurna"
+  },
+  "nepal/bandipur-old-town.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Ganesh_Temple_Bandipur_Bandipur_VDC_Tanahau_Gandak_Pradesh_Nepal_Rajesh_Dhungana.jpg",
+    "query": "Bandipur bazaar",
+    "round3": true
+  },
+  "nepal/chitwan-jeep-safari.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:This_majestic_tusker_appears_in_the_photos_of_many_travelers_(49694712232).jpg",
+    "query": "Chitwan jungle jeep safari"
+  },
+  "new-zealand/auckland.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Sky%20Tower%20(Auckland)",
+    "query": "Auckland Sky Tower harbour"
+  },
+  "new-zealand/glacier-heli.jpg": {
+    "source": "openverse:by",
+    "credit": "https://www.flickr.com/photos/61063858@N02/15079556769",
+    "query": "Franz Josef glacier ice hike"
+  },
+  "new-zealand/skydive-wanaka.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Parachuting",
+    "query": "tandem skydive freefall"
+  },
+  "new-zealand/two-island-classic.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Lake%20Pukaki",
+    "query": "Lake Pukaki Mount Cook road"
+  },
+  "philippines/manila.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Makati_skyline_-_Poblacion,_Makati_(2018-02-20).jpg",
+    "query": "Makati skyline",
+    "round3": true
+  },
+  "philippines/siargao.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Siargao_Island.jpg",
+    "query": "Siargao island",
+    "round3": true
+  },
+  "philippines/el-nido-island-hopping.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Diving%20in%20the%20Philippines",
+    "query": "El Nido lagoon kayak boats"
+  },
+  "philippines/chocolate-hills-bohol.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Chocolate%20Hills",
+    "query": "Chocolate Hills Bohol"
+  },
+  "philippines/siargao-cloud-9.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Siargao_Cloud_9.jpg",
+    "query": "Cloud 9 Siargao",
+    "round3": true
+  },
+  "philippines/moalboal-sardine-run.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Sardine_run_over_seafloor_in_Moalboal_04.jpg",
+    "query": "sardine run Moalboal",
+    "round3": true
+  },
+  "philippines/banaue-batad-terraces.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Paddy%20field",
+    "query": "Banaue rice terraces green"
+  },
+  "philippines/island-hopping-tours.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Bangka%20(boat)",
+    "query": "bangka boats island Philippines"
+  },
+  "philippines/coron-wreck-diving.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:PMNM_diver_over_shipwreck_(50199590386).jpg",
+    "query": "shipwreck underwater diver"
+  },
+  "philippines/poblacion-night-out.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Makati",
+    "query": "Makati Manila skyline night"
+  },
+  "russia/moscow.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/List%20of%20tallest%20buildings%20in%20Moscow",
+    "query": "Moscow City towers skyline"
+  },
+  "russia/st-petersburg.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Marble%20Palace",
+    "query": "Palace Square Saint Petersburg"
+  },
+  "russia/lake-baikal.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Olkhon_Island,_Capes,_cliffs_at_sunset,_Lake_Baikal,_Russia.jpg",
+    "query": "Olkhon Island",
+    "round3": true
+  },
+  "russia/red-square.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Red%20Square",
+    "query": "Red Square Moscow Kremlin"
+  },
+  "russia/bolshoi.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Bolshoi%20Theatre",
+    "query": "Bolshoi Theatre Moscow facade"
+  },
+  "russia/baikal-ice.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Baikal_ice_on_sunset.jpg",
+    "query": "Lake Baikal blue ice"
+  },
+  "russia/winter-troika.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Sleigh",
+    "query": "horse sleigh snow winter"
+  },
+  "russia/soviet-tour.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Exhibition%20of%20Achievements%20of%20National%20Economy",
+    "query": "VDNKh fountain Moscow"
+  },
+  "russia/white-nights-run.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Hermitage%20Museum",
+    "query": "Saint Petersburg Neva embankment evening"
+  },
+  "russia/winter-baikal.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Ice_Hummocks_near_Listvyanka.jpg",
+    "query": "Baikal ice hummocks winter"
+  },
+  "saudi-arabia/hero.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Elephant_rock,_Al-%27Ula_(2024).jpg",
+    "query": "Elephant Rock AlUla"
+  },
+  "saudi-arabia/hegra.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Mada%27in_Saleh_2017.jpg",
+    "query": "Qasr al-Farid",
+    "round3": true
+  },
+  "saudi-arabia/diriyah.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:At-Turaif_District.jpg",
+    "query": "At-Turaif",
+    "round3": true
+  },
+  "saudi-arabia/alula-old-town.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Old_Town,_Al-%27Ula_(9).jpg",
+    "query": "AlUla Old Town mudbrick"
+  },
+  "saudi-arabia/red-sea-diving.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Coral%20reef%20fish",
+    "query": "Red Sea coral reef fish"
+  },
+  "saudi-arabia/desert-safari.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/La%20Paz%20Sand%20Dunes",
+    "query": "desert dunes 4x4 Arabia"
+  },
+  "saudi-arabia/alula-balloon.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Hot_Air_Balloon_Ride_(Unsplash).jpg",
+    "query": "hot air balloon desert",
+    "round3": true
+  },
+  "saudi-arabia/capital-and-canyons.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Edge_of_the_World.jpg",
+    "query": "Edge of the World Saudi Arabia",
+    "round3": true
+  },
+  "saudi-arabia/red-sea-reset.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/The%20Red%20Sea%20Destination",
+    "query": "Red Sea coast Saudi beach"
+  },
+  "saudi-arabia/grand-arabian-loop.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Landscape_at_Shaden_Resort,_al-Ula,_Saudi_Arabia.jpg",
+    "query": "AlUla landscape",
+    "round3": true
+  },
+  "seychelles/beau-vallon.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:2006-06-23_13-34-02_Seychelles_Beau_Vallon_Beau_Vallon.jpg",
+    "query": "Beau Vallon beach",
+    "round3": true
+  },
+  "seychelles/la-digue.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:La_Digue_ox_transport.jpg",
+    "query": "La Digue island ox cart beach"
+  },
+  "seychelles/silhouette-island.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Silhouette%20Island",
+    "query": "Silhouette Island Seychelles sea"
+  },
+  "seychelles/beau-vallon-bay.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Beau_Vallon_(Seychelles).jpg",
+    "query": "Beau Vallon",
+    "round3": true
+  },
+  "seychelles/anse-intendance.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Aussichtspunkt_am_Anse_Intendance_Mahe_Seychellen_(38911396944).jpg",
+    "query": "Anse Intendance Mahe"
+  },
+  "seychelles/morne-blanc-trail.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Ile_de_Mahe_-_Morne_Seychellois_(1).JPG",
+    "query": "Morne Seychellois",
+    "round3": true
+  },
+  "seychelles/catamaran-island-hopping.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Havelock%20Island",
+    "query": "catamaran sailing tropical islands"
+  },
+  "seychelles/cousin-bird-sanctuary.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Fairy%20tern",
+    "query": "fairy tern seabird island"
+  },
+  "seychelles/spa-wellness.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Massage_at_Emotions_Spa.jpg",
+    "query": "hand-picked"
+  },
+  "seychelles/honeymoon-slow-lane.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:198_Granite_rock_in_La_Digue_Island_at_sunset_Photo_by_Giles_Laurent.jpg",
+    "query": "La Digue granite beach couple"
+  },
+  "singapore/little-india.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Little%20India",
+    "query": "Little India Singapore colourful street"
+  },
+  "singapore/katong.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Joo%20Chiat%20Road",
+    "query": "Katong Joo Chiat shophouses"
+  },
+  "singapore/sentosa-island.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Siloso_Beach,_Sentosa.JPG",
+    "query": "Sentosa Siloso beach"
+  },
+  "singapore/jewel-changi.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:JewelSingaporeVortex1.jpg",
+    "query": "Rain Vortex",
+    "round3": true
+  },
+  "singapore/rooftop-bar-evening.jpg": {
+    "source": "openverse:by",
+    "credit": "https://www.flickr.com/photos/7679455@N03/6893190863",
+    "query": "Singapore rooftop skyline evening"
+  },
+  "south-africa/kruger.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Kruger%20National%20Park",
+    "query": "elephants Kruger national park"
+  },
+  "south-africa/garden-route.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Tsitsikamma_National_Park_(ZA),_Schild_--_2024_--_1993.jpg",
+    "query": "Tsitsikamma",
+    "round3": true
+  },
+  "south-africa/big-five-safari.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Pride_of_lions_Kruger.jpg",
+    "query": "lion pride Kruger"
+  },
+  "south-africa/lions-head.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Lion's%20Head%20(Cape%20Town)",
+    "query": "Lions Head peak Cape Town"
+  },
+  "south-africa/apartheid-soweto.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Orlando%20Power%20Station",
+    "query": "Soweto Orlando Towers"
+  },
+  "south-africa/paragliding-signal.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Paragliding",
+    "query": "paraglider above Cape Town coast"
+  },
+  "south-africa/sunset-camps-bay.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Palm%20Beach%2C%20Florida",
+    "query": "Camps Bay beach palms"
+  },
+  "south-africa/cape-safari-classic.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Table%20Mountain",
+    "query": "Table Mountain Cape Town view"
+  },
+  "south-africa/garden-route-family.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Knysna",
+    "query": "Knysna lagoon heads"
+  },
+  "sri-lanka/sigiriya-dambulla.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Golden_dagoba_at_Dambulla_(Sri_Lanka)_2015.jpg",
+    "query": "Dambulla golden temple cave"
+  },
+  "sri-lanka/kandy.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Kandy%20Lake",
+    "query": "Kandy lake temple view"
+  },
+  "sri-lanka/ella.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:SL_Demodara_near_Ella_asv2020-01_img02.jpg",
+    "query": "Ella Sri Lanka",
+    "round3": true
+  },
+  "sri-lanka/galle.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Galle%20Lighthouse",
+    "query": "Galle Fort lighthouse"
+  },
+  "sri-lanka/mirissa.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Coconut%20Tree%20Hill",
+    "query": "Mirissa coconut tree hill"
+  },
+  "sri-lanka/yala-safari.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Sri_Lankan_Leopard_(Panthera_pardus_kotiya)_.jpg",
+    "query": "Sri Lankan leopard",
+    "round3": true
+  },
+  "sri-lanka/ella-hikes.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Little_Adam%27s_Peak,_Ella,_Sri_Lanka.jpg",
+    "query": "Little Adam's Peak",
+    "round3": true
+  },
+  "sri-lanka/surf-weligama.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Weligama_beach_(6).jpg",
+    "query": "Weligama surf",
+    "round3": true
+  },
+  "sri-lanka/safari-jeep.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Safari_-_Yala_NP.jpg",
+    "query": "Yala safari jeep",
+    "round3": true
+  },
+  "sri-lanka/ayurveda-spa.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Massage",
+    "query": "ayurvedic oil massage spa"
+  },
+  "sri-lanka/cooking-class.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Rice%20and%20curry%20(Sri%20Lanka)",
+    "query": "Sri Lankan rice curry dishes"
+  },
+  "sri-lanka/galle-heritage-walk.jpg": {
+    "source": "openverse:by",
+    "credit": "https://www.flickr.com/photos/44124401641@N01/8465472640",
+    "query": "Galle Fort street colonial"
+  },
+  "sri-lanka/classic-circuit.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Sigiriya",
+    "query": "Sigiriya rock fortress gardens"
+  },
+  "sri-lanka/hills-and-beaches.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Sri_Lanka_-_088_-_Moving_up_through_tea_estates_(1684694983).jpg",
+    "query": "tea plantation hills Sri Lanka"
+  },
+  "sri-lanka/south-coast-short.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Unawatuna",
+    "query": "Unawatuna beach palms"
+  },
+  "switzerland/lucerne.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Kapellbr%C3%BCcke",
+    "query": "Chapel Bridge Lucerne"
+  },
+  "switzerland/geneva.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Jet%20d'Eau",
+    "query": "Geneva Jet d'Eau lake"
+  },
+  "switzerland/first-cliff-walk.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Cliff_walk_auf_Grindelwald_First_im_Winter.jpg",
+    "query": "First Cliff Walk",
+    "round3": true
+  },
+  "thailand/phuket.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Patong",
+    "query": "Phuket Patong beach aerial"
+  },
+  "thailand/krabi.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Limestone_karst_cliff_and_longtail_boats_at_Railay_West_Beach_Krabi.jpg",
+    "query": "Krabi limestone cliffs longtail"
+  },
+  "thailand/pai.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Pai%2C%20Thailand",
+    "query": "Pai canyon Thailand"
+  },
+  "thailand/island-hopping.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Long-tail%20boat",
+    "query": "longtail boats Thailand island"
+  },
+  "thailand/thai-cooking-class.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Pad%20see%20ew",
+    "query": "pad thai cooking wok"
+  },
+  "thailand/muay-thai-night.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Muay%20Thai",
+    "query": "muay thai boxing match stadium"
+  },
+  "thailand/koh-tao-diving.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Hin_Tha_Toh_Ko_Tao_4.jpg",
+    "query": "Ko Tao",
+    "round3": true
+  },
+  "thailand/andaman-island-hopper.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Similan_Island_01_(MK).jpg",
+    "query": "Similan Islands",
+    "round3": true
+  },
+  "turkey/goreme.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/G%C3%B6reme",
+    "query": "Goreme fairy chimneys Cappadocia"
+  },
+  "turkey/fethiye.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Fethiye",
+    "query": "Fethiye harbour marina"
+  },
+  "turkey/izmir-selcuk.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/%C5%9Eirince",
+    "query": "Sirince village houses Turkey"
+  },
+  "turkey/grand-bazaar.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Grand%20Bazaar%2C%20Istanbul",
+    "query": "Grand Bazaar Istanbul interior"
+  },
+  "turkey/balat-streets.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Balat%2C%20Fatih",
+    "query": "Balat colourful houses Istanbul"
+  },
+  "turkey/dervish-sema.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Whirling_dervishes_from_Konya_in_Tunis.jpg",
+    "query": "whirling dervishes",
+    "round3": true
+  },
+  "turkey/oludeniz-paragliding.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Paragliding_in_%C3%96l%C3%BCdeniz.jpg",
+    "query": "paragliding Oludeniz",
+    "round3": true
+  },
+  "turkey/istanbul-cappadocia-express.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Panorama_over_Goreme_from_Sunset_Cave_Hotel_Terrace_-_Goreme_-_Cappadocia_-_Turkey_(5760921603).jpg",
+    "query": "Cappadocia cave hotel sunset"
+  },
+  "uae/ras-al-khaimah.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Rams%20(Ras%20Al%20Khaimah)",
+    "query": "Ras Al Khaimah beach corniche"
+  },
+  "uae/al-ain.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Al%20Ain%20Oasis",
+    "query": "Al Ain oasis palm grove"
+  },
+  "uae/desert-safari.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Dubai_Desert_Safari.jpg",
+    "query": "hand-picked"
+  },
+  "uae/sheikh-zayed-mosque.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Sheikh%20Zayed%20Grand%20Mosque",
+    "query": "Sheikh Zayed Grand Mosque white domes"
+  },
+  "uae/louvre-abu-dhabi.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Louvre%20Abu%20Dhabi",
+    "query": "Louvre Abu Dhabi dome"
+  },
+  "uae/jebel-jais.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Jabal%20Al%20Harim",
+    "query": "Jebel Jais winding mountain road"
+  },
+  "uae/skydive-palm.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:CH.VD.Bex_2007-09-02_Airshow_396_16x9-R_5120x2880_(cropped).jpg",
+    "query": "tandem skydiving",
+    "round3": true
+  },
+  "uae/hammam-spa.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Turkish_Bath,_interior_02.JPG",
+    "query": "Turkish bath interior",
+    "round3": true
+  },
+  "uae/grand-emirates-loop.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Sheikh_Zayed_Road_on_28_December_2007.jpg",
+    "query": "Sheikh Zayed Road",
+    "round3": true
+  },
+  "usa/los-angeles.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Greater%20Los%20Angeles",
+    "query": "Los Angeles skyline palm trees"
+  },
+  "usa/statue-liberty.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Statue%20of%20Liberty",
+    "query": "Statue of Liberty harbor"
+  },
+  "usa/helicopter-canyon.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Grand_Canyon_(Arizona,_USA),_Luftaufnahme_--_2012_--_6009.jpg",
+    "query": "Grand Canyon helicopter",
+    "round3": true
+  },
+  "usa/studio-tour.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Psycho_House-Universal_Studios-Hollywood-California4481.JPG",
+    "query": "Universal Studios Hollywood",
+    "round3": true
+  },
+  "usa/outlet-shopping.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Woodfield%20Mall",
+    "query": "shopping mall interior stores"
+  },
+  "usa/food-crawl.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Pizza",
+    "query": "New York food market pizza"
+  },
+  "vietnam/hoi-an.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Hoi_An_-_HoiAn1441.jpg",
+    "query": "Hoi An lanterns night river"
+  },
+  "vietnam/phu-quoc.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:1_Phu_Quoc_sunset.jpg",
+    "query": "Phu Quoc beach palm sunset"
+  },
+  "vietnam/cu-chi-tunnels.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Small_Cu_Chi_Tunnel_Vietnam_(39543852401).jpg",
+    "query": "hand-picked"
+  },
+  "vietnam/sapa-terraces.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Terraces_in_Che_Cu_Nha_commune,_Mu_Cang_Chai_(Unsplash).jpg",
+    "query": "hand-picked"
+  },
+  "vietnam/phong-nha-caves.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Phong%20Nha%E2%80%93K%E1%BA%BB%20B%C3%A0ng%20National%20Park",
+    "query": "Phong Nha cave river boat"
+  },
+  "vietnam/hai-van-pass-ride.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:L%C4%83ng_C%C3%B4,_H%E1%BA%A3i_V%C3%A2n_Pass,_2020-01_CN-01.jpg",
+    "query": "Hai Van Pass",
+    "round3": true
+  },
+  "vietnam/saigon-rooftops.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Landmark%2081",
+    "query": "Saigon Landmark 81 skyline night"
+  },
+  "vietnam/northern-classic.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Sa%20Pa",
+    "query": "Sapa valley mountains Vietnam"
+  },
+  "vietnam/heritage-coast.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Vietnamese_fishing_boat,_Lang_Co_beach,_Vietnam.jpg",
+    "query": "Lang Co",
+    "round3": true
+  },
+  "vietnam/grand-vietnam.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:View_of_sea_from_Titov_Island,_Ha_Long_Bay,_Vietnam,_20240128_1337_3732.jpg",
+    "query": "Ha Long Bay boats",
+    "round3": true
+  },
+  "hubs/europe.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Eiffel%20Tower",
+    "query": "Eiffel Tower Paris"
+  },
+  "usa/las-vegas.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Las_Vegas_(Nevada,_USA),_The_Venetian_--_2012_--_6339.jpg",
+    "query": "Las Vegas Strip night lights"
+  },
+  "vietnam/vietnam-spa-day.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Spa_Picture_2.jpg",
+    "query": "spa massage tropical flowers"
+  },
+  "sri-lanka/hiriketiya.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Baydickwella.jpg",
+    "query": "Hiriketiya bay surf"
+  },
+  "azerbaijan/tufandag-gabala.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Tufanda%C4%9F_1.jpg",
+    "query": "Tufandag",
+    "round3": true
+  },
+  "azerbaijan/flame-towers-boulevard.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:BBMM,_Baku_(P1090265).jpg",
+    "query": "Baku Boulevard",
+    "round3": true
+  }
+}

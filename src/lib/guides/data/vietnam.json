@@ -128,7 +128,7 @@
       "name": "Hoi An",
       "blurb": "A perfectly preserved trading port of yellow merchant houses, silk lanterns and riverside cafés, with An Bang beach ten minutes away. The prettiest town in Vietnam and the best place to slow down.",
       "image": {
-        "query": "hoi an lanterns ancient town",
+        "query": "Hoi An lanterns night river",
         "alt": "Silk lanterns glowing over the Thu Bon river in Hoi An's ancient town"
       }
     },
@@ -164,7 +164,7 @@
       "name": "Phu Quoc",
       "blurb": "Vietnam's island escape off the southern coast — white-sand beaches, over-water cable car to Hon Thom, and resorts that cost half their Thai equivalents. Add it as a beach finale to a southern route.",
       "image": {
-        "query": "phu quoc beach sunset",
+        "query": "Phu Quoc beach palm sunset",
         "alt": "Sunset over a white-sand beach with fishing boats on Phu Quoc island"
       }
     }
@@ -238,7 +238,7 @@
       "blurb": "Crawl through the guerrilla tunnel network outside Ho Chi Minh City, then let the war museum recalibrate everything you thought you knew.",
       "detail": "Do them as one themed day from Ho Chi Minh City. Cu Chi is 90 minutes away — choose the Ben Duoc site over Ben Dinh for smaller crowds and a more authentic section of the 250km network. Widened tunnel segments let visitors crawl 20–100 metres; skip them if you are claustrophobic, the ground-level exhibits still land. Half-day tours with a guide run about ₹1,500–2,500, and the speedboat option up the Saigon River is a fun upgrade. Visit the War Remnants Museum in the city afterwards — allow two quiet hours; the photography galleries are heavy but essential context.",
       "image": {
-        "query": "cu chi tunnels entrance vietnam",
+        "query": "Cu Chi tunnel entrance Vietnam",
         "alt": "A guide demonstrating a hidden trapdoor entrance at the Cu Chi Tunnels"
       }
     },
@@ -262,7 +262,7 @@
       "blurb": "Cascading rice terraces carved into misty mountains near the Chinese border, with a cable car to Indochina's highest peak.",
       "detail": "Sapa is a 5.5-hour expressway drive or overnight sleeper bus from Hanoi. Base in town or, better, in a Ta Van valley homestay, and walk village-to-village with a local Hmong or Red Dao guide — day treks run about ₹1,200–2,000 and support the communities directly. The terraces are mirror-flooded in May–June and blaze gold in mid-September, the two most photogenic windows; December–February gets genuinely cold, occasionally with frost. The Fansipan cable car (about ₹2,600) shortcuts a two-day climb into 20 minutes, sunrise-clear most often in October–November. Two nights minimum makes the journey worthwhile.",
       "image": {
-        "query": "sapa rice terraces vietnam",
+        "query": "Sapa rice terraces green",
         "alt": "Layered green rice terraces descending into the Muong Hoa valley near Sapa"
       }
     },
@@ -274,7 +274,7 @@
       "blurb": "The world's biggest cave systems hide under this national park — from easy boat rides into Phong Nha cave to swims through Hang Toi's dark passages.",
       "detail": "Phong Nha-Ke Bang sits between Hanoi and Hue, reachable by sleeper bus or via Dong Hoi's airport and station. Paradise Cave's first kilometre of boardwalk past colossal formations is the accessible showstopper; the Phong Nha cave boat ride glides straight into the mountain; and Hang Toi adds zip lines, mud baths and headlamp swims for the adventurous. Hardcore cavers can book the two-day Hang En trek — camping inside a cave with its own beach — while Son Doong, the world's largest, books out a year ahead at serious expense. Two nights in the laid-back farmstay scene covers the highlights; roads are prettiest February to August.",
       "image": {
-        "query": "paradise cave phong nha",
+        "query": "Phong Nha cave river boat",
         "alt": "Vast illuminated stalactite formations inside Paradise Cave, Phong Nha"
       }
     },
@@ -318,7 +318,7 @@
       "category": "Adventure",
       "blurb": "Ride the coastal mountain road Top Gear made famous, between Hue and Hoi An, with easy-rider drivers available if you'd rather sit back and watch the coast unfurl.",
       "image": {
-        "query": "hai van pass coastal road",
+        "query": "Hai Van Pass coastal road",
         "alt": "The Hai Van Pass road curving along mountains above the sea"
       }
     },
@@ -338,7 +338,7 @@
       "category": "Wellness",
       "blurb": "Ninety-minute massages for under ₹1,500, herbal baths of the Red Dao people in Sapa, and mud baths in Nha Trang — recovery days here cost less than a Mumbai facial.",
       "image": {
-        "query": "vietnam spa herbal bath",
+        "query": "spa massage tropical flowers",
         "alt": "A traditional wooden herbal bath tub at a Vietnamese spa"
       }
     },
@@ -348,7 +348,7 @@
       "category": "Nightlife",
       "blurb": "Start with sunset cocktails above the District 1 skyline, work through the city's surprisingly serious craft breweries, and end amid the chaos of Bui Vien walking street.",
       "image": {
-        "query": "saigon rooftop bar skyline",
+        "query": "Saigon Landmark 81 skyline night",
         "alt": "A rooftop bar overlooking the lit-up Ho Chi Minh City skyline at night"
       }
     }
@@ -379,7 +379,7 @@
       "summary": "The north's greatest hits in one tight loop: Old Quarter street food and Train Street from a Hanoi base, a night among Ninh Binh's karsts with a dawn Trang An boat ride, then an overnight cruise through Ha Long Bay before flying home from Hanoi.",
       "priceFrom": "₹58,000",
       "image": {
-        "query": "ha long bay sunset cruise",
+        "query": "Sapa valley mountains Vietnam",
         "alt": "Sunset over karst islands from the deck of a Ha Long Bay cruise"
       }
     },
@@ -404,7 +404,7 @@
       "summary": "Central Vietnam at an easy pace: beach time and the Golden Bridge from Da Nang, three lantern-lit nights in Hoi An with a cooking class and tailoring, then over the Hai Van Pass to Hue's Imperial City and royal tombs. Fly into Da Nang non-stop-adjacent via a short hop.",
       "priceFrom": "₹65,000",
       "image": {
-        "query": "hoi an riverside lanterns night",
+        "query": "Lang Co bay lagoon Vietnam",
         "alt": "Lantern-lit boats on the Thu Bon river in Hoi An at night"
       }
     },
@@ -437,7 +437,7 @@
       "summary": "Top to bottom with cheap domestic flights doing the long legs: Hanoi and a Ha Long cruise, Hoi An's old town and beaches, then the south for Cu Chi Tunnels, rooftop nights in Saigon and a floating-market morning in the Mekong Delta before flying home.",
       "priceFrom": "₹92,000",
       "image": {
-        "query": "vietnam hanoi to saigon journey",
+        "query": "Ha Long Bay junk boat",
         "alt": "A collage-worthy view of Vietnam's landscapes from karst bays to city skylines"
       }
     }

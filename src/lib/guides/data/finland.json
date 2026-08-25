@@ -11,12 +11,22 @@
   "heroImage": {
     "query": "aurora borealis lapland finland forest",
     "alt": "The northern lights swirling over snowy Lapland pines",
-    "candidates": ["https://images.unsplash.com/photo-1531366936337-7c912a4589a7"]
+    "candidates": [
+      "https://images.unsplash.com/photo-1531366936337-7c912a4589a7"
+    ]
   },
   "quickFacts": {
     "capital": "Helsinki",
-    "currency": { "code": "EUR", "name": "Euro", "inr": "€1 ≈ ₹105" },
-    "languages": ["Finnish", "Swedish", "English everywhere"],
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "inr": "€1 ≈ ₹105"
+    },
+    "languages": [
+      "Finnish",
+      "Swedish",
+      "English everywhere"
+    ],
     "timezone": "GMT+2/+3 · 2½–3½ hrs behind IST",
     "flightFromIndia": "≈8 hrs to Helsinki via one stop (Delhi–Helsinki non-stops run seasonally)",
     "plug": "Type C/F · 230V — Indian round-pin plugs mostly fit",
@@ -33,9 +43,27 @@
     "summary": "Subarctic and honest about it. Lapland runs deep snow from November to April with December sunlight lasting barely two dim hours; Helsinki summers are mild, bright and absurdly long-lit. Aurora season spans late August to April — statistically best around the September and March equinoxes, when skies clear more often.",
     "bestTime": "December – March for winter Lapland; June – August for summer",
     "seasons": [
-      { "label": "Aurora winter", "months": "Dec – Mar", "temp": "-25 – -5°C", "notes": "Husky trails, snow hotels, long dark skies for the lights. February–March adds longer days and steadier weather to the same snow.", "tone": "high" },
-      { "label": "Midnight-sun summer", "months": "Jun – Aug", "temp": "15–25°C", "notes": "Lakes, island-hopping and 20-hour light in Helsinki; Lapland flips to hiking and white nights. A completely different, underrated Finland.", "tone": "shoulder" },
-      { "label": "The in-betweens", "months": "Oct – Nov & Apr – May", "temp": "-5 – 10°C", "notes": "Slush, closed activities and neither proper snow nor proper light in late autumn; spring melts fast. Cheapest, for a reason.", "tone": "low" }
+      {
+        "label": "Aurora winter",
+        "months": "Dec – Mar",
+        "temp": "-25 – -5°C",
+        "notes": "Husky trails, snow hotels, long dark skies for the lights. February–March adds longer days and steadier weather to the same snow.",
+        "tone": "high"
+      },
+      {
+        "label": "Midnight-sun summer",
+        "months": "Jun – Aug",
+        "temp": "15–25°C",
+        "notes": "Lakes, island-hopping and 20-hour light in Helsinki; Lapland flips to hiking and white nights. A completely different, underrated Finland.",
+        "tone": "shoulder"
+      },
+      {
+        "label": "The in-betweens",
+        "months": "Oct – Nov & Apr – May",
+        "temp": "-5 – 10°C",
+        "notes": "Slush, closed activities and neither proper snow nor proper light in late autumn; spring melts fast. Cheapest, for a reason.",
+        "tone": "low"
+      }
     ]
   },
   "booking": {
@@ -49,9 +77,18 @@
   },
   "budget": {
     "perDay": [
-      { "tier": "Smart", "inr": "₹10,000 – 15,000" },
-      { "tier": "Comfort", "inr": "₹18,000 – 30,000" },
-      { "tier": "Luxe", "inr": "₹45,000+" }
+      {
+        "tier": "Smart",
+        "inr": "₹10,000 – 15,000"
+      },
+      {
+        "tier": "Comfort",
+        "inr": "₹18,000 – 30,000"
+      },
+      {
+        "tier": "Luxe",
+        "inr": "₹45,000+"
+      }
     ],
     "note": "Per person per day. Lapland activities are the real line items — a husky safari runs ₹12,000–18,000, a glass-igloo night ₹35,000+. Book activity bundles; à la carte adds up brutally."
   },
@@ -78,43 +115,338 @@
     "Vegetarian food is easy in cities and adequate in Lapland resorts — flag requirements when booking safari lunches, which default to meat stews."
   ],
   "cities": [
-    { "id": "helsinki", "name": "Helsinki", "blurb": "Sea-facing design capital: Oodi's futuristic library, Suomenlinna's island fortress, market-square salmon soup and the silent stone-hewn Temppeliaukio church.", "image": { "query": "helsinki cathedral senate square", "alt": "Helsinki Cathedral above Senate Square" } },
-    { "id": "rovaniemi", "name": "Rovaniemi", "blurb": "Capital of Lapland and official hometown of Santa Claus — the logistics hub where husky farms, reindeer sleighs and aurora tours all begin.", "image": { "query": "rovaniemi santa claus village winter", "alt": "Snow-covered cabins at Santa Claus Village, Rovaniemi" } },
-    { "id": "levi", "name": "Levi", "blurb": "Lapland's polished ski resort: gondola-served slopes, snowmobile trails leaving from the village and a deep bench of glass-igloo hotels.", "image": { "query": "levi lapland ski resort winter", "alt": "Levi's floodlit ski slopes in the polar twilight" } },
-    { "id": "saariselka", "name": "Saariselkä & Inari", "blurb": "The deep north — smaller crowds, darker skies, Sámi culture around Lake Inari, and Finland's best aurora statistics.", "image": { "query": "saariselka aurora cabin snow", "alt": "An aurora arc over cabins near Saariselkä" } },
-    { "id": "turku", "name": "Turku & the archipelago", "blurb": "The medieval former capital on the river Aura, gateway to 20,000 islands linked by summer ferries and cycling causeways.", "image": { "query": "turku castle river aura", "alt": "Turku Castle beside the River Aura" } },
-    { "id": "lakeland", "name": "Finnish Lakeland", "blurb": "Saimaa's endless blue labyrinth: lakeside cottages, wood-fired saunas, and the freshwater seals of Linnansaari — summer Finland at its purest.", "image": { "query": "lake saimaa finland summer cottage", "alt": "A red lakeside cottage on Lake Saimaa at dusk" } }
+    {
+      "id": "helsinki",
+      "name": "Helsinki",
+      "blurb": "Sea-facing design capital: Oodi's futuristic library, Suomenlinna's island fortress, market-square salmon soup and the silent stone-hewn Temppeliaukio church.",
+      "image": {
+        "query": "helsinki cathedral senate square",
+        "alt": "Helsinki Cathedral above Senate Square"
+      }
+    },
+    {
+      "id": "rovaniemi",
+      "name": "Rovaniemi",
+      "blurb": "Capital of Lapland and official hometown of Santa Claus — the logistics hub where husky farms, reindeer sleighs and aurora tours all begin.",
+      "image": {
+        "query": "rovaniemi santa claus village winter",
+        "alt": "Snow-covered cabins at Santa Claus Village, Rovaniemi"
+      }
+    },
+    {
+      "id": "levi",
+      "name": "Levi",
+      "blurb": "Lapland's polished ski resort: gondola-served slopes, snowmobile trails leaving from the village and a deep bench of glass-igloo hotels.",
+      "image": {
+        "query": "levi lapland ski resort winter",
+        "alt": "Levi's floodlit ski slopes in the polar twilight"
+      }
+    },
+    {
+      "id": "saariselka",
+      "name": "Saariselkä & Inari",
+      "blurb": "The deep north — smaller crowds, darker skies, Sámi culture around Lake Inari, and Finland's best aurora statistics.",
+      "image": {
+        "query": "Saariselka Lapland winter",
+        "alt": "An aurora arc over cabins near Saariselkä"
+      }
+    },
+    {
+      "id": "turku",
+      "name": "Turku & the archipelago",
+      "blurb": "The medieval former capital on the river Aura, gateway to 20,000 islands linked by summer ferries and cycling causeways.",
+      "image": {
+        "query": "turku castle river aura",
+        "alt": "Turku Castle beside the River Aura"
+      }
+    },
+    {
+      "id": "lakeland",
+      "name": "Finnish Lakeland",
+      "blurb": "Saimaa's endless blue labyrinth: lakeside cottages, wood-fired saunas, and the freshwater seals of Linnansaari — summer Finland at its purest.",
+      "image": {
+        "query": "Lake Saimaa Finland summer",
+        "alt": "A red lakeside cottage on Lake Saimaa at dusk"
+      }
+    }
   ],
   "highlights": [
-    { "id": "aurora-hunt", "rank": 1, "name": "Hunting the northern lights", "category": "Nature", "blurb": "Green fire over black forest — Lapland sits under the auroral oval, and a guided chase drives you to clear sky.", "detail": "The aurora appears on most clear dark nights above the Arctic Circle between late August and April; the variables are cloud and luck. Stack the odds: stay north (Saariselkä and Inari beat Rovaniemi statistically), book a small-group chase whose guides read cloud radar and drive to gaps, and give yourself three or more nights. The lights often start as a grey arc your camera sees as green before your eyes do — night mode on a modern phone works shockingly well. Peak activity clusters around 10pm–1am. Dress beyond what seems reasonable, then add hand warmers; the wait is the cold part, the display erases it.", "image": { "query": "northern lights green arc lapland", "alt": "A bright aurora arc over a frozen Lapland lake" } },
-    { "id": "husky-safari", "rank": 2, "name": "Husky sledding", "category": "Adventure", "blurb": "Six dogs, a birch-forest trail, and the loudest silence you'll ever hear once the sled starts to run.", "detail": "The moment the anchor lifts, the barking stops and all that's left is hiss of runners and dog breath — most visitors call it the trip's best hour. Standard safaris run 5–10 km with two people per sled swapping between driving and riding; longer half-day trails suit the smitten. Driving is easy but real: brake into downhills, lean into corners, and never let go of the handlebar. Kennel visits afterwards are part of the format — the dogs are professional athletes who adore attention. Book morning slots for the best light on the snow, and December–March for reliable trail conditions.", "image": { "query": "husky sled team snow forest", "alt": "A husky team pulling a sled through snowy forest" } },
-    { "id": "glass-igloo", "rank": 3, "name": "A night in a glass igloo", "category": "Icon", "blurb": "Heated glass domes built for exactly one purpose: the aurora dancing over your bed.", "detail": "Kakslauttanen invented the format and half of Lapland has since perfected it — glass-roofed cabins and suites from Levi to Inari, thermally treated so the dome stays clear at -30°C. Book north-facing units where offered, and remember the honest math: glass shows you the sky, it doesn't summon lights. Pair one or two igloo nights with cheaper cabin nights and spend the difference on a guided chase. Christmas sells out by late summer; March gives the same skies with better aurora statistics and softer rates. Even on a lights-less night, falling asleep under hard Arctic stars justifies the splurge once.", "image": { "query": "glass igloo aurora kakslauttanen", "alt": "Glass igloos glowing under a starry Arctic sky" } },
-    { "id": "santa-village", "rank": 4, "name": "Santa Claus Village, Rovaniemi", "category": "Family", "blurb": "The Arctic Circle painted on the ground, reindeer waiting, and the man himself receiving visitors 365 days a year.", "detail": "Whatever your age walks in, a younger one walks out. The village straddles the Arctic Circle line — everyone photographs the crossing — and Santa's chamber operates with impressive Finnish sincerity: no queue-jump chaos, real conversations, photos as the paid extra. The post office franks mail with the official Arctic Circle stamp; letters posted in the Christmas box arrive home the following December, which is the best ₹200 souvenir in Finland. Entry is free, and reindeer sleigh loops and husky yards operate beside the square. Go at opening or after 4pm in December to dodge the charter-flight wave.", "image": { "query": "santa claus village arctic circle rovaniemi", "alt": "The Arctic Circle crossing line at Santa Claus Village" } },
-    { "id": "snow-hotel", "rank": 5, "name": "SnowHotel & ice restaurants", "category": "Icon", "blurb": "Sculpted suites at a steady -5°C, drinks in ice glasses, and expedition sleeping bags rated far past the fear.", "detail": "Rebuilt every winter from snow and river ice, the Kemi SnowCastle and Rovaniemi's Arctic SnowHotel carve new suites, chapels and bars each season — every wall a sculpture with an expiry date. Overnighting is a rite: thermal sleeping bags on reindeer hides keep you genuinely warm, and a hot sauna and breakfast await survivors. The commitment-free version — tour the art, drink lingonberry juice from an ice glass — satisfies most visitors just as well. Combine with the adjacent smoke saunas and outdoor hot tubs for the full fire-and-ice evening. Book overnights early; the novelty rooms are few.", "image": { "query": "snow hotel ice room lapland", "alt": "A carved ice suite inside a Lapland snow hotel" } },
-    { "id": "reindeer-farm", "rank": 6, "name": "Reindeer sleigh at a Sámi farm", "category": "Culture", "blurb": "A slow glide behind Lapland's original transport, and coffee by the fire with the herders who own the land's oldest story.", "detail": "Where huskies sprint, reindeer stroll — a sleigh ride is Lapland at walking pace, runners creaking, snow ticking off birch branches. The better farms are working Sámi livelihoods, and the visit's heart is the hut afterwards: coffee over an open fire, herders explaining the yearly cycle, and the chance to feed lichen to the tame animals. Choose farms advertising Sámi ownership and small groups; the culture is a living one, not a costume. Short 1–2 km rides suit most itineraries, while multi-hour treks earn you the official 'reindeer driving licence' — Finland's most charming piece of bureaucracy.", "image": { "query": "reindeer sleigh ride lapland", "alt": "A reindeer pulling a sleigh through snowy forest" } },
-    { "id": "suomenlinna", "rank": 7, "name": "Suomenlinna sea fortress", "category": "Culture", "blurb": "A 18th-century island fortress fifteen ferry minutes from Helsinki's market square — ramparts, tunnels and Baltic views.", "detail": "Six linked islands carry the great sea fortress that Sweden, Russia and Finland each held in turn — now a UNESCO site where 800 Helsinkians still live among the bastions. The municipal ferry from Market Square runs year-round and costs a city transit ticket; aim for the 'King's Gate' walk along the southern ramparts, the submarine Vesikko, and picnic hollows in the casemate walls. Summer evenings bring locals with wine and blankets; winter wraps the cannons in snow and halves the visitors. Give it three hours and pack a windproof layer — the Baltic edits every forecast.", "image": { "query": "suomenlinna fortress helsinki sea", "alt": "Suomenlinna's ramparts above the Baltic Sea" } },
-    { "id": "sauna-avanto", "rank": 8, "name": "Smoke sauna & ice swimming", "category": "Wellness", "blurb": "Roast at 80°C, then through a hole in the lake ice — the national ritual that rewires your definition of refreshed.", "detail": "Finland has more saunas than cars, and the full ceremony pairs heat with 'avanto' — a swim hole cut through lake ice. The sequence: sauna until properly hot, walk calmly to the ladder, immerse to the shoulders for ten to thirty seconds, repeat until euphoric. The cold shock is real and then instantly, chemically wonderful — most first-timers go back three times. Helsinki's Löyly and Kuusijärvi's smoke saunas offer the public version; every Lapland resort runs its own. Health basics apply: hydrate, skip alcohol until after, and anyone with heart conditions should stick to the sauna half.", "image": { "query": "ice swimming avanto sauna finland", "alt": "A swimmer entering an ice hole beside a lakeside sauna" } },
-    { "id": "snowmobile", "rank": 9, "name": "Snowmobile across frozen lakes", "category": "Adventure", "blurb": "Throttle across white emptiness on marked wilderness trails — Lapland's distances turned into the fun part.", "detail": "Safaris run two per machine (swapping drivers) along groomed trails over frozen lakes and through fell forest, with guides pacing the convoy to ability. A car licence lets you drive; thermal suits, boots and helmets are always included. The classic formats: a two-hour daylight run for the scenery, or a night safari that kills the engines somewhere dark and waits for the aurora — engine warmth plus northern lights is a strong combination. Keep to the guide's tracks (deep snow swallows machines), and expect childlike grins at the first lake crossing. Book alongside husky and reindeer as the standard Lapland activity trio.", "image": { "query": "snowmobile safari lapland frozen lake", "alt": "Snowmobiles crossing a frozen lake at twilight" } },
-    { "id": "archipelago-summer", "rank": 10, "name": "Summer in the archipelago", "category": "Nature", "blurb": "20,000 islands, midnight light and ferry-hopped cycling — the Finland Finns keep for themselves.", "detail": "The Turku archipelago's ring road links island after island by bridge and free yellow ferry — cyclists take three to five slow days, drivers one long golden one, and everyone stops at the same waterside smoke saunas and berry stalls. This is Finland's summer soul: wooden villas, still water, sun that barely sets. Rent a lakeside cottage with its own sauna and rowboat to complete the national fantasy, or day-trip from Turku for a taste. June to August only — the ferries and cafés hibernate otherwise. It pairs perfectly with two Helsinki nights for a summer trip that answers what Finland does when the snow is away.", "image": { "query": "turku archipelago islands summer", "alt": "Wooded islands scattered across still archipelago water" } }
+    {
+      "id": "aurora-hunt",
+      "rank": 1,
+      "name": "Hunting the northern lights",
+      "category": "Nature",
+      "blurb": "Green fire over black forest — Lapland sits under the auroral oval, and a guided chase drives you to clear sky.",
+      "detail": "The aurora appears on most clear dark nights above the Arctic Circle between late August and April; the variables are cloud and luck. Stack the odds: stay north (Saariselkä and Inari beat Rovaniemi statistically), book a small-group chase whose guides read cloud radar and drive to gaps, and give yourself three or more nights. The lights often start as a grey arc your camera sees as green before your eyes do — night mode on a modern phone works shockingly well. Peak activity clusters around 10pm–1am. Dress beyond what seems reasonable, then add hand warmers; the wait is the cold part, the display erases it.",
+      "image": {
+        "query": "northern lights green arc lapland",
+        "alt": "A bright aurora arc over a frozen Lapland lake"
+      }
+    },
+    {
+      "id": "husky-safari",
+      "rank": 2,
+      "name": "Husky sledding",
+      "category": "Adventure",
+      "blurb": "Six dogs, a birch-forest trail, and the loudest silence you'll ever hear once the sled starts to run.",
+      "detail": "The moment the anchor lifts, the barking stops and all that's left is hiss of runners and dog breath — most visitors call it the trip's best hour. Standard safaris run 5–10 km with two people per sled swapping between driving and riding; longer half-day trails suit the smitten. Driving is easy but real: brake into downhills, lean into corners, and never let go of the handlebar. Kennel visits afterwards are part of the format — the dogs are professional athletes who adore attention. Book morning slots for the best light on the snow, and December–March for reliable trail conditions.",
+      "image": {
+        "query": "husky sled team running snow",
+        "alt": "A husky team pulling a sled through snowy forest"
+      }
+    },
+    {
+      "id": "glass-igloo",
+      "rank": 3,
+      "name": "A night in a glass igloo",
+      "category": "Icon",
+      "blurb": "Heated glass domes built for exactly one purpose: the aurora dancing over your bed.",
+      "detail": "Kakslauttanen invented the format and half of Lapland has since perfected it — glass-roofed cabins and suites from Levi to Inari, thermally treated so the dome stays clear at -30°C. Book north-facing units where offered, and remember the honest math: glass shows you the sky, it doesn't summon lights. Pair one or two igloo nights with cheaper cabin nights and spend the difference on a guided chase. Christmas sells out by late summer; March gives the same skies with better aurora statistics and softer rates. Even on a lights-less night, falling asleep under hard Arctic stars justifies the splurge once.",
+      "image": {
+        "query": "Kakslauttanen igloo aurora",
+        "alt": "Glass igloos glowing under a starry Arctic sky"
+      }
+    },
+    {
+      "id": "santa-village",
+      "rank": 4,
+      "name": "Santa Claus Village, Rovaniemi",
+      "category": "Family",
+      "blurb": "The Arctic Circle painted on the ground, reindeer waiting, and the man himself receiving visitors 365 days a year.",
+      "detail": "Whatever your age walks in, a younger one walks out. The village straddles the Arctic Circle line — everyone photographs the crossing — and Santa's chamber operates with impressive Finnish sincerity: no queue-jump chaos, real conversations, photos as the paid extra. The post office franks mail with the official Arctic Circle stamp; letters posted in the Christmas box arrive home the following December, which is the best ₹200 souvenir in Finland. Entry is free, and reindeer sleigh loops and husky yards operate beside the square. Go at opening or after 4pm in December to dodge the charter-flight wave.",
+      "image": {
+        "query": "santa claus village arctic circle rovaniemi",
+        "alt": "The Arctic Circle crossing line at Santa Claus Village"
+      }
+    },
+    {
+      "id": "snow-hotel",
+      "rank": 5,
+      "name": "SnowHotel & ice restaurants",
+      "category": "Icon",
+      "blurb": "Sculpted suites at a steady -5°C, drinks in ice glasses, and expedition sleeping bags rated far past the fear.",
+      "detail": "Rebuilt every winter from snow and river ice, the Kemi SnowCastle and Rovaniemi's Arctic SnowHotel carve new suites, chapels and bars each season — every wall a sculpture with an expiry date. Overnighting is a rite: thermal sleeping bags on reindeer hides keep you genuinely warm, and a hot sauna and breakfast await survivors. The commitment-free version — tour the art, drink lingonberry juice from an ice glass — satisfies most visitors just as well. Combine with the adjacent smoke saunas and outdoor hot tubs for the full fire-and-ice evening. Book overnights early; the novelty rooms are few.",
+      "image": {
+        "query": "snow hotel ice room lapland",
+        "alt": "A carved ice suite inside a Lapland snow hotel"
+      }
+    },
+    {
+      "id": "reindeer-farm",
+      "rank": 6,
+      "name": "Reindeer sleigh at a Sámi farm",
+      "category": "Culture",
+      "blurb": "A slow glide behind Lapland's original transport, and coffee by the fire with the herders who own the land's oldest story.",
+      "detail": "Where huskies sprint, reindeer stroll — a sleigh ride is Lapland at walking pace, runners creaking, snow ticking off birch branches. The better farms are working Sámi livelihoods, and the visit's heart is the hut afterwards: coffee over an open fire, herders explaining the yearly cycle, and the chance to feed lichen to the tame animals. Choose farms advertising Sámi ownership and small groups; the culture is a living one, not a costume. Short 1–2 km rides suit most itineraries, while multi-hour treks earn you the official 'reindeer driving licence' — Finland's most charming piece of bureaucracy.",
+      "image": {
+        "query": "reindeer sleigh ride lapland",
+        "alt": "A reindeer pulling a sleigh through snowy forest"
+      }
+    },
+    {
+      "id": "suomenlinna",
+      "rank": 7,
+      "name": "Suomenlinna sea fortress",
+      "category": "Culture",
+      "blurb": "A 18th-century island fortress fifteen ferry minutes from Helsinki's market square — ramparts, tunnels and Baltic views.",
+      "detail": "Six linked islands carry the great sea fortress that Sweden, Russia and Finland each held in turn — now a UNESCO site where 800 Helsinkians still live among the bastions. The municipal ferry from Market Square runs year-round and costs a city transit ticket; aim for the 'King's Gate' walk along the southern ramparts, the submarine Vesikko, and picnic hollows in the casemate walls. Summer evenings bring locals with wine and blankets; winter wraps the cannons in snow and halves the visitors. Give it three hours and pack a windproof layer — the Baltic edits every forecast.",
+      "image": {
+        "query": "suomenlinna fortress helsinki sea",
+        "alt": "Suomenlinna's ramparts above the Baltic Sea"
+      }
+    },
+    {
+      "id": "sauna-avanto",
+      "rank": 8,
+      "name": "Smoke sauna & ice swimming",
+      "category": "Wellness",
+      "blurb": "Roast at 80°C, then through a hole in the lake ice — the national ritual that rewires your definition of refreshed.",
+      "detail": "Finland has more saunas than cars, and the full ceremony pairs heat with 'avanto' — a swim hole cut through lake ice. The sequence: sauna until properly hot, walk calmly to the ladder, immerse to the shoulders for ten to thirty seconds, repeat until euphoric. The cold shock is real and then instantly, chemically wonderful — most first-timers go back three times. Helsinki's Löyly and Kuusijärvi's smoke saunas offer the public version; every Lapland resort runs its own. Health basics apply: hydrate, skip alcohol until after, and anyone with heart conditions should stick to the sauna half.",
+      "image": {
+        "query": "ice swimming avanto sauna finland",
+        "alt": "A swimmer entering an ice hole beside a lakeside sauna"
+      }
+    },
+    {
+      "id": "snowmobile",
+      "rank": 9,
+      "name": "Snowmobile across frozen lakes",
+      "category": "Adventure",
+      "blurb": "Throttle across white emptiness on marked wilderness trails — Lapland's distances turned into the fun part.",
+      "detail": "Safaris run two per machine (swapping drivers) along groomed trails over frozen lakes and through fell forest, with guides pacing the convoy to ability. A car licence lets you drive; thermal suits, boots and helmets are always included. The classic formats: a two-hour daylight run for the scenery, or a night safari that kills the engines somewhere dark and waits for the aurora — engine warmth plus northern lights is a strong combination. Keep to the guide's tracks (deep snow swallows machines), and expect childlike grins at the first lake crossing. Book alongside husky and reindeer as the standard Lapland activity trio.",
+      "image": {
+        "query": "snowmobile ride Lapland",
+        "alt": "Snowmobiles crossing a frozen lake at twilight"
+      }
+    },
+    {
+      "id": "archipelago-summer",
+      "rank": 10,
+      "name": "Summer in the archipelago",
+      "category": "Nature",
+      "blurb": "20,000 islands, midnight light and ferry-hopped cycling — the Finland Finns keep for themselves.",
+      "detail": "The Turku archipelago's ring road links island after island by bridge and free yellow ferry — cyclists take three to five slow days, drivers one long golden one, and everyone stops at the same waterside smoke saunas and berry stalls. This is Finland's summer soul: wooden villas, still water, sun that barely sets. Rent a lakeside cottage with its own sauna and rowboat to complete the national fantasy, or day-trip from Turku for a taste. June to August only — the ferries and cafés hibernate otherwise. It pairs perfectly with two Helsinki nights for a summer trip that answers what Finland does when the snow is away.",
+      "image": {
+        "query": "Archipelago Sea Finland islands",
+        "alt": "Wooded islands scattered across still archipelago water"
+      }
+    }
   ],
   "activities": [
-    { "id": "ice-floating", "name": "Arctic ice floating", "category": "Adventure", "blurb": "Drift in a survival suit among broken sea ice off Kemi — absurd, serene, unforgettable.", "image": { "query": "ice floating survival suit finland", "alt": "Floaters in red survival suits among sea ice" } },
-    { "id": "icebreaker", "name": "Icebreaker Sampo cruise", "category": "Icon", "blurb": "Ride a working icebreaker as it crushes the frozen Gulf of Bothnia, then walk on the sea it just broke.", "image": { "query": "icebreaker sampo kemi ship", "alt": "The icebreaker Sampo cutting through sea ice" } },
-    { "id": "ice-fishing", "name": "Ice fishing on a silent lake", "category": "Nature", "blurb": "Drill, drop a line, and learn the Finnish art of contented waiting — thermos included.", "image": { "query": "ice fishing frozen lake finland", "alt": "An ice fisher on a vast frozen lake" } },
-    { "id": "design-district", "name": "Helsinki design crawl", "category": "Culture", "blurb": "Marimekko, Iittala, Artek and the Oodi library — the capital of everyday design in one walkable district.", "image": { "query": "oodi library helsinki architecture", "alt": "The wave-like timber facade of Helsinki's Oodi library" } },
-    { "id": "berry-foraging", "name": "Forest foraging walk", "category": "Nature", "blurb": "Everyman's Right lets anyone pick — cloudberries, bilberries and chanterelles with a local guide.", "image": { "query": "cloudberry forest finland foraging", "alt": "Golden cloudberries growing in a Finnish bog" } },
-    { "id": "midnight-sun-kayak", "name": "Midnight-sun kayaking", "category": "Adventure", "blurb": "Paddle glassy lakes at 11pm under a sun that refuses to set — summer Lapland's quiet showpiece.", "image": { "query": "midnight sun kayaking finland lake", "alt": "A kayaker on golden water under the midnight sun" } }
+    {
+      "id": "ice-floating",
+      "name": "Arctic ice floating",
+      "category": "Adventure",
+      "blurb": "Drift in a survival suit among broken sea ice off Kemi — absurd, serene, unforgettable.",
+      "image": {
+        "query": "frozen Baltic sea ice",
+        "alt": "Floaters in red survival suits among sea ice"
+      }
+    },
+    {
+      "id": "icebreaker",
+      "name": "Icebreaker Sampo cruise",
+      "category": "Icon",
+      "blurb": "Ride a working icebreaker as it crushes the frozen Gulf of Bothnia, then walk on the sea it just broke.",
+      "image": {
+        "query": "icebreaker sampo kemi ship",
+        "alt": "The icebreaker Sampo cutting through sea ice"
+      }
+    },
+    {
+      "id": "ice-fishing",
+      "name": "Ice fishing on a silent lake",
+      "category": "Nature",
+      "blurb": "Drill, drop a line, and learn the Finnish art of contented waiting — thermos included.",
+      "image": {
+        "query": "ice fishing frozen lake hole",
+        "alt": "An ice fisher on a vast frozen lake"
+      }
+    },
+    {
+      "id": "design-district",
+      "name": "Helsinki design crawl",
+      "category": "Culture",
+      "blurb": "Marimekko, Iittala, Artek and the Oodi library — the capital of everyday design in one walkable district.",
+      "image": {
+        "query": "oodi library helsinki architecture",
+        "alt": "The wave-like timber facade of Helsinki's Oodi library"
+      }
+    },
+    {
+      "id": "berry-foraging",
+      "name": "Forest foraging walk",
+      "category": "Nature",
+      "blurb": "Everyman's Right lets anyone pick — cloudberries, bilberries and chanterelles with a local guide.",
+      "image": {
+        "query": "bilberry forest picking",
+        "alt": "Golden cloudberries growing in a Finnish bog"
+      }
+    },
+    {
+      "id": "midnight-sun-kayak",
+      "name": "Midnight-sun kayaking",
+      "category": "Adventure",
+      "blurb": "Paddle glassy lakes at 11pm under a sun that refuses to set — summer Lapland's quiet showpiece.",
+      "image": {
+        "query": "kayak calm lake Finland",
+        "alt": "A kayaker on golden water under the midnight sun"
+      }
+    }
   ],
   "trips": [
-    { "id": "lapland-classic", "title": "The Lapland winter classic", "nights": 6, "route": [ { "place": "Helsinki", "nights": 2 }, { "place": "Rovaniemi", "nights": 2 }, { "place": "Saariselkä", "nights": 2 } ], "summary": "Helsinki's design calm, then north for Santa, huskies and reindeer in Rovaniemi, finishing under Saariselkä's darker skies with a glass-igloo night and a guided aurora chase. The complete first Lapland, with the lights given two real chances.", "priceFrom": "₹2,15,000", "image": { "query": "lapland cabin snow aurora", "alt": "A snowbound cabin under a green aurora" } },
-    { "id": "family-santa", "title": "Santa & snow family week", "nights": 6, "route": [ { "place": "Rovaniemi", "nights": 4 }, { "place": "Helsinki", "nights": 2 } ], "summary": "One base, zero repacking: Santa's village and the elf post office, a gentle husky loop, reindeer licences for the kids, snow-castle day trip to Kemi — then two Helsinki nights to decompress. December magic, engineered for small legs and early bedtimes.", "priceFrom": "₹1,95,000", "image": { "query": "family reindeer sleigh santa village", "alt": "Children meeting reindeer at a snowy Lapland farm" } },
-    { "id": "summer-lakes", "title": "Midnight-sun summer", "nights": 7, "route": [ { "place": "Helsinki", "nights": 3 }, { "place": "Turku archipelago", "nights": 2 }, { "place": "Lakeland", "nights": 2 } ], "summary": "The other Finland: Suomenlinna picnics and design-district afternoons, island-hopping the archipelago ring by ferry and bike, then a Saimaa cottage with private sauna and rowboat under 20-hour light. No crowds anywhere — Finland's best-kept season.", "priceFrom": "₹1,75,000", "image": { "query": "finland lake cottage midnight sun", "alt": "A lakeside sauna cottage in golden midnight light" } }
+    {
+      "id": "lapland-classic",
+      "title": "The Lapland winter classic",
+      "nights": 6,
+      "route": [
+        {
+          "place": "Helsinki",
+          "nights": 2
+        },
+        {
+          "place": "Rovaniemi",
+          "nights": 2
+        },
+        {
+          "place": "Saariselkä",
+          "nights": 2
+        }
+      ],
+      "summary": "Helsinki's design calm, then north for Santa, huskies and reindeer in Rovaniemi, finishing under Saariselkä's darker skies with a glass-igloo night and a guided aurora chase. The complete first Lapland, with the lights given two real chances.",
+      "priceFrom": "₹2,15,000",
+      "image": {
+        "query": "lapland cabin snow aurora",
+        "alt": "A snowbound cabin under a green aurora"
+      }
+    },
+    {
+      "id": "family-santa",
+      "title": "Santa & snow family week",
+      "nights": 6,
+      "route": [
+        {
+          "place": "Rovaniemi",
+          "nights": 4
+        },
+        {
+          "place": "Helsinki",
+          "nights": 2
+        }
+      ],
+      "summary": "One base, zero repacking: Santa's village and the elf post office, a gentle husky loop, reindeer licences for the kids, snow-castle day trip to Kemi — then two Helsinki nights to decompress. December magic, engineered for small legs and early bedtimes.",
+      "priceFrom": "₹1,95,000",
+      "image": {
+        "query": "Santa Claus Village Rovaniemi arctic circle",
+        "alt": "Children meeting reindeer at a snowy Lapland farm"
+      }
+    },
+    {
+      "id": "summer-lakes",
+      "title": "Midnight-sun summer",
+      "nights": 7,
+      "route": [
+        {
+          "place": "Helsinki",
+          "nights": 3
+        },
+        {
+          "place": "Turku archipelago",
+          "nights": 2
+        },
+        {
+          "place": "Lakeland",
+          "nights": 2
+        }
+      ],
+      "summary": "The other Finland: Suomenlinna picnics and design-district afternoons, island-hopping the archipelago ring by ferry and bike, then a Saimaa cottage with private sauna and rowboat under 20-hour light. No crowds anywhere — Finland's best-kept season.",
+      "priceFrom": "₹1,75,000",
+      "image": {
+        "query": "Finnish lakeside sauna cottage",
+        "alt": "A lakeside sauna cottage in golden midnight light"
+      }
+    }
   ],
   "faqs": [
-    { "q": "When will I actually see the northern lights?", "a": "Late August to early April, on dark clear nights — statistically strongest around the equinoxes and between 10pm and 1am. Give the trip at least three Lapland nights, stay as far north as budget allows, and add one guided chase; guides drive to holes in the cloud that hotel guests never find." },
-    { "q": "How cold is it really, and can we handle it?", "a": "December–February runs -10 to -25°C in Lapland. It is entirely manageable: activity operators lend Arctic overalls and boots, and the layered-wool system genuinely works. The cold you'll remember is standing still watching auroras — hand warmers fix it." },
-    { "q": "Is Finland doable with young kids?", "a": "Lapland in winter is arguably Europe's best family trip: Santa is real here, sleighs and huskies are child-calibrated, and resorts run to early bedtimes. Keep outdoor sessions short in deep cold and base in one resort rather than touring." },
-    { "q": "How expensive is it compared to Switzerland?", "a": "Comparable daily costs, differently shaped: Finnish hotels and food cost slightly less, but Lapland activities and glass igloos are big-ticket items. Plan the splurges deliberately — one igloo night, one husky safari, one chase — and let cabin nights and free saunas fill the rest." },
-    { "q": "Summer or winter Finland?", "a": "Winter for the bucket list: aurora, huskies, Santa, snow hotels. Summer for the secret: 20-hour light, lake cottages, island cycling and half the prices. If the northern lights are the reason you're going, December–March, ideally March." }
+    {
+      "q": "When will I actually see the northern lights?",
+      "a": "Late August to early April, on dark clear nights — statistically strongest around the equinoxes and between 10pm and 1am. Give the trip at least three Lapland nights, stay as far north as budget allows, and add one guided chase; guides drive to holes in the cloud that hotel guests never find."
+    },
+    {
+      "q": "How cold is it really, and can we handle it?",
+      "a": "December–February runs -10 to -25°C in Lapland. It is entirely manageable: activity operators lend Arctic overalls and boots, and the layered-wool system genuinely works. The cold you'll remember is standing still watching auroras — hand warmers fix it."
+    },
+    {
+      "q": "Is Finland doable with young kids?",
+      "a": "Lapland in winter is arguably Europe's best family trip: Santa is real here, sleighs and huskies are child-calibrated, and resorts run to early bedtimes. Keep outdoor sessions short in deep cold and base in one resort rather than touring."
+    },
+    {
+      "q": "How expensive is it compared to Switzerland?",
+      "a": "Comparable daily costs, differently shaped: Finnish hotels and food cost slightly less, but Lapland activities and glass igloos are big-ticket items. Plan the splurges deliberately — one igloo night, one husky safari, one chase — and let cabin nights and free saunas fill the rest."
+    },
+    {
+      "q": "Summer or winter Finland?",
+      "a": "Winter for the bucket list: aurora, huskies, Santa, snow hotels. Summer for the secret: 20-hour light, lake cottages, island cycling and half the prices. If the northern lights are the reason you're going, December–March, ideally March."
+    }
   ]
 }

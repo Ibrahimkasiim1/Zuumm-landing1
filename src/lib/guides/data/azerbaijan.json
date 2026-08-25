@@ -9,7 +9,7 @@
   "overview": "Azerbaijan sits at the seam where Europe blurs into Asia, and it wears both faces at once. Baku's medieval walled city — caravanserais, a 12th-century tower, carpet shops in stone lanes — is ringed by a glass skyline that lights up like a lava lamp after dark, and the Caspian seafront promenade between them buzzes until midnight. Drive an hour and the country turns strange in the best way: hillsides that have burned for centuries, mud volcanoes gurgling on a moonscape, Stone Age carvings by the sea. Drive four and you're in the Caucasus proper — Gabala's cable cars, Sheki's painted palace, shepherd villages above the clouds. For Indians it is one of the shortest 'foreign-feeling' trips on the map: about three hours non-stop from Delhi, an e-visa approved in days, food built on kebabs, saffron rice and bread, and prices that undercut Europe by half.",
   "heroAlt": "Baku's illuminated Flame Towers rising above the old city rooftops at dusk",
   "heroImage": {
-    "query": "baku flame towers skyline night",
+    "query": "Baku Flame Towers skyline",
     "alt": "The three Flame Towers glowing red and orange over Baku's skyline at dusk"
   },
   "quickFacts": {
@@ -117,7 +117,7 @@
       "name": "Baku",
       "blurb": "The Caspian capital where a UNESCO-listed walled old town sits under flame-shaped skyscrapers. Base here for the seafront boulevard, museums, food and the fire-and-mud day trips across the Absheron Peninsula.",
       "image": {
-        "query": "baku old city maiden tower",
+        "query": "Baku boulevard Caspian promenade",
         "alt": "Maiden Tower and stone lanes of Baku's Icherisheher old city"
       }
     },
@@ -126,7 +126,7 @@
       "name": "Gabala",
       "blurb": "Azerbaijan's mountain playground, three hours from Baku: the Tufandag cable car, Nohur Lake, waterfalls and forested resorts. Works in summer for cool air and in winter as a compact ski base.",
       "image": {
-        "query": "tufandag cable car gabala mountains",
+        "query": "Gabala Azerbaijan mountains resort",
         "alt": "Cable car gondolas rising over forested Caucasus slopes above Gabala"
       }
     },
@@ -135,7 +135,7 @@
       "name": "Sheki",
       "blurb": "A silk-road trading town in the Caucasus foothills, built around its stained-glass Khan's Palace and an 18th-century caravanserai you can actually sleep in. Famous for piti stew and crumbly saffron halva.",
       "image": {
-        "query": "sheki khan palace facade",
+        "query": "Sheki Azerbaijan town",
         "alt": "The painted, stained-glass facade of the Khan's Palace in Sheki"
       }
     },
@@ -162,7 +162,7 @@
       "name": "Lankaran",
       "blurb": "The subtropical south, where tea plantations and citrus groves run between the Talysh mountains and the Caspian. Come for lavangi chicken, black-sand beaches and the offbeat feel of Azerbaijan's deep countryside.",
       "image": {
-        "query": "lankaran tea plantation azerbaijan",
+        "query": "Lankaran Azerbaijan",
         "alt": "Green tea plantation rows near Lankaran with hills behind"
       }
     }
@@ -176,7 +176,7 @@
       "blurb": "Baku's walled medieval core: the enigmatic Maiden Tower, the Palace of the Shirvanshahs, hammams, carpet shops and stone lanes that pre-date the oil booms by centuries.",
       "detail": "Enter through the double gates near Icherisheher metro and just drift — the quarter is small enough that getting lost is the point. Climb the Maiden Tower early, before tour groups, for rooftop views across the bay, then give the Shirvanshahs' Palace complex a slow hour; a combined ticket covers both for a few hundred rupees. The lanes are most atmospheric at golden hour, when the limestone glows and tea houses set out tables. Several scenes from a beloved Soviet comedy were shot here, and locals will happily point out the exact staircase. Combine with the Carpet Museum, ten minutes' walk along the boulevard.",
       "image": {
-        "query": "shirvanshah palace baku old city",
+        "query": "Maiden Tower Baku old city",
         "alt": "Courtyard and carved stone portal of the Shirvanshahs' Palace in Baku"
       }
     },
@@ -212,7 +212,7 @@
       "blurb": "A UNESCO site of 6,000-plus petroglyphs up to 40,000 years old, next door to a lunar plain of cold, burping mud volcanoes — one surreal half-day southwest of Baku.",
       "detail": "Do this as a half-day tour or private car from Baku (about an hour each way). Start at the slick interactive museum — it makes the carvings of boats, dancers and aurochs legible before you walk the boulders themselves. Then transfer into a battered Lada for the bone-rattling ride to the mud volcanoes; the little cones gurgle and spit cool grey mud you can touch, and the landscape looks borrowed from another planet. Wear shoes you don't love. Morning slots beat the afternoon heat and haze, and most tours tack on Bibi-Heybat Mosque on the way back. Entry fees are minor; the Lada transfer is cash.",
       "image": {
-        "query": "gobustan mud volcanoes azerbaijan",
+        "query": "mud volcano bubbling Azerbaijan",
         "alt": "Grey mud volcano cones bubbling on Gobustan's barren plain"
       }
     },
@@ -236,7 +236,7 @@
       "blurb": "A pentagonal fire temple built by Indian merchants and ascetics on a natural gas vent — Sanskrit and Punjabi inscriptions still frame its cells.",
       "detail": "For Indian travellers this is the most personal site in Azerbaijan: the 17th–18th century complex at Surakhani was raised largely by traders and sadhus from Multan and beyond, and inscriptions in Devanagari and Gurmukhi survive above the doorways. The central altar's flame now runs on piped gas — the natural vent was exhausted in the 1960s — but the cells around the courtyard hold vivid displays of the ascetics' extreme austerities. It's 30 minutes from Baku near Surakhani station; pair it with Yanar Dag for a tidy fire-themed half-day. Entry is modest, and an hour is plenty. Go early to beat the tour buses.",
       "image": {
-        "query": "ateshgah fire temple surakhani",
+        "query": "Ateshgah Fire Temple Baku",
         "alt": "Central flame altar in the courtyard of the Ateshgah fire temple"
       }
     },
@@ -296,7 +296,7 @@
       "category": "Adventure",
       "blurb": "A half-day 4x4 loop through Baku's strange backyard — mud volcanoes, the burning hillside at Yanar Dag and the Ateshgah temple — with a driver who knows which cones are gurgling that week.",
       "image": {
-        "query": "lada jeep gobustan desert",
+        "query": "Yanar Dag burning mountain Baku",
         "alt": "A 4x4 crossing the barren mud-volcano plains near Baku"
       }
     },
@@ -326,7 +326,7 @@
       "category": "Water",
       "blurb": "A one-hour boat loop from Baku Boulevard as the Flame Towers light up — the cheapest good seat in the house for the skyline show, with longer dinner sailings in summer.",
       "image": {
-        "query": "baku boulevard caspian sea skyline",
+        "query": "Baku bay Caspian Sea shore",
         "alt": "Baku's skyline glowing over the Caspian Sea from a boat at dusk"
       }
     },

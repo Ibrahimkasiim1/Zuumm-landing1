@@ -130,7 +130,7 @@
       "name": "Göreme, Cappadocia",
       "blurb": "A village carved into fairy-chimney rock, ringed by hiking valleys and open-air churches. Sleep in a cave hotel, wake at 5am for the balloon launch, and spend afternoons exploring underground cities.",
       "image": {
-        "query": "goreme cappadocia cave hotels valley",
+        "query": "Goreme fairy chimneys Cappadocia",
         "alt": "Cave hotels and fairy chimneys of Göreme village at dusk"
       }
     },
@@ -148,7 +148,7 @@
       "name": "Fethiye & Ölüdeniz",
       "blurb": "Türkiye's adventure coast — paragliding off Babadağ mountain, the Blue Lagoon, gulet day cruises to the Twelve Islands and the start of the Lycian Way trail. Laid-back, good value, very Instagram-literate.",
       "image": {
-        "query": "oludeniz blue lagoon aerial",
+        "query": "Fethiye harbour marina",
         "alt": "The turquoise Blue Lagoon and sandspit at Ölüdeniz seen from above"
       }
     },
@@ -157,7 +157,7 @@
       "name": "Izmir & Selçuk",
       "blurb": "The Aegean base for Ephesus, one of the best-preserved ancient cities anywhere, plus the hillside wine village of Şirince. Izmir itself is breezy, secular and pleasantly untouristed.",
       "image": {
-        "query": "ephesus library of celsus",
+        "query": "Sirince village houses Turkey",
         "alt": "The two-storey facade of the Library of Celsus at Ephesus"
       }
     },
@@ -261,7 +261,7 @@
       "blurb": "Four thousand shops under painted vaulted ceilings — one of the world's oldest covered markets, equal parts theatre, history and cheerful ambush.",
       "detail": "Treat the Grand Bazaar as a sight first and a shop second: enter at Beyazıt gate, drift without a map, and remember every quoted price expects a counter-offer around half. Lamps, ceramics, towels and evil-eye everything are the safe buys; leave serious carpet or gold purchases for shops you have researched. The smaller Spice Bazaar near Eminönü is easier on the nerves and better for edible souvenirs — buy saffron, pistachio baklava and Turkish delight where locals queue, not at the entrance stalls. Both close Sundays; go weekday mornings before the tour groups compress the lanes.",
       "image": {
-        "query": "grand bazaar istanbul lamps",
+        "query": "Grand Bazaar Istanbul interior",
         "alt": "Glowing mosaic lamps hanging in a Grand Bazaar shopfront"
       }
     },
@@ -297,7 +297,7 @@
       "blurb": "Istanbul's old Greek and Jewish quarters — steep lanes of candy-coloured houses, antique shops and third-wave cafés, still lived-in rather than staged.",
       "detail": "The insider half-day most itineraries miss. Take the ferry or bus up the Golden Horn to Fener, climb to the red-brick Phanar Greek Orthodox College that towers over the district, then wander downhill through Balat's photogenic Kiremit and Merdivenli streets. Sunday flea stalls, cats on every windowsill and coffee roasters in converted grocers set the tone; the iron-framed St. Stephen Bulgarian church by the water is quietly spectacular. Go weekday mornings for empty lanes or weekends for street life. It connects neatly with the mosaic-filled Chora Church, a short taxi uphill.",
       "image": {
-        "query": "balat colorful houses istanbul",
+        "query": "Balat colourful houses Istanbul",
         "alt": "Steep Balat street lined with brightly painted Ottoman-era houses"
       }
     }
@@ -359,7 +359,7 @@
       "category": "Adventure",
       "blurb": "Launch from 1,900-metre Babadağ and spiral down to the beach over the Blue Lagoon — no experience needed, morning flights are smoothest, GoPro footage included in most packages.",
       "image": {
-        "query": "babadag paragliding launch oludeniz",
+        "query": "paraglider Oludeniz lagoon",
         "alt": "Paragliders launching from Babadağ mountain high above the coastline"
       }
     }
@@ -414,7 +414,7 @@
       "summary": "The tightest itinerary that still feels complete: Sultanahmet's big four, a Bosphorus ferry and the bazaars, then fly to Cappadocia for a cave-hotel stay, sunrise balloons and a Red Valley sunset hike. Works as a long-weekend-plus trip on non-stop flights.",
       "priceFrom": "₹85,000",
       "image": {
-        "query": "cave hotel terrace cappadocia balloons",
+        "query": "Cappadocia cave hotel sunset",
         "alt": "Balloons over Göreme seen from a cave hotel terrace at sunrise"
       }
     },

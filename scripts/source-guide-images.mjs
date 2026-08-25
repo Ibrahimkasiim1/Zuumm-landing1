@@ -26,7 +26,7 @@ const force = process.argv.includes("--force");
 
 /* hub images live outside the guide JSONs */
 const HUB_SLOTS = [
-  { file: "hubs/europe.jpg", query: "paris eiffel tower dusk", hero: true },
+  { file: "hubs/europe.jpg", query: "Eiffel Tower Paris", hero: true },
   { file: "hubs/africa.jpg", query: "masai mara elephants savanna", hero: true },
   { file: "hubs/south-america.jpg", query: "machu picchu peru", hero: true },
   { file: "hubs/south-america-t1.jpg", query: "machu picchu peru citadel" },
@@ -38,14 +38,21 @@ const HUB_SLOTS = [
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
 /* cartography, heraldry and chrome are never destination photography */
-const NOT_A_PHOTO = /map|locator|location|position|flag|coat[_ ]of[_ ]arms|\bcoa\b|logo|seal|emblem|banner|diagram|chart|plan[_ ]of|\.svg|montage|collage|panorama[_ ]label/i;
+const NOT_A_PHOTO = /map|locator|location|position|flag|coat[_ ]of[_ ]arms|\bcoa\b|logo|seal|emblem|banner|diagram|chart|plan[_ ]of|\.svg|montage|collage|panorama[_ ]label|engraving|etching|lithograph|woodcut|sketch|painting|tapestry|poster|\bcoin|medal|stamp[_ ]of|banknote|currency|manuscript|codex|satellite|landsat|sentinel-|portrait[_ ]of|molecule|specimen|amazing[_ ]race|screenshot|\bcover\b/i;
 const looksLikePhoto = (url) => !NOT_A_PHOTO.test(decodeURIComponent(url));
 
-async function politeFetch(url, opts = {}, tries = 3) {
+/* one image, one slot — a repeated Wikipedia lead across four queries is
+   how a page ends up with the same photo on every card */
+const used = new Set();
+const normUrl = (u) => (u || "").replace(/\/\d+px-/, "/px-").split("?")[0];
+const isUsed = (r) => used.has(normUrl(r.url)) || (r.credit && used.has(r.credit));
+const markUsed = (r) => { used.add(normUrl(r.url)); if (r.credit) used.add(r.credit); };
+
+async function politeFetch(url, opts = {}, tries = 5) {
   for (let i = 0; i < tries; i++) {
     const res = await fetch(url, { ...opts, headers: { "User-Agent": UA, ...(opts.headers || {}) } });
     if (res.status !== 429) return res;
-    await sleep(1500 * (i + 1) + Math.random() * 800);
+    await sleep(4000 * (i + 1) + Math.random() * 2000);
   }
   return fetch(url, { ...opts, headers: { "User-Agent": UA, ...(opts.headers || {}) } });
 }
@@ -153,19 +160,20 @@ async function openverse(query) {
 }
 
 async function resolveSlot(slot) {
-  const viaCand = await fromCandidates(slot);
+  const fresh = (r) => (r && !isUsed(r) ? r : null);
+  const viaCand = fresh(await fromCandidates(slot));
   if (viaCand) return viaCand;
-  const viaWiki = await wikipediaLead(slot.query);
+  const viaWiki = fresh(await wikipediaLead(slot.query));
   if (viaWiki) return viaWiki;
-  const viaCommons = await commonsSearch(slot.query);
+  const viaCommons = fresh(await commonsSearch(slot.query));
   if (viaCommons) return viaCommons;
-  const viaOpenverse = await openverse(slot.query);
+  const viaOpenverse = fresh(await openverse(slot.query));
   if (viaOpenverse) return viaOpenverse;
   /* last try: drop the last word (often a location qualifier) */
   const words = slot.query.split(" ");
   if (words.length > 2) {
     const shorter = words.slice(0, -1).join(" ");
-    return (await wikipediaLead(shorter)) || (await commonsSearch(shorter)) || (await openverse(shorter));
+    return fresh(await wikipediaLead(shorter)) || fresh(await commonsSearch(shorter)) || fresh(await openverse(shorter));
   }
   return null;
 }
@@ -195,6 +203,8 @@ const credits = existsSync(path.join(OUT, "CREDITS.json"))
   ? JSON.parse(await readFile(path.join(OUT, "CREDITS.json"), "utf8"))
   : {};
 
+for (const c of Object.values(credits)) { if (c.credit) used.add(c.credit); }
+
 let done = 0, skipped = 0, failed = [];
 const queue = [...slots];
 async function worker() {
@@ -207,6 +217,7 @@ async function worker() {
       const r = await resolveSlot(slot);
       if (!r) throw new Error("no source found");
       const bytes = await download(r.url, dest);
+      markUsed(r);
       credits[slot.file] = { source: r.source, credit: r.credit, query: slot.query };
       done++;
       console.log(`ok   ${slot.file}  [${r.source}] ${(bytes / 1024) | 0}KB`);
@@ -214,10 +225,10 @@ async function worker() {
       failed.push({ file: slot.file, query: slot.query, err: String(e.message || e) });
       console.log(`FAIL ${slot.file}  (${slot.query}) — ${e.message || e}`);
     }
-    await sleep(350);
+    await sleep(800);
   }
 }
-await Promise.all(Array.from({ length: 2 }, worker));
+await Promise.all(Array.from({ length: 1 }, worker));
 
 await writeFile(path.join(OUT, "CREDITS.json"), JSON.stringify(credits, null, 2));
 console.log(`\n${done} downloaded · ${skipped} already present · ${failed.length} failed of ${slots.length}`);

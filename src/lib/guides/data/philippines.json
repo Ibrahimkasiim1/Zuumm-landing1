@@ -117,7 +117,7 @@
       "name": "Manila",
       "blurb": "The chaotic, big-hearted gateway — Spanish-era walls at Intramuros, serious food in Binondo's Chinatown, rooftop bars in Makati. One night on either end of the trip is plenty, and worth doing properly.",
       "image": {
-        "query": "intramuros manila fort santiago",
+        "query": "Manila bay skyline",
         "alt": "Stone gate and colonial walls of Intramuros in Manila"
       }
     },
@@ -162,7 +162,7 @@
       "name": "Siargao",
       "blurb": "A teardrop-shaped surf island with palm-lined lanes, tidal pools and the Cloud 9 break. Slower and cooler-headed than Boracay — the base for travellers who measure days in swells and smoothies.",
       "image": {
-        "query": "siargao cloud 9 boardwalk",
+        "query": "Siargao palm road island",
         "alt": "Wooden boardwalk leading to the Cloud 9 surf break, Siargao"
       }
     }
@@ -176,7 +176,7 @@
       "blurb": "Banca boats thread Bacuit Bay's karst islands — Big Lagoon, Small Lagoon, Secret Beach — on lettered tours that justify the entire flight.",
       "detail": "The classic tours are lettered A to D; A (Big Lagoon, Secret Lagoon, Shimizu Island) and C (Hidden Beach, Secret Beach, Matinloc Shrine) are the keepers. Big Lagoon now runs on timed entry slots, so book a day ahead in high season and take the earliest departure — by 11am the lagoons hold a flotilla. Private boats cost roughly double a group tour (₹2,000–2,500 with lunch grilled on board) and buy you empty coves. Bring reef-safe sunscreen, aqua shoes and a dry bag; kayak rental inside Big Lagoon is worth the extra ₱300. Combine two tour days with a beach day at Nacpan.",
       "image": {
-        "query": "big lagoon el nido kayak",
+        "query": "El Nido lagoon kayak boats",
         "alt": "Kayaks entering the Big Lagoon between limestone walls, El Nido"
       }
     },
@@ -212,7 +212,7 @@
       "blurb": "More than a thousand near-identical grassy mounds rolling to the horizon — turning cocoa-brown in the dry months — with tarsiers en route.",
       "detail": "The classic Bohol countryside loop from Panglao or Tagbilaran strings together the Chocolate Hills viewpoint at Carmen, the Philippine tarsier sanctuary at Corella, a Loboc River lunch cruise and the man-made mahogany forest. Do the hills first — morning light is kinder and tour buses arrive from 10am. The tarsiers, palm-sized primates with cartoon eyes, are nocturnal and fragile: visit the Corella sanctuary rather than roadside cages, keep silent and skip the flash. A private car for the day runs about ₹4,000–5,000 split between passengers. Base on Panglao island for Alona Beach and some of the country's easiest reef diving at Balicasag.",
       "image": {
-        "query": "chocolate hills bohol viewpoint",
+        "query": "Chocolate Hills Bohol",
         "alt": "Rows of grassy conical hills stretching to the horizon in Bohol"
       }
     },
@@ -248,7 +248,7 @@
       "blurb": "The Philippines' surf capital — a world-class reef break, palm-tunnel roads, and a laid-back island scene that keeps travellers extending flights.",
       "detail": "Cloud 9 is the famous wave — a hollow reef break with a boardwalk viewing tower where you can watch the lineup with a coconut in hand — but Siargao is really about the whole package. Beginners learn at Jacking Horse on soft-tops (lessons about ₹1,500 an hour with a local instructor), non-surfers do the three-island hop to Naked, Daku and Guyam islands, swim the Magpupungko tidal pools at low tide, and cruise the Maasin river palm bend. Surf season peaks August–November when the Pacific swell arrives; the island stays great year-round. Fly in via Cebu or Manila and rent a scooter — distances are short and the coastal road is the attraction.",
       "image": {
-        "query": "cloud 9 siargao surf tower",
+        "query": "Cloud 9 pier Siargao surf",
         "alt": "Surfers and viewing tower at the Cloud 9 reef break, Siargao"
       }
     },
@@ -272,7 +272,7 @@
       "blurb": "Millions of sardines swirl in a permanent bait ball metres off Panagsama Beach — snorkelling into it feels like entering a living tornado.",
       "detail": "Moalboal's sardine shoal is a rare thing: a huge, resident bait ball sitting just off the beach in swimmable depth — no boat, no luck, no season required. Wade off Panagsama Beach, kick fifty metres, and the wall drops away beneath a shimmering column of fish that parts around you. Freedivers get the iconic shots; snorkellers still get the spectacle for the price of mask rental (₹300 or so). Go at first light for glassy water and turtles grazing along the wall. Moalboal town itself is a pleasingly scruffy dive hub with good cafés — most travellers pair a sardine morning with afternoon canyoneering at nearby Badian, or a White Beach sunset.",
       "image": {
-        "query": "sardine run moalboal freediver",
+        "query": "sardine school underwater Moalboal",
         "alt": "A freediver beneath a massive swirling school of sardines at Moalboal"
       }
     },
@@ -284,7 +284,7 @@
       "blurb": "Two-thousand-year-old amphitheatres of stone-walled rice paddies carved into the Cordillera — the insider's detour for travellers who have done the beaches.",
       "detail": "The Ifugao rice terraces around Banaue and Batad are UNESCO-listed and stunningly under-visited — an overnight bus (or a flight-plus-drive) north from Manila into cool mountain air. Batad's amphitheatre bowl is the showpiece: hike down into the village, sleep in a simple guesthouse facing the terraces, and walk out to Tappiya waterfall the next morning. Local guides charge modestly and are worth it for the stone-stair routes. The paddies are greenest April–May and October–November, just after planting. This is a two-to-three-night commitment and the polar opposite of island life — which is exactly why the travellers who make it up here rank it with Palawan.",
       "image": {
-        "query": "batad rice terraces ifugao",
+        "query": "Banaue rice terraces green",
         "alt": "Stone-walled rice terraces rising in an amphitheatre around Batad village"
       }
     }
@@ -296,7 +296,7 @@
       "category": "Water",
       "blurb": "The signature Filipino day out — outrigger boat, snorkel stops, a grilled lunch on a sandbar. El Nido, Coron, Honda Bay and Siargao all run daily group and private departures.",
       "image": {
-        "query": "banca outrigger boat sandbar philippines",
+        "query": "bangka boats island Philippines",
         "alt": "Outrigger banca boat moored at a white sandbar"
       }
     },
@@ -306,7 +306,7 @@
       "category": "Adventure",
       "blurb": "A WWII Japanese fleet sunk in 1944 sits at recreational depths — fun dives for certified divers, discovery dives for beginners, and Barracuda Lake's thermocline as a bonus.",
       "image": {
-        "query": "coron shipwreck diving philippines",
+        "query": "shipwreck underwater diver",
         "alt": "Scuba diver exploring a coral-covered WWII shipwreck in Coron Bay"
       }
     },
@@ -346,7 +346,7 @@
       "category": "Nightlife",
       "blurb": "Manila's best night out — a walkable grid of speakeasies, rooftop bars and late-night Filipino kitchens in Poblacion, ideally with a local guide leading the order of operations.",
       "image": {
-        "query": "poblacion makati bar street night",
+        "query": "Makati Manila skyline night",
         "alt": "Neon-lit bar street at night in Poblacion, Makati"
       }
     }

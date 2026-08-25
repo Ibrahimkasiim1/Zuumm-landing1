@@ -308,7 +308,7 @@
       "category": "Adventure",
       "blurb": "A guided day at Mutianyu or half-wild Jinshanling — cable car up, ridge walk between watchtowers, and a toboggan run back down to the valley.",
       "image": {
-        "query": "great wall hiking watchtower",
+        "query": "Great Wall Jinshanling towers",
         "alt": "Hikers walking a restored stretch of the Great Wall"
       }
     },
@@ -328,7 +328,7 @@
       "category": "Wildlife",
       "blurb": "Beat the crowds into Chengdu's research base for feeding time, with a keeper-led walk through the cub and sub-adult enclosures.",
       "image": {
-        "query": "panda keeper feeding bamboo",
+        "query": "giant panda eating bamboo",
         "alt": "Keeper feeding bamboo to giant pandas at a research base"
       }
     },
@@ -348,7 +348,7 @@
       "category": "Nightlife",
       "blurb": "The ERA acrobatics show's motorbike globe and aerial acts, paired with a Huangpu river cruise under Pudong's full light show.",
       "image": {
-        "query": "shanghai huangpu night cruise",
+        "query": "Chinese acrobatics performance stage",
         "alt": "Sightseeing boat on the Huangpu River with lit skyline behind"
       }
     },
@@ -358,7 +358,7 @@
       "category": "Wellness",
       "blurb": "A dawn tai chi session in a Beijing or Hangzhou park with a master, followed by a gongfu tea ceremony that decodes China's tea culture cup by cup.",
       "image": {
-        "query": "tai chi morning practice park",
+        "query": "tai chi practice park morning",
         "alt": "People practising tai chi in a park at sunrise"
       }
     }
@@ -406,7 +406,7 @@
       "summary": "A softer, greener China with no megacity marathon. Three Chengdu days for the panda base, teahouse afternoons, Leshan's giant Buddha and serious Sichuan food, then fly to Guilin for the Li River cruise, Yulong rafting, cycling between paddies and a Longji terraces day. Ideal second trip, or a first for nature-led travellers.",
       "priceFrom": "₹98,000",
       "image": {
-        "query": "yangshuo karst sunset cyclist",
+        "query": "giant panda cub tree",
         "alt": "Cyclist on a village lane beneath karst peaks near Yangshuo"
       }
     },
@@ -431,7 +431,7 @@
       "summary": "Shanghai's towers and lane-house neighbourhoods first, then fly inland for two full days among Zhangjiajie's sandstone pillars, the glass bridge and Tianmen Mountain's cliff walkways. Finish in Fenghuang, a stilt-house river town that glows with lanterns at night — the China most itineraries miss entirely.",
       "priceFrom": "₹1,15,000",
       "image": {
-        "query": "fenghuang ancient town river night",
+        "query": "Zhangjiajie sandstone pillars mist",
         "alt": "Stilted wooden houses reflected in the river at Fenghuang old town"
       }
     }

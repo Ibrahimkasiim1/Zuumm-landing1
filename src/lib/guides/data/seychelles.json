@@ -117,7 +117,7 @@
       "name": "Beau Vallon, Mahé",
       "blurb": "Mahé's liveliest bay — a long, safe, swimmable arc with dive schools, casual restaurants and Wednesday-evening food stalls. The most convenient first base, twenty minutes over the hill from Victoria.",
       "image": {
-        "query": "beau vallon beach mahe seychelles",
+        "query": "Beau Vallon Seychelles evening",
         "alt": "The long curve of Beau Vallon beach with boats moored offshore"
       }
     },
@@ -153,7 +153,7 @@
       "name": "La Digue",
       "blurb": "A near-carless island you explore by bicycle, ringed by the country's most photographed boulder beaches. Guesthouses outnumber resorts, dinner is grilled fish under fairy lights, and two nights feel essential, not optional.",
       "image": {
-        "query": "la digue island bicycle path",
+        "query": "La Digue island ox cart beach",
         "alt": "A sandy bicycle lane between palms on La Digue"
       }
     },
@@ -162,7 +162,7 @@
       "name": "Silhouette Island",
       "blurb": "A mountainous, road-free island 45 minutes by boat from Mahé with one resort, one lodge and dense virgin forest. The insider's pick for a splurge finale far from every crowd.",
       "image": {
-        "query": "silhouette island seychelles mountains",
+        "query": "Silhouette Island Seychelles sea",
         "alt": "The forested peaks of Silhouette Island rising from the sea"
       }
     }
@@ -212,7 +212,7 @@
       "blurb": "Mahé's family-friendly main beach: three kilometres of safe swimming, watersports operators, and the island's best casual sunset scene.",
       "detail": "This is the beach you use rather than admire — flat entry, no rocks, and the north-facing curve stays calm even in trade-wind season, which makes it the most reliable swim on Mahé year-round. Dive centres here run trips to Shark Bank and wreck sites, and jet-ski and banana-boat operators line the sand. Come on a Wednesday evening for the bazar labrin street-food market: smoked fish, banana fritters, grilled chicken and local families out in force — the cheapest, most local dinner you will have all trip. Sunsets are directly over the water; stake out the northern end near the Fisherman's Cove headland.",
       "image": {
-        "query": "beau vallon bay sunset mahe",
+        "query": "Beau Vallon beach Mahe",
         "alt": "Sunset over the wide bay at Beau Vallon with silhouetted palms"
       }
     },
@@ -236,7 +236,7 @@
       "blurb": "South Mahé's wild one — a long, empty crescent of deep sand and rolling surf backed by jungle, with no reef and no crowds.",
       "detail": "There is no barrier reef here, so the ocean arrives with drama: bodysurfable rollers in the calm months, genuinely powerful surf during the southeast trades, when you should stay shin-deep. That same openness is why it stays empty — no snorkelling means no tour boats. Come for long walks, turtle tracks in nesting season (October to February, keep distance and lights off), and the kind of raw scenery north Mahé smooths over. The Banyan Tree resort sits behind it, but the beach is public like all Seychelles beaches. Pair it with Anse Takamaka and a tasting at the Takamaka rum distillery ten minutes north.",
       "image": {
-        "query": "anse intendance mahe surf",
+        "query": "Anse Intendance Mahe",
         "alt": "Long empty crescent of Anse Intendance with heavy rollers coming in"
       }
     },
@@ -260,7 +260,7 @@
       "blurb": "A short, steep rainforest climb in Morne Seychellois National Park ending at a cliff-edge platform 660m above Mahé's west coast.",
       "detail": "The trailhead is on the Sans Soucis road that crosses Mahé's spine, marked and free to enter. It is only about 40 minutes up, but the gradient is honest and the path gets slick after rain — wear grippy shoes and start by 8am, before cloud builds over the peaks and the viewing platform stares into mist. From the top the whole west coast unrolls: Port Launay's marine park, tea plantations below, Silhouette Island on the horizon. Combine it with the small tea factory just down the road and a swim at Port Launay afterwards. The tougher Copolia trail nearby offers a similar payoff with granite-slab summit views toward Eden Island.",
       "image": {
-        "query": "morne blanc viewpoint mahe",
+        "query": "Morne Seychellois rainforest viewpoint",
         "alt": "View over Mahé's forested west coast from the Morne Blanc platform"
       }
     },
@@ -296,7 +296,7 @@
       "category": "Water",
       "blurb": "Full-day sails from Praslin or Mahé stringing together Curieuse, St Pierre and Cousin — snorkelling stops, a beach barbecue and giant tortoises in one booking.",
       "image": {
-        "query": "catamaran seychelles islands",
+        "query": "catamaran sailing tropical islands",
         "alt": "A catamaran anchored in clear water off a granite islet"
       }
     },
@@ -316,7 +316,7 @@
       "category": "Wildlife",
       "blurb": "A morning-only landing on a seabird sanctuary thick with fairy terns, tropicbirds and skinks — one of conservation's great success stories, minutes from Praslin.",
       "image": {
-        "query": "fairy tern cousin island seychelles",
+        "query": "fairy tern seabird island",
         "alt": "A white fairy tern perched on a branch on Cousin Island"
       }
     },
@@ -346,7 +346,7 @@
       "category": "Wellness",
       "blurb": "Clifftop resort spas on Mahé take walk-in bookings at rates well below their room prices, and evening champagne sails out of Eden Island marina end the day properly.",
       "image": {
-        "query": "seychelles resort spa ocean view",
+        "query": "tropical spa massage stones",
         "alt": "An open-air spa pavilion overlooking the ocean"
       }
     }
@@ -394,7 +394,7 @@
       "summary": "A long-weekend-plus that still feels complete: Mahé's beaches, the Sainte Anne marine park day and the rum distillery, then two Praslin nights covering Anse Lazio and the palm forest, with La Digue as an easy day trip by shuttle ferry.",
       "priceFrom": "₹1,45,000",
       "image": {
-        "query": "anse lazio praslin turquoise water",
+        "query": "Anse Lazio Praslin Seychelles",
         "alt": "Turquoise shallows and boulders at a Praslin beach"
       }
     },
@@ -419,7 +419,7 @@
       "summary": "Built for couples who want the postcard without the rush: a beachfront Praslin villa, barefoot La Digue guesthouse nights, then a south-Mahé hideaway with a spa day, a private sunset sail and dinner at a clifftop table to close.",
       "priceFrom": "₹2,90,000",
       "image": {
-        "query": "seychelles beach villa sunset couple",
+        "query": "La Digue granite beach couple",
         "alt": "A private villa deck facing the sea at golden hour"
       }
     }

@@ -9,7 +9,7 @@
   "overview": "Saudi Arabia only opened to tourists in 2019, which means you can still stand alone inside a 2,000-year-old Nabataean tomb at Hegra — a sister city to Petra that gets a fraction of its footfall. The country is in the middle of a remarkable unveiling: AlUla's sandstone canyons now host balloon flights and mirror-clad concert halls, Riyadh swings between mud-brick Diriyah and the glowing sprawl of Boulevard City, and Jeddah's coral-house old town is being restored lane by lane. Distances are serious — this is a country four times the size of Rajasthan — so treat internal flights as part of the plan, not a luxury. For Indian travellers it is closer than it feels: four and a half hours non-stop from Delhi or Mumbai, food that leans familiar (kabsa is a cousin of biryani), and a winter season that lands exactly in India's holiday calendar.",
   "heroAlt": "Hegra's carved Nabataean tomb Qasr al-Farid rising from the AlUla desert at golden hour",
   "heroImage": {
-    "query": "hegra qasr al farid alula",
+    "query": "Elephant Rock AlUla",
     "alt": "The monolithic tomb of Qasr al-Farid at Hegra, AlUla, glowing at sunset"
   },
   "quickFacts": {
@@ -178,7 +178,7 @@
       "blurb": "Saudi's first UNESCO site: 100-plus monumental Nabataean tombs carved into rose sandstone, crowned by the lone monolith of Qasr al-Farid.",
       "detail": "Access is by guided tour only, booked through the Experience AlUla site or your hotel — vintage Land Rover tours cost more but are worth it for photographs. Go for the first slot of the morning or the golden-hour one; midday flattens the sandstone's colour and cooks the site even in winter. Guides walk you into tomb doorways Petra visitors can only look at from behind ropes, and crowds are still a fraction of Jordan's. Budget half a day, then pair it with Jabal Ikmah's inscriptions or a sunset at Elephant Rock ten minutes away.",
       "image": {
-        "query": "hegra madain salih nabataean tombs",
+        "query": "Hegra tombs Madain Salih",
         "alt": "Carved tomb facades in the sandstone outcrops of Hegra"
       }
     },
@@ -214,7 +214,7 @@
       "blurb": "The mud-brick birthplace of the Saudi state, restored into a UNESCO district of Najdi palaces, museums and one of Riyadh's best dining rows.",
       "detail": "Book timed tickets online for At-Turaif itself, then give the evening to Bujairi Terrace across the wadi — a strip of serious restaurants (several Indian-friendly) facing the floodlit citadel walls. The contrast is the attraction: 300-year-old adobe towers on one side, tasting menus on the other. Winter evenings are ideal; go around 4pm to walk the palace district in soft light and be seated for dinner as the walls light up. It's 25 minutes from central Riyadh by Uber, and easily combined with the National Museum earlier that day.",
       "image": {
-        "query": "diriyah at turaif mud brick palaces",
+        "query": "Diriyah At-Turaif mudbrick",
         "alt": "Restored Najdi mud-brick architecture of At-Turaif district lit at dusk"
       }
     },
@@ -226,7 +226,7 @@
       "blurb": "A 900-year-old maze of mud-brick homes reborn as a candle-lit evening quarter, with the 52m sandstone arch of Elephant Rock a short drive out.",
       "detail": "Do them as one evening: wander Old Town's restored lanes from about 4pm — craft shops, dates, and Saudi coffee poured from brass dallahs — then drive 15 minutes for sunset at Elephant Rock, where sunken fire-pit seating and coffee kiosks face the arch. Entry to both is free; Old Town runs a lively winter calendar of markets during the Winter at Tantora festival. The rock is at its best in the last hour of light when the sandstone goes copper. Book a table at one of Old Town's rooftop restaurants for after, since AlUla nights get genuinely cold.",
       "image": {
-        "query": "elephant rock alula sunset",
+        "query": "AlUla Old Town mudbrick",
         "alt": "The sandstone arch of Elephant Rock in AlUla glowing at sunset"
       }
     },
@@ -262,7 +262,7 @@
       "blurb": "Pristine reefs with barely any boats on them — day dives from Jeddah or Yanbu, and Maldives-grade sandbars off Umluj further north.",
       "detail": "Saudi's Red Sea coast has the same coral as Egypt's with a fraction of the traffic. From Jeddah, two-tank boat dives run about ₹8,000–12,000 with gear; Yanbu's wrecks and walls reward the extra drive. Non-divers should aim for Umluj, a fishing town four hours north of Yanbu, where boat trips loop white-sand islets over water so clear the boats look parked on glass. Visibility peaks in the cooler months, and the water stays swimmable all winter. Book dive shops with PADI listings in advance — operators are fewer than the coastline deserves, which is exactly why it feels private.",
       "image": {
-        "query": "umluj islands red sea saudi",
+        "query": "Red Sea coral reef fish",
         "alt": "Turquoise shallows and white sandbar islands off Umluj on the Red Sea"
       }
     },
@@ -298,7 +298,7 @@
       "category": "Adventure",
       "blurb": "Dune bashing, sandboarding and a Bedouin-style dinner camp in the red sands outside Riyadh or AlUla — from about ₹5,000 per person for an evening run.",
       "image": {
-        "query": "red sand dunes riyadh desert safari",
+        "query": "desert dunes 4x4 Arabia",
         "alt": "4x4 vehicles on red sand dunes outside Riyadh at dusk"
       }
     },
@@ -308,7 +308,7 @@
       "category": "Adventure",
       "blurb": "Dawn flights drift over Hegra's tombs and the canyon oasis; winter mornings only, around ₹25,000 and worth every rupee of it.",
       "image": {
-        "query": "hot air balloon alula desert",
+        "query": "hot air balloons desert AlUla",
         "alt": "Hot-air balloons floating over the sandstone formations of AlUla at sunrise"
       }
     },
@@ -371,7 +371,7 @@
       "summary": "The essential first-timer split. Three Riyadh nights cover Diriyah, the National Museum, Boulevard City and a sunset at the Edge of the World; then a short flight to AlUla for Hegra, Old Town evenings and Elephant Rock. Fast, dense and almost entirely winter-weather dependent, so aim for November to February.",
       "priceFrom": "₹95,000",
       "image": {
-        "query": "alula hegra desert landscape",
+        "query": "Edge of the World cliffs Riyadh",
         "alt": "Sandstone outcrops and desert road in the AlUla valley"
       }
     },
@@ -392,7 +392,7 @@
       "summary": "A long-weekend build around Jeddah's easy rhythm: Al-Balad evenings, a Red Sea dive or snorkel day, corniche sunsets and serious seafood, capped with a night up in Taif for rose farms, cool air and the Al-Hada cable car. Works shoulder season too, since Jeddah's sea breeze softens the heat.",
       "priceFrom": "₹72,000",
       "image": {
-        "query": "jeddah corniche red sea sunset",
+        "query": "Red Sea coast Saudi beach",
         "alt": "Jeddah's waterfront corniche at sunset with the Red Sea beyond"
       }
     },
@@ -417,7 +417,7 @@
       "summary": "The full sweep on internal flights: Riyadh's old-new contrast, three unhurried AlUla nights with room for a balloon flight and Wadi Al Disah, then out through Jeddah for the old town and a Red Sea boat day. Open-jaw flights (into Riyadh, out of Jeddah) save a backtrack and real money.",
       "priceFrom": "₹1,55,000",
       "image": {
-        "query": "qasr al farid hegra monolith",
+        "query": "AlUla canyon desert road",
         "alt": "The lone carved monolith of Qasr al-Farid standing in open desert"
       }
     }

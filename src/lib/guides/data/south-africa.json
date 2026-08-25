@@ -11,12 +11,23 @@
   "heroImage": {
     "query": "table mountain cape town city view",
     "alt": "Table Mountain looming over Cape Town's city bowl",
-    "candidates": ["https://images.unsplash.com/photo-1580060839134-75a5edca2e99"]
+    "candidates": [
+      "https://images.unsplash.com/photo-1580060839134-75a5edca2e99"
+    ]
   },
   "quickFacts": {
     "capital": "Pretoria (executive) · Cape Town (legislative)",
-    "currency": { "code": "ZAR", "name": "South African rand", "inr": "R1 ≈ ₹4.9" },
-    "languages": ["English", "Zulu", "Xhosa", "Afrikaans — 12 official in all"],
+    "currency": {
+      "code": "ZAR",
+      "name": "South African rand",
+      "inr": "R1 ≈ ₹4.9"
+    },
+    "languages": [
+      "English",
+      "Zulu",
+      "Xhosa",
+      "Afrikaans — 12 official in all"
+    ],
     "timezone": "GMT+2 · 3½ hrs behind IST",
     "flightFromIndia": "≈13–16 hrs with one stop via Addis, Nairobi or the Gulf to Johannesburg",
     "plug": "Type M/N · 230V — the chunky Type M needs its own adapter",
@@ -33,9 +44,27 @@
     "summary": "Southern-hemisphere seasons with two weather systems: Cape Town does dry Mediterranean summers and wet winters, while Kruger and Johannesburg run summer thunderstorms and bone-dry winters. The elegant trick is that safari's best season (dry winter, May–September) is Cape Town's moody-value season — every itinerary is a trade decided by your priority.",
     "bestTime": "May – September for safari · November – March for Cape Town",
     "seasons": [
-      { "label": "Dry winter — safari prime", "months": "May – Sep", "temp": "8–24°C", "notes": "Thin bush and shrinking waterholes concentrate game; cold dawn drives, perfect sighting odds. Cape Town is green, showery and half price.", "tone": "high" },
-      { "label": "Cape summer", "months": "Nov – Mar", "temp": "16–28°C", "notes": "Beach-and-mountain weather in the Cape, Winelands harvest glow; Kruger turns lush, hot and stormy with newborn game and thicker bush.", "tone": "shoulder" },
-      { "label": "The turnovers", "months": "Apr & Oct", "temp": "12–26°C", "notes": "Both systems behaving: decent game viewing, workable Cape weather, shoulder rates everywhere. The compromise months that rarely disappoint.", "tone": "low" }
+      {
+        "label": "Dry winter — safari prime",
+        "months": "May – Sep",
+        "temp": "8–24°C",
+        "notes": "Thin bush and shrinking waterholes concentrate game; cold dawn drives, perfect sighting odds. Cape Town is green, showery and half price.",
+        "tone": "high"
+      },
+      {
+        "label": "Cape summer",
+        "months": "Nov – Mar",
+        "temp": "16–28°C",
+        "notes": "Beach-and-mountain weather in the Cape, Winelands harvest glow; Kruger turns lush, hot and stormy with newborn game and thicker bush.",
+        "tone": "shoulder"
+      },
+      {
+        "label": "The turnovers",
+        "months": "Apr & Oct",
+        "temp": "12–26°C",
+        "notes": "Both systems behaving: decent game viewing, workable Cape weather, shoulder rates everywhere. The compromise months that rarely disappoint.",
+        "tone": "low"
+      }
     ]
   },
   "booking": {
@@ -49,9 +78,18 @@
   },
   "budget": {
     "perDay": [
-      { "tier": "Smart", "inr": "₹6,000 – 10,000" },
-      { "tier": "Comfort", "inr": "₹12,000 – 20,000" },
-      { "tier": "Luxe", "inr": "₹35,000+" }
+      {
+        "tier": "Smart",
+        "inr": "₹6,000 – 10,000"
+      },
+      {
+        "tier": "Comfort",
+        "inr": "₹12,000 – 20,000"
+      },
+      {
+        "tier": "Luxe",
+        "inr": "₹35,000+"
+      }
     ],
     "note": "Per person per day excluding safari lodges, which run ₹15,000–80,000+ per night all-inclusive. The rand makes restaurants, wine and Ubers feel misprinted in your favour — fine dining tops out where Mumbai starts."
   },
@@ -78,43 +116,346 @@
     "Malaria prophylaxis applies to Kruger in summer months; the Eastern Cape reserves and Madikwe are malaria-free alternatives for families."
   ],
   "cities": [
-    { "id": "cape-town", "name": "Cape Town", "blurb": "The mountain-city hybrid: cableway mornings, Camps Bay sunsets, Bo-Kaap's painted lanes and the V&A Waterfront — repeatedly voted the world's most beautiful city, with receipts.", "image": { "query": "cape town camps bay beach mountain", "alt": "Camps Bay beach beneath the Twelve Apostles ridge" } },
-    { "id": "kruger", "name": "Kruger & Sabi Sands", "blurb": "The flagship safari: a national park the size of a small country, ringed by private reserves where leopard sightings are a near-nightly business.", "image": { "query": "kruger leopard safari vehicle", "alt": "A leopard crossing in front of a safari vehicle in Kruger" } },
-    { "id": "winelands", "name": "Stellenbosch & Franschhoek", "blurb": "Cape Dutch gables, oak-lined streets and tasting rooms an hour from Cape Town — the wine tram makes designated driving nobody's problem.", "image": { "query": "stellenbosch vineyard mountains", "alt": "Vineyards running toward the Stellenbosch mountains" } },
-    { "id": "garden-route", "name": "The Garden Route", "blurb": "Knysna's lagoon, Plettenberg's beaches, Tsitsikamma's canopy and bridge bungee — 300 km of coast built for a slow self-drive.", "image": { "query": "knysna lagoon garden route", "alt": "Knysna's lagoon heads opening to the sea" } },
-    { "id": "durban", "name": "Durban", "blurb": "The subtropical Indian-influenced beach city: curry culture, the Golden Mile's warm surf, and Zulu heartland day trips inland.", "image": { "query": "durban golden mile beachfront", "alt": "Durban's Golden Mile beachfront curve" } },
-    { "id": "johannesburg", "name": "Johannesburg", "blurb": "The gateway with substance: the Apartheid Museum's gut-punch, Soweto's living history, Maboneng's street-art energy — worth a deliberate day, not just a layover.", "image": { "query": "johannesburg skyline maboneng", "alt": "Johannesburg's skyline beyond the Maboneng precinct" } }
+    {
+      "id": "cape-town",
+      "name": "Cape Town",
+      "blurb": "The mountain-city hybrid: cableway mornings, Camps Bay sunsets, Bo-Kaap's painted lanes and the V&A Waterfront — repeatedly voted the world's most beautiful city, with receipts.",
+      "image": {
+        "query": "cape town camps bay beach mountain",
+        "alt": "Camps Bay beach beneath the Twelve Apostles ridge"
+      }
+    },
+    {
+      "id": "kruger",
+      "name": "Kruger & Sabi Sands",
+      "blurb": "The flagship safari: a national park the size of a small country, ringed by private reserves where leopard sightings are a near-nightly business.",
+      "image": {
+        "query": "elephants Kruger national park",
+        "alt": "A leopard crossing in front of a safari vehicle in Kruger"
+      }
+    },
+    {
+      "id": "winelands",
+      "name": "Stellenbosch & Franschhoek",
+      "blurb": "Cape Dutch gables, oak-lined streets and tasting rooms an hour from Cape Town — the wine tram makes designated driving nobody's problem.",
+      "image": {
+        "query": "stellenbosch vineyard mountains",
+        "alt": "Vineyards running toward the Stellenbosch mountains"
+      }
+    },
+    {
+      "id": "garden-route",
+      "name": "The Garden Route",
+      "blurb": "Knysna's lagoon, Plettenberg's beaches, Tsitsikamma's canopy and bridge bungee — 300 km of coast built for a slow self-drive.",
+      "image": {
+        "query": "Garden Route coast Tsitsikamma",
+        "alt": "Knysna's lagoon heads opening to the sea"
+      }
+    },
+    {
+      "id": "durban",
+      "name": "Durban",
+      "blurb": "The subtropical Indian-influenced beach city: curry culture, the Golden Mile's warm surf, and Zulu heartland day trips inland.",
+      "image": {
+        "query": "Durban beachfront South Africa",
+        "alt": "Durban's Golden Mile beachfront curve"
+      }
+    },
+    {
+      "id": "johannesburg",
+      "name": "Johannesburg",
+      "blurb": "The gateway with substance: the Apartheid Museum's gut-punch, Soweto's living history, Maboneng's street-art energy — worth a deliberate day, not just a layover.",
+      "image": {
+        "query": "johannesburg skyline maboneng",
+        "alt": "Johannesburg's skyline beyond the Maboneng precinct"
+      }
+    }
   ],
   "highlights": [
-    { "id": "table-mountain", "rank": 1, "name": "Table Mountain cableway", "category": "Nature", "blurb": "Five minutes in a rotating cable car to a mountaintop plateau where the city, two oceans and 1,500 plant species share the view.", "detail": "The revolving cars spin gently on the ascent so every position gets the reveal: city bowl, Robben Island, the Atlantic seaboard's beaches. Up top, flat walking trails wander a plateau richer in plant species than the entire United Kingdom, with dassies (rock hyrax) posing on every second boulder. Go the first clear morning of your stay — afternoon cloud, the famous 'tablecloth', cancels visibility without refunding wonder — and book online to skip the ticket queue. The fit alternative up is Platteklip Gorge, two-plus steep hours; almost everyone hikes up and rides down. Sunset slots are magic but sell fastest.", "image": { "query": "table mountain cableway rotating car", "alt": "The rotating cable car rising up Table Mountain" } },
-    { "id": "big-five-safari", "rank": 2, "name": "Big Five game drives, Sabi Sands", "category": "Wildlife", "blurb": "Open Land Cruisers off-road to leopards at arm's length — the private reserves beside Kruger run Africa's most reliable wildlife theatre.", "detail": "The private reserves on Kruger's unfenced western edge — Sabi Sands above all — are where the famous photos happen: trackers on the bonnet reading spoor, radios coordinating sightings, and off-road rights that put you six respectful metres from a leopard ignoring you completely. Days run to safari rhythm — dawn drive, long lazy middle, dusk drive rolling into night with spotlights — with all meals in. Two nights is the honest minimum, three the sweet spot. Winter (May–Sep) stacks the odds highest. Budget alternative with real merit: self-driving Kruger's public roads costs a twentieth as much and delivers elephants at your bumper, just without the off-road leopard privileges.", "image": { "query": "safari sunrise elephants kruger", "alt": "Elephants crossing at dawn in front of a safari vehicle" } },
-    { "id": "cape-point-drive", "rank": 3, "name": "Cape Peninsula loop & Chapman's Peak", "category": "Scenic", "blurb": "The day-drive of days: Chapman's Peak's cliff road, Cape Point's lighthouse cliffs and penguins at Boulders — one perfect loop.", "detail": "Run it clockwise from Cape Town: breakfast in Hout Bay, then Chapman's Peak Drive — 114 curves cut into a cliff face above the Atlantic, worth every rand of the toll — down the peninsula to Cape Point, where the funicular or a 15-minute walk gains the old lighthouse and its two-ocean panorama. Round the corner to the Cape of Good Hope sign for the obligatory photo, watch baboons with your windows up, then return via Boulders Beach's penguin boardwalks and Simon's Town's naval charm. Kalk Bay's harbour cafés close it out. Self-drive gives freedom; full-day tours pack the identical loop for solo travellers. Start by 8am — the light and the parking both reward it.", "image": { "query": "chapmans peak drive coast road", "alt": "Chapman's Peak Drive curving above the Atlantic" } },
-    { "id": "boulders-penguins", "rank": 4, "name": "Penguins at Boulders Beach", "category": "Wildlife", "blurb": "Three thousand African penguins commuting between granite boulders and turquoise shallows — comedy and conservation in one cove.", "detail": "The Boulders colony settled in 1982 and never left, waddling between nesting scrapes and the surf with the gravity of tiny commuters. Boardwalks at Foxy Beach put you metres from the densest crowds without disturbing them; the adjacent swimming cove lets you share actual water with penguins torpedoing past — one of travel's great absurd joys. Go before 9am or after 4pm to miss coach tours and catch active birds; midday is nap-time. It's a SANParks site, so the Wild Card pass covers entry alongside Cape Point. The species is endangered — keep the two-metre rule and never touch, however invitingly they ignore you.", "image": { "query": "boulders beach penguins swimming", "alt": "African penguins on the sand between Boulders' granite rocks" } },
-    { "id": "robben-island", "rank": 5, "name": "Robben Island", "category": "History", "blurb": "The prison island where Mandela spent 18 years — toured with former political prisoners as your guides.", "detail": "The ferry from the V&A Waterfront crosses to the island museum in thirty minutes, and the tour's power is its guides: former political prisoners walk you through the limestone quarry where inmates studied in secret, then the B-Section corridor to cell number 5 — Mandela's, kept as it was. Their first-person testimony turns history physical in a way no plaque manages. Book online days ahead (sailings sell out and seas cancel some), take morning ferries for calmer water, and pair it that afternoon with the District Six Museum in town to complete the apartheid-era picture. Allow four hours door to door; it anchors any Cape Town itinerary with meaning.", "image": { "query": "robben island prison cell mandela", "alt": "The corridor of B-Section at Robben Island prison" } },
-    { "id": "winelands-day", "rank": 6, "name": "Winelands tasting day", "category": "Food", "blurb": "Cape Dutch estates, mountain amphitheatres and five-pour tastings at pocket change — Stellenbosch and Franschhoek, decadently close.", "detail": "Forty-five minutes from Cape Town, the Winelands compress three centuries of estates into two valleys. Stellenbosch brings oak-lined streets and heavyweight cabernets; Franschhoek — 'French corner', settled by Huguenots — answers with méthode cap classique bubbles and the country's densest restaurant row. The logistics solved themselves: the Franschhoek Wine Tram's hop-on loops link estates so nobody drives, and tastings run ₹150–400 for pours that embarrass their price. Book one serious lunch (Babylonstoren's garden-to-table setting is the icon) and let the rest wander. Harvest (Feb–Mar) adds vineyard bustle; winter wraps tastings around fireplaces. As day trips go, this one over-delivers hardest.", "image": { "query": "franschhoek wine tram vineyard", "alt": "The Franschhoek wine tram passing through vineyards" } },
-    { "id": "garden-route-drive", "rank": 7, "name": "Garden Route self-drive", "category": "Scenic", "blurb": "Lagoon towns, forest gorges and whale coasts from Mossel Bay to Storms River — South Africa's gentlest great drive.", "detail": "The N2 between Mossel Bay and Storms River packs a country's worth of coast into 300 unhurried kilometres. The rhythm: Wilderness' beach and paragliding ridge, Knysna's lagoon heads and oyster festival energy, Plettenberg Bay's beaches, and the crescendo at Tsitsikamma — where the Storms River suspension bridge hangs over a dark mouth of colliding water and the world's highest bridge bungee (216 m, Bloukrans) waits for the brave. Three to four nights suits it; add Oudtshoorn's ostrich farms and Cango Caves via the inland Route 62 loop home. June–November overlaps southern right whale season in Hermanus, the detour that upgrades the whole drive.", "image": { "query": "tsitsikamma storms river bridge", "alt": "The suspension bridge over Storms River mouth" } },
-    { "id": "lions-head", "rank": 8, "name": "Lion's Head at sunrise", "category": "Adventure", "blurb": "A 90-minute spiral to a 669 m summit with Table Mountain, the city and the Atlantic arranged around you — Cape Town's ritual hike.", "detail": "The path corkscrews the peak so the view rotates as you climb: city bowl, then the Apostles, then Camps Bay's beaches glowing under you. The final section offers chains-and-ladders for the direct line or a gentler bypass; both funnel to a summit that hosts the city's best sunrise and full-moon gatherings — hiking down by moonlight with a hundred headlamps is a Cape tradition. Go in groups, start 90 minutes before sunrise, and carry layers for the summit wind. It's free, needs no booking, and delivers arguably a better panorama than Table Mountain itself — because Table Mountain is in it.", "image": { "query": "lions head summit sunrise cape town", "alt": "Hikers on Lion's Head summit above a dawn-lit Cape Town" } },
-    { "id": "apartheid-soweto", "rank": 9, "name": "Apartheid Museum & Soweto", "category": "History", "blurb": "Johannesburg's essential day: the museum that explains everything, then Vilakazi Street — the only street with two Nobel laureates' homes.", "detail": "The Apartheid Museum is among the world's great historical museums — your entry ticket randomly assigns 'white' or 'non-white' gates, and the architecture of cages and corridors does the rest. Give it three hours, then carry the context into Soweto: Mandela's matchbox house on Vilakazi Street (Archbishop Tutu lived a block down), the Hector Pieterson Memorial marking the 1976 student uprising, and lunch at a chesa nyama grill among Sunday-best crowds. Guided tours — including cycling versions run by residents — handle logistics and add lived narration worth far more than the fee. It reframes every beautiful thing you'll see in the rest of the country.", "image": { "query": "soweto vilakazi street mandela house", "alt": "Vilakazi Street and Mandela's former home in Soweto" } },
-    { "id": "shark-whale", "rank": 10, "name": "Whales at Hermanus & ocean safaris", "category": "Wildlife", "blurb": "Southern right whales breaching metres off the cliff path June to November — the world's best land-based whale watching.", "detail": "Hermanus, ninety minutes from Cape Town, built the world's only whale crier into its civic staff for a reason: in season, southern rights calve so close to shore that the 12 km cliff path functions as a grandstand — no boat required, though boat-based encounters get within respectful metres. Peak breaching runs September–October, coinciding with the Hermanus Whale Festival. Pair the day with the coastal Clarence Drive (R44) via Betty's Bay's penguin colony — Boulders' uncrowded understudy — and lunch overlooking Walker Bay. Marine big-five boat safaris from nearby Gansbaai add seals, sharks and sunfish to the ledger. From June to November, no Cape itinerary should skip it.", "image": { "query": "southern right whale breaching hermanus", "alt": "A southern right whale breaching off Hermanus" } }
+    {
+      "id": "table-mountain",
+      "rank": 1,
+      "name": "Table Mountain cableway",
+      "category": "Nature",
+      "blurb": "Five minutes in a rotating cable car to a mountaintop plateau where the city, two oceans and 1,500 plant species share the view.",
+      "detail": "The revolving cars spin gently on the ascent so every position gets the reveal: city bowl, Robben Island, the Atlantic seaboard's beaches. Up top, flat walking trails wander a plateau richer in plant species than the entire United Kingdom, with dassies (rock hyrax) posing on every second boulder. Go the first clear morning of your stay — afternoon cloud, the famous 'tablecloth', cancels visibility without refunding wonder — and book online to skip the ticket queue. The fit alternative up is Platteklip Gorge, two-plus steep hours; almost everyone hikes up and rides down. Sunset slots are magic but sell fastest.",
+      "image": {
+        "query": "table mountain cableway rotating car",
+        "alt": "The rotating cable car rising up Table Mountain"
+      }
+    },
+    {
+      "id": "big-five-safari",
+      "rank": 2,
+      "name": "Big Five game drives, Sabi Sands",
+      "category": "Wildlife",
+      "blurb": "Open Land Cruisers off-road to leopards at arm's length — the private reserves beside Kruger run Africa's most reliable wildlife theatre.",
+      "detail": "The private reserves on Kruger's unfenced western edge — Sabi Sands above all — are where the famous photos happen: trackers on the bonnet reading spoor, radios coordinating sightings, and off-road rights that put you six respectful metres from a leopard ignoring you completely. Days run to safari rhythm — dawn drive, long lazy middle, dusk drive rolling into night with spotlights — with all meals in. Two nights is the honest minimum, three the sweet spot. Winter (May–Sep) stacks the odds highest. Budget alternative with real merit: self-driving Kruger's public roads costs a twentieth as much and delivers elephants at your bumper, just without the off-road leopard privileges.",
+      "image": {
+        "query": "lion pride Kruger",
+        "alt": "Elephants crossing at dawn in front of a safari vehicle"
+      }
+    },
+    {
+      "id": "cape-point-drive",
+      "rank": 3,
+      "name": "Cape Peninsula loop & Chapman's Peak",
+      "category": "Scenic",
+      "blurb": "The day-drive of days: Chapman's Peak's cliff road, Cape Point's lighthouse cliffs and penguins at Boulders — one perfect loop.",
+      "detail": "Run it clockwise from Cape Town: breakfast in Hout Bay, then Chapman's Peak Drive — 114 curves cut into a cliff face above the Atlantic, worth every rand of the toll — down the peninsula to Cape Point, where the funicular or a 15-minute walk gains the old lighthouse and its two-ocean panorama. Round the corner to the Cape of Good Hope sign for the obligatory photo, watch baboons with your windows up, then return via Boulders Beach's penguin boardwalks and Simon's Town's naval charm. Kalk Bay's harbour cafés close it out. Self-drive gives freedom; full-day tours pack the identical loop for solo travellers. Start by 8am — the light and the parking both reward it.",
+      "image": {
+        "query": "chapmans peak drive coast road",
+        "alt": "Chapman's Peak Drive curving above the Atlantic"
+      }
+    },
+    {
+      "id": "boulders-penguins",
+      "rank": 4,
+      "name": "Penguins at Boulders Beach",
+      "category": "Wildlife",
+      "blurb": "Three thousand African penguins commuting between granite boulders and turquoise shallows — comedy and conservation in one cove.",
+      "detail": "The Boulders colony settled in 1982 and never left, waddling between nesting scrapes and the surf with the gravity of tiny commuters. Boardwalks at Foxy Beach put you metres from the densest crowds without disturbing them; the adjacent swimming cove lets you share actual water with penguins torpedoing past — one of travel's great absurd joys. Go before 9am or after 4pm to miss coach tours and catch active birds; midday is nap-time. It's a SANParks site, so the Wild Card pass covers entry alongside Cape Point. The species is endangered — keep the two-metre rule and never touch, however invitingly they ignore you.",
+      "image": {
+        "query": "boulders beach penguins swimming",
+        "alt": "African penguins on the sand between Boulders' granite rocks"
+      }
+    },
+    {
+      "id": "robben-island",
+      "rank": 5,
+      "name": "Robben Island",
+      "category": "History",
+      "blurb": "The prison island where Mandela spent 18 years — toured with former political prisoners as your guides.",
+      "detail": "The ferry from the V&A Waterfront crosses to the island museum in thirty minutes, and the tour's power is its guides: former political prisoners walk you through the limestone quarry where inmates studied in secret, then the B-Section corridor to cell number 5 — Mandela's, kept as it was. Their first-person testimony turns history physical in a way no plaque manages. Book online days ahead (sailings sell out and seas cancel some), take morning ferries for calmer water, and pair it that afternoon with the District Six Museum in town to complete the apartheid-era picture. Allow four hours door to door; it anchors any Cape Town itinerary with meaning.",
+      "image": {
+        "query": "robben island prison cell mandela",
+        "alt": "The corridor of B-Section at Robben Island prison"
+      }
+    },
+    {
+      "id": "winelands-day",
+      "rank": 6,
+      "name": "Winelands tasting day",
+      "category": "Food",
+      "blurb": "Cape Dutch estates, mountain amphitheatres and five-pour tastings at pocket change — Stellenbosch and Franschhoek, decadently close.",
+      "detail": "Forty-five minutes from Cape Town, the Winelands compress three centuries of estates into two valleys. Stellenbosch brings oak-lined streets and heavyweight cabernets; Franschhoek — 'French corner', settled by Huguenots — answers with méthode cap classique bubbles and the country's densest restaurant row. The logistics solved themselves: the Franschhoek Wine Tram's hop-on loops link estates so nobody drives, and tastings run ₹150–400 for pours that embarrass their price. Book one serious lunch (Babylonstoren's garden-to-table setting is the icon) and let the rest wander. Harvest (Feb–Mar) adds vineyard bustle; winter wraps tastings around fireplaces. As day trips go, this one over-delivers hardest.",
+      "image": {
+        "query": "franschhoek wine tram vineyard",
+        "alt": "The Franschhoek wine tram passing through vineyards"
+      }
+    },
+    {
+      "id": "garden-route-drive",
+      "rank": 7,
+      "name": "Garden Route self-drive",
+      "category": "Scenic",
+      "blurb": "Lagoon towns, forest gorges and whale coasts from Mossel Bay to Storms River — South Africa's gentlest great drive.",
+      "detail": "The N2 between Mossel Bay and Storms River packs a country's worth of coast into 300 unhurried kilometres. The rhythm: Wilderness' beach and paragliding ridge, Knysna's lagoon heads and oyster festival energy, Plettenberg Bay's beaches, and the crescendo at Tsitsikamma — where the Storms River suspension bridge hangs over a dark mouth of colliding water and the world's highest bridge bungee (216 m, Bloukrans) waits for the brave. Three to four nights suits it; add Oudtshoorn's ostrich farms and Cango Caves via the inland Route 62 loop home. June–November overlaps southern right whale season in Hermanus, the detour that upgrades the whole drive.",
+      "image": {
+        "query": "tsitsikamma storms river bridge",
+        "alt": "The suspension bridge over Storms River mouth"
+      }
+    },
+    {
+      "id": "lions-head",
+      "rank": 8,
+      "name": "Lion's Head at sunrise",
+      "category": "Adventure",
+      "blurb": "A 90-minute spiral to a 669 m summit with Table Mountain, the city and the Atlantic arranged around you — Cape Town's ritual hike.",
+      "detail": "The path corkscrews the peak so the view rotates as you climb: city bowl, then the Apostles, then Camps Bay's beaches glowing under you. The final section offers chains-and-ladders for the direct line or a gentler bypass; both funnel to a summit that hosts the city's best sunrise and full-moon gatherings — hiking down by moonlight with a hundred headlamps is a Cape tradition. Go in groups, start 90 minutes before sunrise, and carry layers for the summit wind. It's free, needs no booking, and delivers arguably a better panorama than Table Mountain itself — because Table Mountain is in it.",
+      "image": {
+        "query": "Lions Head peak Cape Town",
+        "alt": "Hikers on Lion's Head summit above a dawn-lit Cape Town"
+      }
+    },
+    {
+      "id": "apartheid-soweto",
+      "rank": 9,
+      "name": "Apartheid Museum & Soweto",
+      "category": "History",
+      "blurb": "Johannesburg's essential day: the museum that explains everything, then Vilakazi Street — the only street with two Nobel laureates' homes.",
+      "detail": "The Apartheid Museum is among the world's great historical museums — your entry ticket randomly assigns 'white' or 'non-white' gates, and the architecture of cages and corridors does the rest. Give it three hours, then carry the context into Soweto: Mandela's matchbox house on Vilakazi Street (Archbishop Tutu lived a block down), the Hector Pieterson Memorial marking the 1976 student uprising, and lunch at a chesa nyama grill among Sunday-best crowds. Guided tours — including cycling versions run by residents — handle logistics and add lived narration worth far more than the fee. It reframes every beautiful thing you'll see in the rest of the country.",
+      "image": {
+        "query": "Soweto Orlando Towers",
+        "alt": "Vilakazi Street and Mandela's former home in Soweto"
+      }
+    },
+    {
+      "id": "shark-whale",
+      "rank": 10,
+      "name": "Whales at Hermanus & ocean safaris",
+      "category": "Wildlife",
+      "blurb": "Southern right whales breaching metres off the cliff path June to November — the world's best land-based whale watching.",
+      "detail": "Hermanus, ninety minutes from Cape Town, built the world's only whale crier into its civic staff for a reason: in season, southern rights calve so close to shore that the 12 km cliff path functions as a grandstand — no boat required, though boat-based encounters get within respectful metres. Peak breaching runs September–October, coinciding with the Hermanus Whale Festival. Pair the day with the coastal Clarence Drive (R44) via Betty's Bay's penguin colony — Boulders' uncrowded understudy — and lunch overlooking Walker Bay. Marine big-five boat safaris from nearby Gansbaai add seals, sharks and sunfish to the ledger. From June to November, no Cape itinerary should skip it.",
+      "image": {
+        "query": "southern right whale breaching hermanus",
+        "alt": "A southern right whale breaching off Hermanus"
+      }
+    }
   ],
   "activities": [
-    { "id": "bloukrans-bungee", "name": "Bloukrans bridge bungee", "category": "Adventure", "blurb": "216 metres off the world's highest bridge bungee — seven seconds of Garden Route freefall.", "image": { "query": "bloukrans bridge bungee jump", "alt": "A jumper diving off the Bloukrans bridge" } },
-    { "id": "paragliding-signal", "name": "Paragliding off Signal Hill", "category": "Adventure", "blurb": "Tandem launches over Sea Point with Table Mountain behind and champagne beaches below.", "image": { "query": "paragliding cape town signal hill", "alt": "A paraglider soaring over Cape Town's coastline" } },
-    { "id": "bokaap-cooking", "name": "Bo-Kaap Cape Malay cooking class", "category": "Food", "blurb": "Fold samoosas and simmer denningvleis in the painted quarter where the recipes were born.", "image": { "query": "bo kaap colorful houses cape town", "alt": "The candy-coloured houses of Bo-Kaap" } },
-    { "id": "kirstenbosch", "name": "Kirstenbosch gardens & canopy walk", "category": "Nature", "blurb": "A botanical amphitheatre on Table Mountain's east flank, with the 'Boomslang' walkway snaking through the treetops.", "image": { "query": "kirstenbosch canopy walkway boomslang", "alt": "The curved canopy walkway above Kirstenbosch gardens" } },
-    { "id": "ocean-safari", "name": "Marine big-five boat safari", "category": "Wildlife", "blurb": "Whales, seals, penguins, dolphins and sharks in one Walker Bay morning out of Gansbaai.", "image": { "query": "whale watching boat south africa", "alt": "Whale watchers leaning toward a surfacing whale" } },
-    { "id": "sunset-camps-bay", "name": "Camps Bay sunset strip", "category": "Lifestyle", "blurb": "Cocktails on the palm-lined strip as the Twelve Apostles blush pink — Cape Town's nightly closing ceremony.", "image": { "query": "camps bay sunset palm trees", "alt": "Camps Bay's palms against a pink Atlantic sunset" } }
+    {
+      "id": "bloukrans-bungee",
+      "name": "Bloukrans bridge bungee",
+      "category": "Adventure",
+      "blurb": "216 metres off the world's highest bridge bungee — seven seconds of Garden Route freefall.",
+      "image": {
+        "query": "bloukrans bridge bungee jump",
+        "alt": "A jumper diving off the Bloukrans bridge"
+      }
+    },
+    {
+      "id": "paragliding-signal",
+      "name": "Paragliding off Signal Hill",
+      "category": "Adventure",
+      "blurb": "Tandem launches over Sea Point with Table Mountain behind and champagne beaches below.",
+      "image": {
+        "query": "paraglider above Cape Town coast",
+        "alt": "A paraglider soaring over Cape Town's coastline"
+      }
+    },
+    {
+      "id": "bokaap-cooking",
+      "name": "Bo-Kaap Cape Malay cooking class",
+      "category": "Food",
+      "blurb": "Fold samoosas and simmer denningvleis in the painted quarter where the recipes were born.",
+      "image": {
+        "query": "bo kaap colorful houses cape town",
+        "alt": "The candy-coloured houses of Bo-Kaap"
+      }
+    },
+    {
+      "id": "kirstenbosch",
+      "name": "Kirstenbosch gardens & canopy walk",
+      "category": "Nature",
+      "blurb": "A botanical amphitheatre on Table Mountain's east flank, with the 'Boomslang' walkway snaking through the treetops.",
+      "image": {
+        "query": "kirstenbosch canopy walkway boomslang",
+        "alt": "The curved canopy walkway above Kirstenbosch gardens"
+      }
+    },
+    {
+      "id": "ocean-safari",
+      "name": "Marine big-five boat safari",
+      "category": "Wildlife",
+      "blurb": "Whales, seals, penguins, dolphins and sharks in one Walker Bay morning out of Gansbaai.",
+      "image": {
+        "query": "whale watching boat south africa",
+        "alt": "Whale watchers leaning toward a surfacing whale"
+      }
+    },
+    {
+      "id": "sunset-camps-bay",
+      "name": "Camps Bay sunset strip",
+      "category": "Lifestyle",
+      "blurb": "Cocktails on the palm-lined strip as the Twelve Apostles blush pink — Cape Town's nightly closing ceremony.",
+      "image": {
+        "query": "Camps Bay beach palms",
+        "alt": "Camps Bay's palms against a pink Atlantic sunset"
+      }
+    }
   ],
   "trips": [
-    { "id": "cape-safari-classic", "title": "Cape Town & Kruger classic", "nights": 9, "route": [ { "place": "Cape Town", "nights": 4 }, { "place": "Winelands", "nights": 2 }, { "place": "Sabi Sands", "nights": 3 } ], "summary": "The definitive South Africa: Table Mountain, the peninsula loop and Robben Island; two Winelands nights of tastings and long lunches; then a flight north for three days of Big Five theatre. City, wine and wild — no country balances the three better.", "priceFrom": "₹2,40,000", "image": { "query": "cape town aerial peninsula", "alt": "The Cape Peninsula curving away below Table Mountain" } },
-    { "id": "garden-route-family", "title": "Garden Route & malaria-free safari", "nights": 10, "route": [ { "place": "Cape Town", "nights": 3 }, { "place": "Knysna", "nights": 3 }, { "place": "Plettenberg Bay", "nights": 2 }, { "place": "Eastern Cape reserve", "nights": 2 } ], "summary": "The family self-drive: penguins and cableway days, lagoon kayaks and Tsitsikamma's bridges, ending in a malaria-free Eastern Cape reserve where kids under twelve are welcomed on drives. All the wonder, none of the prophylaxis.", "priceFrom": "₹2,55,000", "image": { "query": "garden route coast beach family", "alt": "The Garden Route's coastline of beaches and headlands" } },
-    { "id": "honeymoon-luxe", "title": "Vineyards & leopards honeymoon", "nights": 8, "route": [ { "place": "Cape Town", "nights": 3 }, { "place": "Franschhoek", "nights": 2 }, { "place": "Sabi Sands", "nights": 3 } ], "summary": "Clifton sunsets and a private peninsula day, Franschhoek's tasting-room lunches and cap classique breakfasts, then a leopard-famous lodge where the plunge pool overlooks a game-busy riverbed. South Africa's rand turns honeymoon-luxe genuinely attainable.", "priceFrom": "₹3,10,000", "image": { "query": "luxury safari lodge deck sunset", "alt": "A safari lodge deck with sundowners at dusk" } }
+    {
+      "id": "cape-safari-classic",
+      "title": "Cape Town & Kruger classic",
+      "nights": 9,
+      "route": [
+        {
+          "place": "Cape Town",
+          "nights": 4
+        },
+        {
+          "place": "Winelands",
+          "nights": 2
+        },
+        {
+          "place": "Sabi Sands",
+          "nights": 3
+        }
+      ],
+      "summary": "The definitive South Africa: Table Mountain, the peninsula loop and Robben Island; two Winelands nights of tastings and long lunches; then a flight north for three days of Big Five theatre. City, wine and wild — no country balances the three better.",
+      "priceFrom": "₹2,40,000",
+      "image": {
+        "query": "Table Mountain Cape Town view",
+        "alt": "The Cape Peninsula curving away below Table Mountain"
+      }
+    },
+    {
+      "id": "garden-route-family",
+      "title": "Garden Route & malaria-free safari",
+      "nights": 10,
+      "route": [
+        {
+          "place": "Cape Town",
+          "nights": 3
+        },
+        {
+          "place": "Knysna",
+          "nights": 3
+        },
+        {
+          "place": "Plettenberg Bay",
+          "nights": 2
+        },
+        {
+          "place": "Eastern Cape reserve",
+          "nights": 2
+        }
+      ],
+      "summary": "The family self-drive: penguins and cableway days, lagoon kayaks and Tsitsikamma's bridges, ending in a malaria-free Eastern Cape reserve where kids under twelve are welcomed on drives. All the wonder, none of the prophylaxis.",
+      "priceFrom": "₹2,55,000",
+      "image": {
+        "query": "Knysna lagoon heads",
+        "alt": "The Garden Route's coastline of beaches and headlands"
+      }
+    },
+    {
+      "id": "honeymoon-luxe",
+      "title": "Vineyards & leopards honeymoon",
+      "nights": 8,
+      "route": [
+        {
+          "place": "Cape Town",
+          "nights": 3
+        },
+        {
+          "place": "Franschhoek",
+          "nights": 2
+        },
+        {
+          "place": "Sabi Sands",
+          "nights": 3
+        }
+      ],
+      "summary": "Clifton sunsets and a private peninsula day, Franschhoek's tasting-room lunches and cap classique breakfasts, then a leopard-famous lodge where the plunge pool overlooks a game-busy riverbed. South Africa's rand turns honeymoon-luxe genuinely attainable.",
+      "priceFrom": "₹3,10,000",
+      "image": {
+        "query": "luxury safari lodge deck sunset",
+        "alt": "A safari lodge deck with sundowners at dusk"
+      }
+    }
   ],
   "faqs": [
-    { "q": "Is South Africa safe for tourists?", "a": "Millions visit smoothly every year by following the local protocol: Ubers after dark, no visible valuables on streets, hotel advice on walkable areas, and daylight driving between towns. Tourist zones — the Cape, Winelands, Garden Route, safari lodges — feel relaxed; the caution budget is spent mostly in city centres at night." },
-    { "q": "When should we go — safari or Cape weather?", "a": "Pick your priority: May–September is prime game viewing (dry, thin bush) while Cape Town runs green, showery and cheap; November–March flips it. April, May and September are the elegant compromises where one itinerary catches both moods." },
-    { "q": "Kruger self-drive or private lodge?", "a": "Both are legitimate: self-driving Kruger's public roads costs a fraction and delivers big sightings from your own car; private reserves like Sabi Sands add off-road tracking, expert guides, night drives and near-guaranteed leopards at all-inclusive prices. Many trips sensibly do one night self-drive, two nights lodge." },
-    { "q": "Do we need malaria tablets?", "a": "For Kruger and Sabi Sands, prophylaxis is recommended especially in the wet summer months — consult a travel clinic. Families and the pill-averse can choose malaria-free Big Five reserves in the Eastern Cape, Madikwe or Pilanesberg and skip the question entirely." },
-    { "q": "How is it for vegetarians and Indian travellers?", "a": "Outstanding — South Africa's large Indian community (Durban holds one of the biggest Indian populations outside India) means real Indian food everywhere, bunny chow as a national dish, and safari lodges that handle veg and Jain requests gracefully with notice." }
+    {
+      "q": "Is South Africa safe for tourists?",
+      "a": "Millions visit smoothly every year by following the local protocol: Ubers after dark, no visible valuables on streets, hotel advice on walkable areas, and daylight driving between towns. Tourist zones — the Cape, Winelands, Garden Route, safari lodges — feel relaxed; the caution budget is spent mostly in city centres at night."
+    },
+    {
+      "q": "When should we go — safari or Cape weather?",
+      "a": "Pick your priority: May–September is prime game viewing (dry, thin bush) while Cape Town runs green, showery and cheap; November–March flips it. April, May and September are the elegant compromises where one itinerary catches both moods."
+    },
+    {
+      "q": "Kruger self-drive or private lodge?",
+      "a": "Both are legitimate: self-driving Kruger's public roads costs a fraction and delivers big sightings from your own car; private reserves like Sabi Sands add off-road tracking, expert guides, night drives and near-guaranteed leopards at all-inclusive prices. Many trips sensibly do one night self-drive, two nights lodge."
+    },
+    {
+      "q": "Do we need malaria tablets?",
+      "a": "For Kruger and Sabi Sands, prophylaxis is recommended especially in the wet summer months — consult a travel clinic. Families and the pill-averse can choose malaria-free Big Five reserves in the Eastern Cape, Madikwe or Pilanesberg and skip the question entirely."
+    },
+    {
+      "q": "How is it for vegetarians and Indian travellers?",
+      "a": "Outstanding — South Africa's large Indian community (Durban holds one of the biggest Indian populations outside India) means real Indian food everywhere, bunny chow as a national dish, and safari lodges that handle veg and Jain requests gracefully with notice."
+    }
   ]
 }

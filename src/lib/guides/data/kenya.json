@@ -120,7 +120,7 @@
       "name": "Nairobi",
       "blurb": "The only capital with a national park on its doorstep — lions with a skyline backdrop, baby elephants at Sheldrick, and a deep Indian food scene from Diamond Plaza to Westlands.",
       "image": {
-        "query": "nairobi skyline national park",
+        "query": "Nairobi city skyline",
         "alt": "Giraffe in Nairobi National Park with the city skyline behind"
       }
     },
@@ -129,7 +129,7 @@
       "name": "Masai Mara",
       "blurb": "Kenya's headline act: rolling savannah with the country's densest big-cat population, tented camps from honest to outrageous, and the wildebeest migration crossing its rivers July to October.",
       "image": {
-        "query": "masai mara savannah wildebeest",
+        "query": "Masai Mara savanna acacia",
         "alt": "Wildebeest herds scattered across the open Masai Mara grassland"
       }
     },
@@ -159,7 +159,7 @@
       "name": "Diani Beach",
       "blurb": "Seventeen kilometres of powder-white sand south of Mombasa, with reef-protected swimming, colobus monkeys in the beachside forest, and resorts that undercut the Maldives by half.",
       "image": {
-        "query": "diani beach white sand palm",
+        "query": "Diani beach white sand palms",
         "alt": "White sand and turquoise shallows lined with palms at Diani Beach"
       }
     },
@@ -182,7 +182,7 @@
       "blurb": "The most reliable big-cat sightings in Africa, on open savannah where lion prides, cheetah families and leopards go about their day metres from your vehicle.",
       "detail": "Do it as three nights minimum — one is a tease, three lets your guide work the territory properly. Days run to a rhythm: out by 6.30am when cats are active, back for a long lunch, out again at 4pm for golden light. Staying inside the reserve or in a private conservancy like Naboisho costs more but saves an hour of gate commuting each way and allows off-road driving and night drives that the main reserve forbids. Fly from Nairobi's Wilson Airport in 45 minutes rather than driving five-plus hours on rough roads; the fare is usually worth every rupee.",
       "image": {
-        "query": "masai mara lion safari vehicle",
+        "query": "safari jeep Masai Mara game drive",
         "alt": "Safari vehicle watching a lion pride on the Mara plains"
       }
     },
@@ -206,11 +206,8 @@
       "blurb": "Africa's most studied elephant herds cross dusty lake flats with Kilimanjaro looming behind — the continent's single most famous photographic backdrop.",
       "detail": "The mountain hides behind cloud most of the day, so the game is timing: it usually clears at dawn and again around sunset, which is when the classic elephants-and-Kili frame happens. Base two nights at a lodge inside or beside the park and do the 6am drive both mornings. Amboseli's elephants include some of the last great tuskers alive, and the swamps at the park's centre guarantee sightings even in dry months. It pairs naturally with the Mara on a week-long loop — most operators run the two as a circuit with a Nairobi night between, or connect via a short flight.",
       "image": {
-        "query": "amboseli elephant kilimanjaro sunrise",
-        "alt": "Elephant herd on Amboseli's flats with snow-capped Kilimanjaro behind",
-        "candidates": [
-          "https://images.unsplash.com/photo-1489392191049-fc10c97e64b6"
-        ]
+        "query": "elephants Amboseli Kilimanjaro",
+        "alt": "Elephant herd on Amboseli's flats with snow-capped Kilimanjaro behind"
       }
     },
     {
@@ -233,7 +230,7 @@
       "blurb": "Nairobi's back-to-back animal encounters: orphaned baby elephants at their mud-bath hour, then hand-feeding endangered Rothschild's giraffes from a raised platform.",
       "detail": "The Sheldrick Wildlife Trust opens to visitors for a single public hour, 11am to noon, when keepers bottle-feed the orphans and the calves wallow spectacularly — book online well ahead as daily numbers are capped. The Giraffe Centre ten minutes away runs all day, so do Sheldrick first and giraffes after. Both sit in the Karen suburb, which makes a tidy half-day with lunch at one of the garden restaurants nearby; add the Karen Blixen Museum if the name Out of Africa means anything to you. It is the perfect first-morning plan while you shake off the flight.",
       "image": {
-        "query": "sheldrick baby elephant keeper nairobi",
+        "query": "Rothschild giraffe feeding Nairobi",
         "alt": "Keeper bottle-feeding an orphaned elephant calf at the Sheldrick Trust"
       }
     },
@@ -281,7 +278,7 @@
       "blurb": "The Laikipia conservancy protecting the world's last two northern white rhinos, plus a chimpanzee sanctuary and some of Kenya's best-run community tourism.",
       "detail": "Ol Pejeta sits on the equator below Mount Kenya, about four hours' drive or a short flight from Nairobi, and rewards travellers who want their safari with substance. You can visit Najin and Fatu — the final two northern white rhinos, under 24-hour guard — meet rescued chimpanzees at the Sweetwaters sanctuary, and take night drives and lion-tracking outings the national parks cannot offer. Two nights is right. It slots neatly between Nairobi and Samburu on a northern circuit, and because it is a working conservancy, your fees visibly fund rangers and neighbouring communities.",
       "image": {
-        "query": "ol pejeta rhino mount kenya",
+        "query": "white rhino grazing conservancy",
         "alt": "Rhino grazing on Ol Pejeta's plains with Mount Kenya in the distance"
       }
     },
@@ -318,7 +315,7 @@
       "category": "Adventure",
       "blurb": "An hour drifting silently over the Mara's herds at first light, landing to a full champagne breakfast laid out on the plain.",
       "image": {
-        "query": "balloon safari mara breakfast",
+        "query": "hot air balloon savanna sunrise",
         "alt": "Balloon shadow passing over herds on the Mara at dawn"
       }
     },
@@ -338,7 +335,7 @@
       "category": "Water",
       "blurb": "Sail a wooden dhow through Kisite-Mpunguti Marine Park south of Diani, snorkelling coral gardens with dolphins often riding alongside, then a Swahili seafood lunch.",
       "image": {
-        "query": "kisite mpunguti dhow snorkeling",
+        "query": "dhow sailboat Indian ocean Kenya",
         "alt": "Traditional dhow anchored over coral reef in Kisite marine park"
       }
     },
@@ -348,7 +345,7 @@
       "category": "Food",
       "blurb": "From nyama choma grills to Diamond Plaza's chaat counters — Nairobi's Indian community has been cooking here for a century, so vegetarians eat remarkably well.",
       "image": {
-        "query": "nyama choma grill nairobi",
+        "query": "nyama choma grilled meat Kenya",
         "alt": "Nyama choma roasting over open coals at a Nairobi grill house"
       }
     },
@@ -414,7 +411,7 @@
       "summary": "Kenya's greatest hits in one arc: river crossings in the Mara at migration peak, elephants beneath Kilimanjaro at Amboseli, then a flight to the coast to trade dust for white sand. Nine nights keeps the pace humane, and ending at Diani means you fly home rested rather than rattled.",
       "priceFrom": "₹2,35,000",
       "image": {
-        "query": "diani beach palm trees aerial",
+        "query": "wildebeest crossing Mara river",
         "alt": "Aerial view of Diani's white beach curving between palms and reef"
       }
     },
@@ -443,7 +440,7 @@
       "summary": "For second-timers and honeymooners who want depth over box-ticking: rhino conservation and night drives at Ol Pejeta, prime cat country in the Mara, then two slow days of dhows and rooftop dinners in Lamu's old stone town. Internal flights link every leg, so no day is lost to the road.",
       "priceFrom": "₹2,75,000",
       "image": {
-        "query": "lamu old town rooftop dhow",
+        "query": "Lamu old town Kenya",
         "alt": "View over Lamu old town rooftops to dhows on the channel"
       }
     }

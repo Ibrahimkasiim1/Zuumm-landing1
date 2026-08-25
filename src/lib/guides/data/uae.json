@@ -154,7 +154,7 @@
       "name": "Ras Al Khaimah",
       "blurb": "The adventure emirate an hour north: Jebel Jais, the UAE's highest peak, with the world's longest zipline, plus quiet beaches and resorts at half of Dubai's rates.",
       "image": {
-        "query": "jebel jais mountains ras al khaimah",
+        "query": "Ras Al Khaimah beach corniche",
         "alt": "Winding road through the rocky Hajar mountains of Jebel Jais"
       }
     },
@@ -172,7 +172,7 @@
       "name": "Al Ain",
       "blurb": "The UNESCO-listed garden city on the Oman border: working falaj irrigation in ancient oases, a hilltop drive up Jebel Hafeet and a camel market that isn't staged for anyone.",
       "image": {
-        "query": "al ain oasis palm groves",
+        "query": "Al Ain oasis palm grove",
         "alt": "Shaded palm groves and irrigation channels inside Al Ain Oasis"
       }
     }
@@ -201,7 +201,7 @@
       "blurb": "Dune-bashing in a Land Cruiser, camel rides, sandboarding and a barbecue camp under the stars — the one Dubai experience nobody regrets.",
       "detail": "Quality varies wildly, so pick by operator, not price: Platinum Heritage and Arabian Adventures run conservation-reserve trips with falconry and proper food, while ₹2,500 mass-market safaris pack you into a conga line of jeeps. Evening safaris (3pm–9pm pickup) are the classic; morning runs suit those prone to motion sickness since the bashing is shorter. Skip lunch beforehand — the dunes are genuinely violent fun. In winter the desert drops below 15°C after dark, so carry a layer. An overnight camp with sunrise camel ride is worth the upgrade at least once.",
       "image": {
-        "query": "dubai desert safari dunes sunset",
+        "query": "dune bashing 4x4 Dubai desert",
         "alt": "4x4 vehicles crossing rippled red dunes at sunset near Dubai"
       }
     },
@@ -213,11 +213,8 @@
       "blurb": "Abu Dhabi's vast white-marble mosque — 82 domes, the world's largest hand-knotted carpet and courtyards that glow at dusk.",
       "detail": "Free to enter but you must register online for a time slot. Go for the 4:30–5pm window: daylight for the inlaid marble florals, then the courtyard turning blue-gold as the lights come on — the single best photo hour in the UAE. Dress code is strict (arms and legs covered; women cover hair) and enforced at entry; wear your own loose clothing rather than relying on rentals. It sits right on the Dubai–Abu Dhabi highway, so slot it at the start or end of an Abu Dhabi day trip. Fridays are restricted to worshippers until the afternoon.",
       "image": {
-        "query": "sheikh zayed grand mosque courtyard",
-        "alt": "Marble arcades and reflective pool at Sheikh Zayed Grand Mosque",
-        "candidates": [
-          "https://images.unsplash.com/photo-1526495124232-a04e1849168c"
-        ]
+        "query": "Sheikh Zayed Grand Mosque white domes",
+        "alt": "Marble arcades and reflective pool at Sheikh Zayed Grand Mosque"
       }
     },
     {
@@ -276,7 +273,7 @@
       "blurb": "Jean Nouvel's floating dome scatters a 'rain of light' over galleries that walk you through all of human civilisation in two hours.",
       "detail": "The building is the first exhibit: a 180m silver dome perforated like palm fronds, sitting on the sea on Saadiyat Island. Tickets are about ₹1,500 and rarely sell out midweek. The curation is the clever part — objects from different faiths and continents displayed side by side by era, so a Gandharan Buddha sits near Roman marble and early Quran folios. Do the galleries in 90 minutes, then linger under the dome at the waterline; late afternoon light through the lattice is the show. Kayaking under the dome can be booked for sunset. Pairs perfectly with the Grand Mosque for a full Abu Dhabi day.",
       "image": {
-        "query": "louvre abu dhabi dome interior",
+        "query": "Louvre Abu Dhabi dome",
         "alt": "Light filtering through the perforated dome of Louvre Abu Dhabi"
       }
     },
@@ -300,7 +297,7 @@
       "blurb": "The UAE's highest mountain, an hour beyond the tourist trail — the world's longest zipline, a cliffside toboggan and hairpin roads with Hajar views.",
       "detail": "The insider pick. Jais Flight sends you 2.8km down the mountain face at up to 150km/h for around ₹8,000 — book ahead, mornings have calmer wind and fewer cancellations. The Jais Sledder toboggan (about ₹1,200) is the family-friendly alternative, and the viewing-deck park at the summit road's end is free. In winter the summit runs 10°C cooler than Dubai and occasionally sees frost, so bring a jacket. Drive up from Dubai in about two hours, do zipline plus lunch at 1484 by Puro — the country's highest restaurant — and you're back for the fountain show by evening.",
       "image": {
-        "query": "jebel jais zipline hajar mountains",
+        "query": "Jebel Jais winding mountain road",
         "alt": "Zipline cables stretching over the jagged Hajar mountain ridges of Jebel Jais"
       }
     }
@@ -312,7 +309,7 @@
       "category": "Adventure",
       "blurb": "Dune-bashing, sandboarding, camel rides and a starlit barbecue with live tanoura dancing — the classic first-night booking, from about ₹3,500 with hotel pickup.",
       "image": {
-        "query": "desert camp dinner dubai night",
+        "query": "desert safari camp Dubai",
         "alt": "Lantern-lit Bedouin-style desert camp under the night sky"
       }
     },
@@ -332,7 +329,7 @@
       "category": "Food",
       "blurb": "Guided grazing through Deira and Bur Dubai — Emirati chebab, Iranian kebabs, karak chai and regag bread — the cheapest way to taste the city's real, migrant-built food culture.",
       "image": {
-        "query": "karak chai cafeteria old dubai",
+        "query": "Al Fahidi historical district Dubai",
         "alt": "Glasses of karak chai at a streetside cafeteria in old Dubai"
       }
     },
@@ -342,7 +339,7 @@
       "category": "Adventure",
       "blurb": "The world's most famous tandem drop zone: freefall from 13,000ft with the Palm spread beneath you. About ₹55,000, books out weeks ahead in winter.",
       "image": {
-        "query": "skydive palm jumeirah tandem",
+        "query": "skydiver parachute Dubai Palm",
         "alt": "Tandem skydivers in freefall above the Palm Jumeirah"
       }
     },
@@ -362,7 +359,7 @@
       "category": "Wellness",
       "blurb": "Moroccan-style black-soap scrubs and steam in marble hammams — from ₹4,000 at neighbourhood spas to full-day rituals at Talise or the Palace hotels.",
       "image": {
-        "query": "moroccan hammam spa marble interior",
+        "query": "luxury hammam spa interior",
         "alt": "A marble hammam chamber lit by pierced lanterns"
       }
     }
@@ -430,7 +427,7 @@
       "summary": "The full country: Dubai's spectacle, then north to Jebel Jais for the zipline, mountain air and a beach-resort breather at half the price, and finally Abu Dhabi's mosque, Louvre and corniche. A self-drive-friendly loop that swaps mall fatigue for mountains midway — the itinerary repeat visitors wish they'd done first.",
       "priceFrom": "₹1,45,000",
       "image": {
-        "query": "hajar mountains road ras al khaimah",
+        "query": "Sheikh Zayed Road skyline Dubai",
         "alt": "Empty highway curving through the Hajar mountains near Ras Al Khaimah"
       }
     }
