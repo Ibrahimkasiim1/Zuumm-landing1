@@ -300,6 +300,12 @@ export const ChevronRight = (p: P) => (
   </svg>
 );
 
+export const ChevronDown = (p: P) => (
+  <svg {...base(p)}>
+    <path d="m6 9.5 6 6 6-6" />
+  </svg>
+);
+
 export const Search = (p: P) => (
   <svg {...base(p)}>
     <circle cx="11" cy="11" r="7" />

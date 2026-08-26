@@ -4,7 +4,28 @@ import { notFound } from "next/navigation";
 import { Reveal } from "@/components/Reveal";
 import FAQ from "@/components/FAQ";
 import WatchFilm from "@/components/guides/WatchFilm";
-import { ArrowRight, Check, MapPin, Shield } from "@/components/Icons";
+import CardRail from "@/components/guides/CardRail";
+import {
+  ArrowRight,
+  Building,
+  Check,
+  Globe,
+  MapPin,
+  Passport,
+  Plane,
+  Shield,
+  Spark,
+  TrendUp,
+  Wallet,
+  Zap,
+} from "@/components/Icons";
+import {
+  EditorialHero,
+  WhereToNext,
+  shortSeason,
+  guideFromPrice,
+  type DestCardData,
+} from "@/components/guides/EditorialHero";
 import { GUIDES, HUBS, guideBySlug, hubBySlug, guideImage, REGIONS } from "@/lib/guides";
 import type { DestinationGuide, RegionHub } from "@/lib/guides/types";
 import { wizardHref } from "@/lib/planner/openPlanner";
@@ -46,10 +67,45 @@ export async function generateMetadata({
   return {};
 }
 
-const toneStyles: Record<string, { chip: string; label: string }> = {
-  high: { chip: "bg-mint/12 text-mint-deep", label: "Best" },
-  shoulder: { chip: "bg-sun/15 text-amber-700", label: "Smart value" },
-  low: { chip: "bg-paper-2 text-ink-3", label: "Off-season" },
+/* Quick facts read at a glance: the value that answers the question first,
+   the caveat beneath it in a quieter voice. Guide copy separates the two
+   with an em dash, a semicolon or a middot, in that order of strength. */
+function splitFact(v: string): { primary: string; secondary?: string } {
+  for (const sep of [" — ", "; ", " · "]) {
+    const i = v.indexOf(sep);
+    if (i > 0) {
+      return { primary: v.slice(0, i), secondary: v.slice(i + sep.length) };
+    }
+  }
+  return { primary: v };
+}
+
+function quickFacts(g: DestinationGuide) {
+  const q = g.quickFacts;
+  return [
+    { label: "Capital", Icon: Building, primary: q.capital },
+    {
+      label: "Currency",
+      Icon: Wallet,
+      primary: q.currency.code,
+      secondary: q.currency.inr,
+    },
+    { label: "Time zone", Icon: Globe, ...splitFact(q.timezone) },
+    { label: "From India", Icon: Plane, ...splitFact(q.flightFromIndia) },
+    { label: "Power", Icon: Zap, ...splitFact(q.plug) },
+    { label: "Data", Icon: Spark, ...splitFact(q.sim) },
+  ] satisfies {
+    label: string;
+    Icon: typeof Building;
+    primary: string;
+    secondary?: string;
+  }[];
+}
+
+const toneStyles: Record<string, { chip: string; label: string; glow: string }> = {
+  high: { chip: "bg-mint/12 text-mint-deep", label: "Best", glow: "bg-mint/25" },
+  shoulder: { chip: "bg-sun/15 text-amber-700", label: "Smart value", glow: "bg-sun/30" },
+  low: { chip: "bg-ink/[0.05] text-ink-3", label: "Off-season", glow: "bg-violet/15" },
 };
 
 export default async function DestinationPage({
@@ -72,90 +128,80 @@ function GuidePage({ g }: { g: DestinationGuide }) {
   const region = REGIONS.find((r) => r.key === g.region);
   const planHref = wizardHref({ fresh: true });
 
+  /* the hero's card row: the destination's most popular bases. Plain
+     cards, not buttons — and only the blurb's first sentence, so the
+     copy sits inside the blur band. */
+  const heroCards: DestCardData[] = g.cities.slice(0, 4).map((c) => {
+    const first = c.blurb.split(/(?<=[.!?])\s/)[0];
+    return {
+      img: img(c.id),
+      alt: c.image.alt,
+      title: c.name,
+      metaValue: first,
+    };
+  });
+
   return (
     <div className="bg-paper">
-      {/* ============ hero: the cinema card ============ */}
-      <section className="container-x pt-24 md:pt-28">
-        <div className="relative flex min-h-[520px] flex-col justify-end overflow-hidden rounded-[28px] bg-ink text-white shadow-[0_40px_120px_-48px_rgba(22,18,31,0.55)] md:min-h-[600px]">
-          {/* eslint-disable-next-line @next/next/no-img-element -- local guide asset */}
-          <img
-            src={img("hero")}
-            alt={g.heroAlt}
-            className="absolute inset-0 h-full w-full object-cover"
-          />
-          <div className="absolute inset-0 bg-gradient-to-t from-ink/85 via-ink/25 to-ink/30" />
-          <div className="grain absolute inset-0" />
+      {/* ============ hero: the editorial spread ============ */}
+      <EditorialHero
+        image={img("hero")}
+        imageAlt={g.heroAlt}
+        eyebrow={
+          <>
+            <Link href="/destinations" className="hover:text-[#1c2749]">
+              Curated travel experiences
+            </Link>
+            {region ? ` · ${region.label}` : ""} · {g.flag} {g.country}
+          </>
+        }
+        title={<>Discover {g.name}.</>}
+        sub={g.tagline}
+        primary={{ href: planHref, label: `Plan a trip to ${g.name}` }}
+        secondary={<WatchFilm name={g.name} poster={img("hero")} variant="light" />}
+        facts={[
+          `Best ${shortSeason(g.weather.bestTime)}`,
+          `${g.idealDuration.nights} nights ideal`,
+          g.visa.headline,
+        ]}
+        cards={heroCards}
+      />
 
-          <div className="relative p-6 pb-8 md:p-12">
-            <p className="font-mono text-[0.66rem] font-semibold uppercase tracking-[0.16em] text-white/70">
-              <Link href="/destinations" className="hover:text-white">
-                Destinations
-              </Link>
-              {region ? ` · ${region.label}` : ""} · {g.flag} {g.country}
-            </p>
-            <h1 className="display mt-3 text-[clamp(2.6rem,7vw,5rem)] leading-[0.98] text-white">
-              Discover {g.name}.
-            </h1>
-            <p className="mt-3 max-w-xl text-lg text-white/85 [text-shadow:0_1px_14px_rgba(13,10,21,0.6)]">
-              {g.tagline}
-            </p>
-
-            {/* the trip-shaping facts, right on the poster */}
-            <div className="mt-5 flex flex-wrap gap-2">
-              {[
-                ["Best time", g.weather.bestTime],
-                ["Ideal stay", `${g.idealDuration.nights} nights`],
-                ["Visa", g.visa.headline],
-              ].map(([k, v]) => (
-                <span
-                  key={k}
-                  className="rounded-full border border-white/25 bg-white/10 px-3.5 py-1.5 text-[0.8rem] font-medium backdrop-blur-md"
-                >
-                  <span className="font-mono text-[0.62rem] font-semibold uppercase tracking-widest text-white/60">
-                    {k}
-                  </span>{" "}
-                  <span className="ml-1 font-semibold text-white">{v}</span>
-                </span>
-              ))}
-            </div>
-
-            <div className="mt-6 flex flex-wrap items-center gap-3">
-              <a
-                href={planHref}
-                className="inline-flex min-h-11 items-center gap-2 rounded-full bg-coral px-7 py-3 text-[0.95rem] font-bold text-white shadow-[0_18px_50px_-18px_rgba(255,59,92,0.6)] transition-transform hover:scale-[1.03] active:scale-[0.98]"
-              >
-                Plan a trip to {g.name}
-                <ArrowRight size={16} />
-              </a>
-              <WatchFilm name={g.name} poster={img("hero")} />
-            </div>
-          </div>
+      {/* ============ quick facts: the liquid-glass band ============ */}
+      <section aria-label="Quick facts" className="container-x relative mt-10">
+        {/* one quiet tint behind the glass, so the blur has something to catch */}
+        <div aria-hidden className="pointer-events-none absolute -inset-2 overflow-hidden">
+          <div className="absolute -left-6 -top-10 h-44 w-[28rem] rounded-full bg-violet/[0.09] blur-3xl" />
+          <div className="absolute -right-6 bottom-0 h-40 w-80 rounded-full bg-coral/[0.06] blur-3xl" />
         </div>
-      </section>
 
-      {/* ============ quick facts strip ============ */}
-      <section aria-label="Quick facts" className="container-x mt-10">
-        <div className="grid grid-cols-2 overflow-hidden rounded-3xl border border-line bg-paper-2 sm:grid-cols-3 lg:grid-cols-6">
-          {[
-            ["Capital", g.quickFacts.capital],
-            ["Currency", `${g.quickFacts.currency.code} · ${g.quickFacts.currency.inr}`],
-            ["Time zone", g.quickFacts.timezone],
-            ["From India", g.quickFacts.flightFromIndia],
-            ["Power", g.quickFacts.plug],
-            ["Data", g.quickFacts.sim],
-          ].map(([k, v], i) => (
-            <div
-              key={k}
-              className={`px-4 py-5 ${i < 5 ? "lg:border-r lg:border-dashed lg:border-line" : ""}`}
-            >
-              <p className="font-mono text-[0.6rem] font-semibold uppercase tracking-[0.14em] text-ink-3">
-                {k}
-              </p>
-              <p className="mt-1 text-[0.85rem] font-semibold leading-snug text-ink">
-                {v}
-              </p>
-            </div>
-          ))}
+        <div className="relative overflow-hidden rounded-[28px] border border-white/70 bg-white/60 p-7 shadow-[0_30px_80px_-46px_rgba(22,18,31,0.35)] backdrop-blur-2xl backdrop-saturate-150 md:p-9">
+          {/* the specular edge — the "liquid" part of the glass */}
+          <div
+            aria-hidden
+            className="absolute inset-x-0 top-0 h-px bg-gradient-to-r from-transparent via-white to-transparent"
+          />
+
+          <dl className="relative grid gap-x-10 gap-y-8 sm:grid-cols-2 lg:grid-cols-3">
+            {quickFacts(g).map(({ label, Icon, primary, secondary }) => (
+              <div key={label} className="flex gap-3.5">
+                <Icon size={16} className="mt-0.5 shrink-0 text-ink-3" />
+                <div className="min-w-0">
+                  <dt className="font-mono text-[0.6rem] font-semibold uppercase tracking-[0.16em] text-ink-3">
+                    {label}
+                  </dt>
+                  <dd className="mt-2 text-[0.98rem] font-semibold leading-snug text-ink">
+                    {primary}
+                  </dd>
+                  {secondary && (
+                    <dd className="mt-1.5 text-[0.83rem] leading-relaxed text-ink-3">
+                      {secondary}
+                    </dd>
+                  )}
+                </div>
+              </div>
+            ))}
+          </dl>
         </div>
       </section>
 
@@ -164,7 +210,7 @@ function GuidePage({ g }: { g: DestinationGuide }) {
         <Reveal>
           <div>
             <h2 className="display text-3xl text-ink md:text-[2.3rem]">
-              The shape of the place.
+              The status of {g.name}.
             </h2>
             <p className="mt-5 max-w-2xl text-[1.05rem] leading-relaxed text-ink-2">
               {g.overview}
@@ -174,8 +220,16 @@ function GuidePage({ g }: { g: DestinationGuide }) {
             </p>
           </div>
         </Reveal>
-        <Reveal delay={0.08}>
-          <div className="rounded-3xl border border-line bg-white p-6 shadow-[0_24px_70px_-40px_rgba(22,18,31,0.35)]">
+        <Reveal delay={0.08} className="relative">
+          <div
+            aria-hidden
+            className="pointer-events-none absolute -right-8 -top-10 h-36 w-64 rounded-full bg-sun/15 blur-3xl"
+          />
+          <div className="relative overflow-hidden rounded-3xl border border-white/70 bg-white/60 p-6 shadow-[0_24px_70px_-40px_rgba(22,18,31,0.35)] backdrop-blur-2xl backdrop-saturate-150">
+            <div
+              aria-hidden
+              className="absolute inset-x-0 top-0 h-px bg-gradient-to-r from-transparent via-white to-transparent"
+            />
             <p className="font-mono text-[0.62rem] font-semibold uppercase tracking-[0.16em] text-ink-3">
               Trip maths
             </p>
@@ -211,126 +265,128 @@ function GuidePage({ g }: { g: DestinationGuide }) {
               {g.weather.summary}
             </p>
           </Reveal>
-          <div className="mt-9 grid gap-4 md:grid-cols-3">
+          <div className="mt-9 grid gap-5 md:grid-cols-3">
             {g.weather.seasons.map((s, i) => {
               const t = toneStyles[s.tone];
               return (
-                <Reveal key={s.label} delay={i * 0.06}>
-                  <div className="flex h-full flex-col rounded-3xl border border-line bg-white p-6">
-                    <div className="flex items-center justify-between">
-                      <span className={`rounded-full px-2.5 py-1 font-mono text-[0.6rem] font-bold uppercase tracking-[0.12em] ${t.chip}`}>
-                        {t.label}
-                      </span>
-                      <span className="font-mono text-[0.8rem] font-semibold tabular-nums text-ink">
-                        {s.temp}
-                      </span>
+                <Reveal key={s.label} delay={i * 0.06} className="h-full">
+                  <div className="relative h-full">
+                    {/* the tone's glow, breathing around the glass */}
+                    <div
+                      aria-hidden
+                      className={`absolute -inset-1.5 rounded-[30px] ${t.glow} blur-2xl`}
+                    />
+                    <div className="relative flex h-full flex-col overflow-hidden rounded-3xl border border-white/70 bg-white/60 p-6 shadow-[0_28px_70px_-42px_rgba(22,18,31,0.4)] backdrop-blur-2xl backdrop-saturate-150">
+                      <div
+                        aria-hidden
+                        className="absolute inset-x-0 top-0 h-px bg-gradient-to-r from-transparent via-white to-transparent"
+                      />
+                      <div className="flex items-center justify-between">
+                        <span className={`rounded-full px-2.5 py-1 font-mono text-[0.6rem] font-bold uppercase tracking-[0.12em] ${t.chip}`}>
+                          {t.label}
+                        </span>
+                        <span className="font-mono text-[0.8rem] font-semibold tabular-nums text-ink">
+                          {s.temp}
+                        </span>
+                      </div>
+                      <h3 className="mt-4 text-[1.05rem] font-bold text-ink">{s.label}</h3>
+                      <p className="font-mono text-[0.68rem] uppercase tracking-[0.12em] text-ink-3">
+                        {s.months}
+                      </p>
+                      <p className="mt-3 text-[0.86rem] leading-relaxed text-ink-2">{s.notes}</p>
                     </div>
-                    <h3 className="mt-4 text-[1.05rem] font-bold text-ink">{s.label}</h3>
-                    <p className="font-mono text-[0.68rem] uppercase tracking-[0.12em] text-ink-3">
-                      {s.months}
-                    </p>
-                    <p className="mt-3 text-[0.86rem] leading-relaxed text-ink-2">{s.notes}</p>
                   </div>
                 </Reveal>
               );
             })}
           </div>
-          <Reveal delay={0.1}>
-            <div className="mt-5 flex flex-col gap-3 rounded-3xl border border-line bg-white px-6 py-5 md:flex-row md:items-center md:gap-8">
-              <p className="text-[0.88rem]">
-                <span className="font-mono text-[0.62rem] font-bold uppercase tracking-[0.14em] text-coral-deep">Prices peak</span>{" "}
-                <span className="font-semibold text-ink">{g.booking.high}</span>
-              </p>
-              <p className="text-[0.88rem]">
-                <span className="font-mono text-[0.62rem] font-bold uppercase tracking-[0.14em] text-mint-deep">Prices dip</span>{" "}
-                <span className="font-semibold text-ink">{g.booking.low}</span>
-              </p>
-              <p className="text-[0.84rem] leading-relaxed text-ink-2 md:flex-1">{g.booking.note}</p>
-            </div>
-          </Reveal>
-        </div>
-      </section>
 
-      {/* ============ top 10 ============ */}
-      <section className="py-16 md:py-20" aria-label={`Top experiences in ${g.name}`}>
-        <div className="container-x">
-          <Reveal>
-            <div className="flex items-end justify-between gap-6">
-              <div>
-                <h2 className="display text-3xl text-ink md:text-[2.3rem]">
-                  The top 10, ranked.
-                </h2>
-                <p className="mt-3 max-w-xl text-[1.02rem] text-ink-2">
-                  What we&rsquo;d actually queue for — tap any card for the full brief.
-                </p>
+          {/* the booking calendar: peak over dip, note alongside */}
+          <Reveal delay={0.1}>
+            <div className="relative mt-6">
+              <div
+                aria-hidden
+                className="absolute -inset-1.5 rounded-[30px] bg-gradient-to-r from-coral/15 via-transparent to-mint/15 blur-2xl"
+              />
+              <div className="relative overflow-hidden rounded-3xl border border-white/70 bg-white/60 shadow-[0_28px_70px_-42px_rgba(22,18,31,0.4)] backdrop-blur-2xl backdrop-saturate-150">
+                <div
+                  aria-hidden
+                  className="absolute inset-x-0 top-0 h-px bg-gradient-to-r from-transparent via-white to-transparent"
+                />
+                <div className="grid md:grid-cols-[1fr_1.1fr]">
+                  <div className="flex flex-col justify-center px-6 py-4 md:px-7">
+                    <div className="flex items-center gap-4 py-3.5">
+                      <span className="flex h-10 w-10 shrink-0 items-center justify-center rounded-xl bg-coral-soft text-coral-deep">
+                        <TrendUp size={17} />
+                      </span>
+                      <div>
+                        <p className="font-mono text-[0.62rem] font-bold uppercase tracking-[0.14em] text-coral-deep">
+                          Prices peak
+                        </p>
+                        <p className="mt-1 text-[0.92rem] font-semibold leading-snug text-ink">
+                          {g.booking.high}
+                        </p>
+                      </div>
+                    </div>
+                    <div aria-hidden className="border-t border-dashed border-ink/10" />
+                    <div className="flex items-center gap-4 py-3.5">
+                      <span className="flex h-10 w-10 shrink-0 items-center justify-center rounded-xl bg-mint/15 text-mint-deep">
+                        <TrendUp size={17} className="-scale-y-100" />
+                      </span>
+                      <div>
+                        <p className="font-mono text-[0.62rem] font-bold uppercase tracking-[0.14em] text-mint-deep">
+                          Prices dip
+                        </p>
+                        <p className="mt-1 text-[0.92rem] font-semibold leading-snug text-ink">
+                          {g.booking.low}
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="flex items-center border-t border-ink/[0.06] px-6 py-5 md:border-l md:border-t-0 md:px-7">
+                    <p className="text-[0.88rem] leading-relaxed text-ink-2">
+                      {g.booking.note}
+                    </p>
+                  </div>
+                </div>
               </div>
             </div>
           </Reveal>
         </div>
-        <div className="no-scrollbar mt-9 flex snap-x gap-5 overflow-x-auto px-6 pb-4 md:px-10">
-          {g.highlights.map((h) => (
-            <Link
-              key={h.id}
-              href={`/destinations/${g.slug}/${h.id}`}
-              className="group w-[280px] shrink-0 snap-start md:w-[320px]"
-            >
-              <p className="flex min-h-[3.6rem] items-start gap-2.5 pr-4">
-                <span className="font-display text-[1.6rem] font-bold leading-none text-ink/20">
-                  {h.rank}
-                </span>
-                <span className="text-[0.85rem] font-medium leading-snug text-ink-2">
-                  {h.blurb}
-                </span>
-              </p>
-              <span className="relative mt-3 block aspect-[4/3] overflow-hidden rounded-3xl border border-line bg-paper-2">
-                {/* eslint-disable-next-line @next/next/no-img-element -- local guide asset */}
-                <img
-                  src={img(h.id)}
-                  alt={h.image.alt}
-                  loading="lazy"
-                  className="absolute inset-0 h-full w-full object-cover transition-transform duration-500 group-hover:scale-[1.05] motion-reduce:transition-none"
-                />
-                <span className="absolute left-3 top-3 rounded-full bg-ink/60 px-2.5 py-1 font-mono text-[0.6rem] font-bold uppercase tracking-widest text-white backdrop-blur-sm">
-                  {h.category}
-                </span>
-              </span>
-              <span className="mt-3 flex items-center justify-between gap-2">
-                <span className="text-[1.02rem] font-bold text-ink">{h.name}</span>
-                <ArrowRight size={15} className="shrink-0 text-coral-deep transition-transform group-hover:translate-x-0.5" />
-              </span>
-            </Link>
-          ))}
-        </div>
       </section>
 
-      {/* ============ cities ============ */}
-      <section className="py-4 md:py-6" aria-label={`Where to base in ${g.name}`}>
-        <div className="container-x">
-          <Reveal>
-            <h2 className="display text-3xl text-ink md:text-[2.3rem]">Where to base.</h2>
-          </Reveal>
-        </div>
-        <div className="no-scrollbar mt-8 flex snap-x gap-5 overflow-x-auto px-6 pb-4 md:px-10">
-          {g.cities.map((c) => (
-            <div key={c.id} className="group w-[240px] shrink-0 snap-start md:w-[260px]">
-              <span className="relative block aspect-[4/5] overflow-hidden rounded-3xl border border-line bg-paper-2">
-                {/* eslint-disable-next-line @next/next/no-img-element -- local guide asset */}
-                <img
-                  src={img(c.id)}
-                  alt={c.image.alt}
-                  loading="lazy"
-                  className="absolute inset-0 h-full w-full object-cover transition-transform duration-500 group-hover:scale-[1.05] motion-reduce:transition-none"
-                />
-                <span className="absolute inset-x-0 bottom-0 h-2/5 bg-gradient-to-t from-ink/80 to-transparent" />
-                <span className="absolute inset-x-4 bottom-4 font-display text-[1.3rem] font-bold text-white">
-                  {c.name}
-                </span>
-              </span>
-              <p className="mt-3 text-[0.85rem] leading-relaxed text-ink-2">{c.blurb}</p>
-            </div>
-          ))}
-        </div>
-      </section>
+      {/* ============ top 10: the self-driving rail ============ */}
+      <CardRail
+        heading="The top 10, ranked."
+        sub={"What we’d actually queue for — tap any card for the full brief."}
+        ariaLabel={`Top experiences in ${g.name}`}
+        autoplay
+        items={g.highlights.map((h) => ({
+          href: `/destinations/${g.slug}/${h.id}`,
+          img: img(h.id),
+          alt: h.image.alt,
+          rank: h.rank,
+          name: h.name,
+          category: h.category,
+          blurb: h.blurb,
+        }))}
+      />
+
+      {/* ============ cities: the ink rail ============ */}
+      <CardRail
+        heading={`Travel bases in ${g.name}.`}
+        ariaLabel={`Where to base in ${g.name}`}
+        variant="overlay"
+        edgeFade={false}
+        gap={32}
+        className="pb-8 pt-4 md:pb-10 md:pt-6"
+        items={g.cities.map((c) => ({
+          img: img(c.id),
+          alt: c.image.alt,
+          name: c.name,
+          blurb: c.blurb,
+        }))}
+      />
 
       {/* ============ sample trips ============ */}
       <section className="py-16 md:py-20" aria-label={`Sample ${g.name} trips`}>
@@ -398,7 +454,9 @@ function GuidePage({ g }: { g: DestinationGuide }) {
       <section className="pb-16 md:pb-20" aria-label={`Things to do in ${g.name}`}>
         <div className="container-x">
           <Reveal>
-            <h2 className="display text-3xl text-ink md:text-[2.3rem]">And between the icons.</h2>
+            <h2 className="display text-3xl text-ink md:text-[2.3rem]">
+              Must-sees in {g.name}.
+            </h2>
           </Reveal>
           <div className="mt-9 grid grid-cols-1 gap-5 sm:grid-cols-2 lg:grid-cols-3">
             {g.activities.map((a) => (
@@ -425,55 +483,93 @@ function GuidePage({ g }: { g: DestinationGuide }) {
         </div>
       </section>
 
-      {/* ============ visa + safety: the ink band ============ */}
-      <section className="container-x pb-16 md:pb-20" aria-label="Visa and safety">
-        <div className="grain relative overflow-hidden rounded-[2.5rem] border border-white/10 bg-ink p-7 text-white md:p-10">
-          <div aria-hidden className="absolute -left-24 -top-24 h-72 w-72 rounded-full bg-coral/15 blur-3xl" />
-          <div aria-hidden className="absolute -bottom-28 -right-20 h-80 w-80 rounded-full bg-teal/20 blur-3xl" />
-          <div className="relative grid gap-9 md:grid-cols-2 md:gap-12">
-            <div>
-              <p className="font-mono text-[0.62rem] font-semibold uppercase tracking-[0.16em] text-white/50">
-                Visa for Indian passports
-              </p>
-              <h3 className="display mt-3 text-[1.5rem]">{g.visa.headline}.</h3>
-              <p className="mt-3 max-w-md text-[0.9rem] leading-relaxed text-white/75">{g.visa.body}</p>
-              <div className="mt-4 flex flex-wrap gap-2">
-                {g.visa.cost && (
-                  <span className="rounded-full bg-white/10 px-3 py-1.5 font-mono text-[0.72rem] font-semibold tabular-nums">
-                    {g.visa.cost}
+      {/* ============ visa: its own ink band ============ */}
+      <section className="container-x pb-10 md:pb-14" aria-label="Visa">
+        <Reveal>
+          <div className="grain relative overflow-hidden rounded-[3rem] border border-white/10 bg-ink p-7 text-white md:rounded-[3.5rem] md:p-11">
+            <div aria-hidden className="absolute -left-24 -top-24 h-72 w-72 rounded-full bg-coral/15 blur-3xl" />
+            <div aria-hidden className="absolute -bottom-24 -right-16 h-72 w-72 rounded-full bg-violet/15 blur-3xl" />
+            <div className="relative grid gap-7 md:grid-cols-[0.85fr_1.15fr] md:items-center md:gap-12">
+              <div>
+                <span className="inline-flex items-center gap-2 rounded-full border border-white/15 bg-white/[0.07] py-1.5 pl-2.5 pr-3.5 backdrop-blur-sm">
+                  <Passport size={13} className="text-white/70" />
+                  <span className="font-mono text-[0.58rem] font-semibold uppercase tracking-[0.18em] text-white/70">
+                    Visa · Indian passports
                   </span>
-                )}
-                {g.visa.processing && (
-                  <span className="rounded-full bg-white/10 px-3 py-1.5 font-mono text-[0.72rem] font-semibold">
-                    {g.visa.processing}
-                  </span>
-                )}
+                </span>
+                <h3 className="display mt-4 text-[1.3rem] leading-[1.15] md:text-[1.5rem]">
+                  {g.visa.headline}.
+                </h3>
+                <div className="mt-5 flex flex-wrap gap-2">
+                  {g.visa.cost && (
+                    <span className="rounded-full bg-white/10 px-3 py-1.5 font-mono text-[0.72rem] font-semibold tabular-nums">
+                      {g.visa.cost}
+                    </span>
+                  )}
+                  {g.visa.processing && (
+                    <span className="rounded-full bg-white/10 px-3 py-1.5 font-mono text-[0.72rem] font-semibold">
+                      {g.visa.processing}
+                    </span>
+                  )}
+                </div>
               </div>
-              <a
-                href="#"
-                className="mt-5 inline-flex items-center gap-1.5 text-[0.88rem] font-bold text-white underline-offset-4 hover:underline"
-              >
-                Our visa team files it for you
-                <ArrowRight size={14} />
-              </a>
-            </div>
-            <div>
-              <p className="flex items-center gap-2 font-mono text-[0.62rem] font-semibold uppercase tracking-[0.16em] text-white/50">
-                <Shield size={13} className="text-mint" />
-                Safety · {g.safety.score}/5
-              </p>
-              <h3 className="display mt-3 text-[1.5rem]">{g.safety.headline}.</h3>
-              <ul className="mt-4 space-y-2.5">
-                {g.safety.tips.slice(0, 5).map((tip) => (
-                  <li key={tip} className="flex items-start gap-2.5 text-[0.86rem] leading-relaxed text-white/80">
-                    <Check size={14} className="mt-0.5 shrink-0 text-mint" />
-                    {tip}
-                  </li>
-                ))}
-              </ul>
+              <div>
+                <p className="text-[0.92rem] leading-relaxed text-white/75">{g.visa.body}</p>
+                <a
+                  href="#"
+                  className="mt-6 inline-flex min-h-11 items-center gap-2 rounded-full bg-coral px-6 py-3 text-[0.9rem] font-bold text-white shadow-[0_18px_50px_-18px_rgba(255,59,92,0.6)] transition-transform hover:scale-[1.03] active:scale-[0.98] motion-reduce:transition-none"
+                >
+                  Have our visa team handle it
+                  <ArrowRight size={15} />
+                </a>
+              </div>
             </div>
           </div>
-        </div>
+        </Reveal>
+      </section>
+
+      {/* ============ safety: the glass band over mint glow ============ */}
+      <section className="container-x pb-24 md:pb-32" aria-label="Safety">
+        <Reveal>
+          <div className="relative">
+            {/* the green light the glass sits in — blurred by the card above */}
+            <div aria-hidden className="pointer-events-none absolute -inset-2 overflow-hidden">
+              <div className="absolute -left-4 -top-6 h-48 w-[24rem] rounded-full bg-mint/25 blur-3xl" />
+              <div className="absolute bottom-2 left-1/3 h-44 w-[26rem] rounded-full bg-mint/20 blur-3xl" />
+              <div className="absolute right-2 top-1/4 h-52 w-72 rounded-full bg-teal/[0.14] blur-3xl" />
+            </div>
+
+            <div className="relative overflow-hidden rounded-[3rem] border border-white/70 bg-white/55 p-7 shadow-[0_30px_80px_-42px_rgba(11,125,83,0.45)] backdrop-blur-2xl backdrop-saturate-150 md:rounded-[3.5rem] md:p-11">
+              <div
+                aria-hidden
+                className="absolute inset-x-0 top-0 h-px bg-gradient-to-r from-transparent via-white to-transparent"
+              />
+              <div className="relative">
+                <span className="inline-flex items-center gap-2 rounded-full border border-mint/25 bg-mint/10 py-1.5 pl-2.5 pr-3.5">
+                  <Shield size={13} className="text-mint-deep" />
+                  <span className="font-mono text-[0.58rem] font-semibold uppercase tracking-[0.18em] text-mint-deep">
+                    Safety
+                  </span>
+                  <span aria-hidden className="h-2.5 w-px bg-mint-deep/25" />
+                  <span className="font-mono text-[0.62rem] font-bold tabular-nums text-mint-deep">
+                    {g.safety.score}/5
+                  </span>
+                </span>
+                <h3 className="display mt-4 max-w-xl text-[1.3rem] leading-[1.15] text-ink md:text-[1.5rem]">
+                  {g.safety.headline}.
+                </h3>
+                <ul className="mt-7 grid gap-x-10 gap-y-4 md:grid-cols-2">
+                  {g.safety.tips.slice(0, 5).map((tip) => (
+                    <li key={tip} className="flex items-start gap-2.5 text-[0.88rem] leading-relaxed text-ink-2">
+                      <Check size={14} className="mt-1 shrink-0 text-mint-deep" />
+                      {tip}
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            </div>
+          </div>
+        </Reveal>
       </section>
 
       {/* ============ good to know ============ */}
@@ -527,25 +623,36 @@ function HubPage({ h }: { h: RegionHub }) {
     .map((slug) => guideBySlug(slug))
     .filter((g): g is DestinationGuide => Boolean(g));
 
+  const planHref = wizardHref({ fresh: true });
+  const heroCards: DestCardData[] = members.slice(0, 4).map((g) => ({
+    href: `/destinations/${g.slug}`,
+    img: guideImage(g.slug, "hero"),
+    alt: g.heroAlt,
+    badge: g.flag,
+    title: g.name,
+    metaLabel: "Best season",
+    metaValue: shortSeason(g.weather.bestTime),
+    priceValue: guideFromPrice(g),
+  }));
+
   return (
     <div className="bg-paper">
-      <section className="container-x pt-24 md:pt-28">
-        <div className="relative flex min-h-[420px] flex-col justify-end overflow-hidden rounded-[28px] bg-ink text-white shadow-[0_40px_120px_-48px_rgba(22,18,31,0.55)]">
-          {/* eslint-disable-next-line @next/next/no-img-element -- local guide asset */}
-          <img src={`/guides/hubs/${h.slug}.jpg`} alt={h.heroImage.alt} className="absolute inset-0 h-full w-full object-cover" />
-          <div className="absolute inset-0 bg-gradient-to-t from-ink/85 via-ink/25 to-ink/30" />
-          <div className="grain absolute inset-0" />
-          <div className="relative p-6 pb-8 md:p-12">
-            <p className="font-mono text-[0.66rem] font-semibold uppercase tracking-[0.16em] text-white/70">
-              <Link href="/destinations" className="hover:text-white">Destinations</Link> · region
-            </p>
-            <h1 className="display mt-3 text-[clamp(2.6rem,7vw,5rem)] leading-[0.98] text-white">
-              Discover {h.name}.
-            </h1>
-            <p className="mt-3 max-w-xl text-lg text-white/85">{h.tagline}</p>
-          </div>
-        </div>
-      </section>
+      <EditorialHero
+        image={`/guides/hubs/${h.slug}.jpg`}
+        imageAlt={h.heroImage.alt}
+        eyebrow={
+          <>
+            <Link href="/destinations" className="hover:text-[#1c2749]">
+              Curated travel experiences
+            </Link>
+            {" · region"}
+          </>
+        }
+        title={<>Discover {h.name}.</>}
+        sub={h.tagline}
+        primary={{ href: planHref, label: `Plan a ${h.name} trip` }}
+        cards={heroCards}
+      />
 
       <section className="container-x py-14 md:py-16">
         <p className="max-w-3xl text-[1.05rem] leading-relaxed text-ink-2">{h.overview}</p>
@@ -553,7 +660,8 @@ function HubPage({ h }: { h: RegionHub }) {
 
       {members.length > 0 && (
         <section className="container-x pb-16 md:pb-20" aria-label={`${h.name} destinations`}>
-          <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+          <WhereToNext title={`All ${h.name} destinations`} />
+          <div className="mt-10 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
             {members.map((g) => (
               <Link
                 key={g.slug}

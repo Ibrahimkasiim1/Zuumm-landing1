@@ -8,17 +8,19 @@ import Image from "next/image";
 import { usePathname } from "next/navigation";
 import { isChromeless } from "@/lib/chrome";
 import { AnimatePresence, motion } from "framer-motion";
-import { ArrowRight, WhatsApp } from "./Icons";
+import { ArrowRight, ChevronDown, WhatsApp } from "./Icons";
 import { guidesByRegion, HUBS } from "@/lib/guides";
 
 /* The island carries exactly the doors a traveller needs: where to go, the
    two business lines, a human on WhatsApp, and their account. Planning CTAs
    live on the page itself — the wizard's first question is the hero. */
 
+/* Only /destinations exists in this static build; the business-line doors
+   render exactly as they do in the product but are inert. */
 const links = [
   { href: "/destinations", label: "Destinations" },
-  { href: "/for-partners", label: "For Partners" },
-  { href: "/corporate-travel", label: "Corporate Travel" },
+  { href: "#", label: "For Partners" },
+  { href: "#", label: "Corporate Travel" },
 ];
 
 const WA_HREF = waLink("Hi Zuumm! I'd like help planning a trip.");
@@ -30,6 +32,8 @@ export default function Nav() {
   /* the Destinations mega panel; a close timer bridges the pointer's hop
      from the link to the panel so it doesn't blink shut on the way */
   const [destOpen, setDestOpen] = useState(false);
+  /* the same destinations list on phones, as an accordion inside the sheet */
+  const [mobileDestOpen, setMobileDestOpen] = useState(false);
   const closeTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
   const pathname = usePathname();
 
@@ -107,7 +111,9 @@ export default function Nav() {
                     if (isDest) scheduleCloseDest();
                   }}
                   onFocus={() => isDest && openDest()}
-                  className={`relative rounded-full px-4 py-2 text-[0.9rem] font-medium transition-colors duration-200 ${
+                  aria-haspopup={isDest || undefined}
+                  aria-expanded={isDest ? destOpen : undefined}
+                  className={`relative inline-flex items-center gap-1 rounded-full px-4 py-2 text-[0.9rem] font-medium transition-colors duration-200 ${
                     lit ? "text-ink" : "text-ink-2 hover:text-ink"
                   }`}
                 >
@@ -123,6 +129,15 @@ export default function Nav() {
                     />
                   )}
                   {l.label}
+                  {isDest && (
+                    <ChevronDown
+                      size={14}
+                      aria-hidden
+                      className={`transition-transform duration-200 motion-reduce:transition-none ${
+                        destOpen ? "-rotate-180" : ""
+                      } ${lit ? "text-ink-2" : "text-ink-3"}`}
+                    />
+                  )}
                 </Link>
               );
             })}
@@ -267,14 +282,114 @@ export default function Nav() {
                   animate={{ opacity: 1, x: 0 }}
                   transition={{ delay: 0.05 + i * 0.05 }}
                 >
-                  <Link
-                    href={l.href}
-                    onClick={() => setOpen(false)}
-                    className="flex items-center justify-between border-b border-line/60 py-3.5 text-[1.02rem] font-medium text-ink"
-                  >
-                    {l.label}
-                    <ArrowRight size={16} className="text-ink-3" />
-                  </Link>
+                  {l.href === "/destinations" ? (
+                    <>
+                      {/* the row splits: tap the label to browse, the chevron
+                          to open the list without leaving the page */}
+                      <div className="flex items-center justify-between border-b border-line/60">
+                        <Link
+                          href={l.href}
+                          onClick={() => setOpen(false)}
+                          className="flex-1 py-3.5 text-[1.02rem] font-medium text-ink"
+                        >
+                          {l.label}
+                        </Link>
+                        <button
+                          type="button"
+                          onClick={() => setMobileDestOpen((v) => !v)}
+                          aria-expanded={mobileDestOpen}
+                          aria-controls="mobile-destinations"
+                          aria-label={
+                            mobileDestOpen
+                              ? "Hide all destinations"
+                              : "Show all destinations"
+                          }
+                          className="-mr-2 flex h-11 w-11 items-center justify-center rounded-full text-ink-3 transition-colors hover:bg-paper-2 hover:text-ink"
+                        >
+                          <ChevronDown
+                            size={17}
+                            className={`transition-transform duration-200 motion-reduce:transition-none ${
+                              mobileDestOpen ? "-rotate-180" : ""
+                            }`}
+                          />
+                        </button>
+                      </div>
+                      <AnimatePresence initial={false}>
+                        {mobileDestOpen && (
+                          <motion.div
+                            id="mobile-destinations"
+                            initial={{ height: 0, opacity: 0 }}
+                            animate={{ height: "auto", opacity: 1 }}
+                            exit={{ height: 0, opacity: 0 }}
+                            transition={{ duration: 0.24, ease: [0.21, 0.6, 0.35, 1] }}
+                            className="overflow-hidden"
+                          >
+                            <div className="max-h-[52vh] space-y-4 overflow-y-auto overscroll-contain py-3 pl-1">
+                              {guidesByRegion().map((r) => (
+                                <div key={r.key}>
+                                  <p className="font-mono text-[0.58rem] font-bold uppercase tracking-[0.14em] text-ink-3">
+                                    {r.label}
+                                  </p>
+                                  <ul className="mt-1.5 grid grid-cols-2 gap-x-2 gap-y-0.5">
+                                    {r.guides.map((g) => (
+                                      <li key={g.slug}>
+                                        <Link
+                                          href={`/destinations/${g.slug}`}
+                                          onClick={() => setOpen(false)}
+                                          className="flex min-h-11 items-center gap-2 rounded-xl px-2 text-[0.9rem] font-medium text-ink-2"
+                                        >
+                                          <span aria-hidden className="text-[1rem] leading-none">
+                                            {g.flag}
+                                          </span>
+                                          <span className="truncate">{g.name}</span>
+                                        </Link>
+                                      </li>
+                                    ))}
+                                  </ul>
+                                </div>
+                              ))}
+                              <div>
+                                <p className="font-mono text-[0.58rem] font-bold uppercase tracking-[0.14em] text-ink-3">
+                                  By region
+                                </p>
+                                <ul className="mt-1.5 grid grid-cols-2 gap-x-2 gap-y-0.5">
+                                  {HUBS.map((h) => (
+                                    <li key={h.slug}>
+                                      <Link
+                                        href={`/destinations/${h.slug}`}
+                                        onClick={() => setOpen(false)}
+                                        className="flex min-h-11 items-center gap-2 rounded-xl px-2 text-[0.9rem] font-semibold text-ink-2"
+                                      >
+                                        <span className="truncate">{h.name}</span>
+                                        <ArrowRight size={13} className="shrink-0 text-ink-3" />
+                                      </Link>
+                                    </li>
+                                  ))}
+                                </ul>
+                              </div>
+                              <Link
+                                href="/destinations"
+                                onClick={() => setOpen(false)}
+                                className="inline-flex min-h-11 items-center gap-1.5 px-2 text-[0.88rem] font-bold text-coral-deep"
+                              >
+                                View all destinations
+                                <ArrowRight size={14} />
+                              </Link>
+                            </div>
+                          </motion.div>
+                        )}
+                      </AnimatePresence>
+                    </>
+                  ) : (
+                    <Link
+                      href={l.href}
+                      onClick={() => setOpen(false)}
+                      className="flex items-center justify-between border-b border-line/60 py-3.5 text-[1.02rem] font-medium text-ink"
+                    >
+                      {l.label}
+                      <ArrowRight size={16} className="text-ink-3" />
+                    </Link>
+                  )}
                 </motion.div>
               ))}
               <a

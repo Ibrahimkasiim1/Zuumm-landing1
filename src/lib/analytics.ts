@@ -1,11 +1,9 @@
-/* Lightweight funnel analytics for the planner.
-   Batches events to the Django planner-events endpoint; never blocks UI,
-   never throws, degrades to console.debug in dev when the API is away. */
-
-import { API_BASE_URL } from "./env";
+/* Funnel analytics, stubbed for the static landing build. The full
+   product batches these events to the Django planner-events endpoint;
+   this build keeps the same call sites and drops everything, so no
+   request ever leaves the page. */
 
 const DEVICE_KEY = "zuumm_device_id";
-const EVENTS_PATH = "/api/trips/v1/events/";
 const FLUSH_MS = 4000;
 const MAX_BATCH = 40;
 
@@ -28,29 +26,9 @@ let queue: Ev[] = [];
 let timer: ReturnType<typeof setTimeout> | null = null;
 let bound = false;
 
-function payload(events: Ev[]) {
-  return JSON.stringify({ events, device_id: deviceId() });
-}
-
-function flush(useBeacon = false) {
+function flush(_useBeacon = false) {
   if (!queue.length || typeof window === "undefined") return;
-  const batch = queue.slice(0, MAX_BATCH);
   queue = queue.slice(MAX_BATCH);
-  const url = `${API_BASE_URL}${EVENTS_PATH}`;
-  try {
-    if (useBeacon && navigator.sendBeacon) {
-      navigator.sendBeacon(url, new Blob([payload(batch)], { type: "application/json" }));
-      return;
-    }
-    fetch(url, {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: payload(batch),
-      keepalive: true,
-    }).catch(() => {});
-  } catch {
-    /* analytics must never break the product */
-  }
 }
 
 export function track(name: string, props: Record<string, unknown> = {}, tripId?: string) {

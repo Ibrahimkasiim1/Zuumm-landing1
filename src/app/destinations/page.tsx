@@ -2,7 +2,14 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { Reveal } from "@/components/Reveal";
 import { ArrowRight } from "@/components/Icons";
-import { guidesByRegion, guideImage, HUBS } from "@/lib/guides";
+import {
+  EditorialHero,
+  WhereToNext,
+  shortSeason,
+  guideFromPrice,
+  type DestCardData,
+} from "@/components/guides/EditorialHero";
+import { guidesByRegion, guideBySlug, guideImage, HUBS } from "@/lib/guides";
 import { wizardHref } from "@/lib/planner/openPlanner";
 
 export const metadata: Metadata = {
@@ -15,22 +22,55 @@ export const metadata: Metadata = {
 /* The atlas: every guide on one page, grouped by region — the long-form
    version of the nav dropdown. */
 
+/* the four cards riding the hero, sample-image style: name, season, price */
+const TRENDING = ["japan", "bali", "switzerland", "maldives"];
+
 export default function DestinationsIndex() {
   const regions = guidesByRegion();
+  const trendingCards: DestCardData[] = TRENDING.flatMap((slug) => {
+    const g = guideBySlug(slug);
+    if (!g) return [];
+    return [
+      {
+        href: `/destinations/${g.slug}`,
+        img: guideImage(g.slug, "hero"),
+        alt: g.heroAlt,
+        badge: g.flag,
+        title: g.name,
+        metaLabel: "Best season",
+        metaValue: shortSeason(g.weather.bestTime),
+        priceValue: guideFromPrice(g),
+      },
+    ];
+  });
 
   return (
     <div className="bg-paper">
-      <section className="container-x pb-4 pt-28 md:pt-32">
+      <EditorialHero
+        image="/destinations/mosaic-santorini.jpg"
+        imageAlt="Whitewashed houses and blue domes above the Santorini caldera"
+        eyebrow="Curated travel experiences"
+        title={<>Discover the world.</>}
+        sub="Every guide is researched the way we plan: seasons, visas for Indian passports, real budgets, and the experiences worth queueing for."
+        primary={{ href: "#", label: "Explore destinations" }}
+        secondary={
+          <a
+            href={wizardHref({ fresh: true })}
+            className="inline-flex min-h-12 items-center gap-2.5 rounded-full border border-line bg-white px-6 py-3 text-[0.92rem] font-semibold text-ink-2 transition-all hover:border-ink-3 hover:text-ink active:scale-[0.98] motion-reduce:transition-none"
+          >
+            Plan my trip
+          </a>
+        }
+        cards={trendingCards}
+      />
+
+      <section id="atlas" className="container-x scroll-mt-24 pt-16 md:pt-20">
         <Reveal>
-          <p className="eyebrow text-coral">The atlas</p>
-          <h1 className="display mt-4 max-w-3xl text-[clamp(2.4rem,6vw,4rem)] text-ink">
-            Where do you want to go?
-          </h1>
-          <p className="mt-4 max-w-xl text-lg leading-relaxed text-ink-2">
-            Every guide below is researched the way we plan: seasons, visas
-            for Indian passports, real budgets, and the experiences worth
-            queueing for.
-          </p>
+          <WhereToNext
+            title="Every destination we plan"
+            href="#"
+            hrefLabel="Somewhere else? Plan it"
+          />
         </Reveal>
       </section>
 

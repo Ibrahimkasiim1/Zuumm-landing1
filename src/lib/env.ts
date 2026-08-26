@@ -11,11 +11,9 @@ const get = (key: string, fallback: string): string => {
 
 const stripSlash = (v: string) => v.replace(/\/$/, "");
 
-/** Account-required actions only (login, plan upgrades, referral links).
-    Traveler chat lives in this app at /chat. */
-export const APP_URL = stripSlash(
-  get("NEXT_PUBLIC_APP_URL", "https://www.zuumm.ai")
-);
+/** Account-required actions (login, plan upgrades). Inert in this static
+    build — the account door renders but goes nowhere. */
+export const APP_URL = "#";
 
 /** Django REST API. Local: :8000 */
 export const API_BASE_URL = stripSlash(
@@ -35,5 +33,6 @@ export const SITE_URL = stripSlash(
 /** WhatsApp support/planning number (digits only for wa.me) */
 export const WHATSAPP_NUMBER = get("NEXT_PUBLIC_WHATSAPP_NUMBER", "916366092532");
 
-export const waLink = (text: string) =>
-  `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(text)}`;
+/** The full product opens WhatsApp with a prefilled message; this static
+    build renders the same control and goes nowhere. */
+export const waLink = (_text: string) => "#";

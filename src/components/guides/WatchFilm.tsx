@@ -13,12 +13,24 @@ import { useReducedMotionSafe } from "@/lib/useReducedMotionSafe";
 export default function WatchFilm({
   name,
   poster,
+  variant = "glass",
 }: {
   name: string;
   poster: string;
+  /** glass = on dark photography · light = the house secondary pill, for white grounds */
+  variant?: "glass" | "light";
 }) {
   const [open, setOpen] = useState(false);
   const reduce = useReducedMotionSafe();
+
+  const trigger =
+    variant === "light"
+      ? "inline-flex min-h-12 items-center gap-2.5 rounded-full border border-line bg-white px-6 py-3 text-[0.92rem] font-semibold text-ink-2 transition-all hover:border-ink-3 hover:text-ink focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-violet active:scale-[0.98] motion-reduce:transition-none"
+      : "inline-flex min-h-11 items-center gap-2.5 rounded-full border border-white/25 bg-white/10 px-6 py-3 text-[0.92rem] font-bold text-white/90 backdrop-blur-sm transition-all hover:bg-white/20 hover:text-white focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-white active:scale-[0.98] motion-reduce:transition-none";
+  const glyph =
+    variant === "light"
+      ? "flex h-6 w-6 items-center justify-center rounded-full bg-coral text-white"
+      : "flex h-6 w-6 items-center justify-center rounded-full bg-white/20";
 
   useEffect(() => {
     if (!open) return;
@@ -36,10 +48,10 @@ export default function WatchFilm({
       <button
         type="button"
         onClick={() => setOpen(true)}
-        className="inline-flex min-h-11 items-center gap-2.5 rounded-full border border-white/25 bg-white/10 px-6 py-3 text-[0.92rem] font-bold text-white/90 backdrop-blur-sm transition-all hover:bg-white/20 hover:text-white focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-white active:scale-[0.98] motion-reduce:transition-none"
+        className={trigger}
       >
         {/* play glyph */}
-        <span className="flex h-6 w-6 items-center justify-center rounded-full bg-white/20">
+        <span className={glyph}>
           <svg viewBox="0 0 24 24" width="10" height="10" fill="currentColor" aria-hidden>
             <path d="M8 5.5v13l11-6.5z" />
           </svg>
