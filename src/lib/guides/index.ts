@@ -63,5 +63,13 @@ export function guideImage(guideSlug: string, itemId: string): string {
   return `/guides/${guideSlug}/${itemId}.jpg`;
 }
 
+/** The planner names destinations ("New Zealand"); guides key on slugs
+    ("new-zealand"). One conversion, so the wizard can show the same
+    researched content the destination pages do. Returns undefined for a
+    destination we haven't written a guide for yet. */
+export function guideByDestinationName(name: string): DestinationGuide | undefined {
+  return bySlug.get(name.trim().toLowerCase().replace(/\s+/g, "-"));
+}
+
 export { REGIONS, HUBS, hubBySlug };
 export type { DestinationGuide, RegionKey };

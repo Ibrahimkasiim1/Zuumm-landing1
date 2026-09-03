@@ -1,0 +1,38 @@
+{
+  "beaches.jpg": {
+    "source": "openverse:by",
+    "credit": "https://www.flickr.com/photos/33345813@N00/5660202089",
+    "query": "sandbank turquoise water Maldives",
+    "derivedFrom": "guides/maldives/sandbank-picnic.jpg"
+  },
+  "culture.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Boudha%20Stupa",
+    "query": "Boudhanath stupa Kathmandu",
+    "derivedFrom": "guides/nepal/boudhanath-stupa.jpg"
+  },
+  "food.jpg": {
+    "source": "unsplash",
+    "credit": "https://images.unsplash.com/photo-1528360983277-13d401cdc186",
+    "query": "fushimi inari torii gates tunnel",
+    "derivedFrom": "guides/japan/fushimi-inari.jpg"
+  },
+  "nature.jpg": {
+    "source": "commons",
+    "credit": "https://commons.wikimedia.org/wiki/File:Terraces_in_Che_Cu_Nha_commune,_Mu_Cang_Chai_(Unsplash).jpg",
+    "query": "hand-picked",
+    "derivedFrom": "guides/vietnam/sapa-terraces.jpg"
+  },
+  "adventure.jpg": {
+    "source": "wikipedia",
+    "credit": "en.wikipedia.org/wiki/Canyoning",
+    "query": "canyoneering badian cebu jump",
+    "derivedFrom": "guides/philippines/kawasan-canyoneering.jpg"
+  },
+  "wellness.jpg": {
+    "source": "openverse:by",
+    "credit": "https://www.flickr.com/photos/39551170@N02/18094731775",
+    "query": "maldives overwater villa deck",
+    "derivedFrom": "guides/maldives/overwater-villa.jpg"
+  }
+}

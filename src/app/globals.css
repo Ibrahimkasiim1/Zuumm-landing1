@@ -393,3 +393,80 @@ body {
     animation-iteration-count: 1 !important;
   }
 }
+
+/* ---------------------------------------------------------------- print
+
+   "Save as PDF" is the browser's own print-to-PDF, so the printed trip has
+   to be a real document rather than a screenshot of an app: no sticky
+   rails, no buttons that can't be pressed on paper, and stops that don't
+   split across a page break.
+
+   Elements opt out with data-print-hide; the itinerary column is promoted
+   to full width so nothing is squeezed into a 38rem gutter. */
+@media print {
+  /* the app's furniture has no meaning on paper */
+  header.sticky,
+  footer.fixed,
+  nav[aria-label="Planning steps"],
+  [data-print-hide] {
+    display: none !important;
+  }
+
+  html,
+  body {
+    background: #fff !important;
+  }
+
+  /* colour has to survive the print pipeline or the plan loses its coding */
+  * {
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+
+  /* the trip runs down the page: the rail stops floating and follows on */
+  .container-x {
+    max-width: none !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+  [class*="lg:grid-cols-"] {
+    display: block !important;
+  }
+  aside .sticky,
+  aside [class*="sticky"] {
+    position: static !important;
+    max-height: none !important;
+    overflow: visible !important;
+  }
+  .max-w-\[38rem\] {
+    max-width: none !important;
+  }
+
+  /* keep a day, a stop or a card whole rather than torn across a break */
+  article,
+  section[aria-label],
+  .plan-card {
+    break-inside: avoid;
+    page-break-inside: avoid;
+    box-shadow: none !important;
+  }
+
+  /* scroll containers print only their first screen unless released */
+  .overflow-y-auto,
+  .overflow-x-auto,
+  .no-scrollbar {
+    overflow: visible !important;
+    max-height: none !important;
+  }
+
+  /* framer-motion leaves whileInView elements at opacity 0 until seen —
+     on paper everything is "seen" */
+  [style*="opacity: 0"] {
+    opacity: 1 !important;
+    transform: none !important;
+  }
+
+  @page {
+    margin: 14mm;
+  }
+}

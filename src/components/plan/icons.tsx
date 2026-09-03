@@ -28,6 +28,15 @@ export const Search = (p: P) => (
   </svg>
 );
 
+export const Heart = ({ filled, ...p }: P & { filled?: boolean }) => (
+  <svg {...base(p)}>
+    <path
+      d="M12 20.5 4.7 13a5.1 5.1 0 0 1 0-7.2 5 5 0 0 1 7.1 0l.2.2.2-.2a5 5 0 0 1 7.1 0 5.1 5.1 0 0 1 0 7.2Z"
+      fill={filled ? "currentColor" : "none"}
+    />
+  </svg>
+);
+
 export const Clock = (p: P) => (
   <svg {...base(p)}>
     <circle cx="12" cy="12" r="9" />
